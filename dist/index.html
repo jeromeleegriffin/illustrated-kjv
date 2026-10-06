@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#193e3b"><title>The Illustrated King James Bible</title>
+<meta name="description" content="Read the complete King James Bible with occasional illustrated context panels and clickable Hebrew and Greek Strong’s word references.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="preconnect" href="https://jsonbible.org"><link rel="preconnect" href="https://biblehub.com">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header class="masthead">
+ <a class="brand" href="#" aria-label="The Illustrated King James home"><span class="brand-mark">✦</span><span><b>The Illustrated King James</b><small>READ · SEE · STUDY</small></span></a>
+ <div class="edition-note">King James Version <span>·</span> 1769 text</div>
+ <button class="icon-button" id="aboutButton" aria-label="About this edition">i</button>
+</header>
+<div class="app-shell">
+ <aside class="rail" aria-label="Bible navigation">
+   <div class="rail-heading"><span class="eyebrow">THE LIBRARY</span><span class="mini-rule"></span></div>
+   <label class="field-label" for="bookSelect">Book</label><select id="bookSelect" aria-label="Choose Bible book"></select>
+   <div class="chapter-head"><label class="field-label" for="chapterSelect">Chapter</label><span id="chapterCount"></span></div>
+   <select id="chapterSelect" aria-label="Choose chapter"></select>
+   <div class="chapter-grid" id="chapterGrid" aria-label="Chapter shortcuts"></div>
+   <div class="rail-divider"></div>
+   <button class="rail-action" id="searchOpen"><span class="rail-icon">⌕</span>Search the Bible</button>
+   <div class="rail-foot">66 books <i>·</i> 1,189 chapters</div>
+ </aside>
+ <main id="mainContent">
+  <div class="reader-topline"><div><div class="eyebrow" id="bookKicker">THE FIRST BOOK OF MOSES</div><h1 id="chapterTitle">Genesis <span>1</span></h1></div>
+   <div class="chapter-controls"><button class="round-button" id="previousChapter" aria-label="Previous chapter">‹</button><button class="round-button" id="nextChapter" aria-label="Next chapter">›</button></div>
+  </div>
+  <section class="chapter-context" id="chapterContext" hidden></section>
+  <section class="illustration" id="illustration" hidden aria-label="Illustrated passage context"></section>
+  <div class="reading-tools"><span id="chapterSubhead">A passage in context</span><button class="text-button" id="strongToggle" aria-pressed="true">Strong’s <span class="toggle-dot"></span></button></div>
+  <article class="scripture" id="scripture" aria-live="polite"></article>
+  <footer class="reader-footer"><span>King James Version</span><span>Tap a dotted word to explore its Strong’s reference.</span></footer>
+ </main>
+ <aside class="study-panel" id="studyPanel" aria-live="polite">
+  <div class="panel-top"><div><span class="eyebrow">WORD STUDY</span><h2 id="panelTitle">Begin with a word</h2></div><button class="icon-button close-panel" id="closePanel" aria-label="Close word study">×</button></div>
+  <div id="panelBody" class="panel-body"><div class="panel-empty"><span class="open-book">❧</span><p>Select any dotted word in the passage to see its Hebrew or Greek Strong’s entry and a contextual reading.</p><p class="muted">The verse wording remains exactly as it appears in the KJV.</p></div></div>
+ </aside>
+</div>
+<div class="modal-backdrop" id="aboutModal" hidden><section class="modal" role="dialog" aria-modal="true" aria-labelledby="aboutTitle"><button class="icon-button modal-close" data-close="aboutModal" aria-label="Close">×</button><span class="eyebrow">ABOUT THIS READING EDITION</span><h2 id="aboutTitle">Scripture first. Context alongside.</h2><p>The scripture text shown here is the King James Version. It is displayed as provided in the source text; study notes and illustrations are visually separate and do not change the verse wording.</p><p>Strong’s links identify a Hebrew or Greek dictionary entry associated with a word in the KJV. The contextual note is a study suggestion based on the verse and lexical entry. Strong’s glosses are brief historical definitions; grammar, idiom, textual history, and literary setting matter too. Compare the original entry and judge for yourself.</p><p>This edition preserves the Genesis context notes prepared for the earlier Genesis study draft. Other passages show a concise passage-specific reading note when a tagged word is selected.</p><p class="source-line">Sources: King James Version text and KJV Strong’s word tags from <a href="https://jsonbible.org/" target="_blank" rel="noopener">jsonBible</a>; Strong’s lexicon public-domain text. Genesis notes: Genesis Contextual Study Edition draft, 2026. Illustrations are original vector study scenes.</p><button class="primary-button" data-close="aboutModal">Return to reading</button></section></div>
+<div class="search-backdrop" id="searchModal" hidden><section class="search-box" role="dialog" aria-modal="true" aria-labelledby="searchTitle"><div class="search-head"><div><span class="eyebrow">FIND A PASSAGE</span><h2 id="searchTitle">Search the KJV</h2></div><button class="icon-button" data-close="searchModal" aria-label="Close search">×</button></div><form id="searchForm"><input id="searchInput" type="search" placeholder="A word, phrase, or reference" autocomplete="off"><button class="primary-button">Search</button></form><div id="searchResults" class="search-results"></div></section></div>
+<script src="/app.js" defer></script>
+</body></html>
