@@ -20,3 +20,6 @@ Completed in 005: full 66-book KJV reader (1,189 chapters, 31,102 verses), searc
 Incomplete: eight Bullinger records have unresolved verse numbers and four Psalm title notes stay at chapter level. Printed introductions and every structural diagram are not certified against scans. 110 tagged tokens were not guessed.
 
 Browser data stays local to origin. illustrated-kjv-reading-v1 and illustrated-kjv-font-size-v1 are not synced across domains.
+
+
+Recheck 2026-10-06 21:09 UTC: the later Bible-first instruction was compared with revision 005. No runtime files were changed. verify_data.py, verify_entry_font.cjs, verify_reading.cjs, and verify_app.cjs passed again on http://127.0.0.1:8767/. Public Pages rebuild still returns 403. Live URL still serves the 12:26 build, commit 2fe25540919e9671b4abf00aa6d29f1447a0aadf.
