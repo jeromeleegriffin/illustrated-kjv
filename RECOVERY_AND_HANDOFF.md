@@ -25,3 +25,7 @@ Keep the existing trivia storage key so prior progress resumes when the app is s
 ## Later owner correction — revision 004
 
 Jerome clarified that the Bible is the main entry and trivia belongs behind a link. This supersedes the trivia-first decision in the recovered revision. Strong references are blue and Bullinger links are yellow. Persistent reading progress and an explicit verse bookmark were added with a Bible-wide expandable overview. The data integrity check remains PASS; new bookmark, storage, color and tracker behavior passed on desktop and phone. This revision remains local and unpublished for Grok.
+
+## Revision 005 — repeated search-first report and font controls
+
+Local inspection found the remaining `?search=1` auto-open branch. Removed it, added an entry/restoration search-close rule and embedded hidden-state guard, and versioned reader asset URLs. Added saved A− / A+ reading controls. Owner-reported live behavior was not independently inspected because no current URL was supplied; an older publication will remain older until Grok publishes this revision. No pushes or deployments were performed. See entry-font-report.json for this revision’s actual verification result.

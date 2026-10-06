@@ -54,3 +54,9 @@ Strong’s word references are blue; compact Bullinger B links are yellow. Comme
 “Entire Bible · Reading progress” opens all 66 books, with expandable chapters and verse buttons. Read verses are gray; counts show read and remaining verses. The main scripture keeps its ordinary typography and current highlight. “Mark selected verse unread” corrects accidental clicks. Navigation, search and opening a chapter alone do not mark it read.
 
 The reading store uses `illustrated-kjv-reading-v1`, independent of the unchanged quiz storage. Progress and bookmarks persist in that browser on the same origin. They are not synchronized across devices. If browser storage is unavailable, an inline message explains the limitation. No scripture wording, question bank or imported commentary was changed. Actual desktop and mobile checks are recorded in `verification/reading-report.json`.
+
+## Opening and text size — revision 005
+
+Removed the legacy `?search=1` automatic opening action. Search remains available through the in-app buttons, but stays closed on entry, reload, and pageshow restoration. Both reader entry files embed a high-specificity hidden-state guard and use versioned CSS/JS URLs to avoid reuse of obsolete assets.
+
+A− / A+ adjust the reading size from 16 to 32 px in 2 px steps. Clicking the size resets to 20 px. Scripture, linked words, and study-note text resize together; scripture remains unchanged. The independent setting `illustrated-kjv-font-size-v1` persists per browser. Existing bookmarks, reading progress and trivia keys are preserved.

@@ -37,3 +37,9 @@ source links, licensing attribution, and verification details.
 
 FAMILY / FUTURE AI
 Read CONTINUE_SAFELY.md first if Jerome cannot continue or a new AI takes over.
+
+REVISION 005
+The Bible opens first even from an old ?search=1 link. Search opens only when clicked.
+Use A- and A+ above the passage to shrink/enlarge Bible and study-note text.
+Click the displayed size to reset to 20 px. The setting stays in this browser.
+The footer identifies Revision 005. This download does not update an older live website; Grok must publish the updated dist folder.

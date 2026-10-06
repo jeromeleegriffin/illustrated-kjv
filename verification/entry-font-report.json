@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checks": [
+    "desktop: Bible opens on root and both legacy search URLs, search only opens on click, reload closes search, font increase/decrease/reset and 16–32px bounds, persisted font setting, word font matches scripture, study notes resize, no horizontal overflow",
+    "mobile: Bible opens on root and both legacy search URLs, search only opens on click, reload closes search, font increase/decrease/reset and 16–32px bounds, persisted font setting, word font matches scripture, study notes resize, no horizontal overflow",
+    "Inline hidden guard keeps search closed even when the external stylesheet has stale display rules"
+  ],
+  "pageErrors": []
+}

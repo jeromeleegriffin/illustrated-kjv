@@ -1,5 +1,5 @@
 {
-  "testedAt": "2026-10-06T13:24:53.258Z",
+  "testedAt": "2026-10-06T15:01:53.598Z",
   "base": "http://127.0.0.1:8767/illustrated-bible/dist/",
   "checks": [
     "desktop: trivia remains accessible, 5,000 unique questions, answer evidence links to the in-app Bible, saved progress resumes",
