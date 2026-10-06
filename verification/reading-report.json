@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": [
+    "desktop: Bible entry, no initial dialog, blue Strong links, yellow Bullinger links, click-to-highlight/read, saved bookmark after reload, bookmark return, all 66 books in tracker, gray verse progress, progress navigation and mark-unread",
+    "mobile: Bible entry, no initial dialog, blue Strong links, yellow Bullinger links, click-to-highlight/read, saved bookmark after reload, bookmark return, all 66 books in tracker, gray verse progress, progress navigation and mark-unread"
+  ],
+  "errors": []
+}

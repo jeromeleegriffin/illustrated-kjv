@@ -1,0 +1,17 @@
+{
+  "testedAt": "2026-10-06T13:24:53.258Z",
+  "base": "http://127.0.0.1:8767/illustrated-bible/dist/",
+  "checks": [
+    "desktop: trivia remains accessible, 5,000 unique questions, answer evidence links to the in-app Bible, saved progress resumes",
+    "desktop: search hidden on entry, visible search control, phrases, full references, numbered books, aliases, invalid chapter/verse validation",
+    "desktop: Hebrew and Greek Strong entries load locally, yellow verse links show actual Bullinger text, unresolved source reference retained at chapter level",
+    "desktop: all 198 numbered appendices and two supplements indexed, text and original maps load locally",
+    "mobile: trivia remains accessible, 5,000 unique questions, answer evidence links to the in-app Bible, saved progress resumes",
+    "mobile: search hidden on entry, visible search control, phrases, full references, numbered books, aliases, invalid chapter/verse validation",
+    "mobile: Hebrew and Greek Strong entries load locally, yellow verse links show actual Bullinger text, unresolved source reference retained at chapter level",
+    "mobile: all 198 numbered appendices and two supplements indexed, text and original maps load locally"
+  ],
+  "pageErrors": [],
+  "externalRequests": [],
+  "status": "PASS"
+}

@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "scripture": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "changedVerses": 0,
+    "originalSourceSha256": "fc99486e7d3b86e4ad1f0f424b36ab41b4ec4db858a776bd13aee1b7910f136b"
+  },
+  "trivia": {
+    "questions": 5000,
+    "originalQuestionBankPreserved": true
+  },
+  "bullinger": {
+    "notes": 23934,
+    "numberedAppendices": 198,
+    "supplements": 2,
+    "localImages": 49,
+    "psalmTitleNotes": 4,
+    "unresolvedSourceVerseNumbers": 8,
+    "printedBookIntroductionsAndEveryDiagramCertified": false
+  },
+  "strongs": {
+    "linkedWordTokens": 361947,
+    "dictionaryRecords": 14197,
+    "missingTaggedDictionaryIds": []
+  }
+}

@@ -1,0 +1,100 @@
+STRONG’S WORD TAGS AND DICTIONARY ATTRIBUTION
+
+KJV Strong’s word tags: eBible.org and CrossWire Bible Society.
+https://ebible.org/find/show.php?id=eng-kjv2006
+
+King James (Authorized) Version  
+
+
+
+
+^
+<
+>
+
+
+
+King James (Authorized) Version
+King James (Authorized) Version
+The King James Version or Authorized Version of the Holy Bible, using the standardized text of 1769, protocanon only, with Strong's numbers added.
+Public Domain
+Language: English
+Dialect: archaic British
+
+Letters patent issued by King James with no expiration date means that to print this translation in the United Kingdom or import printed copies into the UK, you need permission. Currently, the Cambridge University Press, the Oxford University Press, and Collins have the exclusive right to print this Bible translation in the UK. This royal decree has no effect outside of the UK, where this work is firmly in the Public Domain. Please see http://www.cambridge.org/about-us/who-we-are/queens-printers-patent and https://en.wikipedia.org/wiki/King_James_Version#Copyright_status for more information.
+
+This free text of the King James Version of the Holy Bible is brought to you courtesy of the Crosswire Bible Society and eBible.org.
+2026-09-26
+
+HTML generated with Haiola by eBible.org 2 Oct 2026 from source files dated 26 Sep 2026
+
+^
+<
+>
+
+
+
+
+
+You may copy the King James Version of the Holy Bible freely. If you find a typo that is not just an archaic spelling, please report it.
+Public Domain
+
+strongs-hebrew-dictionary.js
+/**
+ * A Concise Dictionary of the Words in the Hebrew Bible
+ *    with their Renderings in the King James Version
+ * by James Strong, LL.D., S.T.D.
+ * 1894
+ *
+ * JSON version
+ * ============
+ * Copyright 2010, Open Scriptures. CC-BY-SA. Derived from XML.
+ * $Id$
+ *
+ * XML e-text version
+ * ==================
+ * From a source by David Instone-Brewer (www.2LetterLookup.com):
+ * "The data came from several PD sources which were full of errors. 
+ * I cleaned them by comparing them to each other and (where 
+ * necessary) looking at the original."
+ *
+ * Editing, corrections and Unicode transliterations
+ * by David Troidl.
+ *
+ * Comments or corrections:
+ * open-scriptures@googlegroups.com
+ */
+
+strongs-greek-dictionary.js
+/**
+ *                      Dictionary of Greek Words
+ *                              taken from
+ *                    Strong's Exhaustive Concordance
+ *                                   by
+ *                      James Strong, S.T.D., LL.D.
+ *                                  1890
+ * 
+ * JSON version
+ * ============
+ * Copyright 2009, Open Scriptures. CC-BY-SA. Derived from XML.
+ * $Id$
+ *
+ * XML e-text version
+ * ==================
+ * 
+ * The XML version of this work was prepared in 2006 by Ulrik Petersen
+ * (http://ulrikp.org) from the ASCII e-text version presented below.
+ * The XML version contains "real" UTF-8 Greek where the original ASCII
+ * e-text version had transliteration.  The XML has a stand-alone DTD
+ * which should be easy to follow.
+ * 
+ * Ulrik Petersen welcomes bugfixes to the text.  Please send them to the
+ * address provided on the website:
+ * 
+ * http://ulrikp.org
+ * 
+ * Ulrik Petersen
+ */
+
+Digitization source: https://github.com/openscriptures/strongs
+The adapted dictionary data retains the CC-BY-SA terms stated by its sources. Application field names are adapted; dictionary definitions are preserved.
