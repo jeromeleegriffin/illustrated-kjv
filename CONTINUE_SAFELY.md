@@ -14,3 +14,8 @@ To continue safely, give this entire ZIP to ChatGPT or another capable AI and in
 Repository: https://github.com/jeromeleegriffin/illustrated-kjv
 main is the archive. GitHub Pages publishes the gh-pages branch at / as https://jeromeleegriffin.github.io/illustrated-kjv/
 Do not nest The_Illustrated_KJV or dist as an extra path. Map dist/ to the gh-pages root.
+
+
+## Revision 006
+
+Menu starts collapsed. Genesis teaching is a separate collapsed section with Shepherd’s Chapel lesson links, not timestamps. Genesis 35:27-29 stay unmatched. Source of truth after publication is main and gh-pages of https://github.com/jeromeleegriffin/illustrated-kjv.
