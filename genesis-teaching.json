@@ -1,0 +1,456 @@
+{
+  "source": "https://shepherdschapel.com/video",
+  "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+  "checked": "2026-10-06",
+  "mappingBasis": "Published lesson passage ranges; not timestamp synchronization.",
+  "lessons": [
+    {
+      "id": "2F0K2ip_82U",
+      "title": "Genesis 1:1 - 1:2",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=2F0K2ip_82U",
+      "timestampSeconds": null
+    },
+    {
+      "id": "J2Ia_1jDRdc",
+      "title": "Genesis 1:3 - 1:31",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        31
+      ],
+      "url": "https://www.youtube.com/watch?v=J2Ia_1jDRdc",
+      "timestampSeconds": null
+    },
+    {
+      "id": "CubvKyn4s14",
+      "title": "Genesis 2:1 - 2:25",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=CubvKyn4s14",
+      "timestampSeconds": null
+    },
+    {
+      "id": "RTwrhyLujcM",
+      "title": "Genesis 3:1 - 3:24",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=RTwrhyLujcM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "-eNWqcRKKKw",
+      "title": "Genesis 4:1 - 5:24",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=-eNWqcRKKKw",
+      "timestampSeconds": null
+    },
+    {
+      "id": "gwjM-Nli7SE",
+      "title": "Genesis 5:25 - 6:22",
+      "start": [
+        5,
+        25
+      ],
+      "end": [
+        6,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=gwjM-Nli7SE",
+      "timestampSeconds": null
+    },
+    {
+      "id": "haxWtGxTNpA",
+      "title": "Genesis 7:1 - 8:22",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        8,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=haxWtGxTNpA",
+      "timestampSeconds": null
+    },
+    {
+      "id": "3gHdyHNClLg",
+      "title": "Genesis 9:1 - 10:19",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        10,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=3gHdyHNClLg",
+      "timestampSeconds": null
+    },
+    {
+      "id": "zVOLHpurjZM",
+      "title": "Genesis 10:20 - 12:20",
+      "start": [
+        10,
+        20
+      ],
+      "end": [
+        12,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=zVOLHpurjZM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "tBcyvk4q5aM",
+      "title": "Genesis 13:1 - 14:23",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        14,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=tBcyvk4q5aM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "UfwvWHwnMTw",
+      "title": "Genesis 14:24 - 17:7",
+      "start": [
+        14,
+        24
+      ],
+      "end": [
+        17,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=UfwvWHwnMTw",
+      "timestampSeconds": null
+    },
+    {
+      "id": "fP1JEZyCDm0",
+      "title": "Genesis 17:8 - 18:30",
+      "start": [
+        17,
+        8
+      ],
+      "end": [
+        18,
+        30
+      ],
+      "url": "https://www.youtube.com/watch?v=fP1JEZyCDm0",
+      "timestampSeconds": null
+    },
+    {
+      "id": "FZRDynN1SwA",
+      "title": "Genesis 18:31 - 20:8",
+      "start": [
+        18,
+        31
+      ],
+      "end": [
+        20,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=FZRDynN1SwA",
+      "timestampSeconds": null
+    },
+    {
+      "id": "xHOevh54yPc",
+      "title": "Genesis 20:9 - 21:34",
+      "start": [
+        20,
+        9
+      ],
+      "end": [
+        21,
+        34
+      ],
+      "url": "https://www.youtube.com/watch?v=xHOevh54yPc",
+      "timestampSeconds": null
+    },
+    {
+      "id": "crwOyzTDfRI",
+      "title": "Genesis 22:1 - 23:20",
+      "start": [
+        22,
+        1
+      ],
+      "end": [
+        23,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=crwOyzTDfRI",
+      "timestampSeconds": null
+    },
+    {
+      "id": "-MJwJ_PR_6o",
+      "title": "Genesis 24:1 - 24:67",
+      "start": [
+        24,
+        1
+      ],
+      "end": [
+        24,
+        67
+      ],
+      "url": "https://www.youtube.com/watch?v=-MJwJ_PR_6o",
+      "timestampSeconds": null
+    },
+    {
+      "id": "aTJ8oTOPnmM",
+      "title": "Genesis 25:1 - 26:5",
+      "start": [
+        25,
+        1
+      ],
+      "end": [
+        26,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=aTJ8oTOPnmM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "zzzw90JxgIU",
+      "title": "Genesis 26:6 - 27:29",
+      "start": [
+        26,
+        6
+      ],
+      "end": [
+        27,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=zzzw90JxgIU",
+      "timestampSeconds": null
+    },
+    {
+      "id": "qqzXl4z-m1M",
+      "title": "Genesis 27:30 - 28:19",
+      "start": [
+        27,
+        30
+      ],
+      "end": [
+        28,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=qqzXl4z-m1M",
+      "timestampSeconds": null
+    },
+    {
+      "id": "LyPN1UbyUeo",
+      "title": "Genesis 28:20 - 30:43",
+      "start": [
+        28,
+        20
+      ],
+      "end": [
+        30,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=LyPN1UbyUeo",
+      "timestampSeconds": null
+    },
+    {
+      "id": "Xx_60PhtanM",
+      "title": "Genesis 31:1 - 31:55",
+      "start": [
+        31,
+        1
+      ],
+      "end": [
+        31,
+        55
+      ],
+      "url": "https://www.youtube.com/watch?v=Xx_60PhtanM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "uHqOA6j9NDM",
+      "title": "Genesis 32:1 - 33:20",
+      "start": [
+        32,
+        1
+      ],
+      "end": [
+        33,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=uHqOA6j9NDM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "8bNq4LykXyM",
+      "title": "Genesis 34:1 - 35:26",
+      "start": [
+        34,
+        1
+      ],
+      "end": [
+        35,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=8bNq4LykXyM",
+      "timestampSeconds": null
+    },
+    {
+      "id": "-FrgONWDN4k",
+      "title": "Genesis 36:1 - 38:18",
+      "start": [
+        36,
+        1
+      ],
+      "end": [
+        38,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=-FrgONWDN4k",
+      "timestampSeconds": null
+    },
+    {
+      "id": "WNjpxNlnSjE",
+      "title": "Genesis 38:19 - 40:23",
+      "start": [
+        38,
+        19
+      ],
+      "end": [
+        40,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=WNjpxNlnSjE",
+      "timestampSeconds": null
+    },
+    {
+      "id": "HcWbNez6GUY",
+      "title": "Genesis 41:1 - 41:49",
+      "start": [
+        41,
+        1
+      ],
+      "end": [
+        41,
+        49
+      ],
+      "url": "https://www.youtube.com/watch?v=HcWbNez6GUY",
+      "timestampSeconds": null
+    },
+    {
+      "id": "IJwHcGyRkMc",
+      "title": "Genesis 41:50 - 43:21",
+      "start": [
+        41,
+        50
+      ],
+      "end": [
+        43,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=IJwHcGyRkMc",
+      "timestampSeconds": null
+    },
+    {
+      "id": "69_AMZtGbE0",
+      "title": "Genesis 43:22 - 45:15",
+      "start": [
+        43,
+        22
+      ],
+      "end": [
+        45,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=69_AMZtGbE0",
+      "timestampSeconds": null
+    },
+    {
+      "id": "76YRmcd-_LQ",
+      "title": "Genesis 45:16 - 47:17",
+      "start": [
+        45,
+        16
+      ],
+      "end": [
+        47,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=76YRmcd-_LQ",
+      "timestampSeconds": null
+    },
+    {
+      "id": "X2MWMltMlO4",
+      "title": "Genesis 47:18 - 48:22",
+      "start": [
+        47,
+        18
+      ],
+      "end": [
+        48,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=X2MWMltMlO4",
+      "timestampSeconds": null
+    },
+    {
+      "id": "XJlUVIZlF20",
+      "title": "Genesis 49:1 - 49:33",
+      "start": [
+        49,
+        1
+      ],
+      "end": [
+        49,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=XJlUVIZlF20",
+      "timestampSeconds": null
+    },
+    {
+      "id": "zdi0pro6pCI",
+      "title": "Genesis 50:1 - END",
+      "start": [
+        50,
+        1
+      ],
+      "end": [
+        50,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=zdi0pro6pCI",
+      "timestampSeconds": null
+    }
+  ]
+}
