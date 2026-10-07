@@ -1,0 +1,7 @@
+Continue the existing Bible app using this final-project folder. Do not restart, rescan videos, or replace Bible/study data. This is Revision 014 based on the owner’s 013.zip.
+
+Review the navigation changes in dist/index.html, dist/bible.html, dist/app.js, dist/styles.css, and the new dist/chapter-navigation.js. Run node scripts/verify_chapter_navigation.cjs from final-project. Before publishing, verify on a phone/browser: bottom Previous/Next buttons, left swipe next/right swipe previous, Genesis/Exodus transition, first/last Bible endpoints, normal vertical scrolling, Strong’s word taps, Bullinger notes, bookmarks, and font controls. Test both index.html and bible.html.
+
+Use the existing repository and Pages configuration. Publish the contents of dist to the existing gh-pages root without nesting the final-project or dist folder. Preserve unrelated repository work. Confirm the live page displays Revision 014 and that chapter-navigation.js loads; refresh stale browser caches if necessary. If blocked or unauthenticated, report the blocker and do not claim publication.
+
+Return 015.zip containing the updated complete source, change report, exact checks and limitations, and actual commit/live URL only if published. Do not include node_modules, browser binaries or redundant nested ZIPs. Verify the return ZIP CRC before sending it to the owner so Codex can check your work.

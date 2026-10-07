@@ -1,0 +1,12 @@
+{
+  "input": "013.zip",
+  "status": "PASS",
+  "existingFilesChanged": [
+    "dist/app.js",
+    "dist/bible.html",
+    "dist/index.html",
+    "dist/styles.css"
+  ],
+  "existingFilesMissing": [],
+  "preserved": "All other existing project files remain byte-identical, including scripture, Strong\u2019s, Bullinger and teaching mapping data."
+}

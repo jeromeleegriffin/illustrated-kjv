@@ -7,7 +7,7 @@
 <link rel="icon" type="image/svg+xml" href="./favicon.svg">
 
 <style>[hidden],#searchModal[hidden],#aboutModal[hidden],#readingModal[hidden]{display:none!important}</style>
-<link rel="stylesheet" href="./styles.css?v=009">
+<link rel="stylesheet" href="./styles.css?v=014">
 </head>
 <body>
 <header class="masthead">
@@ -32,14 +32,22 @@
 <div class="app-shell">
 
  <main id="mainContent">
-  <div class="reader-topline"><div><div class="eyebrow" id="bookKicker">THE FIRST BOOK OF MOSES</div><h1 id="chapterTitle">Genesis <span>1</span></h1></div>
+  <div class="reader-topline"><div><div class="eyebrow" id="bookKicker">THE FIRST BOOK OF MOSES</div><h1 id="chapterTitle" tabindex="-1">Genesis <span>1</span></h1></div>
    <div class="chapter-controls"><button class="round-button" id="previousChapter" aria-label="Previous chapter">‹</button><button class="round-button" id="nextChapter" aria-label="Next chapter">›</button></div>
   </div>
   <section class="chapter-context" id="chapterContext" hidden></section>
   <section class="illustration" id="illustration" hidden aria-label="Illustrated passage context"></section>
 
 <details id="bibleTeaching" class="genesis-teaching" hidden><summary>Shepherd’s Chapel teaching <span id="teachingReference"></span></summary><div id="teachingLinks"></div><p class="teaching-help">Select a verse to match its lesson. Links open the full lesson on YouTube; exact verse timestamps are not available.</p></details><article class="scripture" id="scripture" aria-live="polite"></article>
-  <footer class="reader-footer"><span>Authorized King James Version · Revision 012</span><span>Tap a dotted word for Strong’s; open Bullinger’s chapter notes with yellow links.</span></footer>
+  <nav class="chapter-bottom-nav" aria-label="Chapter navigation">
+   <div class="chapter-bottom-controls">
+    <button type="button" id="previousChapterBottom">← Previous chapter</button>
+    <span id="bottomChapterReference" class="bottom-chapter-reference"></span>
+    <button type="button" id="nextChapterBottom">Next chapter →</button>
+   </div>
+   <p class="chapter-swipe-help">Swipe left for next chapter · Swipe right for previous</p>
+  </nav>
+  <footer class="reader-footer"><span>Authorized King James Version · Revision 014</span><span>Tap a dotted word for Strong’s; open Bullinger’s chapter notes with yellow links.</span></footer>
  </main>
  <aside class="study-panel" id="studyPanel" aria-live="polite">
   <div class="panel-top"><div><span class="eyebrow" id="panelKicker">WORD STUDY</span><h2 id="panelTitle">Begin with a word</h2></div><button class="icon-button close-panel" id="closePanel" aria-label="Close study panel">×</button></div>
@@ -54,6 +62,7 @@
 <script src="./reader-menu.js?v=009" defer></script>
 <script src="./teaching-choice.js?v=012" defer></script>
 <script src="./bible-teaching.js?v=012" defer></script>
-<script src="./app.js?v=009" defer></script>
+<script src="./chapter-navigation.js?v=014" defer></script>
+<script src="./app.js?v=014" defer></script>
 <script src="./font-size.js?v=009" defer></script>
 </body></html>
