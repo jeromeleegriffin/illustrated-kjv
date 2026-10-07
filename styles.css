@@ -37,3 +37,14 @@
 .reader-menu button,.reader-menu select{scroll-margin-top:80px}
 
 .teaching-coverage{width:100%;border-collapse:collapse;margin-top:12px;font-size:14px}.teaching-coverage th,.teaching-coverage td{text-align:left;padding:5px 8px;border-bottom:1px solid #dbe3df}.teaching-coverage td:last-child,.teaching-coverage th:last-child{text-align:right}.genesis-teaching details{margin-top:12px}.genesis-teaching details summary{font-size:14px;padding:6px 0}.genesis-teaching .teaching-link{overflow-wrap:anywhere}
+
+/* Revision 014: chapter controls at the end of the passage. */
+.chapter-bottom-nav{margin:28px 0 12px;padding-top:18px;border-top:1px solid var(--rule);font:13px var(--sans)}
+.chapter-bottom-controls{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.chapter-bottom-controls button{min-height:44px;padding:10px 14px;border:1px solid var(--rule);border-radius:5px;background:var(--page);color:var(--green);font:inherit;cursor:pointer}
+.chapter-bottom-controls button:hover:not(:disabled){background:#eee6cf}
+.chapter-bottom-controls button:focus-visible{outline:2px solid #b49955;outline-offset:3px}
+.chapter-bottom-controls button:disabled{opacity:.4;cursor:default}
+.bottom-chapter-reference{color:var(--muted);text-align:center}
+.chapter-swipe-help{font-size:11px;color:var(--muted);text-align:center;margin:12px 0 0}
+@media(max-width:480px){.chapter-bottom-controls{flex-wrap:wrap;gap:10px}.bottom-chapter-reference{order:-1;flex-basis:100%}.chapter-bottom-controls button{flex:1;padding:10px 8px;font-size:12px}}
