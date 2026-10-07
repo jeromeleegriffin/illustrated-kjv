@@ -7,7 +7,7 @@
 <link rel="icon" type="image/svg+xml" href="./favicon.svg">
 
 <style>[hidden],#searchModal[hidden],#aboutModal[hidden],#readingModal[hidden]{display:none!important}</style>
-<link rel="stylesheet" href="./styles.css?v=006">
+<link rel="stylesheet" href="./styles.css?v=009">
 </head>
 <body>
 <header class="masthead">
@@ -18,7 +18,7 @@
  <button id="readerMenuToggle" class="menu-toggle" type="button" aria-expanded="false" aria-controls="readerMenu">☰ Menu</button>
 </header>
 <section id="readerMenu" class="reader-menu" hidden aria-label="Bible controls">
-<div class="menu-primary"> <button class="header-search" id="headerSearch" type="button" aria-label="Search the Bible">Search the Bible</button> <button class="icon-button" id="aboutButton" aria-label="About this edition">i</button></div><nav class="reader-navigation" aria-label="App sections"><a href="./trivia.html">Bible Trivia</a><button id="readingOverview" type="button">Entire Bible · Reading progress</button><a href="./appendices.html">Bullinger’s appendices</a></nav> <aside class="rail" aria-label="Bible navigation">
+<div class="menu-primary"> <button class="header-search" id="headerSearch" type="button" aria-label="Search the Bible">Search the Bible</button> <button class="icon-button" id="aboutButton" aria-label="About this edition">i</button></div><nav class="reader-navigation" aria-label="App sections"><a href="./teaching-review.html">Choose teaching recordings</a><a href="./trivia.html">Bible Trivia</a><button id="readingOverview" type="button">Entire Bible · Reading progress</button><a href="./appendices.html">Bullinger’s appendices</a></nav> <aside class="rail" aria-label="Bible navigation">
    <div class="rail-heading"><span class="eyebrow">THE LIBRARY</span><span class="mini-rule"></span></div>
    <label class="field-label" for="bookSelect">Book</label><select id="bookSelect" aria-label="Choose Bible book"></select>
    <div class="chapter-head"><label class="field-label" for="chapterSelect">Chapter</label><span id="chapterCount"></span></div>
@@ -38,8 +38,8 @@
   <section class="chapter-context" id="chapterContext" hidden></section>
   <section class="illustration" id="illustration" hidden aria-label="Illustrated passage context"></section>
 
-<details id="genesisTeaching" class="genesis-teaching" hidden><summary>▶ Arnold Murray · Genesis teaching <span id="teachingReference"></span></summary><div id="teachingLinks"></div><p class="teaching-help">Select a verse to match its lesson. Links open the full lesson on YouTube; exact verse timestamps are not available.</p></details><article class="scripture" id="scripture" aria-live="polite"></article>
-  <footer class="reader-footer"><span>Authorized King James Version · Revision 006</span><span>Tap a dotted word for Strong’s; open Bullinger’s chapter notes with yellow links.</span></footer>
+<details id="bibleTeaching" class="genesis-teaching" hidden><summary>Shepherd’s Chapel teaching <span id="teachingReference"></span></summary><div id="teachingLinks"></div><p class="teaching-help">Select a verse to match its lesson. Links open the full lesson on YouTube; exact verse timestamps are not available.</p></details><article class="scripture" id="scripture" aria-live="polite"></article>
+  <footer class="reader-footer"><span>Authorized King James Version · Revision 012</span><span>Tap a dotted word for Strong’s; open Bullinger’s chapter notes with yellow links.</span></footer>
  </main>
  <aside class="study-panel" id="studyPanel" aria-live="polite">
   <div class="panel-top"><div><span class="eyebrow" id="panelKicker">WORD STUDY</span><h2 id="panelTitle">Begin with a word</h2></div><button class="icon-button close-panel" id="closePanel" aria-label="Close study panel">×</button></div>
@@ -49,10 +49,11 @@
 <div class="modal-backdrop" id="aboutModal" hidden><section class="modal" role="dialog" aria-modal="true" aria-labelledby="aboutTitle"><button class="icon-button modal-close" data-close="aboutModal" aria-label="Close">×</button><span class="eyebrow">ABOUT THIS READING EDITION</span><h2 id="aboutTitle">Scripture first. Context alongside.</h2><p>The reader contains the Authorized King James Version (KJV), with its traditional wording preserved from the identified source dataset. The verse wording is kept separate from study materials and is not rewritten.</p><p>Strong’s links identify a Hebrew or Greek dictionary entry associated with a word in the KJV. The contextual note is a study suggestion based on the verse and lexical entry. Strong’s glosses are brief historical definitions; grammar, idiom, textual history, and literary setting matter too. Compare the original entry and judge for yourself.</p><p>Bullinger’s Companion Bible notes are bundled locally and linked to their recorded passages. The imported 23,934 Companion Bible note records open in a separate study panel with yellow links beside the verses. The appendices are included in a separate study reader. Bullinger’s interpretations are attributed to him and do not change the Bible text.</p><p class="source-line">Sources: local Authorized KJV word tags from <a href="https://ebible.org/find/show.php?id=eng-kjv2006" target="_blank" rel="noopener">eBible / CrossWire</a>; Strong’s dictionary digitization from <a href="https://github.com/openscriptures/strongs" target="_blank" rel="noopener">Open Scriptures (CC-BY-SA)</a>; Bullinger’s Companion Bible notes via <a href="https://www.sermonindex.net/modules/" target="_blank" rel="noopener">SermonIndex</a>. Illustrations are original vector study scenes.</p><button class="primary-button" data-close="aboutModal">Return to reading</button></section></div>
 <div class="search-backdrop" id="searchModal" hidden><section class="search-box" role="dialog" aria-modal="true" aria-labelledby="searchTitle"><div class="search-head"><div><span class="eyebrow">FIND A PASSAGE</span><h2 id="searchTitle">Search the KJV</h2></div><button class="icon-button" data-close="searchModal" aria-label="Close search">×</button></div><form id="searchForm"><input id="searchInput" type="search" placeholder="A word, phrase, or reference" autocomplete="off"><button class="primary-button">Search</button></form><div id="searchResults" class="search-results"></div></section></div>
 <div class="modal-backdrop" id="readingModal" hidden><section class="reading-overview modal" role="dialog" aria-modal="true" aria-labelledby="readingTitle"><button class="icon-button modal-close" data-close="readingModal" aria-label="Close reading progress">×</button><h2 id="readingTitle">Your entire Bible</h2><p id="readingTotals"></p><progress id="readingMeter" max="31102" value="0"></progress><p class="progress-help">Open a book and chapter to see every verse. Gray verses are read; unmarked verses remain. Clicking a verse marks it read and opens it in the Bible. Your progress and bookmark stay in this browser.</p><div id="readingBooks"></div></section></div>
-<script src="./search.js?v=006" defer></script>
-<script src="./reading.js?v=006" defer></script>
-<script src="./reader-menu.js?v=006" defer></script>
-<script src="./genesis-teaching.js?v=006" defer></script>
-<script src="./app.js?v=006" defer></script>
-<script src="./font-size.js?v=006" defer></script>
+<script src="./search.js?v=009" defer></script>
+<script src="./reading.js?v=009" defer></script>
+<script src="./reader-menu.js?v=009" defer></script>
+<script src="./teaching-choice.js?v=012" defer></script>
+<script src="./bible-teaching.js?v=012" defer></script>
+<script src="./app.js?v=009" defer></script>
+<script src="./font-size.js?v=009" defer></script>
 </body></html>
