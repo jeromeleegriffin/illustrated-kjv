@@ -1,0 +1,386 @@
+{
+  "book": "Colossians",
+  "summary": {
+    "coverage": {
+      "matched": 95,
+      "total": 95
+    },
+    "linkedVideos": 4,
+    "addedLessons": 0,
+    "candidateVideos": 9,
+    "candidateRangeCoverage": 95,
+    "unmatched": [
+      [
+        3,
+        15
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        3,
+        19
+      ],
+      [
+        3,
+        20
+      ],
+      [
+        3,
+        21
+      ],
+      [
+        3,
+        22
+      ],
+      [
+        3,
+        23
+      ],
+      [
+        3,
+        24
+      ],
+      [
+        3,
+        25
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        4,
+        13
+      ],
+      [
+        4,
+        14
+      ],
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        16
+      ],
+      [
+        4,
+        17
+      ],
+      [
+        4,
+        18
+      ]
+    ],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 3,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "YskDzg6dytc",
+      "title": "Colossians 1:1 - 1:20",
+      "book": 50,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=YskDzg6dytc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTPCbZQZEn75wo9T8MflS0M",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all four official Colossians lesson ranges and sequence to the archival Arnold Murray Series 110 broadcast record. Playback untested.",
+        "series": "110, April 2011",
+        "matchingRanges": 4,
+        "totalLessons": 4
+      }
+    },
+    {
+      "id": "_diU1kXUFPI",
+      "title": "Colossians 1:21 - 2:12",
+      "book": 50,
+      "start": [
+        1,
+        21
+      ],
+      "end": [
+        2,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=_diU1kXUFPI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTPCbZQZEn75wo9T8MflS0M",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all four official Colossians lesson ranges and sequence to the archival Arnold Murray Series 110 broadcast record. Playback untested.",
+        "series": "110, April 2011",
+        "matchingRanges": 4,
+        "totalLessons": 4
+      }
+    },
+    {
+      "id": "tRc66fBJEnQ",
+      "title": "Colossians 2:13 - 3:14",
+      "book": 50,
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        3,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=tRc66fBJEnQ",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTPCbZQZEn75wo9T8MflS0M",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all four official Colossians lesson ranges and sequence to the archival Arnold Murray Series 110 broadcast record. Playback untested.",
+        "series": "110, April 2011",
+        "matchingRanges": 4,
+        "totalLessons": 4
+      }
+    },
+    {
+      "id": "Qp1rxRcNkyA",
+      "title": "Colossians 3:15 - END",
+      "book": 50,
+      "start": [
+        3,
+        15
+      ],
+      "end": [
+        4,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=Qp1rxRcNkyA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTPCbZQZEn75wo9T8MflS0M",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Saved video metadata reports unavailable; review replacement needed",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all four official Colossians lesson ranges and sequence to the archival Arnold Murray Series 110 broadcast record. Playback untested.",
+        "series": "110, April 2011",
+        "matchingRanges": 4,
+        "totalLessons": 4
+      }
+    },
+    {
+      "id": "QIlakAYBkMY",
+      "title": "01. Colossians 1:1 - 1:20",
+      "book": 50,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=QIlakAYBkMY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D20V8MiZ9rYNbfXeKJORywE",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "VcZYLC3UsU0",
+      "title": "02. Colossians 1:21 - 2:14",
+      "book": 50,
+      "start": [
+        1,
+        21
+      ],
+      "end": [
+        2,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=VcZYLC3UsU0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D20V8MiZ9rYNbfXeKJORywE",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "oHSltWEaSY0",
+      "title": "03. Colossians 2:15 - 3:1",
+      "book": 50,
+      "start": [
+        2,
+        15
+      ],
+      "end": [
+        3,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=oHSltWEaSY0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D20V8MiZ9rYNbfXeKJORywE",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "8Z3J_NHMOhk",
+      "title": "04. Colossians 3:2 - 3:17",
+      "book": 50,
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=8Z3J_NHMOhk",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D20V8MiZ9rYNbfXeKJORywE",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=8Z3J_NHMOhk",
+        "basis": "Public search index of this exact title and video ID credits Pastor Arnold Murray. Source page opening was throttled and not retried; full playback untested."
+      }
+    },
+    {
+      "id": "9tVOaQGov2U",
+      "title": "05. Colossians 3:18 - 4:18 END",
+      "book": 50,
+      "start": [
+        3,
+        18
+      ],
+      "end": [
+        4,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=9tVOaQGov2U",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D20V8MiZ9rYNbfXeKJORywE",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=9tVOaQGov2U",
+        "basis": "Public search index of this exact title and video ID credits Pastor Arnold Murray. Source page opening was throttled and not retried; full playback untested."
+      }
+    }
+  ],
+  "unmappedCandidates": []
+}

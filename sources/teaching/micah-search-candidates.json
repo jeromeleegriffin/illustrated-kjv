@@ -1,0 +1,565 @@
+{
+  "book": "Micah",
+  "summary": {
+    "coverage": {
+      "matched": 105,
+      "total": 105
+    },
+    "linkedVideos": 15,
+    "addedLessons": 6,
+    "candidateVideos": 15,
+    "candidateRangeCoverage": 105,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 0,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "i3NXW2GYkz0",
+      "title": "Micah 1:1 - 2:7",
+      "book": 32,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=i3NXW2GYkz0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "3v95jxLsbXM",
+      "title": "Micah 2:8 - 4:5",
+      "book": 32,
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        4,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=3v95jxLsbXM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "uzp-AgLl6OM",
+      "title": "Micah 4:6 - 5:15",
+      "book": 32,
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        5,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=uzp-AgLl6OM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "EP2BC76KpjI",
+      "title": "Micah 6:1 - 7:2",
+      "book": 32,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        7,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=EP2BC76KpjI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "fBPvp86RN9w",
+      "title": "Micah 7:3 - 7:20",
+      "book": 32,
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        7,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=fBPvp86RN9w",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "r26qmQZ-qwA",
+      "title": "Micah 7:3 - 7:20",
+      "book": 32,
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        7,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=r26qmQZ-qwA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "cxeS6qzz_nA",
+      "title": "Micah 6:1 - 7:2",
+      "book": 32,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        7,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=cxeS6qzz_nA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "fDdaF11Yo00",
+      "title": "Micah 4:6 - 5:15",
+      "book": 32,
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        5,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=fDdaF11Yo00",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "Mvai-Sc-c7o",
+      "title": "Micah 2:8 - 4:5",
+      "book": 32,
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        4,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=Mvai-Sc-c7o",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "R9kpcymiqn4",
+      "title": "Micah 1:1 - 2:7",
+      "book": 32,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=R9kpcymiqn4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "W_U4x6BM3qU",
+      "title": "01. Micah 1:1 - 2:3",
+      "book": 32,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=W_U4x6BM3qU",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0KhpmIzO6MBHTICkBkOo-I",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "ZsZO7sardDI",
+      "title": "02. Micah 2:4 - 3:12",
+      "book": 32,
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        3,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=ZsZO7sardDI",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0KhpmIzO6MBHTICkBkOo-I",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Dzp1mv7QZs0",
+      "title": "03. Micah 4:1 - 5:3",
+      "book": 32,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=Dzp1mv7QZs0",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0KhpmIzO6MBHTICkBkOo-I",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "oRRbM7B0iC8",
+      "title": "04. Micah 5:4 - 6:16",
+      "book": 32,
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        6,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=oRRbM7B0iC8",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0KhpmIzO6MBHTICkBkOo-I",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "4NCY9M84WAk",
+      "title": "05. Micah  7:1 - 7:20 END",
+      "book": 32,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=4NCY9M84WAk",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0KhpmIzO6MBHTICkBkOo-I",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": []
+}

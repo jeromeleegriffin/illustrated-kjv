@@ -1,0 +1,288 @@
+{
+  "book": "James",
+  "summary": {
+    "coverage": {
+      "matched": 108,
+      "total": 108
+    },
+    "linkedVideos": 5,
+    "addedLessons": 5,
+    "candidateVideos": 10,
+    "candidateRangeCoverage": 108,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 5
+  },
+  "candidates": [
+    {
+      "id": "YSyirKcrbZk",
+      "title": "James 1:1 - 1:20",
+      "book": 58,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=YSyirKcrbZk",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgSJXe3ESWiAB9mgT3NoFQu3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all five official James lesson ranges and sequence to the archival Arnold Murray Series 172 broadcast record. Full playback untested.",
+        "series": "172, April 2011",
+        "matchingRanges": 5,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "7QjtA0Rk-Uo",
+      "title": "James 1:21 - 2:14",
+      "book": 58,
+      "start": [
+        1,
+        21
+      ],
+      "end": [
+        2,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=7QjtA0Rk-Uo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgSJXe3ESWiAB9mgT3NoFQu3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all five official James lesson ranges and sequence to the archival Arnold Murray Series 172 broadcast record. Full playback untested.",
+        "series": "172, April 2011",
+        "matchingRanges": 5,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "gotjC3-2864",
+      "title": "James 2:15 - 3:9",
+      "book": 58,
+      "start": [
+        2,
+        15
+      ],
+      "end": [
+        3,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=gotjC3-2864",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgSJXe3ESWiAB9mgT3NoFQu3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all five official James lesson ranges and sequence to the archival Arnold Murray Series 172 broadcast record. Full playback untested.",
+        "series": "172, April 2011",
+        "matchingRanges": 5,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "08WdPO9zwZI",
+      "title": "James 3:10 - 4:17",
+      "book": 58,
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        4,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=08WdPO9zwZI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgSJXe3ESWiAB9mgT3NoFQu3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all five official James lesson ranges and sequence to the archival Arnold Murray Series 172 broadcast record. Full playback untested.",
+        "series": "172, April 2011",
+        "matchingRanges": 5,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "xprtFphPLKU",
+      "title": "James 5:1 - End",
+      "book": 58,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=xprtFphPLKU",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgSJXe3ESWiAB9mgT3NoFQu3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all five official James lesson ranges and sequence to the archival Arnold Murray Series 172 broadcast record. Full playback untested.",
+        "series": "172, April 2011",
+        "matchingRanges": 5,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "gUvg9xWC068",
+      "title": "01. James 1:1 - 1:22",
+      "book": 58,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=gUvg9xWC068",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D25d0JvL2hs1mFW5YZZYDjS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "3UAbjpx2-wE",
+      "title": "02. James 1:23 - 2:17",
+      "book": 58,
+      "start": [
+        1,
+        23
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=3UAbjpx2-wE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D25d0JvL2hs1mFW5YZZYDjS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "D--WTlhGxVs",
+      "title": "03. James 2:18 - 3:11",
+      "book": 58,
+      "start": [
+        2,
+        18
+      ],
+      "end": [
+        3,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=D--WTlhGxVs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D25d0JvL2hs1mFW5YZZYDjS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "u4KW2HlPs4g",
+      "title": "04. James 3:12 - 4:11",
+      "book": 58,
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        4,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=u4KW2HlPs4g",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D25d0JvL2hs1mFW5YZZYDjS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "9QOTYsUM30Q",
+      "title": "05. James 4:12 - 5:20 END",
+      "book": 58,
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        5,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=9QOTYsUM30Q",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D25d0JvL2hs1mFW5YZZYDjS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "book": "Hebrews",
+  "summary": {
+    "coverage": {
+      "matched": 303,
+      "total": 303
+    },
+    "linkedVideos": 15,
+    "addedLessons": 14,
+    "candidateVideos": 30,
+    "candidateRangeCoverage": 303,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 15,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "IuV_i5-t6-M",
+      "title": "7267 Hebrews 1:1 - 2:4",
+      "book": 57,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=IuV_i5-t6-M",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "osFCg_hir6E",
+      "title": "7268 Hebrews 2:5 - 2:18",
+      "book": 57,
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        2,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=osFCg_hir6E",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "7AJ1wwf-abY",
+      "title": "7269 Hebrews 3:1 - 3:19",
+      "book": 57,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=7AJ1wwf-abY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "1HgawBUJ6b4",
+      "title": "7270 Hebrews 4:1 - 4:16",
+      "book": 57,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=1HgawBUJ6b4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "bHVKba8X2ho",
+      "title": "7271 Hebrews 5:1 - 5:14",
+      "book": 57,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=bHVKba8X2ho",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "CLkW2almies",
+      "title": "7272 Hebrews 6:1 - 6:20",
+      "book": 57,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=CLkW2almies",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "ITLGlKhB9lI",
+      "title": "7273 Hebrews 7:1 - 7:28",
+      "book": 57,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        28
+      ],
+      "url": "https://www.youtube.com/watch?v=ITLGlKhB9lI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "pL9D6d2ew1Y",
+      "title": "Friday 11/3/17 Hebrews 9:11 - 10:10",
+      "book": 57,
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        10,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=pL9D6d2ew1Y",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "AC8ePjzXWeE",
+      "title": "Hebrews 8:1 - 9:10",
+      "book": 57,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        9,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=AC8ePjzXWeE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "5P-lIqTeuwc",
+      "title": "7276 Hebrews 10:11 - 10:39",
+      "book": 57,
+      "start": [
+        10,
+        11
+      ],
+      "end": [
+        10,
+        39
+      ],
+      "url": "https://www.youtube.com/watch?v=5P-lIqTeuwc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "RHVxvRsJFO0",
+      "title": "7277 Hebrews 11:1 - 11:29",
+      "book": 57,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=RHVxvRsJFO0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "lxBqkL2L0ao",
+      "title": "7278 Hebrews 11:30 - 12:9",
+      "book": 57,
+      "start": [
+        11,
+        30
+      ],
+      "end": [
+        12,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=lxBqkL2L0ao",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "pw_eYz2nJqA",
+      "title": "7279 Hebrews 12:10 - 12:29",
+      "book": 57,
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=pw_eYz2nJqA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "uTXgQkDM-Us",
+      "title": "7280 Hebrews 13:1 - END",
+      "book": 57,
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=uTXgQkDM-Us",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for Hebrews and Jude Series 157, June 2010, and matches the official sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          57
+        ]
+      }
+    },
+    {
+      "id": "dDRGSB-5xoc",
+      "title": "01.  Hebrews 1:1 - 1:14",
+      "book": 57,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=dDRGSB-5xoc",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "Ao4lBtU6hcs",
+      "title": "02. Hebrews 2:1 - 2:18",
+      "book": 57,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=Ao4lBtU6hcs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "_mclBA37HbQ",
+      "title": "03. Hebrews 3:1 - 3:19",
+      "book": 57,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=_mclBA37HbQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "22oOThbN2KY",
+      "title": "04. Hebrews 4:1 - 4:16",
+      "book": 57,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=22oOThbN2KY",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "VjMMx04fxIs",
+      "title": "05. Hebrews 5:1 - 6:1",
+      "book": 57,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=VjMMx04fxIs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "GZXtaRdRUF4",
+      "title": "06. Hebrews 6:2 - 6:20",
+      "book": 57,
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        6,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=GZXtaRdRUF4",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "gINZcbdMP8c",
+      "title": "07. Hebrews 7:1 - 7:28",
+      "book": 57,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        28
+      ],
+      "url": "https://www.youtube.com/watch?v=gINZcbdMP8c",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "T0GozRTk_eA",
+      "title": "08. Hebrews 8:1 - 9:6",
+      "book": 57,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=T0GozRTk_eA",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "w-UIRgq_t8U",
+      "title": "09. Hebrews 9:7 - 9:28",
+      "book": 57,
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        9,
+        28
+      ],
+      "url": "https://www.youtube.com/watch?v=w-UIRgq_t8U",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "V_8voQfd6i8",
+      "title": "10. Hebrews 10:1 - 10:19",
+      "book": 57,
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=V_8voQfd6i8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "pvaQ4DKLFC8",
+      "title": "12. Hebrews 10:11 - 10:39",
+      "book": 57,
+      "start": [
+        10,
+        11
+      ],
+      "end": [
+        10,
+        39
+      ],
+      "url": "https://www.youtube.com/watch?v=pvaQ4DKLFC8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "h3RNruhGenI",
+      "title": "13. Hebrews 11:1 - 11:20",
+      "book": 57,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=h3RNruhGenI",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "DKzS2fi3m5c",
+      "title": "14. Hebrews 11:21 - 11:40",
+      "book": 57,
+      "start": [
+        11,
+        21
+      ],
+      "end": [
+        11,
+        40
+      ],
+      "url": "https://www.youtube.com/watch?v=DKzS2fi3m5c",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "jzD43OD_1a8",
+      "title": "15. Hebrews 12:1 - 12:16",
+      "book": 57,
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=jzD43OD_1a8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "vVZXveZkZ90",
+      "title": "16. Hebrews 12:17 - 12:29",
+      "book": 57,
+      "start": [
+        12,
+        17
+      ],
+      "end": [
+        12,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=vVZXveZkZ90",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "n0jN03czUns",
+      "title": "17. Hebrews 13:1 - 13:25 END",
+      "book": 57,
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=n0jN03czUns",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D071jk7gI8LE0kiQUrJLmbC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ],
+  "unmappedCandidates": []
+}

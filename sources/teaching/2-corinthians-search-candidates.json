@@ -1,0 +1,555 @@
+{
+  "book": "2 Corinthians",
+  "summary": {
+    "coverage": {
+      "matched": 257,
+      "total": 257
+    },
+    "linkedVideos": 9,
+    "addedLessons": 9,
+    "candidateVideos": 21,
+    "candidateRangeCoverage": 257,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 12
+  },
+  "candidates": [
+    {
+      "id": "ScF5533k9UA",
+      "title": "Monday 6/15/20 I & II Corinthians 15:55 - 1:7",
+      "book": 46,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=ScF5533k9UA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Cross-book published title resolved using archival Series 111 Lecture 16 and playlist order; exact verse timestamps untested",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "Yte1Ibe70Ug",
+      "title": "Tuesday 6/16/20 II Corinthians 1:8 - 2:17",
+      "book": 46,
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=Yte1Ibe70Ug",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "iVF3Pxfeszo",
+      "title": "Wednesday 6/17/20 II Corinthians 3:1 - 3:18",
+      "book": 46,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=iVF3Pxfeszo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "djw2r6xERR4",
+      "title": "Thursday 6/18/20 II Corinthians 4:1 - 5:10",
+      "book": 46,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=djw2r6xERR4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "3oknCh6wCWM",
+      "title": "Friday 6/19/20 II Corinthians 5:11 - 6:11",
+      "book": 46,
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=3oknCh6wCWM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "J45o5KvMTE0",
+      "title": "Monday 6/29/20 II Corinthians 6:12 - 8:14",
+      "book": 46,
+      "start": [
+        6,
+        12
+      ],
+      "end": [
+        8,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=J45o5KvMTE0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "LcVwQTl1SD4",
+      "title": "Tuesday 6/30/20 II Corinthians 8:15 - 10:18",
+      "book": 46,
+      "start": [
+        8,
+        15
+      ],
+      "end": [
+        10,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=LcVwQTl1SD4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "I7et4Ey5b7I",
+      "title": "Wednesday 7/1/20 II Corinthians 11:1 - 11:23",
+      "book": 46,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=I7et4Ey5b7I",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "m3NFmV8Pf1k",
+      "title": "Thursday 7/2/20 II Corinthians 11:24 - END",
+      "book": 46,
+      "start": [
+        11,
+        24
+      ],
+      "end": [
+        13,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=m3NFmV8Pf1k",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgR1hEu4annh_hbeXz2Sg8sS",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official Corinthians playlist ranges and sequence to the archive\u2019s Arnold Murray Series 111, April 2012 broadcast log. Published video ranges retained where the log has transcription discrepancies.",
+        "series": "111, April 2012"
+      }
+    },
+    {
+      "id": "SMf11UX23IQ",
+      "title": "01. II Corinthians 1:1 - 1:24",
+      "book": 46,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=SMf11UX23IQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "uR-8skJGuwk",
+      "title": "02. II Corinthians 2:1 - 3:6",
+      "book": 46,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=uR-8skJGuwk",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "bfIv9GrG7_k",
+      "title": "03. II Corinthians 3:7 - 4:7",
+      "book": 46,
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        4,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=bfIv9GrG7_k",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "cbDHjcglkRg",
+      "title": "04. II Corinthians 4:8 - 5:11",
+      "book": 46,
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        5,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=cbDHjcglkRg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "eZRDAXR1oCU",
+      "title": "05. II Corinthians 5:12 - 6:2",
+      "book": 46,
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        6,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=eZRDAXR1oCU",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "qXi9J6QFz0A",
+      "title": "06. II Corinthians 6:3 - 7:1",
+      "book": 46,
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        7,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=qXi9J6QFz0A",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "wvoRVuITE-0",
+      "title": "07. II Corinthians 7:2 - 8:24",
+      "book": 46,
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        8,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=wvoRVuITE-0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "i0qDJSSasAo",
+      "title": "08. II Corinthians 9:1 - 10:11",
+      "book": 46,
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        10,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=i0qDJSSasAo",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "1fpBYt3hwV8",
+      "title": "09. II Corinthians 10:12 - 11:6",
+      "book": 46,
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        11,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=1fpBYt3hwV8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "e5M6_Ueh_bQ",
+      "title": "10. II Corinthians 11:7 - 11:33",
+      "book": 46,
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        11,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=e5M6_Ueh_bQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "dnY0iKZ2tCc",
+      "title": "11. II Corinthians 12:1 - 12:18",
+      "book": 46,
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=dnY0iKZ2tCc",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "YpNCqf4yH3c",
+      "title": "12. II Corinthians 12:19 - 13:14 END",
+      "book": 46,
+      "start": [
+        12,
+        19
+      ],
+      "end": [
+        13,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=YpNCqf4yH3c",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3wmntDzITOnTxvPC3w7DQp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "book": "Ecclesiastes",
+  "summary": {
+    "coverage": {
+      "matched": 222,
+      "total": 222
+    },
+    "linkedVideos": 11,
+    "addedLessons": 9,
+    "candidateVideos": 23,
+    "candidateRangeCoverage": 222,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 12,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "M6BBT5vzhok",
+      "title": "Ecclesiastes 1:1 - 2:12",
+      "book": 20,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=M6BBT5vzhok",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "R1eR-Et4dbg",
+      "title": "Ecclesiastes 2:13 - 3:14",
+      "book": 20,
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        3,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=R1eR-Et4dbg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "Lv1_AdJbBGU",
+      "title": "7229 Ecclesiastes 3:15 - 4:16",
+      "book": 20,
+      "start": [
+        3,
+        15
+      ],
+      "end": [
+        4,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=Lv1_AdJbBGU",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "oXBlGJsudh8",
+      "title": "7230 Ecclesiastes 5:1 - 5:20",
+      "book": 20,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=oXBlGJsudh8",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "Qww-PqXBWOA",
+      "title": "7236 Ecclesiastes 6:1 - 7:8",
+      "book": 20,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        7,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=Qww-PqXBWOA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "CbAYU-MBVH8",
+      "title": "7232 Ecclesiastes 7:9 - 7:29",
+      "book": 20,
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        7,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=CbAYU-MBVH8",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "tEBOqqQGwME",
+      "title": "7233 Ecclesiastes 8:1 - 8:17",
+      "book": 20,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=tEBOqqQGwME",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "b-k2_BLWJZM",
+      "title": "7234 Ecclesiastes 9:1 - 9:18",
+      "book": 20,
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=b-k2_BLWJZM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "LJ-hquTw4Mw",
+      "title": "7235 Ecclesiastes 10:1 - 10:20",
+      "book": 20,
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=LJ-hquTw4Mw",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "VgJJBsuJqZw",
+      "title": "7236 Ecclesiastes 11:1 - 12:4",
+      "book": 20,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        12,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=VgJJBsuJqZw",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "0X1rivl8UiI",
+      "title": "7237 Ecclesiastes 12:5 - END",
+      "book": 20,
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=0X1rivl8UiI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQspUFYtMJK0_Z5tcffANJv",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: March\u2013April 2013 archive explicitly names Arnold Murray for Ecclesiastes Series 121. Official eleven-lesson sequence matches; first two cached official descriptions also name Arnold. Archive chapter 5 endpoint 21 is invalid; retain published title ending 20. Full playback untested.",
+        "series": "121, Ecclesiastes",
+        "totalLessons": 11
+      }
+    },
+    {
+      "id": "AzxnYNNo2xQ",
+      "title": "01  Ecclesiastes  1 1   2 7",
+      "book": 20,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=AzxnYNNo2xQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "xoXN-Kfxsds",
+      "title": "02. Ecclesiastes 2:12 - 3:5",
+      "book": 20,
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=xoXN-Kfxsds",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "DwL61vDQtCE",
+      "title": "03. Ecclesiastes 3:6 - 3:22",
+      "book": 20,
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        3,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=DwL61vDQtCE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "iqTDVxgqanc",
+      "title": "04. Ecclesiastes 4:1 - 4:16",
+      "book": 20,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=iqTDVxgqanc",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "9SJUMpCBrYQ",
+      "title": "05. Ecclesiastes 5:1 - 5:20",
+      "book": 20,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=9SJUMpCBrYQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "g8pH-9oGfZ4",
+      "title": "06.  Ecclesiastes 6:1 - 6:12",
+      "book": 20,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=g8pH-9oGfZ4",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "4Z8j4BXNAGY",
+      "title": "07. Ecclesiastes 7:1 - 7:19",
+      "book": 20,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=4Z8j4BXNAGY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "9PQJ-xGtRm0",
+      "title": "08. Ecclesiastes 7:20 - 8:7",
+      "book": 20,
+      "start": [
+        7,
+        20
+      ],
+      "end": [
+        8,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=9PQJ-xGtRm0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "ksTWhT3gWCw",
+      "title": "09. Ecclesiastes 8:8 - 9:5",
+      "book": 20,
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        9,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=ksTWhT3gWCw",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "vWrR1jDUW3E",
+      "title": "10. Ecclesiastes 9:7 - 10:15",
+      "book": 20,
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        10,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=vWrR1jDUW3E",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "ROheKpPTsxY",
+      "title": "11. Ecclesiastes 10:9 - 11:7",
+      "book": 20,
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        11,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=ROheKpPTsxY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "I12ID0p2Cgw",
+      "title": "12. Ecclesiastes 11:8 - 12:14 END",
+      "book": 20,
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        12,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=I12ID0p2Cgw",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C7jXyxom2--7ZPTqmDW74",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ],
+  "unmappedCandidates": []
+}

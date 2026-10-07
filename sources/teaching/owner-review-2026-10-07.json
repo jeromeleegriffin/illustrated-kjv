@@ -1,0 +1,73 @@
+{
+  "confirmedLessons": [
+    {
+      "id": "rwz3jeI2IFY",
+      "title": "6. I Corinthians 5:6 - 6:12",
+      "book": 45,
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        6,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=rwz3jeI2IFY",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1fs7eXS0tlctzLZMKRPzwk",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Owner-confirmed teacher; screenshot establishes 6:12; full playback untested",
+      "ownerReview": {
+        "teacherConfirmedBy": "Jerome Griffin",
+        "date": "2026-10-07",
+        "screenshot": "1791350417314.jpeg",
+        "visiblePassage": "1 Corinthians 6:12"
+      }
+    },
+    {
+      "id": "Y23KJsx-Kqc",
+      "title": "02. II Thessalonians 2:7 - 2:17",
+      "sourceTitle": "02. II Thessalonians 2:7 - 2:26",
+      "book": 52,
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=Y23KJsx-Kqc",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2MkNX9iULqSQZuY-9MGfi7",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published start at 2:7 and owner-provided playback screenshot at 2:17; erroneous source endpoint corrected",
+      "status": "Owner-confirmed teacher and screenshot-assisted range; full playback untested",
+      "ownerReview": {
+        "teacherConfirmedBy": "Jerome Griffin",
+        "date": "2026-10-07",
+        "screenshot": "1791350545033.jpeg",
+        "visiblePassage": "2 Thessalonians 2:17"
+      }
+    }
+  ],
+  "esther": {
+    "date": "2026-10-07",
+    "reviewer": "Jerome Griffin",
+    "decision": "Recordings shown in supplied Esther screenshots approved as good sources; preserve candidates. Exact teacher and verse mapping remain pending.",
+    "screenshots": [
+      "1791350087989.jpeg",
+      "1791350204757.jpeg"
+    ]
+  },
+  "noFullPlaybackClaim": true
+}

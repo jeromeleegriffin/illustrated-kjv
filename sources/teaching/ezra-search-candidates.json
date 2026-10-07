@@ -1,0 +1,462 @@
+{
+  "book": "Ezra",
+  "summary": {
+    "coverage": {
+      "matched": 280,
+      "total": 280
+    },
+    "linkedVideos": 8,
+    "addedLessons": 8,
+    "candidateVideos": 16,
+    "candidateRangeCoverage": 280,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 8,
+    "unmappedCandidateVideos": 1
+  },
+  "candidates": [
+    {
+      "id": "NV99i2jcIJU",
+      "title": "Thursday 4/16/20 Ezra 1:1 - 2:2",
+      "book": 14,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=NV99i2jcIJU",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "7Cb2G9z75Xw",
+      "title": "Friday 4/17/20 Ezra 2:3 - 3:8",
+      "book": 14,
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        3,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=7Cb2G9z75Xw",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "WsOcYe0Ity8",
+      "title": "Monday 4/27/20 Ezra 3:9 - 4:19",
+      "book": 14,
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        4,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=WsOcYe0Ity8",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "H71gfwZFKbM",
+      "title": "Tuesday 4/28/20 Ezra 4:20 - 5:17",
+      "book": 14,
+      "start": [
+        4,
+        20
+      ],
+      "end": [
+        5,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=H71gfwZFKbM",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "8RopcRefrxM",
+      "title": "Wednesday 4/29/20 Ezra 6:1 - 6:22",
+      "book": 14,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=8RopcRefrxM",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "YtR2bdz2lJk",
+      "title": "Thursday 4/30/20 Ezra 7:1 - 7:28",
+      "book": 14,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        28
+      ],
+      "url": "https://www.youtube.com/watch?v=YtR2bdz2lJk",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "bp4bA8-SJ7c",
+      "title": "Friday 5/1/20 Ezra 8:1 - 9:1",
+      "book": 14,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=bp4bA8-SJ7c",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "LIUcY4QSAIg",
+      "title": "Monday 5/4/20 Ezra 9:2 - END",
+      "book": 14,
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        10,
+        44
+      ],
+      "url": "https://www.youtube.com/watch?v=LIUcY4QSAIg",
+      "teacher": "Dennis Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRWPRzrKc2I7Yo9Qe512oVp",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Dennis Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching all eight official Ezra lesson ranges to the December 2016 Series 142 broadcast record explicitly naming Dennis Murray. Playback untested.",
+        "series": "142, June 2012 rebroadcast",
+        "matchingRanges": 8,
+        "totalLessons": 8
+      }
+    },
+    {
+      "id": "CWP1-_TBXtg",
+      "title": "01. Ezra 1:1 - 2:43",
+      "book": 14,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=CWP1-_TBXtg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "A5HBXJyn16Q",
+      "title": "02.  Ezra 2.43 - 3.8",
+      "book": 14,
+      "start": [
+        2,
+        43
+      ],
+      "end": [
+        3,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=A5HBXJyn16Q",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "5RebrsIHG8s",
+      "title": "03. Ezra 2:58 - 3:13 (Compilation Arnold and Dennis)",
+      "book": 14,
+      "start": [
+        2,
+        58
+      ],
+      "end": [
+        3,
+        13
+      ],
+      "url": "https://www.youtube.com/watch?v=5RebrsIHG8s",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "yok0PicWt90",
+      "title": "06. Ezra 6:12 - 7:17 (Alternative with A. Murray)",
+      "book": 14,
+      "start": [
+        6,
+        12
+      ],
+      "end": [
+        7,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=yok0PicWt90",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "T7cg-qzCTDY",
+      "title": "05.  Ezra - 4:20 - 5:17",
+      "book": 14,
+      "start": [
+        4,
+        20
+      ],
+      "end": [
+        5,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=T7cg-qzCTDY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "uvsxtnQVVy8",
+      "title": "07. Ezra 7:18 - 8:21",
+      "book": 14,
+      "start": [
+        7,
+        18
+      ],
+      "end": [
+        8,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=uvsxtnQVVy8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "lSz4WO8ffmg",
+      "title": "08. Ezra 8:22 - 9:15",
+      "book": 14,
+      "start": [
+        8,
+        22
+      ],
+      "end": [
+        9,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=lSz4WO8ffmg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "GEZbcG42F-I",
+      "title": "09. Ezra 10:1 - 10:20 END",
+      "book": 14,
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=GEZbcG42F-I",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ],
+  "unmappedCandidates": [
+    {
+      "id": "V0q_aDJscK0",
+      "title": "06. Ezra -  6:1 - 622",
+      "url": "https://www.youtube.com/watch?v=V0q_aDJscK0",
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2kzNm1GSLCgyk9MjdmYHdQ",
+      "teacher": null,
+      "playbackChecked": false,
+      "status": "Published verse range missing or invalid; teacher confirmation also required"
+    }
+  ]
+}

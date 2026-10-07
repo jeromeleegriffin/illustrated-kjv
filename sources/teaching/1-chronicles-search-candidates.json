@@ -1,0 +1,938 @@
+{
+  "book": "1 Chronicles",
+  "summary": {
+    "coverage": {
+      "matched": 942,
+      "total": 942
+    },
+    "linkedVideos": 20,
+    "addedLessons": 20,
+    "candidateVideos": 40,
+    "candidateRangeCoverage": 942,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 20
+  },
+  "candidates": [
+    {
+      "id": "6MIZqPsIKFs",
+      "title": "Thursday 5/11/23 I & II Chronicles 1:1 - 4:43",
+      "book": 12,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        4,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=6MIZqPsIKFs",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "n1AkyZifIlY",
+      "title": "Friday 5/12/23 I & II Chronicles 5:1 - 10:14",
+      "book": 12,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        10,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=n1AkyZifIlY",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "e0G7d8_jVoU",
+      "title": "Monday 5/15/23 I & II Chronicles 11:1 - 11:25",
+      "book": 12,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=e0G7d8_jVoU",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "-jAtDf9jIDw",
+      "title": "Tuesday 5/16/23 I & II Chronicles 12:1 - 12:37",
+      "book": 12,
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        37
+      ],
+      "url": "https://www.youtube.com/watch?v=-jAtDf9jIDw",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "Vpg4LVoCW5Y",
+      "title": "Wednesday 5/17/23 I & II Chronicles 12:38 - 14:7",
+      "book": 12,
+      "start": [
+        12,
+        38
+      ],
+      "end": [
+        14,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=Vpg4LVoCW5Y",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "uOgITPzC8q8",
+      "title": "Thursday 5/18/23 I & II Chronicles 14:8 - 15:16",
+      "book": 12,
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        15,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=uOgITPzC8q8",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "ySKGgmPVz0k",
+      "title": "Friday 5/19/23 I & II Chronicles 15:17 - 16:11",
+      "book": 12,
+      "start": [
+        15,
+        17
+      ],
+      "end": [
+        16,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=ySKGgmPVz0k",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "KTIUFKc4EyA",
+      "title": "Monday 5/29/23 I & II Chronicles 16:12 - 16:43",
+      "book": 12,
+      "start": [
+        16,
+        12
+      ],
+      "end": [
+        16,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=KTIUFKc4EyA",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "oPexSMmBB3k",
+      "title": "Tuesday 5/30/23 I & II Chronicles 17:1 - 17:27",
+      "book": 12,
+      "start": [
+        17,
+        1
+      ],
+      "end": [
+        17,
+        27
+      ],
+      "url": "https://www.youtube.com/watch?v=oPexSMmBB3k",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "SSB9rdrmOIE",
+      "title": "Wednesday 5/31/23 I & II Chronicles 18:1 - 19:16",
+      "book": 12,
+      "start": [
+        18,
+        1
+      ],
+      "end": [
+        19,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=SSB9rdrmOIE",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "powoPB0lFNY",
+      "title": "Thursday 6/1/23 I & II Chronicles 19:7 - 20:8",
+      "book": 12,
+      "start": [
+        19,
+        7
+      ],
+      "end": [
+        20,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=powoPB0lFNY",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "v27yZXzhcMI",
+      "title": "Monday 6/5/23 I & II Chronicles 21:27 - 22:19",
+      "book": 12,
+      "start": [
+        21,
+        27
+      ],
+      "end": [
+        22,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=v27yZXzhcMI",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "4rDgKSXRDGI",
+      "title": "Tuesday 6/6/23 I & II Chronicles 23:1 - 24:4",
+      "book": 12,
+      "start": [
+        23,
+        1
+      ],
+      "end": [
+        24,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=4rDgKSXRDGI",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "JZ05GCBEmuc",
+      "title": "Wednesday 6/7/23 I & II Chronicles 24:5 - 24:10",
+      "book": 12,
+      "start": [
+        24,
+        5
+      ],
+      "end": [
+        24,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=JZ05GCBEmuc",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "28HkAXTaGG0",
+      "title": "Thursday 6/8/23 I & II Chronicles 24:11 - 25:31",
+      "book": 12,
+      "start": [
+        24,
+        11
+      ],
+      "end": [
+        25,
+        31
+      ],
+      "url": "https://www.youtube.com/watch?v=28HkAXTaGG0",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "dz8yTWHOeY8",
+      "title": "Friday 6/9/23 I & II Chronicles 26:1 - 26:29",
+      "book": 12,
+      "start": [
+        26,
+        1
+      ],
+      "end": [
+        26,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=dz8yTWHOeY8",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "KpQ9gsRN5Qw",
+      "title": "Monday 6/12/23 I & II Chronicles 26:30 - 27:34",
+      "book": 12,
+      "start": [
+        26,
+        30
+      ],
+      "end": [
+        27,
+        34
+      ],
+      "url": "https://www.youtube.com/watch?v=KpQ9gsRN5Qw",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "hSGjtvYfxaE",
+      "title": "Tuesday 6/13/23 I & II Chronicles 28:1 - 28:17",
+      "book": 12,
+      "start": [
+        28,
+        1
+      ],
+      "end": [
+        28,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=hSGjtvYfxaE",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "RSuDzQ0-VZ8",
+      "title": "Wednesday 6/14/23 I & II Chronicles 28:18 - 29:30",
+      "book": 12,
+      "start": [
+        28,
+        18
+      ],
+      "end": [
+        29,
+        30
+      ],
+      "url": "https://www.youtube.com/watch?v=RSuDzQ0-VZ8",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "9yB1UW8hHSM",
+      "title": "I Chronicles 21:1 - 21:26",
+      "book": 12,
+      "start": [
+        21,
+        1
+      ],
+      "end": [
+        21,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=9yB1UW8hHSM",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQ6m-9LT1PzyqrxK3DfLEb9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "xUQjW6y9Hks",
+      "title": "01. I Chronicles 1:1 - 4:43",
+      "book": 12,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        4,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=xUQjW6y9Hks",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "F6PuKW899Ck",
+      "title": "02.  I Chronicles 5.1 - 10.14",
+      "book": 12,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        10,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=F6PuKW899Ck",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "61SL8X89UHY",
+      "title": "03. I  Chronicles 11:1 - 11:47",
+      "book": 12,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        47
+      ],
+      "url": "https://www.youtube.com/watch?v=61SL8X89UHY",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "LsuYLz471jU",
+      "title": "04. I Chronicles 12:1 - 12:37",
+      "book": 12,
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        37
+      ],
+      "url": "https://www.youtube.com/watch?v=LsuYLz471jU",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "mYGQ86XhKoo",
+      "title": "05. I Chronicles 12:38 - 14:7",
+      "book": 12,
+      "start": [
+        12,
+        38
+      ],
+      "end": [
+        14,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=mYGQ86XhKoo",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "F9GR5ji5u7k",
+      "title": "06. I  Chronicles - 14:8 - 15:16",
+      "book": 12,
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        15,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=F9GR5ji5u7k",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "eF1qKZcF5bI",
+      "title": "07. I Chronicles 15:17 - 16:11",
+      "book": 12,
+      "start": [
+        15,
+        17
+      ],
+      "end": [
+        16,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=eF1qKZcF5bI",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Pycmp5H4Y0E",
+      "title": "08. I Chronicles 16:12 - 16:43",
+      "book": 12,
+      "start": [
+        16,
+        12
+      ],
+      "end": [
+        16,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=Pycmp5H4Y0E",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "oZN-vfl2t2U",
+      "title": "09. I Chronicles 17:1 - 17:27",
+      "book": 12,
+      "start": [
+        17,
+        1
+      ],
+      "end": [
+        17,
+        27
+      ],
+      "url": "https://www.youtube.com/watch?v=oZN-vfl2t2U",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Naua2jDTaTI",
+      "title": "10. I Chronicles 18:1 - 19:6",
+      "book": 12,
+      "start": [
+        18,
+        1
+      ],
+      "end": [
+        19,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=Naua2jDTaTI",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "ThcjowDeroo",
+      "title": "11. I Chronicles 19:7 - 20:8",
+      "book": 12,
+      "start": [
+        19,
+        7
+      ],
+      "end": [
+        20,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=ThcjowDeroo",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "IvoV2xoo5FU",
+      "title": "12. I Chronicles 21:1 - 21:26",
+      "book": 12,
+      "start": [
+        21,
+        1
+      ],
+      "end": [
+        21,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=IvoV2xoo5FU",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "-4I5t3EgO9o",
+      "title": "13. I Chronicles  21:27 - 22:19",
+      "book": 12,
+      "start": [
+        21,
+        27
+      ],
+      "end": [
+        22,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=-4I5t3EgO9o",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "DsY7O9EFlu8",
+      "title": "14. I Chronicles 23:1 - 24:4",
+      "book": 12,
+      "start": [
+        23,
+        1
+      ],
+      "end": [
+        24,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=DsY7O9EFlu8",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "73Y1sO8Thzk",
+      "title": "15. I Chronicles 24:5 - 24:10",
+      "book": 12,
+      "start": [
+        24,
+        5
+      ],
+      "end": [
+        24,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=73Y1sO8Thzk",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "50L1A0XqSIM",
+      "title": "16. I Chronicles - 24:11 - 25:31",
+      "book": 12,
+      "start": [
+        24,
+        11
+      ],
+      "end": [
+        25,
+        31
+      ],
+      "url": "https://www.youtube.com/watch?v=50L1A0XqSIM",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "nA3bReRPoHs",
+      "title": "17. I Chronicles 26:1 - 26:29",
+      "book": 12,
+      "start": [
+        26,
+        1
+      ],
+      "end": [
+        26,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=nA3bReRPoHs",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "adgs1USshO0",
+      "title": "18. I Chronicles 26:30 - 27:34",
+      "book": 12,
+      "start": [
+        26,
+        30
+      ],
+      "end": [
+        27,
+        34
+      ],
+      "url": "https://www.youtube.com/watch?v=adgs1USshO0",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "d6hI5-sOP9A",
+      "title": "19. I Chronicles 28:1 - 28:17",
+      "book": 12,
+      "start": [
+        28,
+        1
+      ],
+      "end": [
+        28,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=d6hI5-sOP9A",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "R4q6ECDN4C4",
+      "title": "20. I Chronicles 28:18 - 29:30",
+      "book": 12,
+      "start": [
+        28,
+        18
+      ],
+      "end": [
+        29,
+        30
+      ],
+      "url": "https://www.youtube.com/watch?v=R4q6ECDN4C4",
+      "teacher": "Dennis Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0EHZcYaaFzpzI2fPQKn232",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ]
+}

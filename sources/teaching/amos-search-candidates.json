@@ -1,0 +1,770 @@
+{
+  "book": "Amos",
+  "summary": {
+    "coverage": {
+      "matched": 146,
+      "total": 146
+    },
+    "linkedVideos": 20,
+    "addedLessons": 9,
+    "candidateVideos": 20,
+    "candidateRangeCoverage": 146,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 0,
+    "unmappedCandidateVideos": 1
+  },
+  "candidates": [
+    {
+      "id": "cOe2z_sEE8w",
+      "title": "Amos 1:1 - 2:3",
+      "book": 29,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=cOe2z_sEE8w",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "BYqYrzWpazI",
+      "title": "Amos 2:4 - 3:15",
+      "book": 29,
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        3,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=BYqYrzWpazI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "RE2X6PFQPA8",
+      "title": "Amos 4:1 - 5:10",
+      "book": 29,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=RE2X6PFQPA8",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "nXiihykA9ro",
+      "title": "Amos 5:11 - 6:10",
+      "book": 29,
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        6,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=nXiihykA9ro",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "EEc9zpdaepE",
+      "title": "Amos 6:11 - 8:5",
+      "book": 29,
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        8,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=EEc9zpdaepE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "Yw9HqEl0Mbg",
+      "title": "Amos 8:6 - 9:6",
+      "book": 29,
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=Yw9HqEl0Mbg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "t99U5NMuJYk",
+      "title": "Amos 9:7 - Obadiah 1:11",
+      "book": 29,
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        9,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=t99U5NMuJYk",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "Y9Vw8_i1BWc",
+      "title": "Amos & Obadiah 9:7 - :1:11",
+      "book": 29,
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        9,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=Y9Vw8_i1BWc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "awNUDtVTazA",
+      "title": "Amos 8:6 - 9:6",
+      "book": 29,
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=awNUDtVTazA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "JjuEA3hdlGo",
+      "title": "Amos 6:11 - 8:5",
+      "book": 29,
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        8,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=JjuEA3hdlGo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "dIarcdQ0qDo",
+      "title": "Amos 5:11 - 6:10",
+      "book": 29,
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        6,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=dIarcdQ0qDo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "74wbAVjWePc",
+      "title": "Amos 4:1 - 5:10",
+      "book": 29,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=74wbAVjWePc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "hN3uyzpWjdE",
+      "title": "Amos 2:4 - 3:15",
+      "book": 29,
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        3,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=hN3uyzpWjdE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "k5MZgKs2Vyc",
+      "title": "Amos 1:1 - 2:3",
+      "book": 29,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=k5MZgKs2Vyc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "at42xmclb9Q",
+      "title": "01. Amos 1:1 - 2:1",
+      "book": 29,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=at42xmclb9Q",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "R5oXAj1kTbo",
+      "title": "02. Amos 2:2 - 3:7",
+      "book": 29,
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        3,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=R5oXAj1kTbo",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Xzm7Gy1JPL8",
+      "title": "03. Amos 3:8 - 4:12",
+      "book": 29,
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        4,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=Xzm7Gy1JPL8",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "xEsV6F-_PUI",
+      "title": "05. Amos 6:1 - 7:9",
+      "book": 29,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        7,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=xEsV6F-_PUI",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "frTIgpnaaaE",
+      "title": "06. Amos 7:10 - 8:14",
+      "book": 29,
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        8,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=frTIgpnaaaE",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "iPX7XvsN_Ps",
+      "title": "07. Amos 9:1 - 9:15",
+      "book": 29,
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=iPX7XvsN_Ps",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": [
+    {
+      "id": "EUANG6hxGts",
+      "title": "04. Amos 4:13: - 5:27",
+      "url": "https://www.youtube.com/watch?v=EUANG6hxGts",
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1frtZ85OM0o4Lr9De42Qoj",
+      "teacher": null,
+      "playbackChecked": false,
+      "status": "Published verse range missing or invalid; teacher confirmation also required"
+    }
+  ]
+}

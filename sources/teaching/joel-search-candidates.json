@@ -1,0 +1,456 @@
+{
+  "book": "Joel",
+  "summary": {
+    "coverage": {
+      "matched": 73,
+      "total": 73
+    },
+    "linkedVideos": 12,
+    "addedLessons": 2,
+    "candidateVideos": 12,
+    "candidateRangeCoverage": 73,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 0,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "NvqoyvXQcEk",
+      "title": "Joel 1:1 - 1:20",
+      "book": 28,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=NvqoyvXQcEk",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "ZwmcEPWuKsk",
+      "title": "Joel 2:1 - 2:20",
+      "book": 28,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=ZwmcEPWuKsk",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "O0zA9DzSPGg",
+      "title": "Joel 2:21 - 2:32",
+      "book": 28,
+      "start": [
+        2,
+        21
+      ],
+      "end": [
+        2,
+        32
+      ],
+      "url": "https://www.youtube.com/watch?v=O0zA9DzSPGg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "VVg7Diemsm8",
+      "title": "Joel 3:1 - End",
+      "book": 28,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=VVg7Diemsm8",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "CVZC89MpDl4",
+      "title": "Joel 3:1 - 3:21",
+      "book": 28,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=CVZC89MpDl4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "WuXCB34-YhY",
+      "title": "Joel 2:21 - 2:32",
+      "book": 28,
+      "start": [
+        2,
+        21
+      ],
+      "end": [
+        2,
+        32
+      ],
+      "url": "https://www.youtube.com/watch?v=WuXCB34-YhY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "AkuJNciyUI0",
+      "title": "Joel 2:1 - 2:20",
+      "book": 28,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=AkuJNciyUI0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "BsJO6bJ2YyM",
+      "title": "Joel 1:1 - 1:20",
+      "book": 28,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=BsJO6bJ2YyM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "STDFmJJxgmA",
+      "title": "01. Joel 1:1 - 2:1",
+      "book": 28,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=STDFmJJxgmA",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2R-2J3kN-iZU6dU9nScGZ9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "vOqr5IUHSug",
+      "title": "02. Joel 2:1 - 2:15",
+      "book": 28,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=vOqr5IUHSug",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2R-2J3kN-iZU6dU9nScGZ9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "vNspOM2avts",
+      "title": "03. Joel 2:16 - 2:32",
+      "book": 28,
+      "start": [
+        2,
+        16
+      ],
+      "end": [
+        2,
+        32
+      ],
+      "url": "https://www.youtube.com/watch?v=vNspOM2avts",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2R-2J3kN-iZU6dU9nScGZ9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "lHJ9-Y5U6js",
+      "title": "04. Joel 3:1 - 3:21",
+      "book": 28,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=lHJ9-Y5U6js",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2R-2J3kN-iZU6dU9nScGZ9",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": []
+}

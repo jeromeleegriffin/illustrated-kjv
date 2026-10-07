@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "lessons": 1304,
+  "matchedVerses": 31102,
+  "totalVerses": 31102,
+  "pageErrors": [],
+  "matthewCoverage": {
+    "matched": 1071,
+    "total": 1071
+  },
+  "markCoverage": {
+    "matched": 678,
+    "total": 678
+  },
+  "lukeCoverage": {
+    "matched": 1151,
+    "total": 1151
+  },
+  "actsCoverage": {
+    "matched": 1007,
+    "total": 1007
+  },
+  "checks": [
+    "Arnold priority and Dennis fallback verified in isolated fixtures",
+    "all 66 books and every mapped range validated",
+    "Genesis boundaries preserved",
+    "OT/NT passage selection",
+    "search reference updates video",
+    "bookmark restore updates video",
+    "menu collapsed at entry/reload",
+    "font increase/decrease",
+    "coverage table 66 books",
+    "unmatched passage message",
+    "optional data failure leaves scripture usable",
+    "reading progress preserved",
+    "phone and desktop no overflow"
+  ]
+}

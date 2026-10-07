@@ -1,0 +1,336 @@
+{
+  "book": "1 Timothy",
+  "summary": {
+    "coverage": {
+      "matched": 113,
+      "total": 113
+    },
+    "linkedVideos": 10,
+    "addedLessons": 6,
+    "candidateVideos": 11,
+    "candidateRangeCoverage": 113,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 1,
+    "excludedCandidates": 2
+  },
+  "candidates": [
+    {
+      "id": "O4d7nzvTBno",
+      "title": "Timothy 1:1 - 1:20",
+      "book": 53,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=O4d7nzvTBno",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTg_s0PGiELUGqMJp7AG0W6",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching the ten official Timothy lesson ranges and sequence to the archival Arnold Murray Series 307 broadcast record. Only 1 Timothy updated in this pass; playback untested.",
+        "series": "307, December 2011",
+        "matchingRanges": 10,
+        "totalLessons": 10
+      }
+    },
+    {
+      "id": "sosVmA6ouc4",
+      "title": "Timothy 2:1 - 2:15",
+      "book": 53,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=sosVmA6ouc4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTg_s0PGiELUGqMJp7AG0W6",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching the ten official Timothy lesson ranges and sequence to the archival Arnold Murray Series 307 broadcast record. Only 1 Timothy updated in this pass; playback untested.",
+        "series": "307, December 2011",
+        "matchingRanges": 10,
+        "totalLessons": 10
+      }
+    },
+    {
+      "id": "IgJksC0wY88",
+      "title": "Timothy 3:1 - 3:16",
+      "book": 53,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=IgJksC0wY88",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTg_s0PGiELUGqMJp7AG0W6",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching the ten official Timothy lesson ranges and sequence to the archival Arnold Murray Series 307 broadcast record. Only 1 Timothy updated in this pass; playback untested.",
+        "series": "307, December 2011",
+        "matchingRanges": 10,
+        "totalLessons": 10
+      }
+    },
+    {
+      "id": "YS-EeucXv_0",
+      "title": "Timothy 4:1 - 4:16",
+      "book": 53,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=YS-EeucXv_0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTg_s0PGiELUGqMJp7AG0W6",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching the ten official Timothy lesson ranges and sequence to the archival Arnold Murray Series 307 broadcast record. Only 1 Timothy updated in this pass; playback untested.",
+        "series": "307, December 2011",
+        "matchingRanges": 10,
+        "totalLessons": 10
+      }
+    },
+    {
+      "id": "pgFmNuNuqZg",
+      "title": "Timothy 5:1 - 5:25",
+      "book": 53,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=pgFmNuNuqZg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTg_s0PGiELUGqMJp7AG0W6",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching the ten official Timothy lesson ranges and sequence to the archival Arnold Murray Series 307 broadcast record. Only 1 Timothy updated in this pass; playback untested.",
+        "series": "307, December 2011",
+        "matchingRanges": 10,
+        "totalLessons": 10
+      }
+    },
+    {
+      "id": "BZHrIKuZEtc",
+      "title": "Timothy 6:1 - 6:21",
+      "book": 53,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=BZHrIKuZEtc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTg_s0PGiELUGqMJp7AG0W6",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Inferred by matching the ten official Timothy lesson ranges and sequence to the archival Arnold Murray Series 307 broadcast record. Only 1 Timothy updated in this pass; playback untested.",
+        "series": "307, December 2011",
+        "matchingRanges": 10,
+        "totalLessons": 10
+      }
+    },
+    {
+      "id": "ZjdBwW45J9A",
+      "title": "01. I Timothy 1:1 - 1:20",
+      "book": 53,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=ZjdBwW45J9A",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D37xAyZ6x8M1L4EvBgCiYbg",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "9XU7vIKhxt0",
+      "title": "02. I Timothy 2:1 - 2:15",
+      "book": 53,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=9XU7vIKhxt0",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D37xAyZ6x8M1L4EvBgCiYbg",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "-6lxJAjrK9s",
+      "title": "03. I Timothy 3:1 - 3:16",
+      "book": 53,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=-6lxJAjrK9s",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D37xAyZ6x8M1L4EvBgCiYbg",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Saved video metadata reports unavailable; replacement review required"
+    },
+    {
+      "id": "6wVMEnaW9BM",
+      "title": "04. I Timothy 4:1 - 4:16",
+      "book": 53,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=6wVMEnaW9BM",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D37xAyZ6x8M1L4EvBgCiYbg",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Xnp9ulF2gPM",
+      "title": "05. I Timothy 5:1 - 5:22",
+      "book": 53,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=Xnp9ulF2gPM",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D37xAyZ6x8M1L4EvBgCiYbg",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "id": "-6lxJAjrK9s",
+      "title": "03. I Timothy 3:1 - 3:16",
+      "url": "https://www.youtube.com/watch?v=-6lxJAjrK9s",
+      "reason": "Saved playability LOGIN_REQUIRED; valid range retained only as candidate; replacement review required."
+    },
+    {
+      "id": "r7qujVCi8TQ",
+      "title": "06. I Timothy 5:23 - 6:22",
+      "url": "https://www.youtube.com/watch?v=r7qujVCi8TQ",
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D37xAyZ6x8M1L4EvBgCiYbg",
+      "reason": "Published end 6:22 is invalid: chapter 6 ends at verse 21. Saved playability also LOGIN_REQUIRED.",
+      "status": "Owner review required; excluded from runtime"
+    }
+  ]
+}

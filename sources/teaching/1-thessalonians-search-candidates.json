@@ -1,0 +1,190 @@
+{
+  "book": "1 Thessalonians",
+  "summary": {
+    "coverage": {
+      "matched": 89,
+      "total": 89
+    },
+    "linkedVideos": 4,
+    "addedLessons": 0,
+    "candidateVideos": 7,
+    "candidateRangeCoverage": 89,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 3,
+    "excludedCandidates": 1
+  },
+  "candidates": [
+    {
+      "id": "eNh1KKBNNSM",
+      "title": "Monday 12/28/20 Thessalonians I 1:1-2:15",
+      "book": 51,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=eNh1KKBNNSM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTlVlyM6wznWasMN8rY-eMu",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "First Thessalonians identified from combined playlist sequence; original range retained; teacher unconfirmed",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "fiuSZaZzq7k",
+      "title": "Tuesday 12/29/20 Thessalonians 2:16 - 4:11",
+      "book": 51,
+      "start": [
+        2,
+        16
+      ],
+      "end": [
+        4,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=fiuSZaZzq7k",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTlVlyM6wznWasMN8rY-eMu",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "First Thessalonians identified from combined playlist sequence; original range retained; teacher unconfirmed",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "FlyyliNFhLI",
+      "title": "Wednesday 12/30/20 Thessalonians 4:12 - 5:10",
+      "book": 51,
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=FlyyliNFhLI",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTlVlyM6wznWasMN8rY-eMu",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "First Thessalonians identified from combined playlist sequence; original range retained; teacher unconfirmed",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "xdWg_ey_2K8",
+      "title": "01. I Thessalonians 1:1 - 2:13",
+      "book": 51,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        13
+      ],
+      "url": "https://www.youtube.com/watch?v=xdWg_ey_2K8",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2IMk6XDODHIongS9s3yFhA",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "jY0KoBy9fvA",
+      "title": "02. I Thessalonians 2:14 - 4:12",
+      "book": 51,
+      "start": [
+        2,
+        14
+      ],
+      "end": [
+        4,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=jY0KoBy9fvA",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2IMk6XDODHIongS9s3yFhA",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "IezYHD0J1NA",
+      "title": "03. I Thessalonians 4:10 - 5:3",
+      "book": 51,
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        5,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=IezYHD0J1NA",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2IMk6XDODHIongS9s3yFhA",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Uf4dee0xbUk",
+      "title": "04. I Thessalonians 5:1 - 5:28",
+      "book": 51,
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        28
+      ],
+      "url": "https://www.youtube.com/watch?v=Uf4dee0xbUk",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2IMk6XDODHIongS9s3yFhA",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "id": "XYj1mSYTCSA",
+      "title": "Thursday 12/31/20 I & II Thessalonians 5:11 - 1:1",
+      "url": "https://www.youtube.com/watch?v=XYj1mSYTCSA",
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTlVlyM6wznWasMN8rY-eMu",
+      "reason": "Cross-book title ends 1:1; archive says 2 Thessalonians 1:12. Unresolved endpoint and teacher; no mapping added.",
+      "status": "Owner review required; excluded from runtime"
+    }
+  ]
+}

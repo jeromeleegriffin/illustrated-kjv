@@ -1,0 +1,327 @@
+{
+  "book": "2 Peter",
+  "summary": {
+    "coverage": {
+      "matched": 61,
+      "total": 61
+    },
+    "linkedVideos": 7,
+    "addedLessons": 6,
+    "candidateVideos": 11,
+    "candidateRangeCoverage": 61,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 4,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "soSFyASwbLs",
+      "title": "I Peter 5:1 - END  &   II Peter 1:1 - 1:8",
+      "book": 60,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=soSFyASwbLs",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTeOzHIk0Lft_Kx0_d4y1uC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for 1 and 2 Peter Series 258, July 2007, and matches the seven-lesson sequence. Missing numeral and combined book titles resolved by this sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          59,
+          60
+        ]
+      }
+    },
+    {
+      "id": "zPcZ7Y-cQss",
+      "title": "II Peter  1:9 - 2:17",
+      "book": 60,
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=zPcZ7Y-cQss",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTeOzHIk0Lft_Kx0_d4y1uC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for 1 and 2 Peter Series 258, July 2007, and matches the seven-lesson sequence. Missing numeral and combined book titles resolved by this sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          59,
+          60
+        ]
+      }
+    },
+    {
+      "id": "XUIWFacBIVw",
+      "title": "II Peter  2:18 - END",
+      "book": 60,
+      "start": [
+        2,
+        18
+      ],
+      "end": [
+        3,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=XUIWFacBIVw",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTeOzHIk0Lft_Kx0_d4y1uC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for 1 and 2 Peter Series 258, July 2007, and matches the seven-lesson sequence. Missing numeral and combined book titles resolved by this sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          59,
+          60
+        ]
+      }
+    },
+    {
+      "id": "iIMTsayr7VU",
+      "title": "7242 I & II Peter 5:1 - 1:8",
+      "book": 60,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=iIMTsayr7VU",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTQhLASSyaxvN3GtEVrQRw3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for 1 and 2 Peter Series 258, July 2007, and matches the seven-lesson sequence. Missing numeral and combined book titles resolved by this sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          59,
+          60
+        ]
+      }
+    },
+    {
+      "id": "JZwDARULnoM",
+      "title": "II Peter 1:9 - 2:17",
+      "book": 60,
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=JZwDARULnoM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTQhLASSyaxvN3GtEVrQRw3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for 1 and 2 Peter Series 258, July 2007, and matches the seven-lesson sequence. Missing numeral and combined book titles resolved by this sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          59,
+          60
+        ]
+      }
+    },
+    {
+      "id": "PWRXy9tSc3w",
+      "title": "Tuesday 2/27/18 II Peter 2:18 - END",
+      "book": 60,
+      "start": [
+        2,
+        18
+      ],
+      "end": [
+        3,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=PWRXy9tSc3w",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTQhLASSyaxvN3GtEVrQRw3",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-2013-t19167.html",
+        "basis": "Series-level inference: archive names Arnold for 1 and 2 Peter Series 258, July 2007, and matches the seven-lesson sequence. Missing numeral and combined book titles resolved by this sequence. Published video endpoints retained where archive differs; full playback untested.",
+        "bookScope": [
+          59,
+          60
+        ]
+      }
+    },
+    {
+      "id": "snhbu9IfKng",
+      "title": "01. II Peter 1:1 - 1:21",
+      "book": 60,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=snhbu9IfKng",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0tvHumv-D9FGXgFX_APKJa",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "kE3nmgaf39Y",
+      "title": "02. II Peter 2:1 - 2:12",
+      "book": 60,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=kE3nmgaf39Y",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0tvHumv-D9FGXgFX_APKJa",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "qghkKgQIGxs",
+      "title": "03. II Peter 2:13 - 3:1",
+      "book": 60,
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        3,
+        1
+      ],
+      "url": "https://www.youtube.com/watch?v=qghkKgQIGxs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0tvHumv-D9FGXgFX_APKJa",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "NHizAJDoGJA",
+      "title": "04. II Peter 3:2 - 3:9",
+      "book": 60,
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=NHizAJDoGJA",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0tvHumv-D9FGXgFX_APKJa",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "3TcCsC9jj5U",
+      "title": "05. II Peter 3:10 - 3:17",
+      "book": 60,
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        3,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=3TcCsC9jj5U",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0tvHumv-D9FGXgFX_APKJa",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": []
+}

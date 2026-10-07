@@ -1,0 +1,1633 @@
+{
+  "book": "Genesis",
+  "summary": {
+    "coverage": {
+      "matched": 1533,
+      "total": 1533
+    },
+    "linkedVideos": 36,
+    "addedLessons": 1,
+    "candidateVideos": 70,
+    "candidateRangeCoverage": 1533,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 49
+  },
+  "candidates": [
+    {
+      "id": "2F0K2ip_82U",
+      "title": "Genesis 1:1 - 1:2",
+      "book": 0,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=2F0K2ip_82U",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "J2Ia_1jDRdc",
+      "title": "Genesis 1:3 - 1:31",
+      "book": 0,
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        31
+      ],
+      "url": "https://www.youtube.com/watch?v=J2Ia_1jDRdc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "CubvKyn4s14",
+      "title": "Genesis 2:1 - 2:25",
+      "book": 0,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=CubvKyn4s14",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "RTwrhyLujcM",
+      "title": "Genesis 3:1 - 3:24",
+      "book": 0,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=RTwrhyLujcM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "-eNWqcRKKKw",
+      "title": "Genesis 4:1 - 5:24",
+      "book": 0,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=-eNWqcRKKKw",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "gwjM-Nli7SE",
+      "title": "Genesis 5:25 - 6:22",
+      "book": 0,
+      "start": [
+        5,
+        25
+      ],
+      "end": [
+        6,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=gwjM-Nli7SE",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "haxWtGxTNpA",
+      "title": "Genesis 7:1 - 8:22",
+      "book": 0,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        8,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=haxWtGxTNpA",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "3gHdyHNClLg",
+      "title": "Genesis 9:1 - 10:19",
+      "book": 0,
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        10,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=3gHdyHNClLg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "zVOLHpurjZM",
+      "title": "Genesis 10:20 - 12:20",
+      "book": 0,
+      "start": [
+        10,
+        20
+      ],
+      "end": [
+        12,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=zVOLHpurjZM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "tBcyvk4q5aM",
+      "title": "Genesis 13:1 - 14:23",
+      "book": 0,
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        14,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=tBcyvk4q5aM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "UfwvWHwnMTw",
+      "title": "Genesis 14:24 - 17:7",
+      "book": 0,
+      "start": [
+        14,
+        24
+      ],
+      "end": [
+        17,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=UfwvWHwnMTw",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "fP1JEZyCDm0",
+      "title": "Genesis 17:8 - 18:30",
+      "book": 0,
+      "start": [
+        17,
+        8
+      ],
+      "end": [
+        18,
+        30
+      ],
+      "url": "https://www.youtube.com/watch?v=fP1JEZyCDm0",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "FZRDynN1SwA",
+      "title": "Genesis 18:31 - 20:8",
+      "book": 0,
+      "start": [
+        18,
+        31
+      ],
+      "end": [
+        20,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=FZRDynN1SwA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "xHOevh54yPc",
+      "title": "Genesis 20:9 - 21:34",
+      "book": 0,
+      "start": [
+        20,
+        9
+      ],
+      "end": [
+        21,
+        34
+      ],
+      "url": "https://www.youtube.com/watch?v=xHOevh54yPc",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "crwOyzTDfRI",
+      "title": "Genesis 22:1 - 23:20",
+      "book": 0,
+      "start": [
+        22,
+        1
+      ],
+      "end": [
+        23,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=crwOyzTDfRI",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "-MJwJ_PR_6o",
+      "title": "Genesis 24:1 - 24:67",
+      "book": 0,
+      "start": [
+        24,
+        1
+      ],
+      "end": [
+        24,
+        67
+      ],
+      "url": "https://www.youtube.com/watch?v=-MJwJ_PR_6o",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "aTJ8oTOPnmM",
+      "title": "Genesis 25:1 - 26:5",
+      "book": 0,
+      "start": [
+        25,
+        1
+      ],
+      "end": [
+        26,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=aTJ8oTOPnmM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "zzzw90JxgIU",
+      "title": "Genesis 26:6 - 27:29",
+      "book": 0,
+      "start": [
+        26,
+        6
+      ],
+      "end": [
+        27,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=zzzw90JxgIU",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "qqzXl4z-m1M",
+      "title": "Genesis 27:30 - 28:19",
+      "book": 0,
+      "start": [
+        27,
+        30
+      ],
+      "end": [
+        28,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=qqzXl4z-m1M",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "LyPN1UbyUeo",
+      "title": "Genesis 28:20 - 30:43",
+      "book": 0,
+      "start": [
+        28,
+        20
+      ],
+      "end": [
+        30,
+        43
+      ],
+      "url": "https://www.youtube.com/watch?v=LyPN1UbyUeo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Xx_60PhtanM",
+      "title": "Genesis 31:1 - 31:55",
+      "book": 0,
+      "start": [
+        31,
+        1
+      ],
+      "end": [
+        31,
+        55
+      ],
+      "url": "https://www.youtube.com/watch?v=Xx_60PhtanM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "uHqOA6j9NDM",
+      "title": "Genesis 32:1 - 33:20",
+      "book": 0,
+      "start": [
+        32,
+        1
+      ],
+      "end": [
+        33,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=uHqOA6j9NDM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "8bNq4LykXyM",
+      "title": "Genesis 34:1 - 35:26",
+      "book": 0,
+      "start": [
+        34,
+        1
+      ],
+      "end": [
+        35,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=8bNq4LykXyM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "-FrgONWDN4k",
+      "title": "Genesis 36:1 - 38:18",
+      "book": 0,
+      "start": [
+        36,
+        1
+      ],
+      "end": [
+        38,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=-FrgONWDN4k",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "WNjpxNlnSjE",
+      "title": "Genesis 38:19 - 40:23",
+      "book": 0,
+      "start": [
+        38,
+        19
+      ],
+      "end": [
+        40,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=WNjpxNlnSjE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "HcWbNez6GUY",
+      "title": "Genesis 41:1 - 41:49",
+      "book": 0,
+      "start": [
+        41,
+        1
+      ],
+      "end": [
+        41,
+        49
+      ],
+      "url": "https://www.youtube.com/watch?v=HcWbNez6GUY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "IJwHcGyRkMc",
+      "title": "Genesis 41:50 - 43:21",
+      "book": 0,
+      "start": [
+        41,
+        50
+      ],
+      "end": [
+        43,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=IJwHcGyRkMc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "69_AMZtGbE0",
+      "title": "Genesis 43:22 - 45:15",
+      "book": 0,
+      "start": [
+        43,
+        22
+      ],
+      "end": [
+        45,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=69_AMZtGbE0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "76YRmcd-_LQ",
+      "title": "Genesis 45:16 - 47:17",
+      "book": 0,
+      "start": [
+        45,
+        16
+      ],
+      "end": [
+        47,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=76YRmcd-_LQ",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "X2MWMltMlO4",
+      "title": "Genesis 47:18 - 48:22",
+      "book": 0,
+      "start": [
+        47,
+        18
+      ],
+      "end": [
+        48,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=X2MWMltMlO4",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "XJlUVIZlF20",
+      "title": "Genesis 49:1 - 49:33",
+      "book": 0,
+      "start": [
+        49,
+        1
+      ],
+      "end": [
+        49,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=XJlUVIZlF20",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "zdi0pro6pCI",
+      "title": "Genesis 50:1 - END",
+      "book": 0,
+      "start": [
+        50,
+        1
+      ],
+      "end": [
+        50,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=zdi0pro6pCI",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQDIQlzFvX8S8bDAHmcRpLs",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "CHSkqMGjA0U",
+      "title": "01. Genesis 1:1 - 1:2",
+      "book": 0,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=CHSkqMGjA0U",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "xK_6X0YxiOs",
+      "title": "02. Genesis 1:3  - 1:31",
+      "book": 0,
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        31
+      ],
+      "url": "https://www.youtube.com/watch?v=xK_6X0YxiOs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "NFCQiTlk4BA",
+      "title": "03. Genesis 2:1 - 2:25",
+      "book": 0,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=NFCQiTlk4BA",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "-kMGWiQ9Vdg",
+      "title": "04. Genesis 3:1 - 3:24",
+      "book": 0,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=-kMGWiQ9Vdg",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "e2AJdc81j0I",
+      "title": "05. Genesis 4:1  -  5:3",
+      "book": 0,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        5,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=e2AJdc81j0I",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "vQpZQ7VfnCA",
+      "title": "06. Genesis 5:4  - 5:32",
+      "book": 0,
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        5,
+        32
+      ],
+      "url": "https://www.youtube.com/watch?v=vQpZQ7VfnCA",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "9-o3o7ZzXHg",
+      "title": "07. Genesis 6:1  -  6:22",
+      "book": 0,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=9-o3o7ZzXHg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "kCNz4NWgDFQ",
+      "title": "08. Genesis 7:1 - 8:14",
+      "book": 0,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        8,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=kCNz4NWgDFQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "gy7P7qXRyAE",
+      "title": "09. Genesis 8:15 - 9:29",
+      "book": 0,
+      "start": [
+        8,
+        15
+      ],
+      "end": [
+        9,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=gy7P7qXRyAE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "7yooF12R-GQ",
+      "title": "10. Genesis 10:2  - 12:9",
+      "book": 0,
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        12,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=7yooF12R-GQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "5_c4ga3Q11U",
+      "title": "11. Genesis 12:11 - 14:12",
+      "book": 0,
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        14,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=5_c4ga3Q11U",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "bppA6joWXjs",
+      "title": "12. Genesis 14:13 - 15:21",
+      "book": 0,
+      "start": [
+        14,
+        13
+      ],
+      "end": [
+        15,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=bppA6joWXjs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "9b7QAOaf78Q",
+      "title": "13. Genesis 16:1 - 17:15",
+      "book": 0,
+      "start": [
+        16,
+        1
+      ],
+      "end": [
+        17,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=9b7QAOaf78Q",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "dyuI-oT2w2o",
+      "title": "14. Genesis 17:16 - 19:11",
+      "book": 0,
+      "start": [
+        17,
+        16
+      ],
+      "end": [
+        19,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=dyuI-oT2w2o",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "7kXaQhdcf6Y",
+      "title": "15. Genesis 19:12 - 19:38",
+      "book": 0,
+      "start": [
+        19,
+        12
+      ],
+      "end": [
+        19,
+        38
+      ],
+      "url": "https://www.youtube.com/watch?v=7kXaQhdcf6Y",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "I6OCXxsjGjU",
+      "title": "16. Genesis 20:1 -  21:16",
+      "book": 0,
+      "start": [
+        20,
+        1
+      ],
+      "end": [
+        21,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=I6OCXxsjGjU",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "e4skrAtgLZ8",
+      "title": "17. Genesis 21:17 - 22:14",
+      "book": 0,
+      "start": [
+        21,
+        17
+      ],
+      "end": [
+        22,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=e4skrAtgLZ8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "STTXD9-M6yo",
+      "title": "18. Genesis 22:15 - 24:5",
+      "book": 0,
+      "start": [
+        22,
+        15
+      ],
+      "end": [
+        24,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=STTXD9-M6yo",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "C5DPoHr5e-s",
+      "title": "19. Genesis 24:6 - 24:50",
+      "book": 0,
+      "start": [
+        24,
+        6
+      ],
+      "end": [
+        24,
+        50
+      ],
+      "url": "https://www.youtube.com/watch?v=C5DPoHr5e-s",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "Y0om1eZAv3o",
+      "title": "20. Genesis 24:46  -  25:20",
+      "book": 0,
+      "start": [
+        24,
+        46
+      ],
+      "end": [
+        25,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=Y0om1eZAv3o",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "eyzNltlNwes",
+      "title": "21. Genesis 25:24 - 26:35",
+      "book": 0,
+      "start": [
+        25,
+        24
+      ],
+      "end": [
+        26,
+        35
+      ],
+      "url": "https://www.youtube.com/watch?v=eyzNltlNwes",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "Xyt4ck6FTZ0",
+      "title": "22. Genesis 27:1  -  27:39",
+      "book": 0,
+      "start": [
+        27,
+        1
+      ],
+      "end": [
+        27,
+        39
+      ],
+      "url": "https://www.youtube.com/watch?v=Xyt4ck6FTZ0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "858ZC1J4iEs",
+      "title": "23. Genesis 27:40 -  28:22",
+      "book": 0,
+      "start": [
+        27,
+        40
+      ],
+      "end": [
+        28,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=858ZC1J4iEs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "JLijWGis8Xc",
+      "title": "24. Genesis 29:1 -  30:22",
+      "book": 0,
+      "start": [
+        29,
+        1
+      ],
+      "end": [
+        30,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=JLijWGis8Xc",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "JNpAbWqkiVI",
+      "title": "25. Genesis 30:23 -  31:35",
+      "book": 0,
+      "start": [
+        30,
+        23
+      ],
+      "end": [
+        31,
+        35
+      ],
+      "url": "https://www.youtube.com/watch?v=JNpAbWqkiVI",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "ZjkLaRvH1Ns",
+      "title": "27. Genesis 32:25 - 34:7",
+      "book": 0,
+      "start": [
+        32,
+        25
+      ],
+      "end": [
+        34,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=ZjkLaRvH1Ns",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "DzaVNyMiE18",
+      "title": "28. Genesis 34:8 - 35:29",
+      "book": 0,
+      "start": [
+        34,
+        8
+      ],
+      "end": [
+        35,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=DzaVNyMiE18",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherEvidence": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=DzaVNyMiE18",
+        "basis": "Public search metadata explicitly names Pastor Arnold Murray with this exact published passage range; full playback untested."
+      }
+    },
+    {
+      "id": "11d2bO_iMeE",
+      "title": "29. Genesis 36:43 -  38:10",
+      "book": 0,
+      "start": [
+        36,
+        43
+      ],
+      "end": [
+        38,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=11d2bO_iMeE",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "1WmVBtBMf2w",
+      "title": "30. Genesis 38:11 - 39:2",
+      "book": 0,
+      "start": [
+        38,
+        11
+      ],
+      "end": [
+        39,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=1WmVBtBMf2w",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "AHCOrF1Qqr0",
+      "title": "31 Genesis 39:22 - 41:40",
+      "book": 0,
+      "start": [
+        39,
+        22
+      ],
+      "end": [
+        41,
+        40
+      ],
+      "url": "https://www.youtube.com/watch?v=AHCOrF1Qqr0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "O-jdQazosKE",
+      "title": "32. Genesis  41:41 - 43:7",
+      "book": 0,
+      "start": [
+        41,
+        41
+      ],
+      "end": [
+        43,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=O-jdQazosKE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "EeA1uW-FDAo",
+      "title": "33. Genesis 43:8 - 45:8",
+      "book": 0,
+      "start": [
+        43,
+        8
+      ],
+      "end": [
+        45,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=EeA1uW-FDAo",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "IE8viunJ8_0",
+      "title": "34. Genesis 45:9 - 46:34",
+      "book": 0,
+      "start": [
+        45,
+        9
+      ],
+      "end": [
+        46,
+        34
+      ],
+      "url": "https://www.youtube.com/watch?v=IE8viunJ8_0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "pzI9hEsNFqg",
+      "title": "35. Genesis 47:1 - 47:31",
+      "book": 0,
+      "start": [
+        47,
+        1
+      ],
+      "end": [
+        47,
+        31
+      ],
+      "url": "https://www.youtube.com/watch?v=pzI9hEsNFqg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "ATcUQTlV1lQ",
+      "title": "36. Genesis 48:1 - 49:6",
+      "book": 0,
+      "start": [
+        48,
+        1
+      ],
+      "end": [
+        49,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=ATcUQTlV1lQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "zeNZirZVJEo",
+      "title": "37. Genesis 49:7 - 49:33",
+      "book": 0,
+      "start": [
+        49,
+        7
+      ],
+      "end": [
+        49,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=zeNZirZVJEo",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "QEVTowCzPrk",
+      "title": "37. Genesis 49:7  -  49:33 (Audio Bad, Alternate posted)",
+      "book": 0,
+      "start": [
+        49,
+        7
+      ],
+      "end": [
+        49,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=QEVTowCzPrk",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "tAxDBzEOWUc",
+      "title": "38. Genesis 49:32 - 50:26",
+      "book": 0,
+      "start": [
+        49,
+        32
+      ],
+      "end": [
+        50,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=tAxDBzEOWUc",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2oLJAZhd5EExlHl-BfRsFc",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ]
+}

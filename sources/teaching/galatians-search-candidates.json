@@ -1,0 +1,298 @@
+{
+  "book": "Galatians",
+  "summary": {
+    "coverage": {
+      "matched": 149,
+      "total": 149
+    },
+    "linkedVideos": 6,
+    "addedLessons": 5,
+    "candidateVideos": 11,
+    "candidateRangeCoverage": 149,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 5,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "zuREH04H5H0",
+      "title": "Tuesday 12/24/19 Galatians 1:1 - 2:7",
+      "book": 47,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=zuREH04H5H0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQhfHMhRBneuDPQxlOa5uXY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/12-24-19-galatians-by-pastor-arnold-murray-1-1-2-7-t56246.html",
+        "basis": "Series-level inference from public search-index record naming Arnold and listing all five official Galatians ranges. Source opening failed; not retried. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "KTQWdRUOxI4",
+      "title": "Thursday 12/26/19 Galatians 2:8 - 3:14",
+      "book": 47,
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        3,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=KTQWdRUOxI4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQhfHMhRBneuDPQxlOa5uXY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/12-24-19-galatians-by-pastor-arnold-murray-1-1-2-7-t56246.html",
+        "basis": "Series-level inference from public search-index record naming Arnold and listing all five official Galatians ranges. Source opening failed; not retried. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "Yee8G1tb8z4",
+      "title": "Friday 12/27/19 Galatians 3:15 - 4:12",
+      "book": 47,
+      "start": [
+        3,
+        15
+      ],
+      "end": [
+        4,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=Yee8G1tb8z4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQhfHMhRBneuDPQxlOa5uXY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/12-24-19-galatians-by-pastor-arnold-murray-1-1-2-7-t56246.html",
+        "basis": "Series-level inference from public search-index record naming Arnold and listing all five official Galatians ranges. Source opening failed; not retried. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "yPBwaMsS_6k",
+      "title": "Monday 12/30/19 Galatians 4:13 - 5:15",
+      "book": 47,
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        5,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=yPBwaMsS_6k",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQhfHMhRBneuDPQxlOa5uXY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/12-24-19-galatians-by-pastor-arnold-murray-1-1-2-7-t56246.html",
+        "basis": "Series-level inference from public search-index record naming Arnold and listing all five official Galatians ranges. Source opening failed; not retried. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "Az5rcxFac9I",
+      "title": "Tuesday 12/31/19 Galatians 5:16 - END",
+      "book": 47,
+      "start": [
+        5,
+        16
+      ],
+      "end": [
+        6,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=Az5rcxFac9I",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQhfHMhRBneuDPQxlOa5uXY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/12-24-19-galatians-by-pastor-arnold-murray-1-1-2-7-t56246.html",
+        "basis": "Series-level inference from public search-index record naming Arnold and listing all five official Galatians ranges. Source opening failed; not retried. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "Er2A6obVyM0",
+      "title": "01. Galatians 1:1 - 2:8",
+      "book": 47,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=Er2A6obVyM0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0juC8tbiez5qBlnjcftuI_",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "dVqGK3YwDEc",
+      "title": "02. Galatians 2:5 - 3:6",
+      "book": 47,
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=dVqGK3YwDEc",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0juC8tbiez5qBlnjcftuI_",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "mdIaCr2OdZ0",
+      "title": "03. Galatians 3:7 - 3:13",
+      "book": 47,
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        3,
+        13
+      ],
+      "url": "https://www.youtube.com/watch?v=mdIaCr2OdZ0",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0juC8tbiez5qBlnjcftuI_",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "0jSfnH29a0A",
+      "title": "04. Galatians 3:14 - 4:9",
+      "book": 47,
+      "start": [
+        3,
+        14
+      ],
+      "end": [
+        4,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=0jSfnH29a0A",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0juC8tbiez5qBlnjcftuI_",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "mrtsHtOrecg",
+      "title": "05. Galatians 4:10 - 5:14",
+      "book": 47,
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        5,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=mrtsHtOrecg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0juC8tbiez5qBlnjcftuI_",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "Zi6Y6ow5pQw",
+      "title": "06. Galatians 5:15 - 6:18 END",
+      "book": 47,
+      "start": [
+        5,
+        15
+      ],
+      "end": [
+        6,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=Zi6Y6ow5pQw",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0juC8tbiez5qBlnjcftuI_",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ],
+  "unmappedCandidates": []
+}

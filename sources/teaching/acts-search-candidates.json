@@ -1,0 +1,59 @@
+{
+  "book": "Acts",
+  "teacherPolicy": "Arnold primary, Dennis fallback per verse",
+  "candidates": [
+    {
+      "id": "cPYg-xrzjHg",
+      "title": "Acts 1:1 - 1:26",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=cPYg-xrzjHg",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "teacher": null,
+      "official": true,
+      "discoveryMethod": "Public web search",
+      "status": "Newer alternate upload; teacher unconfirmed",
+      "playbackChecked": false
+    },
+    {
+      "id": "iNQ90ZuLWLc",
+      "title": "Acts 1:1 to 1:26 rebroadcast",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        26
+      ],
+      "url": "https://www.youtube.com/watch?v=iNQ90ZuLWLc",
+      "channel": "Shepherds Chapel Bible Studies",
+      "teacher": null,
+      "official": false,
+      "discoveryMethod": "Public web search",
+      "status": "Alternate upload; teacher unconfirmed",
+      "playbackChecked": false
+    }
+  ],
+  "metadataDiscrepancies": [
+    {
+      "passage": "Acts 13:39\u201314:19",
+      "issue": "2015 archive types starting verse 49; saved official title says 39."
+    },
+    {
+      "passage": "Acts 21:39\u201324:27",
+      "issue": "Archive lecture 23/24 entries have inconsistent chapter/verse bounds; keep official published video ranges and flag archive transcription."
+    },
+    {
+      "passage": "Acts 19:3\u201319:41",
+      "issue": "Archive says starting verse 1; official title says 3."
+    }
+  ],
+  "excluded": []
+}

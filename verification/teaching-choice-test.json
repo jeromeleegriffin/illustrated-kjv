@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "duplicatePassageGroups": 477,
+  "booksWithChoices": 47,
+  "checks": [
+    "Review page loads actual mapping",
+    "At most three distinct options per passage",
+    "Choose and reload preserves selection",
+    "Reader uses saved choice",
+    "Automatic reset restores default",
+    "Previous/next navigation",
+    "Reading progress and font keys unchanged",
+    "Storage errors handled",
+    "Saved option remains in shortlist"
+  ],
+  "limitations": [
+    "DOM mock interaction checks; no real browser layout verification",
+    "No video playback verification"
+  ]
+}

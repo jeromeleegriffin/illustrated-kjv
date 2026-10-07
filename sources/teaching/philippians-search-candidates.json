@@ -1,0 +1,290 @@
+{
+  "book": "Philippians",
+  "summary": {
+    "coverage": {
+      "matched": 104,
+      "total": 104
+    },
+    "linkedVideos": 5,
+    "addedLessons": 5,
+    "candidateVideos": 10,
+    "candidateRangeCoverage": 104,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 5,
+    "excludedCandidates": 0
+  },
+  "candidates": [
+    {
+      "id": "fy87xUfUVhY",
+      "title": "Wednesday 1/8/20 Philippians 1:1 - 1:27",
+      "book": 49,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        27
+      ],
+      "url": "https://www.youtube.com/watch?v=fy87xUfUVhY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgS-aRhlzMMW5Pw6zrKQY9M8",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/1-8-19-philippians-by-pastor-arnold-murray-t56297.html",
+        "basis": "Inferred from a public search index of the January 2020 Philippians broadcast record naming Pastor Arnold Murray, matching the opening two published ranges and broadcast dates. The full source page returned HTTP 429 and was not retried. Later lessons are series-level inference, not individual playback confirmation.",
+        "series": "Philippians, January 2020 rebroadcast",
+        "matchingRanges": 2,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "IYrty1QFYIU",
+      "title": "Thursday 1/9/20 Philippians 1:28 - 2:22",
+      "book": 49,
+      "start": [
+        1,
+        28
+      ],
+      "end": [
+        2,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=IYrty1QFYIU",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgS-aRhlzMMW5Pw6zrKQY9M8",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/1-8-19-philippians-by-pastor-arnold-murray-t56297.html",
+        "basis": "Inferred from a public search index of the January 2020 Philippians broadcast record naming Pastor Arnold Murray, matching the opening two published ranges and broadcast dates. The full source page returned HTTP 429 and was not retried. Later lessons are series-level inference, not individual playback confirmation.",
+        "series": "Philippians, January 2020 rebroadcast",
+        "matchingRanges": 2,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "jzi1s5ZNdOE",
+      "title": "Friday 1/10/20 Philippians 2:23 - 3:11",
+      "book": 49,
+      "start": [
+        2,
+        23
+      ],
+      "end": [
+        3,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=jzi1s5ZNdOE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgS-aRhlzMMW5Pw6zrKQY9M8",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/1-8-19-philippians-by-pastor-arnold-murray-t56297.html",
+        "basis": "Inferred from a public search index of the January 2020 Philippians broadcast record naming Pastor Arnold Murray, matching the opening two published ranges and broadcast dates. The full source page returned HTTP 429 and was not retried. Later lessons are series-level inference, not individual playback confirmation.",
+        "series": "Philippians, January 2020 rebroadcast",
+        "matchingRanges": 2,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "RGz0ThP--OY",
+      "title": "Monday 1/13/20 Philippians 3:12 - 4:3",
+      "book": 49,
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=RGz0ThP--OY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgS-aRhlzMMW5Pw6zrKQY9M8",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/1-8-19-philippians-by-pastor-arnold-murray-t56297.html",
+        "basis": "Inferred from a public search index of the January 2020 Philippians broadcast record naming Pastor Arnold Murray, matching the opening two published ranges and broadcast dates. The full source page returned HTTP 429 and was not retried. Later lessons are series-level inference, not individual playback confirmation.",
+        "series": "Philippians, January 2020 rebroadcast",
+        "matchingRanges": 2,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "2J-JLzemPDo",
+      "title": "Tuesday 1/14/19 Philippians 4:4 - END",
+      "book": 49,
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        4,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=2J-JLzemPDo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgS-aRhlzMMW5Pw6zrKQY9M8",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/1-8-19-philippians-by-pastor-arnold-murray-t56297.html",
+        "basis": "Inferred from a public search index of the January 2020 Philippians broadcast record naming Pastor Arnold Murray, matching the opening two published ranges and broadcast dates. The full source page returned HTTP 429 and was not retried. Later lessons are series-level inference, not individual playback confirmation.",
+        "series": "Philippians, January 2020 rebroadcast",
+        "matchingRanges": 2,
+        "totalLessons": 5
+      }
+    },
+    {
+      "id": "hfZ3F-ICgUE",
+      "title": "01. Philippians 1:1 - 1:23",
+      "book": 49,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=hfZ3F-ICgUE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3N2wyFeNhJP2euKbZ4OVSy",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "HfTwDmFjASs",
+      "title": "02. Philippians 1:24 - 2:15",
+      "book": 49,
+      "start": [
+        1,
+        24
+      ],
+      "end": [
+        2,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=HfTwDmFjASs",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3N2wyFeNhJP2euKbZ4OVSy",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "bfObxMSlpsk",
+      "title": "03. Philippians 2:16 - 3:12",
+      "book": 49,
+      "start": [
+        2,
+        16
+      ],
+      "end": [
+        3,
+        12
+      ],
+      "url": "https://www.youtube.com/watch?v=bfObxMSlpsk",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3N2wyFeNhJP2euKbZ4OVSy",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "Pegk22_yxho",
+      "title": "04. Philippians 3:11 - 4:3",
+      "book": 49,
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=Pegk22_yxho",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3N2wyFeNhJP2euKbZ4OVSy",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "EbbhFilcjaI",
+      "title": "05. Philippians 4:4 - 4:23 END",
+      "book": 49,
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        4,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=EbbhFilcjaI",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3N2wyFeNhJP2euKbZ4OVSy",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ],
+  "excludedCandidates": []
+}

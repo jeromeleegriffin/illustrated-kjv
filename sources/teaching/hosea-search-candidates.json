@@ -1,0 +1,582 @@
+{
+  "book": "Hosea",
+  "summary": {
+    "coverage": {
+      "matched": 197,
+      "total": 197
+    },
+    "linkedVideos": 14,
+    "addedLessons": 0,
+    "candidateVideos": 24,
+    "candidateRangeCoverage": 197,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 10,
+    "unmappedCandidateVideos": 1
+  },
+  "candidates": [
+    {
+      "id": "g3Akg2cN0a8",
+      "title": "Hosea 1:1 - 2:19",
+      "book": 27,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=g3Akg2cN0a8",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "2ZE134KdChI",
+      "title": "Hosea 2:20 - 4:9",
+      "book": 27,
+      "start": [
+        2,
+        20
+      ],
+      "end": [
+        4,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=2ZE134KdChI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "vxz3v9-gAHE",
+      "title": "Hosea 4:10 - 5:15",
+      "book": 27,
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        5,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=vxz3v9-gAHE",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "WEVKN6M8NZk",
+      "title": "Hosea 8:1 - 9:10",
+      "book": 27,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        9,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=WEVKN6M8NZk",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "RGAHz1JOTy8",
+      "title": "Hosea 9:11 - 10:15",
+      "book": 27,
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        10,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=RGAHz1JOTy8",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "vora81I_iiI",
+      "title": "Hosea 11:1 - 12:11",
+      "book": 27,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        12,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=vora81I_iiI",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "G773FhiVcSQ",
+      "title": "Hosea 12:12 -  End",
+      "book": 27,
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        14,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=G773FhiVcSQ",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "fRwwcXlU2GY",
+      "title": "Hosea 12:12 - 14:9",
+      "book": 27,
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        14,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=fRwwcXlU2GY",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "t7uQB02c6Ps",
+      "title": "Hosea 11:1 - 12:11",
+      "book": 27,
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        12,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=t7uQB02c6Ps",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "C50hXJVI4J0",
+      "title": "Hosea 9:11 - 10:15",
+      "book": 27,
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        10,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=C50hXJVI4J0",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "U9YkjTcPXps",
+      "title": "Hosea 8:1 - 9:10",
+      "book": 27,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        9,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=U9YkjTcPXps",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "wSVfkE8Njho",
+      "title": "Hosea 6:1 - 7:16",
+      "book": 27,
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        7,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=wSVfkE8Njho",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "dP3tg0EjWXM",
+      "title": "Hosea 4:10 - 5:14",
+      "book": 27,
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        5,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=dP3tg0EjWXM",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "yuNVbvBfdlY",
+      "title": "Hosea 2:20 - 4:9",
+      "book": 27,
+      "start": [
+        2,
+        20
+      ],
+      "end": [
+        4,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=yuNVbvBfdlY",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "bB-bBWNc6xs",
+      "title": "Hosea 1:1 - 2:19",
+      "book": 27,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=bB-bBWNc6xs",
+      "teacher": null,
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "4u_LZ0A1Fyw",
+      "title": "01. Hosea 1:1 - 2:6",
+      "book": 27,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=4u_LZ0A1Fyw",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "cDqcHRceIPQ",
+      "title": "02. Hosea 2:7 - 4:6",
+      "book": 27,
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        4,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=cDqcHRceIPQ",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "OPKtPcoHA0c",
+      "title": "03. Hosea 4:7 - 5:4",
+      "book": 27,
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        5,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=OPKtPcoHA0c",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "3K-cJh7FveM",
+      "title": "04. Hosea 5:5 - 6:11",
+      "book": 27,
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        6,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=3K-cJh7FveM",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "h6ACLugcUbY",
+      "title": "05. Hosea 7:1 -  8:7",
+      "book": 27,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        8,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=h6ACLugcUbY",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "EV151G0queA",
+      "title": "06. Hosea 8:8 - 9:17",
+      "book": 27,
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        9,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=EV151G0queA",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "ZF8d1Dfpy9Q",
+      "title": "07. Hosea 10:1 - 11:4",
+      "book": 27,
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        11,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=ZF8d1Dfpy9Q",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "j5QYSXQiK4A",
+      "title": "08. Hosea 11:5  - 12:10",
+      "book": 27,
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        12,
+        10
+      ],
+      "url": "https://www.youtube.com/watch?v=j5QYSXQiK4A",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "2qIFYt6cPls",
+      "title": "09. Hosea 12:11 - 14:9",
+      "book": 27,
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        14,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=2qIFYt6cPls",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2j4e62WCa-6kYVfEnNZJWD",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": [
+    {
+      "id": "2s8EzNZn1vk",
+      "title": "Hosea 6:1 - 7:17",
+      "url": "https://www.youtube.com/watch?v=2s8EzNZn1vk",
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "teacher": null,
+      "playbackChecked": false,
+      "status": "Published verse range missing or invalid; teacher confirmation also required"
+    }
+  ]
+}

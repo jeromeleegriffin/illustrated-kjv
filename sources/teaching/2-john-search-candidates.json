@@ -1,0 +1,72 @@
+{
+  "book": "2 John",
+  "summary": {
+    "coverage": {
+      "matched": 13,
+      "total": 13
+    },
+    "linkedVideos": 1,
+    "addedLessons": 1,
+    "candidateVideos": 2,
+    "candidateRangeCoverage": 13,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 1
+  },
+  "candidates": [
+    {
+      "id": "knj97IaubCg",
+      "title": "2nd and 3rd Epistle of John 1:1 - END",
+      "book": 62,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        13
+      ],
+      "url": "https://www.youtube.com/watch?v=knj97IaubCg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgSwJBaLQy3Ndce4SF7Ko1Lj",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Both named short epistles mapped from 1:1 to their KJV endings using published END title and archival Series 202 lecture 6 context; transition timestamps untested",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2015-t30599.html",
+        "basis": "Inferred by matching official John epistle playlist sequence to the archival Arnold Murray Series 202 broadcast record: four exact opening ranges, final combined epistle lesson, and final 1 John chapter. Archive has erroneous 5:31; retain published video end 5:21. Full playback untested.",
+        "series": "202, March 2010",
+        "matchingRanges": 4,
+        "totalLessons": 6
+      }
+    },
+    {
+      "id": "ihG1LqKfXMM",
+      "title": "07.  II John 1:1 - 1:13 & III John 1:1 - 1:14 END",
+      "book": 62,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        13
+      ],
+      "url": "https://www.youtube.com/watch?v=ihG1LqKfXMM",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0OD4RlseMQkX7pUYXJBv8D",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ]
+}

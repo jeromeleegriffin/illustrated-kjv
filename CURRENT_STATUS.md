@@ -1,11 +1,11 @@
 # Current status
 
-Revision 006. Collapsible reader menu and Genesis teaching links, on top of revision 005. Candidate Bible_4-3.zip SHA-256 27d73c27335c7939e3b713df8ab121a9787dc62f1da032f1e85633c9d35a5e99.
+Revision 012. Recording-choice review on the existing Bible-first reader. Candidate 012.zip SHA-256 4fce90696de88901e73a8aeef23f23752c29761d8098b4794fca05a2199bc35a.
 
 Repository: https://github.com/jeromeleegriffin/illustrated-kjv
 Publish directory: gh-pages root, https://jeromeleegriffin.github.io/illustrated-kjv/
-Before this update: main d3bbe3fbee746ba85e84e53aee6d5523986e8159, live Pages 30d4dab919200b7312a3a57f6d3df64b7d0007bb (revision 005).
+Before this update: main d2ac1e8d205f555e77db96a407f3fe8ebcb0499e, gh-pages 965cd0dbd2a48afe97431e0017b4b1199a89bd96 (revision 006).
 
-Local checks 2026-10-06: verify_data.py PASS. verify_menu_video.cjs PASS on phone 390x844 and desktop 1440x1000 at http://127.0.0.1:8767/illustrated-bible/dist/. Genesis 35:27-29 remain unmatched. No timestamps added.
+1,304 teaching mappings covering all 31,102 verses. Recording choices up to three per passage. Owner-approved corrections included. Genesis and later teaching remain separate from Scripture. No timestamps claimed.
 
-Browser data stays local. Reading key illustrated-kjv-reading-v1. Font key illustrated-kjv-font-size-v1.
+Browser data stays local. Reading key illustrated-kjv-reading-v1. Font key illustrated-kjv-font-size-v1. Recording choices persist in this browser and origin only.

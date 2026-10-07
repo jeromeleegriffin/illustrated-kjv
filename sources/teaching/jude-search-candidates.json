@@ -1,0 +1,69 @@
+{
+  "book": "Jude",
+  "summary": {
+    "coverage": {
+      "matched": 25,
+      "total": 25
+    },
+    "linkedVideos": 1,
+    "addedLessons": 1,
+    "candidateVideos": 2,
+    "candidateRangeCoverage": 25,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 1
+  },
+  "candidates": [
+    {
+      "id": "G_J8XchwmFI",
+      "title": "7281Jude 1:1 - End",
+      "book": 64,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=G_J8XchwmFI",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTaY0ijgEQDbmWIJkwMquZT",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "KetgVB2kG4o",
+      "title": "Jude 1:1 - 1:25 END",
+      "book": 64,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=KetgVB2kG4o",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D3qmhb6Vouf7tpSwhqMpqJ5",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherEvidence": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=KetgVB2kG4o",
+        "basis": "Public search metadata explicitly names Pastor Arnold Murray with this exact published passage range; full playback untested."
+      }
+    }
+  ]
+}

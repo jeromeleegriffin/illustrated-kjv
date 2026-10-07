@@ -1,0 +1,183 @@
+{
+  "book": "Ruth",
+  "summary": {
+    "coverage": {
+      "matched": 85,
+      "total": 85
+    },
+    "linkedVideos": 4,
+    "addedLessons": 1,
+    "candidateVideos": 6,
+    "candidateRangeCoverage": 85,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 2
+  },
+  "candidates": [
+    {
+      "id": "LMEN5JhKAwE",
+      "title": "Ruth 1:1 - 3:2",
+      "book": 7,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        3,
+        2
+      ],
+      "url": "https://www.youtube.com/watch?v=LMEN5JhKAwE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTH6qDcScIhN1XKzOLIvk7t",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=LMEN5JhKAwE",
+        "basis": "Inferred for this official playlist from 2 individually named cached official video descriptions in the same book sequence. Unnamed recordings remain series-level inference; full playback untested.",
+        "corroboratingVideos": [
+          "LMEN5JhKAwE",
+          "Va9JWNwp2qo"
+        ]
+      }
+    },
+    {
+      "id": "Va9JWNwp2qo",
+      "title": "Ruth 3:1 - 4:6",
+      "book": 7,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        4,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=Va9JWNwp2qo",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTH6qDcScIhN1XKzOLIvk7t",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=LMEN5JhKAwE",
+        "basis": "Inferred for this official playlist from 2 individually named cached official video descriptions in the same book sequence. Unnamed recordings remain series-level inference; full playback untested.",
+        "corroboratingVideos": [
+          "LMEN5JhKAwE",
+          "Va9JWNwp2qo"
+        ]
+      }
+    },
+    {
+      "id": "rjVB9tyj7Ks",
+      "title": "Ruth 4:7 - End",
+      "book": 7,
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        4,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=rjVB9tyj7Ks",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTH6qDcScIhN1XKzOLIvk7t",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.youtube.com/watch?v=LMEN5JhKAwE",
+        "basis": "Inferred for this official playlist from 2 individually named cached official video descriptions in the same book sequence. Unnamed recordings remain series-level inference; full playback untested.",
+        "corroboratingVideos": [
+          "LMEN5JhKAwE",
+          "Va9JWNwp2qo"
+        ]
+      }
+    },
+    {
+      "id": "043rbi_4qjM",
+      "title": "01. Ruth 1:1 - 2:4",
+      "book": 7,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=043rbi_4qjM",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0Gl6F-uXvG5HCb_IWpNdka",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "UFrXHFxw4xU",
+      "title": "02. Ruth 2:16 - 3:18",
+      "book": 7,
+      "start": [
+        2,
+        16
+      ],
+      "end": [
+        3,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=UFrXHFxw4xU",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0Gl6F-uXvG5HCb_IWpNdka",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "rl_P4vudpPg",
+      "title": "03. Ruth 4:1 - 4:22 END",
+      "book": 7,
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        22
+      ],
+      "url": "https://www.youtube.com/watch?v=rl_P4vudpPg",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0Gl6F-uXvG5HCb_IWpNdka",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ]
+}

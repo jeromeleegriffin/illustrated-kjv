@@ -1,0 +1,35 @@
+{
+  "id": "dDEZ3IyUfJk",
+  "title": "01. Esther - part 1",
+  "url": "https://www.youtube.com/watch?v=dDEZ3IyUfJk",
+  "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0a6yVvQBHUO9Ol9QsYXqYv",
+  "teacher": "Arnold Murray",
+  "playbackChecked": false,
+  "status": "Owner-confirmed teacher and passage range; full playback not independently tested",
+  "book": 16,
+  "start": [
+    1,
+    1
+  ],
+  "end": [
+    6,
+    14
+  ],
+  "channel": "Shepherds Student",
+  "official": false,
+  "timestampSeconds": null,
+  "checked": "2026-10-07",
+  "mappingBasis": "Jerome Griffin confirmed Arnold Murray and range 1:1–6:14 in response to this exact part 1 video link",
+  "ownerReview": {
+    "teacherConfirmedBy": "Jerome Griffin",
+    "date": "2026-10-07",
+    "start": [
+      1,
+      1
+    ],
+    "end": [
+      6,
+      14
+    ]
+  }
+}

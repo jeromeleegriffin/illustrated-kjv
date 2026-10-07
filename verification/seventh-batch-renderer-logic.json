@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "versesChecked": 3982,
+  "arnoldPrimaryVerses": 569,
+  "dennisFallbackVerses": 3413,
+  "unlinkedVerses": 0,
+  "checks": [
+    "Actual renderer chooses one primary link for covered verses and an explicit gap otherwise",
+    "Arnold-first and official-source ordering",
+    "Dennis fallback credit",
+    "Inference notice for inferred records"
+  ],
+  "limitation": "DOM mock tests renderer logic only; browser layout and video playback are not tested."
+}

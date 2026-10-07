@@ -1,0 +1,71 @@
+{
+  "book": "Philemon",
+  "summary": {
+    "coverage": {
+      "matched": 25,
+      "total": 25
+    },
+    "linkedVideos": 2,
+    "addedLessons": 1,
+    "candidateVideos": 2,
+    "candidateRangeCoverage": 25,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 0,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "l_QPgJktyjQ",
+      "title": "Wednesday 5/10/23 Philemon 1:1 - END",
+      "book": 56,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=l_QPgJktyjQ",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgQViHVSWoRCDPbitLGXU_zk",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/5-10-23-book-of-philemon-by-pastor-arnold-murray-t63302.html",
+        "basis": "Public search-index record names Arnold for same May 10, 2023 Philemon broadcast and full-book range. Full source opening failed; not retried. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "FKJBJnM4fqU",
+      "title": "03. Philemon 1:2 - 1:25 END",
+      "book": 56,
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=FKJBJnM4fqU",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1L_OC9OAfAEZuAVQwcxjiC",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": []
+}

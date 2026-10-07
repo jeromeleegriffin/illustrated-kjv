@@ -1,0 +1,267 @@
+{
+  "book": "Malachi",
+  "summary": {
+    "coverage": {
+      "matched": 55,
+      "total": 55
+    },
+    "linkedVideos": 8,
+    "addedLessons": 3,
+    "candidateVideos": 8,
+    "candidateRangeCoverage": 55,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 0,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "iML2LppMqyY",
+      "title": "Malachi 1:1 - 1:4",
+      "book": 38,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        4
+      ],
+      "url": "https://www.youtube.com/watch?v=iML2LppMqyY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested. Malachi extension supported by same Series 243 archive and three official published titles.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "suJf72_JzVI",
+      "title": "Malachi 2:1 - 2:17",
+      "book": 38,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=suJf72_JzVI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested. Malachi extension supported by same Series 243 archive and three official published titles.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "zfRQvZCMIvY",
+      "title": "Malachi 3:1 - End",
+      "book": 38,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        4,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=zfRQvZCMIvY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRpAOU97FpH665uymk_FkyG",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "bookScope": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "source": "https://www.tapatalk.com/groups/theseason/shepherds-chapel-daily-broadcast-record-for-2016-t35853.html",
+        "basis": "Series-level inference for Joel through Zechariah: 2016 broadcast record explicitly credits Arnold Murray for Minor Prophets Series 243 and matches official lesson sequence. Thirty-eight cached official playlist descriptions individually credit Arnold, with no Dennis credit found. Playlist contains alternate rebroadcast copies and a few shortened endpoints; preserve original titles/ranges. Full playback untested. Malachi extension supported by same Series 243 archive and three official published titles.",
+        "series": "243, Minor Prophets",
+        "individuallyNamedCachedLessons": 38,
+        "totalPlaylistVideos": 85
+      }
+    },
+    {
+      "id": "WX_F-lDUk6U",
+      "title": "01. Malachi 1:1 - 1:8",
+      "book": 38,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=WX_F-lDUk6U",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C0njUvqCEfsUTUrpzwOFY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Z6ephShMdz0",
+      "title": "02. Malachi 1:9 - 2:3",
+      "book": 38,
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "url": "https://www.youtube.com/watch?v=Z6ephShMdz0",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C0njUvqCEfsUTUrpzwOFY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "wc-u6FjvjZo",
+      "title": "03. Malachi 2:4 - 2:17",
+      "book": 38,
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=wc-u6FjvjZo",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C0njUvqCEfsUTUrpzwOFY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "OcnGNXj6Zyk",
+      "title": "04. Malachi 3:1 - 3:7",
+      "book": 38,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        7
+      ],
+      "url": "https://www.youtube.com/watch?v=OcnGNXj6Zyk",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C0njUvqCEfsUTUrpzwOFY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "sFuWRnjFnIQ",
+      "title": "05. Malachi 3:8 - 4:6 END",
+      "book": 38,
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        4,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=sFuWRnjFnIQ",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2C0njUvqCEfsUTUrpzwOFY",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    }
+  ],
+  "unmappedCandidates": []
+}

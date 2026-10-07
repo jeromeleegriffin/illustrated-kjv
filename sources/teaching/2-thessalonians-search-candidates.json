@@ -1,0 +1,167 @@
+{
+  "book": "2 Thessalonians",
+  "summary": {
+    "coverage": {
+      "matched": 47,
+      "total": 47
+    },
+    "linkedVideos": 3,
+    "addedLessons": 0,
+    "candidateVideos": 4,
+    "candidateRangeCoverage": 41,
+    "unmatched": [],
+    "candidateUnmatched": [
+      [
+        2,
+        12
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        2,
+        14
+      ],
+      [
+        2,
+        15
+      ],
+      [
+        2,
+        16
+      ],
+      [
+        2,
+        17
+      ]
+    ],
+    "teacherPendingVideos": 2,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "Nv_0AV8dvsY",
+      "title": "Friday 1/1/21 II Thessalonians 2:1 - 2:11",
+      "book": 52,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=Nv_0AV8dvsY",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTlVlyM6wznWasMN8rY-eMu",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "CKDwnce5dRk",
+      "title": "Monday 1/4/21 II Thessalonians 3:1 - END",
+      "book": 52,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=CKDwnce5dRk",
+      "teacher": null,
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgTlVlyM6wznWasMN8rY-eMu",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "s3S12TE1dok",
+      "title": "01. II Thessalonians 1:1 - 2:6",
+      "book": 52,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=s3S12TE1dok",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2MkNX9iULqSQZuY-9MGfi7",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "JtamO5rTnhQ",
+      "title": "03. II Thessalonians 3:1 - 3:18 END",
+      "book": 52,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=JtamO5rTnhQ",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2MkNX9iULqSQZuY-9MGfi7",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "Y23KJsx-Kqc",
+      "title": "02. II Thessalonians 2:7 - 2:17",
+      "sourceTitle": "02. II Thessalonians 2:7 - 2:26",
+      "book": 52,
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        2,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=Y23KJsx-Kqc",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2MkNX9iULqSQZuY-9MGfi7",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published start at 2:7 and owner-provided playback screenshot at 2:17; erroneous source endpoint corrected",
+      "status": "Owner-confirmed teacher and screenshot-assisted range; full playback untested",
+      "ownerReview": {
+        "teacherConfirmedBy": "Jerome Griffin",
+        "date": "2026-10-07",
+        "screenshot": "1791350545033.jpeg",
+        "visiblePassage": "2 Thessalonians 2:17"
+      }
+    }
+  ],
+  "unmappedCandidates": []
+}

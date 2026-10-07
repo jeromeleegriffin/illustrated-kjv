@@ -1,0 +1,859 @@
+{
+  "book": "Romans",
+  "summary": {
+    "coverage": {
+      "matched": 433,
+      "total": 433
+    },
+    "linkedVideos": 17,
+    "addedLessons": 16,
+    "candidateVideos": 33,
+    "candidateRangeCoverage": 433,
+    "unmatched": [],
+    "candidateUnmatched": [],
+    "teacherPendingVideos": 16,
+    "unmappedCandidateVideos": 0
+  },
+  "candidates": [
+    {
+      "id": "xpxaaPIUUbc",
+      "title": "Romans 1:1 - 1:32",
+      "book": 44,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        32
+      ],
+      "url": "https://www.youtube.com/watch?v=xpxaaPIUUbc",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "fnoxSEkqW6I",
+      "title": "Romans 2:1 - 2:29",
+      "book": 44,
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=fnoxSEkqW6I",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "LXEiYSqc3dY",
+      "title": "Romans 3:1 - 3:25",
+      "book": 44,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=LXEiYSqc3dY",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "nTSjzNJ4crM",
+      "title": "Romans 3:26 - 4:19",
+      "book": 44,
+      "start": [
+        3,
+        26
+      ],
+      "end": [
+        4,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=nTSjzNJ4crM",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "C4X5C5hR3uQ",
+      "title": "Romans 4:20 - 5:20",
+      "book": 44,
+      "start": [
+        4,
+        20
+      ],
+      "end": [
+        5,
+        20
+      ],
+      "url": "https://www.youtube.com/watch?v=C4X5C5hR3uQ",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "jx7B3_BuCWk",
+      "title": "Romans 5:21 - 6:23",
+      "book": 44,
+      "start": [
+        5,
+        21
+      ],
+      "end": [
+        6,
+        23
+      ],
+      "url": "https://www.youtube.com/watch?v=jx7B3_BuCWk",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "Zw8HV-Il8s4",
+      "title": "Romans 7:1 - 7:25",
+      "book": 44,
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=Zw8HV-Il8s4",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "It4sCJMvHmI",
+      "title": "Romans 8:1 - 8:33",
+      "book": 44,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=It4sCJMvHmI",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "cgN44skffzg",
+      "title": "Romans 8:34 - 9:25",
+      "book": 44,
+      "start": [
+        8,
+        34
+      ],
+      "end": [
+        9,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=cgN44skffzg",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "Z1sA8ad3xcA",
+      "title": "Romans 9:26 - 10:13",
+      "book": 44,
+      "start": [
+        9,
+        26
+      ],
+      "end": [
+        10,
+        13
+      ],
+      "url": "https://www.youtube.com/watch?v=Z1sA8ad3xcA",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "fHwBea-Z8Zk",
+      "title": "Romans 10:14 - 11:16",
+      "book": 44,
+      "start": [
+        10,
+        14
+      ],
+      "end": [
+        11,
+        16
+      ],
+      "url": "https://www.youtube.com/watch?v=fHwBea-Z8Zk",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "zEXMwYRQf58",
+      "title": "Romans 11:17 - 12:9",
+      "book": 44,
+      "start": [
+        11,
+        17
+      ],
+      "end": [
+        12,
+        9
+      ],
+      "url": "https://www.youtube.com/watch?v=zEXMwYRQf58",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "5FJDob7ThwE",
+      "title": "Romans 12:10 - 13:14",
+      "book": 44,
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        13,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=5FJDob7ThwE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "E2cFm4GoAXQ",
+      "title": "Romans 14:1 - 14:19",
+      "book": 44,
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        14,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=E2cFm4GoAXQ",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "t4Gpime3eCE",
+      "title": "Romans 14:20 - 15:33",
+      "book": 44,
+      "start": [
+        14,
+        20
+      ],
+      "end": [
+        15,
+        33
+      ],
+      "url": "https://www.youtube.com/watch?v=t4Gpime3eCE",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd\u2019s Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "0KQDV-4oRdU",
+      "title": "Romans 16:1 - END",
+      "book": 44,
+      "start": [
+        16,
+        1
+      ],
+      "end": [
+        16,
+        27
+      ],
+      "url": "https://www.youtube.com/watch?v=0KQDV-4oRdU",
+      "teacher": "Arnold Murray",
+      "channel": "The Shepherd's Chapel Official Channel",
+      "official": true,
+      "playlist": "https://www.youtube.com/playlist?list=PLGk636nvuNgRHwKIOk_NspOEaQBWCTMnO",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested",
+      "teacherAttribution": {
+        "teacher": "Arnold Murray",
+        "source": "https://www.tapatalk.com/groups/theseason/new-shepherds-daily-broadcast-record-for-2017-t42682.html",
+        "basis": "Series-level inference: archive explicitly credits Arnold for Romans Series 290, October 2012, matching the sixteen-lesson sequence. Published video endpoints retained where archive differs; full playback untested."
+      }
+    },
+    {
+      "id": "vYicWpCbrZY",
+      "title": "01. Romans 1:1 - 1:28",
+      "book": 44,
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        28
+      ],
+      "url": "https://www.youtube.com/watch?v=vYicWpCbrZY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "8NpEW5YFGYQ",
+      "title": "02. Romans 1:29 - 2:11",
+      "book": 44,
+      "start": [
+        1,
+        29
+      ],
+      "end": [
+        2,
+        11
+      ],
+      "url": "https://www.youtube.com/watch?v=8NpEW5YFGYQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "8od5P1cRn_A",
+      "title": "03. Romans 2:12 - 2:29",
+      "book": 44,
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        2,
+        29
+      ],
+      "url": "https://www.youtube.com/watch?v=8od5P1cRn_A",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "wYi0eG3obbU",
+      "title": "04. Romans 3:1 - 3:24",
+      "book": 44,
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        24
+      ],
+      "url": "https://www.youtube.com/watch?v=wYi0eG3obbU",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "YWbPS-MBHv8",
+      "title": "05. Romans 3:25 - 4:6",
+      "book": 44,
+      "start": [
+        3,
+        25
+      ],
+      "end": [
+        4,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=YWbPS-MBHv8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "tIwMwjitUqY",
+      "title": "06. Romans 4:7 - 5:8",
+      "book": 44,
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        5,
+        8
+      ],
+      "url": "https://www.youtube.com/watch?v=tIwMwjitUqY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "sZxcMZef96k",
+      "title": "07. Romans 5:9 - 6:17",
+      "book": 44,
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        6,
+        17
+      ],
+      "url": "https://www.youtube.com/watch?v=sZxcMZef96k",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "R5Bn9F1siYM",
+      "title": "08. Romans 6:18 - 7:25",
+      "book": 44,
+      "start": [
+        6,
+        18
+      ],
+      "end": [
+        7,
+        25
+      ],
+      "url": "https://www.youtube.com/watch?v=R5Bn9F1siYM",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "F3zySfe7a4w",
+      "title": "09. Romans 8:1 - 8 18",
+      "book": 44,
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        18
+      ],
+      "url": "https://www.youtube.com/watch?v=F3zySfe7a4w",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "fNlT_vtkpmE",
+      "title": "10. Romans 8:19 - 8:39",
+      "book": 44,
+      "start": [
+        8,
+        19
+      ],
+      "end": [
+        8,
+        39
+      ],
+      "url": "https://www.youtube.com/watch?v=fNlT_vtkpmE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "02Gu6wQydSQ",
+      "title": "11. Romans 11:22 - 12:5",
+      "book": 44,
+      "start": [
+        11,
+        22
+      ],
+      "end": [
+        12,
+        5
+      ],
+      "url": "https://www.youtube.com/watch?v=02Gu6wQydSQ",
+      "teacher": "Arnold Murray",
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": "2026-10-07",
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Attributed lesson; full playback untested"
+    },
+    {
+      "id": "AE9FWiQ4njY",
+      "title": "12. Romans 12:6 - 13:6",
+      "book": 44,
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        13,
+        6
+      ],
+      "url": "https://www.youtube.com/watch?v=AE9FWiQ4njY",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "yKbhwPSF0DI",
+      "title": "13. Romans 13:1 - 13:14",
+      "book": 44,
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        14
+      ],
+      "url": "https://www.youtube.com/watch?v=yKbhwPSF0DI",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "bhurTAuQLJQ",
+      "title": "14. Romans 14:1 - 14:19",
+      "book": 44,
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        14,
+        19
+      ],
+      "url": "https://www.youtube.com/watch?v=bhurTAuQLJQ",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "T1QmMZpJ83o",
+      "title": "15. Romans 14:15 - 15:21",
+      "book": 44,
+      "start": [
+        14,
+        15
+      ],
+      "end": [
+        15,
+        21
+      ],
+      "url": "https://www.youtube.com/watch?v=T1QmMZpJ83o",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "xh67L1PXJV8",
+      "title": "16. Romans 15:22 - 16:15",
+      "book": 44,
+      "start": [
+        15,
+        22
+      ],
+      "end": [
+        16,
+        15
+      ],
+      "url": "https://www.youtube.com/watch?v=xh67L1PXJV8",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    },
+    {
+      "id": "e22J-2qMQcE",
+      "title": "17. Romans 16:16 - 16:27 END",
+      "book": 44,
+      "start": [
+        16,
+        16
+      ],
+      "end": [
+        16,
+        27
+      ],
+      "url": "https://www.youtube.com/watch?v=e22J-2qMQcE",
+      "teacher": null,
+      "channel": "Shepherds Student",
+      "official": false,
+      "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D2merS6hamhQ2tN_buPBSY0",
+      "timestampSeconds": null,
+      "playbackChecked": false,
+      "checked": null,
+      "mappingBasis": "Published passage range in saved playlist",
+      "status": "Teacher confirmation pending"
+    }
+  ],
+  "unmappedCandidates": []
+}
