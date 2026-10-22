@@ -41,3 +41,13 @@ See `reports/`, `FEASIBILITY_AND_HANDOFF.md`, and GitHub checks. Automated fixtu
 The original Build 007 code/tests are preserved under `legacy007/` for recovery only. Their old network collector is not invoked by this app. The current workflow performs offline tests and does not repeatedly probe blocked YouTube URLs, publish transcripts, or deploy the Bible reader.
 
 Windows installation validation passed in GitHub Actions run 39730444804: dependencies installed, base.en CPU model loaded and inferred on synthetic silence, desktop opened. Full real lesson inference was tested on Linux; accuracy and owner-PC performance remain unverified.
+
+## Recover a damaged caption library
+
+Close the collector. Keep the damaged directory unchanged. From the installed collector directory, use its Python environment:
+
+```bat
+.venv\Scripts\python.exe recover_captions.py --catalog ..\dist\bible-teaching.json --source "C:\Study\caption-sources" --destination "C:\Study\RecoveredLibrary"
+```
+
+The destination must not exist. This offline command copies preserved browser `.txt` caption exports, checks source hashes, builds a fresh database, reopens it and checks SQLite integrity/search. It writes `recovery-report.json`; rejected files are listed and never counted as saved. After success, choose the recovered directory in Settings. It restores captions only, not audio processing checkpoints, settings or previous review decisions. Transcripts still require accuracy/completeness review. Keep both the original and recovered directories until you have inspected the result.

@@ -1,0 +1,27 @@
+{
+  "test": "Offline independent recovery from 37 real retained caption exports",
+  "saved": 37,
+  "rejected_files": [],
+  "verification": {
+    "structurally_valid": 37,
+    "failures": [],
+    "database_errors": [],
+    "library_usable": true,
+    "note": "Structural validation is not audio accuracy verification. If database integrity fails, preserve it and rebuild a separate library from retained source exports."
+  },
+  "source_hashes_unchanged": true,
+  "sqlite_integrity": [
+    "ok"
+  ],
+  "local_tests": 18,
+  "preceding_ci": {
+    "run": 39735176610,
+    "conclusion": "success"
+  },
+  "limitations": [
+    "No new recordings acquired",
+    "No claim of resolved corruption root cause",
+    "No unattended Windows acquisition proof",
+    "Recovery does not transfer audio checkpoints or review decisions"
+  ]
+}

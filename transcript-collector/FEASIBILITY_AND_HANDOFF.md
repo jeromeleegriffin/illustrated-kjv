@@ -230,3 +230,9 @@ diagnosis. Verify Library now checks both SQLite and FTS, reports database_error
 and library_usable, and its synthetic corruption regression test passes. The
 reconciler no longer rewrites existing transcript indexes unnecessarily. This
 recovery does not prove the unknown original cause cannot recur.
+
+## Recovery command and Exodus follow-up (2026-10-22)
+
+Run 39735176610 completed successfully on Windows/Linux. Added `recover_captions.py`, which refuses existing destinations, copies source exports with hash checks, rebuilds independently, and reopens/verifies SQLite and search. Tested on 37 real exports; 18 local automated tests pass. This does not establish the cause of the earlier corruption or restore audio checkpoints.
+
+A fresh public UI check of CEiN8_hTmcA (Exodus 1:1–2:16, official channel, description Pastor Arnold Murray) initially displayed captions unavailable. Expanding the description, opening Show transcript, and exporting succeeded. The validated file was imported: now 38 saved, 34 tested unresolved, 1,222 untested. This is still not a standalone Windows retrieval API or proof of complete coverage. All transcripts remain quality_review. See the current caption-availability report; earlier breadth/recovery reports describe their respective earlier snapshots.

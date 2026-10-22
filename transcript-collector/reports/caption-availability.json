@@ -1,15 +1,15 @@
 {
-  "checked": "2026-10-22T06:36:20.452119+00:00",
+  "checked": "2026-10-22T06:43:40.356117+00:00",
   "catalog_sha256": "75d4c64a4ee87e131f80ef52206da9cec70bb2714747cabb129a83b9b8b8654c",
   "total_unique_recordings": 1294,
   "counts": {
-    "saved_quality_review": 37,
+    "saved_quality_review": 38,
     "not_tested_with_this_method": 1222,
-    "tested_unresolved": 35
+    "tested_unresolved": 34
   },
   "verified_complete": 0,
   "verification": {
-    "structurally_valid": 37,
+    "structurally_valid": 38,
     "failures": [],
     "database_errors": [],
     "library_usable": true,
@@ -250,7 +250,17 @@
     {
       "id": "CEiN8_hTmcA",
       "teacher": "Arnold Murray",
-      "caption_status": "tested_unresolved",
+      "caption_status": "saved_quality_review",
+      "sha256": "11c7a8d8a6f3070925813f32a2ff433f98e9bc9618ed065666114edec70a47e1",
+      "segments": 1077,
+      "first_start": 1.0,
+      "last_start": 3499.0,
+      "caption_metadata": {
+        "video_id": "CEiN8_hTmcA",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
       "attempts": [
         {
           "status": "export_saved",
