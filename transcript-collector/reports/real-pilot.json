@@ -1,0 +1,26 @@
+{
+  "id": "J2Ia_1jDRdc",
+  "teacher": "Arnold Murray",
+  "source_url": "http://shepherdsvod.oneconnxt.com/Audio/6830.mp3",
+  "media_sha256": "3f5c176920bee36c2e013fb37fba61f4317835e95eef0bfdc98b68d2136c5da1",
+  "bytes": 28092545,
+  "duration_seconds": 3510.048,
+  "transcription_seconds": 300.8259811401367,
+  "model": "base.en",
+  "segments": 536,
+  "warnings": 17,
+  "verify": {
+    "structurally_valid": 1,
+    "failures": [],
+    "note": "Structural validation is not audio accuracy verification."
+  },
+  "status": "quality_review",
+  "human_audio_comparison": "not performed",
+  "exact_youtube_recording_identity": "not independently verified",
+  "reopened_search_hits": 4,
+  "restart_verify": {
+    "structurally_valid": 1,
+    "failures": [],
+    "note": "Structural validation is not audio accuracy verification."
+  }
+}

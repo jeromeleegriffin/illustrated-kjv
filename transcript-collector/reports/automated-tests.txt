@@ -1,0 +1,19 @@
+test_caption_search_restart (test_engine.EngineTests.test_caption_search_restart) ... ok
+test_corruption_detected (test_engine.EngineTests.test_corruption_detected) ... ok
+test_duplicate_caption_overlap (test_engine.EngineTests.test_duplicate_caption_overlap) ... ok
+test_empty_invalid_times (test_engine.EngineTests.test_empty_invalid_times) ... ok
+test_folder_import (test_engine.EngineTests.test_folder_import) ... ok
+test_invalid_teacher_fails (test_engine.EngineTests.test_invalid_teacher_fails) ... ok
+test_missing_chunk_not_complete (test_engine.EngineTests.test_missing_chunk_not_complete) ... ok
+test_resume_does_not_lose_chunks (test_engine.EngineTests.test_resume_does_not_lose_chunks) ... ok
+test_search_injection_safe (test_engine.EngineTests.test_search_injection_safe) ... ok
+test_spoken_repetition_preserved (test_engine.EngineTests.test_spoken_repetition_preserved) ... ok
+test_srt_and_json (test_engine.EngineTests.test_srt_and_json) ... ok
+test_wrong_source_rejected (test_engine.EngineTests.test_wrong_source_rejected) ... ok
+test_chunk_resume_without_retranscription (test_engine.ProcessingTests.test_chunk_resume_without_retranscription) ... ok
+test_source_manifest_teacher_guard (test_engine.ProcessingTests.test_source_manifest_teacher_guard) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.368s
+
+OK

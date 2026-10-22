@@ -13,15 +13,15 @@ def prepare(source):
             vid=lesson.get("id")
             teacher=lesson.get("teacher")
             if not isinstance(vid,str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}",vid):
-                continue
+                raise ValueError("Invalid catalog ID: "+repr(vid))
             if teacher not in ("Arnold Murray","Dennis Murray"):
-                continue
+                raise ValueError("Unapproved teacher: "+repr(teacher))
             row=videos.setdefault(vid,{"id":vid,"teacher":teacher,
                 "url":"https://www.youtube.com/watch?v="+vid,"references":[]})
             if row["teacher"]!=teacher:
                 raise ValueError("Conflicting teacher labels for "+vid)
             row["references"].append({"book":book.get("name"),
-                "title":lesson.get("title"),"start":lesson.get("start"),"end":lesson.get("end")})
+                "title":lesson.get("title"),"start":lesson.get("start"),"end":lesson.get("end"),"mapping_basis":lesson.get("mappingBasis"),"official":lesson.get("official",False)})
     return list(videos.values())
 
 def main():
