@@ -1,0 +1,21 @@
+name: Shepherd transcript catalog validation
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  catalog-dry-run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate curated video catalog offline
+        run: python transcript-collector/prepare_queue.py --catalog dist/bible-teaching.json --out transcript-work/approved-candidates.json
+      - name: Upload review queue only
+        uses: actions/upload-artifact@v4
+        with:
+          name: shepherd-video-queue
+          path: transcript-work/approved-candidates.json
+          retention-days: 7
