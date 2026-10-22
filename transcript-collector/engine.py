@@ -22,13 +22,21 @@ def atomic(p,data):
  os.replace(str(p)+'.tmp',p)
 def seconds(s):
  parts=s.replace(',','.').split(':');return sum(float(v)*60**i for i,v in enumerate(reversed(parts)))
+def caption_metadata(path):
+ p=Path(path)
+ if p.suffix.lower()!='.txt':return {'machine_generated':None}
+ raw=p.read_text(encoding='utf-8-sig')
+ headers=dict(re.findall(r'^(Video ID|Language|Captions): (.+)$',raw,re.M))
+ return {'video_id':headers.get('Video ID'),'language':headers.get('Language'),'caption_label':headers.get('Captions'),'machine_generated':True if headers.get('Captions')=='auto-generated' else None}
 def parse_captions(path):
  p=Path(path);raw=p.read_text(encoding='utf-8-sig');rows=[]
  if p.suffix.lower()=='.txt':
   if not raw.startswith('YouTube transcript\n'):raise ValueError('Expected a timestamped YouTube transcript export')
   for line in raw.splitlines():
    m=re.fullmatch(r'\[(\d+:\d{2}(?::\d{2})?)\] (.+)',line)
+   if line.startswith('[') and not m:raise ValueError('Malformed timestamped export line')
    if m:
+    if any(int(v)>=60 for v in m[1].split(':')[1:]):raise ValueError('Invalid caption clock')
     t=seconds(m[1]);rows.append({'start':t,'end':t,'timing':'start_only','text':m[2]})
  elif p.suffix.lower()=='.json':
   doc=json.loads(raw);items=doc if isinstance(doc,list) else doc.get('segments',doc.get('content',[]))
@@ -137,6 +145,9 @@ class Library:
    if c['idx']!=i or (i and abs(c['start']-chunks[i-1]['end'])>0.02):raise ValueError('Missing chunk')
   if r['duration'] is None or abs(chunks[-1]['end']-r['duration'])>0.1:raise ValueError('Incomplete recording')
   payload={'schema':'griffin-transcript-v1','id':id,'teacher':r['teacher'],'catalog':json.loads(r['metadata']),'provenance':r['provenance'],'source_sha256':r['media_hash'],'duration':r['duration'],'engine':r['model'],'machine_generated':None if r['model']=='caption-import' else True,'verification':'quality_review','warnings':[w for c in chunks for w in json.loads(c['warnings'])],'segments':segments}
+  if r['model']=='caption-import':
+   payload['caption_metadata']=caption_metadata(r['source'])
+   payload['machine_generated']=payload['caption_metadata']['machine_generated']
   p=self.root/'transcripts'/(id+'.json');atomic(p,payload)
   with self.db:
    self.db.execute('DELETE FROM search WHERE id=?',(id,))
@@ -219,7 +230,7 @@ def process(lib,id,model_name='small.en',hardware='cpu',stop=lambda:False,progre
    rows=parse_captions(p);end=max(s['end'] for s in rows)
    with lib.db:lib.db.execute('UPDATE recordings SET duration=? WHERE id=?',(end,id))
    warnings=['Caption duration inferred from final cue; recording completeness unverified.']
-   if p.suffix.lower()=='.txt':warnings.append('Start-only timestamps: end equals start as a point marker, not a measured end. Duration is only the final known timestamp. Caption authorship is unspecified; accuracy unverified.')
+   if p.suffix.lower()=='.txt':warnings.append('Start-only timestamps: end equals start as a point marker, not a measured end. Duration is only the final known timestamp. Caption generation label is retained separately; accuracy unverified.')
    lib.save_chunk(id,0,0,end,rows,warnings)
   else:
    if model_factory is None:

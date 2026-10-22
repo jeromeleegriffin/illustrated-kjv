@@ -85,3 +85,15 @@ class BrowserExportTests(unittest.TestCase):
   self.assertEqual(len(self.lib.find('synthetic closing')),1)
   p.write_text(p.read_text().replace('abcdefghijk','wrongvideo1'))
   with self.assertRaises(ValueError):self.lib.attach('abcdefghijk',p,'Fixture')
+
+ def test_browser_caption_label_and_bad_clock(self):
+  from engine import caption_metadata
+  p=self.root/'abcdefghijk.txt'
+  p.write_text('YouTube transcript\nVideo ID: abcdefghijk\nLanguage: en\nCaptions: auto-generated\n\n[0:02] Synthetic speech\n')
+  self.assertIs(caption_metadata(p)['machine_generated'],True)
+  self.lib.attach('abcdefghijk',p,'Synthetic fixture');process(self.lib,'abcdefghijk')
+  d=json.loads((self.lib.root/'transcripts/abcdefghijk.json').read_text())
+  self.assertIs(d['machine_generated'],True)
+  for bad in ['[0:75] Invalid clock','[broken] Invalid cue']:
+   p.write_text('YouTube transcript\n'+bad+'\n')
+   with self.assertRaises(ValueError):parse_captions(p)

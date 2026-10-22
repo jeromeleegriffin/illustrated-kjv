@@ -2,13 +2,54 @@
   "date": "2026-10-22",
   "records": [
     {
+      "id": "2F0K2ip_82U",
+      "teacher": "Arnold Murray",
+      "segments": 1073,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "sha256": "0cc3425a8c865371fbf49cddbe9dcb1e779811f49e76853304b7f0952a6630f2",
+      "status": "quality_review",
+      "caption_label": "Captions: authored or unspecified"
+    },
+    {
       "id": "J2Ia_1jDRdc",
       "teacher": "Arnold Murray",
       "segments": 1113,
       "first_start": 2.0,
       "last_start": 3501.0,
       "sha256": "eee4ed6c7a3af03de869f5542a8d39ea31dbb5b82d83412008fb210c9cc5bb04",
-      "status": "quality_review"
+      "status": "quality_review",
+      "caption_label": "Captions: authored or unspecified"
+    },
+    {
+      "id": "CubvKyn4s14",
+      "teacher": "Arnold Murray",
+      "segments": 1034,
+      "first_start": 2.0,
+      "last_start": 3500.0,
+      "sha256": "81965c2983ede821aa5e21531d332a4455c31953ad04ab48601dc61b4cee7d3f",
+      "status": "quality_review",
+      "caption_label": "Captions: authored or unspecified"
+    },
+    {
+      "id": "RTwrhyLujcM",
+      "teacher": "Arnold Murray",
+      "segments": 1137,
+      "first_start": 2.0,
+      "last_start": 3500.0,
+      "sha256": "7c822fb7481465c5c4577318f371a3a6d8391d7b1594def407012431403854c3",
+      "status": "quality_review",
+      "caption_label": "Captions: authored or unspecified"
+    },
+    {
+      "id": "-eNWqcRKKKw",
+      "teacher": "Arnold Murray",
+      "segments": 1029,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "sha256": "967c4ab0b293c35df1dbccb798dac0a6323329daa37c5db4c4bbe7353365e915",
+      "status": "quality_review",
+      "caption_label": "Captions: authored or unspecified"
     },
     {
       "id": "2Q46edEZCp8",
@@ -17,18 +58,65 @@
       "first_start": 0.0,
       "last_start": 3502.0,
       "sha256": "f497d9afa8ba796ec06403c34e881c995038274906c272017353db7c3c5bfbcc",
-      "status": "quality_review"
+      "status": "quality_review",
+      "caption_label": "Captions: authored or unspecified"
+    },
+    {
+      "id": "dDEZ3IyUfJk",
+      "teacher": "Arnold Murray",
+      "segments": 1088,
+      "first_start": 0.0,
+      "last_start": 2920.0,
+      "sha256": "6da5b4dc116dcde5383ec0255516c28f0c41d8bb7907c0e0f7b43a90165dd66e",
+      "status": "quality_review",
+      "caption_label": "Captions: auto-generated"
+    },
+    {
+      "id": "BfNb2jswB_I",
+      "teacher": "Arnold Murray",
+      "segments": 1048,
+      "first_start": 1.0,
+      "last_start": 2780.0,
+      "sha256": "f9af96d4c6a10dcd80521432119933724dff0486e903ce3fcb16bac9f53a41fe",
+      "status": "quality_review",
+      "caption_label": "Captions: auto-generated"
+    },
+    {
+      "id": "rwz3jeI2IFY",
+      "teacher": "Arnold Murray",
+      "segments": 768,
+      "first_start": 0.0,
+      "last_start": 2144.0,
+      "sha256": "6ae5cbd47b0930c323d3dbeb8ea0db378c9e214afc5284df670958832b218b4d",
+      "status": "quality_review",
+      "caption_label": "Captions: auto-generated"
+    },
+    {
+      "id": "Y23KJsx-Kqc",
+      "teacher": "Arnold Murray",
+      "segments": 702,
+      "first_start": 4.0,
+      "last_start": 2139.0,
+      "sha256": "6576d372df91627561955b3029918967ba13ccfb98b97d76a10d6baa210af499",
+      "status": "quality_review",
+      "caption_label": "Captions: auto-generated"
     }
   ],
   "restart_verification": {
-    "structurally_valid": 2,
+    "structurally_valid": 10,
     "failures": [],
     "note": "Structural validation is not audio accuracy verification."
   },
-  "search_hits": 5,
+  "search_hits": 55,
   "catalog_total": 1294,
-  "unavailable_export_result": [
-    "2F0K2ip_82U"
+  "catalog_caption_exports": 10,
+  "unprobed_with_this_method": 1284,
+  "superseded_unavailable_results": [
+    "2F0K2ip_82U",
+    "RTwrhyLujcM",
+    "-eNWqcRKKKw",
+    "dDEZ3IyUfJk",
+    "rwz3jeI2IFY"
   ],
-  "note": "Two exports only. No full-catalog availability conclusion. Start-only timestamps; no invented ending times. No listening accuracy assessment. Browser export is Work-specific, not yet an automated Windows retrieval adapter."
+  "note": "Early unavailable results resolved after page/transcript readiness. Ten exact-ID caption files saved. Structural checks are not audio accuracy or Scripture coverage verification. Windows automated retrieval remains unproven."
 }

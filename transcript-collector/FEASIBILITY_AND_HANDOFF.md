@@ -151,3 +151,39 @@ The browser exporter belongs to Work and is not a Windows runtime API. Automated
 Windows acquisition and whole-catalog coverage remain unresolved. Do not promise
 that this importer alone will automatically fetch all 1,294 lessons. Existing
 Build 008 remains the current packaged release pending a cumulative tested update.
+
+### Continued acquisition and Scripture audit — current checkpoint
+
+Ten current-catalog IDs now have actual saved captions (10,014 timestamped
+entries). All five formerly blocked GitHub probe recordings succeeded in the
+supported Work browser. Several early exports reported unavailable before the
+page/transcript was ready; after opening the visible transcript panel, they
+succeeded. These are superseded results, not proof of missing captions or bot
+blocking. The exact cause of the old GitHub extraction errors remains unknown.
+
+The current per-ID overlay is reports/caption-availability.json: 10 saved and
+1,284 not yet tested through this method. Original source-availability.json
+remains a historical official-audio listing audit. No whole-catalog access
+conclusion follows from this small sample. No new Windows acquisition adapter
+is claimed: the Work export API is not available to the standalone desktop.
+
+Actual captions also reveal a likely Esther mapping error. dDEZ3IyUfJk appears
+to teach 1:1–2:23, although the catalog maps it through 6:14. The published
+playlist contains omitted parts 2 (Zx0HS79ZCk0) and 3 (8eD3shcdgFE). Their captions
+were recovered separately as candidates for chapters 3 and 4–6 respectively.
+They are not silently counted among the 1,294 or inserted into production.
+These third-party uploads have not been independently authenticated or granted
+redistribution permission. Listening review is still needed. See
+reports/scripture-caption-review.json for evidence timestamps and candidate IDs.
+
+The 1 Corinthians correction has caption evidence for 6:12 at 32:22; the
+2 Thessalonians correction has evidence for verse 17 at 33:47. These checks
+support the existing corrected references but are not full audio validation.
+The metadata union of 31,102 verses must not be described as verified teaching
+coverage, particularly with the newly identified Esther discrepancy.
+
+16 automated tests pass locally. The importer preserves auto-generated caption
+labels and rejects malformed clock lines; authored-or-unspecified remains
+unknown rather than human-certified. Ten private imports reopen and pass
+structural checks. No full caption content is added to git. Build 008 remains
+the sole packaged application; these changes continue on the draft branch.
