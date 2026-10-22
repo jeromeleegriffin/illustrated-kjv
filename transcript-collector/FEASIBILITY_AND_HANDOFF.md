@@ -118,3 +118,7 @@ Thank you,
 Jerome Griffin
 
 Contact route published by ministry: https://shepherdschapel.com/contact and 1-800-643-4645. This request is prepared for owner review only; nothing was sent.
+
+## Verified checkpoint
+
+GitHub Windows and Ubuntu jobs passed in run https://github.com/jeromeleegriffin/illustrated-kjv/actions/runs/39730197002 . Windows Tk startup, all 1,294 catalog rows, selected-recording viewer and Settings were exercised. The Windows test did not run real audio inference or install the full speech dependency stack. The real audio pilot ran on Linux CPU: 3,510.048 seconds of audio, 536 segments, 17 warnings, 300.826 seconds of transcription; real-time factor 0.0857. A separate process reopened the saved database, found four search hits for beginning and passed structural checks. Full listening-based accuracy and exact video identity remain unverified.

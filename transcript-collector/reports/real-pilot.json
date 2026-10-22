@@ -22,5 +22,7 @@
     "structurally_valid": 1,
     "failures": [],
     "note": "Structural validation is not audio accuracy verification."
-  }
+  },
+  "fresh_process_reopen_verified": true,
+  "real_time_factor": 0.0857042357084965
 }
