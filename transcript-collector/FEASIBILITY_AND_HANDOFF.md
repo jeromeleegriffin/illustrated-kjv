@@ -126,3 +126,28 @@ GitHub Windows and Ubuntu jobs passed in run https://github.com/jeromeleegriffin
 ### Windows installation and speech runtime gate passed
 
 Run https://github.com/jeromeleegriffin/illustrated-kjv/actions/runs/39730444804 subsequently passed on Windows and Ubuntu. The Windows job installed the exact requirements file, downloaded/loaded base.en on CPU int8, performed real model inference on synthetic silence, and passed the desktop smoke test. This closes the earlier dependency-install uncertainty, but is not a Windows real-lesson accuracy test. Linux cached-model inference also passed with HF_HUB_OFFLINE=1. No fee-bearing transcription service was used.
+
+### Browser caption breakthrough — October 22 continuation
+
+The supported Work browser transcript exporter saved two actual official-channel
+caption files: J2Ia_1jDRdc (Arnold, Genesis 1:3–1:31; 1,113 cues) and
+2Q46edEZCp8 (Dennis, Leviticus 1:1–2:4; 1,022 cues). Both official page descriptions
+confirm the respective teacher. Both imports reopened, passed structural checks,
+and were searchable. These are caption imports, not new speech recognition runs.
+See reports/browser-caption-pilot.json for hashes and observed timestamps.
+
+This disproves treating the earlier GitHub Actions access result as evidence that
+all captions are unavailable. The exporter reported no transcript for
+2F0K2ip_82U; that result alone does not establish permanent absence. The remaining
+catalog has not been checked through this route. No complete-source claim is made.
+
+The collector now accepts the supported browser's timestamped .txt format. Video
+ID headers must match the catalog. Times are preserved as start-only point markers
+(end equals start, timing=start_only); no spoken end times are invented. Caption
+machine-generation status is unknown rather than falsely declared human-authored.
+Quality review remains required. Full private captions are excluded from git.
+
+The browser exporter belongs to Work and is not a Windows runtime API. Automated
+Windows acquisition and whole-catalog coverage remain unresolved. Do not promise
+that this importer alone will automatically fetch all 1,294 lessons. Existing
+Build 008 remains the current packaged release pending a cumulative tested update.

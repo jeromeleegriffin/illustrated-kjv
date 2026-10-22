@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-22",
+  "records": [
+    {
+      "id": "J2Ia_1jDRdc",
+      "teacher": "Arnold Murray",
+      "segments": 1113,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "sha256": "eee4ed6c7a3af03de869f5542a8d39ea31dbb5b82d83412008fb210c9cc5bb04",
+      "status": "quality_review"
+    },
+    {
+      "id": "2Q46edEZCp8",
+      "teacher": "Dennis Murray",
+      "segments": 1022,
+      "first_start": 0.0,
+      "last_start": 3502.0,
+      "sha256": "f497d9afa8ba796ec06403c34e881c995038274906c272017353db7c3c5bfbcc",
+      "status": "quality_review"
+    }
+  ],
+  "restart_verification": {
+    "structurally_valid": 2,
+    "failures": [],
+    "note": "Structural validation is not audio accuracy verification."
+  },
+  "search_hits": 5,
+  "catalog_total": 1294,
+  "unavailable_export_result": [
+    "2F0K2ip_82U"
+  ],
+  "note": "Two exports only. No full-catalog availability conclusion. Start-only timestamps; no invented ending times. No listening accuracy assessment. Browser export is Work-specific, not yet an automated Windows retrieval adapter."
+}

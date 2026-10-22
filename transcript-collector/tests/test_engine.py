@@ -69,3 +69,19 @@ class ProcessingTests(unittest.TestCase):
   from sources import ingest_manifest
   p=self.root/'sources.json';atomic(p,{'sources':[{'id':'abcdefghijk','teacher':'Dennis Murray','identity_verified':True,'permission_basis':'fixture','identity_evidence':'fixture','path':str(self.caption())}]})
   result=ingest_manifest(self.lib,p);self.assertEqual(result[0]['status'],'source_review_needed');self.assertIsNone(self.lib.row('abcdefghijk')['source'])
+
+class BrowserExportTests(unittest.TestCase):
+ setUp=EngineTests.setUp
+ tearDown=EngineTests.tearDown
+ def test_start_only_export_restart_and_identity(self):
+  p=self.root/'abcdefghijk.txt'
+  p.write_text('YouTube transcript\nVideo ID: abcdefghijk\nLanguage: en\nCaptions: authored or unspecified\n\n[0:02] A synthetic opening\n[1:05] A synthetic closing\n')
+  self.lib.attach('abcdefghijk',p,'Synthetic browser export fixture')
+  process(self.lib,'abcdefghijk')
+  self.assertEqual(self.lib.verify()['structurally_valid'],1)
+  d=json.loads((self.lib.root/'transcripts/abcdefghijk.json').read_text())
+  self.assertEqual(d['segments'][-1]['end'],65)
+  self.assertEqual(d['segments'][-1]['timing'],'start_only')
+  self.assertEqual(len(self.lib.find('synthetic closing')),1)
+  p.write_text(p.read_text().replace('abcdefghijk','wrongvideo1'))
+  with self.assertRaises(ValueError):self.lib.attach('abcdefghijk',p,'Fixture')

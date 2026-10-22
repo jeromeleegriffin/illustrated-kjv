@@ -8,7 +8,7 @@ from prepare_queue import prepare
 TEACHERS=('Arnold Murray','Dennis Murray')
 MODELS={'base.en':150,'small.en':500,'medium.en':1600}
 MEDIA={'.mp3','.mp4','.m4a','.wav','.flac','.ogg','.mkv','.webm','.aac','.wma'}
-CAPTIONS={'.srt','.vtt','.json'}
+CAPTIONS={'.srt','.vtt','.json','.txt'}
 def now(): return datetime.now(timezone.utc).isoformat()
 def digest(p):
  h=hashlib.sha256()
@@ -24,7 +24,13 @@ def seconds(s):
  parts=s.replace(',','.').split(':');return sum(float(v)*60**i for i,v in enumerate(reversed(parts)))
 def parse_captions(path):
  p=Path(path);raw=p.read_text(encoding='utf-8-sig');rows=[]
- if p.suffix.lower()=='.json':
+ if p.suffix.lower()=='.txt':
+  if not raw.startswith('YouTube transcript\n'):raise ValueError('Expected a timestamped YouTube transcript export')
+  for line in raw.splitlines():
+   m=re.fullmatch(r'\[(\d+:\d{2}(?::\d{2})?)\] (.+)',line)
+   if m:
+    t=seconds(m[1]);rows.append({'start':t,'end':t,'timing':'start_only','text':m[2]})
+ elif p.suffix.lower()=='.json':
   doc=json.loads(raw);items=doc if isinstance(doc,list) else doc.get('segments',doc.get('content',[]))
   for x in items:
    start=float(x.get('start',float(x.get('offset',0))/1000))
@@ -40,10 +46,11 @@ def parse_captions(path):
  for x in rows:
   x['text']=html.unescape(re.sub('<[^>]*>','',x['text'])).strip()
   if not x['text']:continue
-  if not all(math.isfinite(x[k]) for k in ('start','end')) or x['start']<0 or x['end']<=x['start']:raise ValueError('Invalid caption time')
+  point=x.get('timing')=='start_only' and x['end']==x['start']
+  if not all(math.isfinite(x[k]) for k in ('start','end')) or x['start']<0 or (x['end']<=x['start'] and not point):raise ValueError('Invalid caption time')
   if result and x['start']<result[-1]['start']:raise ValueError('Unordered caption cues')
   # Merge only overlapping identical cues; spoken repetitions at distinct times survive.
-  if result and x['start']<=result[-1]['end'] and x['text']==result[-1]['text']:
+  if not point and result and x['start']<=result[-1]['end'] and x['text']==result[-1]['text']:
    result[-1]['end']=max(result[-1]['end'],x['end']);continue
   if result and x['start']<result[-1]['end']:
    a=result[-1]['text'].split();b=x['text'].split()
@@ -91,6 +98,11 @@ class Library:
   r=self.row(id);p=Path(path).resolve()
   if not p.is_file():raise ValueError('File does not exist')
   if not provenance.strip():raise ValueError('Source permission/provenance required')
+  if p.suffix.lower()=='.txt':
+   raw=p.read_text(encoding='utf-8-sig')
+   identity=re.search(r'^Video ID: (\S+)$',raw,re.M)
+   if not identity or identity[1]!=id:raise ValueError('Transcript export video ID mismatch')
+   parse_captions(p)
   sha=digest(p)
   if r['media_hash'] and r['media_hash']!=sha:raise ValueError('Different source already attached; preserve existing work and review identity')
   other=self.db.execute('SELECT id FROM recordings WHERE media_hash=? AND id!=?',(sha,id)).fetchone()
@@ -124,7 +136,7 @@ class Library:
   for i,c in enumerate(chunks):
    if c['idx']!=i or (i and abs(c['start']-chunks[i-1]['end'])>0.02):raise ValueError('Missing chunk')
   if r['duration'] is None or abs(chunks[-1]['end']-r['duration'])>0.1:raise ValueError('Incomplete recording')
-  payload={'schema':'griffin-transcript-v1','id':id,'teacher':r['teacher'],'catalog':json.loads(r['metadata']),'provenance':r['provenance'],'source_sha256':r['media_hash'],'duration':r['duration'],'engine':r['model'],'machine_generated':r['model']!='caption-import','verification':'quality_review','warnings':[w for c in chunks for w in json.loads(c['warnings'])],'segments':segments}
+  payload={'schema':'griffin-transcript-v1','id':id,'teacher':r['teacher'],'catalog':json.loads(r['metadata']),'provenance':r['provenance'],'source_sha256':r['media_hash'],'duration':r['duration'],'engine':r['model'],'machine_generated':None if r['model']=='caption-import' else True,'verification':'quality_review','warnings':[w for c in chunks for w in json.loads(c['warnings'])],'segments':segments}
   p=self.root/'transcripts'/(id+'.json');atomic(p,payload)
   with self.db:
    self.db.execute('DELETE FROM search WHERE id=?',(id,))
@@ -141,7 +153,8 @@ class Library:
     d=json.loads(p.read_text(encoding='utf-8'))
     if d['id']!=r['id'] or d['teacher']!=r['teacher'] or not d['segments']:raise ValueError('Transcript identity/content invalid')
     for s in d['segments']:
-     if not 0<=s['start']<s['end']<=d['duration']+0.1:raise ValueError('Invalid timestamp')
+     point=s.get('timing')=='start_only' and s['start']==s['end']
+     if not (0<=s['start']<=s['end']<=d['duration']+0.1) or (s['start']==s['end'] and not point):raise ValueError('Invalid timestamp')
     good+=1
    except Exception as e:
     failures.append({'id':r['id'],'error':str(e)});self.status(r['id'],'temporarily_failed',str(e))
@@ -205,7 +218,9 @@ def process(lib,id,model_name='small.en',hardware='cpu',stop=lambda:False,progre
   if is_caption:
    rows=parse_captions(p);end=max(s['end'] for s in rows)
    with lib.db:lib.db.execute('UPDATE recordings SET duration=? WHERE id=?',(end,id))
-   lib.save_chunk(id,0,0,end,rows,['Caption duration inferred from final cue; recording completeness unverified.'])
+   warnings=['Caption duration inferred from final cue; recording completeness unverified.']
+   if p.suffix.lower()=='.txt':warnings.append('Start-only timestamps: end equals start as a point marker, not a measured end. Duration is only the final known timestamp. Caption authorship is unspecified; accuracy unverified.')
+   lib.save_chunk(id,0,0,end,rows,warnings)
   else:
    if model_factory is None:
     from faster_whisper import WhisperModel
