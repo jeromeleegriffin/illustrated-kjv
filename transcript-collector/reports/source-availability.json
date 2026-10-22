@@ -32541,5 +32541,26 @@
     }
   ],
   "verified_exact_recording_sources": 0,
-  "note": "A matching title is a candidate, not evidence of identical recording or teacher. Unknown does not mean inaccessible."
+  "note": "A matching title is a candidate, not evidence of identical recording or teacher. Unknown does not mean inaccessible.",
+  "pilot_evidence": {
+    "video_id_candidate": "J2Ia_1jDRdc",
+    "official_url": "http://shepherdsvod.oneconnxt.com/Audio/6830.mp3",
+    "download_verified": true,
+    "http_status": 200,
+    "bytes": 28092545,
+    "transcribed_program": true,
+    "exact_catalog_recording_equivalence_verified": false,
+    "accuracy_verified": false,
+    "report": "real-pilot.json"
+  },
+  "counts": {
+    "catalog_recordings": 1294,
+    "published_title_candidates": 2,
+    "exact_recording_source_identity_verified": 0,
+    "source_not_established": 1292,
+    "prior_youtube_requests_blocked": 5,
+    "youtube_not_probed": 1289,
+    "official_programs_transcribed_in_pilot": 1,
+    "certified_complete_catalog_transcripts": 0
+  }
 }

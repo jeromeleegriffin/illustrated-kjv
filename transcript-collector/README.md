@@ -39,3 +39,5 @@ Every generated transcript enters `quality_review`. There is deliberately no aut
 See `reports/`, `FEASIBILITY_AND_HANDOFF.md`, and GitHub checks. Automated fixtures are synthetic and not presented as ministry transcripts. Full audio/transcript pilot output is kept private and is not bundled or committed. The Windows launcher is source-based, not a signed portable executable. A Windows CI smoke test exercises the desktop; it is not a substitute for testing the owner's hardware.
 
 The original Build 007 code/tests are preserved under `legacy007/` for recovery only. Their old network collector is not invoked by this app. The current workflow performs offline tests and does not repeatedly probe blocked YouTube URLs, publish transcripts, or deploy the Bible reader.
+
+Windows installation validation passed in GitHub Actions run 39730444804: dependencies installed, base.en CPU model loaded and inferred on synthetic silence, desktop opened. Full real lesson inference was tested on Linux; accuracy and owner-PC performance remain unverified.

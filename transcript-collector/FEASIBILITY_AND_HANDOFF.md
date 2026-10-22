@@ -122,3 +122,7 @@ Contact route published by ministry: https://shepherdschapel.com/contact and 1-8
 ## Verified checkpoint
 
 GitHub Windows and Ubuntu jobs passed in run https://github.com/jeromeleegriffin/illustrated-kjv/actions/runs/39730197002 . Windows Tk startup, all 1,294 catalog rows, selected-recording viewer and Settings were exercised. The Windows test did not run real audio inference or install the full speech dependency stack. The real audio pilot ran on Linux CPU: 3,510.048 seconds of audio, 536 segments, 17 warnings, 300.826 seconds of transcription; real-time factor 0.0857. A separate process reopened the saved database, found four search hits for beginning and passed structural checks. Full listening-based accuracy and exact video identity remain unverified.
+
+### Windows installation and speech runtime gate passed
+
+Run https://github.com/jeromeleegriffin/illustrated-kjv/actions/runs/39730444804 subsequently passed on Windows and Ubuntu. The Windows job installed the exact requirements file, downloaded/loaded base.en on CPU int8, performed real model inference on synthetic silence, and passed the desktop smoke test. This closes the earlier dependency-install uncertainty, but is not a Windows real-lesson accuracy test. Linux cached-model inference also passed with HF_HUB_OFFLINE=1. No fee-bearing transcription service was used.
