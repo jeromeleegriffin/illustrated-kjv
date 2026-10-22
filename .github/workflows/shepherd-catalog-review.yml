@@ -23,6 +23,12 @@ jobs:
         run: python transcript-collector/prepare_queue.py --out transcript-work/catalog.json
       - name: Persistence, parser and recovery tests (synthetic data)
         run: python -m unittest discover -s transcript-collector/tests -v
+      - name: Install Windows speech dependencies
+        if: runner.os == 'Windows'
+        run: python -m pip install -r transcript-collector/requirements.txt
+      - name: Windows speech runtime smoke test
+        if: runner.os == 'Windows'
+        run: python transcript-collector/tests/speech_smoke.py
       - name: Windows desktop smoke test
         if: runner.os == 'Windows'
         run: python transcript-collector/tests/gui_smoke.py
