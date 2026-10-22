@@ -187,3 +187,46 @@ labels and rejects malformed clock lines; authored-or-unspecified remains
 unknown rather than human-certified. Ten private imports reopen and pass
 structural checks. No full caption content is added to git. Build 008 remains
 the sole packaged application; these changes continue on the draft branch.
+
+### Broad access pass — 37 saved catalog transcripts
+
+The subsequent pass attempted the first mapped recording for each of the 66
+books, deduplicating the shared 2/3 John ID. Together with earlier pilot IDs,
+72 distinct catalog recordings have now been attempted. Current outcomes are
+37 saved and structurally verified (quality_review), 35 tested but unresolved,
+and 1,222 not yet tested. This is a representative access pass, not a completed
+whole-catalog access audit. The two Esther candidates remain separate.
+
+Page-load and browser-operation timeouts, plus premature no-transcript export
+results, account for unresolved attempts. Ruth, Philemon and Revelation
+subsequently succeeded from ready pages. Do not convert these errors into
+permanent missing-source labels or automatically retry them without bounds.
+No explicit site-served bot challenge was observed during this pass. The old
+GitHub extractor's root cause is still unknown.
+
+caption_audit.py adds a resumable, local reconciliation command using existing
+private exports and browser observations. It does not contact YouTube or pretend
+to be a Windows retrieval adapter. It validates export IDs, parses timestamps,
+imports through the existing database, verifies checksums, and emits counts for
+every catalog ID. A successful browser status without a valid saved file never
+counts as a transcript. Page-wide name occurrences are excluded from speaker
+verification because recommendations may mention a different pastor.
+
+17 local automated tests pass. Windows/Ubuntu run 39732767185 passed for the
+preceding checkpoint. The new reconciliation code must be judged by its own CI
+result. reports/breadth-caption-audit.json records actual counts, segment totals,
+reopen/search results, and each book's representative outcome. Full copyrighted
+caption text remains private, outside the repository. Source availability across
+all 1,294 and independent Windows acquisition remain unresolved.
+
+The broad import also exposed a real SQLite/FTS corruption incident in the
+shared scratch workspace. Transcript checksums alone passed, but a reopened
+search failed and PRAGMA integrity_check confirmed database corruption. Cause
+is unknown; no SQLite, filesystem or application root cause is claimed. All
+37 source exports remained intact. A separate active database was rebuilt from
+them outside the browser-shared directory. Full SQLite integrity, FTS integrity,
+reopening, and a 107-hit phrase search passed. The old database is preserved for
+diagnosis. Verify Library now checks both SQLite and FTS, reports database_errors
+and library_usable, and its synthetic corruption regression test passes. The
+reconciler no longer rewrites existing transcript indexes unnecessarily. This
+recovery does not prove the unknown original cause cannot recur.

@@ -156,7 +156,12 @@ class Library:
    self.db.execute('UPDATE recordings SET export_hash=? WHERE id=?',(digest(p),id))
   self.status(id,'quality_review');return payload
  def verify(self):
-  failures=[];good=0
+  failures=[];good=0;database_errors=[]
+  try:
+   check=[r[0] for r in self.db.execute('PRAGMA quick_check')]
+   if check!=['ok']:database_errors.extend(check)
+   with self.db:self.db.execute("INSERT INTO search(search) VALUES('integrity-check')")
+  except sqlite3.DatabaseError as e:database_errors.append(str(e))
   for r in self.db.execute('SELECT * FROM recordings WHERE export_hash IS NOT NULL').fetchall():
    p=self.root/'transcripts'/(r['id']+'.json')
    try:
@@ -169,7 +174,7 @@ class Library:
     good+=1
    except Exception as e:
     failures.append({'id':r['id'],'error':str(e)});self.status(r['id'],'temporarily_failed',str(e))
-  result={'structurally_valid':good,'failures':failures,'note':'Structural validation is not audio accuracy verification.'};atomic(self.root/'verification.json',result);return result
+  result={'structurally_valid':good,'failures':failures,'database_errors':database_errors,'library_usable':not failures and not database_errors,'note':'Structural validation is not audio accuracy verification. If database integrity fails, preserve it and rebuild a separate library from retained source exports.'};atomic(self.root/'verification.json',result);return result
  def find(self,query,teacher=''):
   tokens=re.findall(r'\w+',query)
   if not tokens:return []

@@ -1,0 +1,370 @@
+{
+  "checked": "2026-10-22T06:37:00.677137+00:00",
+  "books_represented_in_attempts": 66,
+  "sampling_rule": "First mapped recording per Bible book plus previous ten-recording pilot; shared IDs deduplicated. Not every recording in each book.",
+  "catalog_counts": {
+    "saved_quality_review": 37,
+    "not_tested_with_this_method": 1222,
+    "tested_unresolved": 35
+  },
+  "catalog_total": 1294,
+  "saved_transcript_segments": 39750,
+  "saved_teacher_counts": {
+    "Arnold Murray": 32,
+    "Dennis Murray": 5
+  },
+  "restart_verification": {
+    "structurally_valid": 37,
+    "failures": [],
+    "database_errors": [],
+    "library_usable": true,
+    "note": "Structural validation is not audio accuracy verification. If database integrity fails, preserve it and rebuild a separate library from retained source exports."
+  },
+  "phrase_search_hits": 107,
+  "all_books": [
+    {
+      "book": "Genesis",
+      "representative_id": "2F0K2ip_82U",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Exodus",
+      "representative_id": "CEiN8_hTmcA",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Leviticus",
+      "representative_id": "2Q46edEZCp8",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Numbers",
+      "representative_id": "iANFfv6DKhw",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Deuteronomy",
+      "representative_id": "f3_aywKN6Lk",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Joshua",
+      "representative_id": "4HgHsYjwhes",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Judges",
+      "representative_id": "tQGwTL8BcKw",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Ruth",
+      "representative_id": "LMEN5JhKAwE",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "1 Samuel",
+      "representative_id": "-nFVJ6RwJhw",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "2 Samuel",
+      "representative_id": "bL0F1PJXovw",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "1 Kings",
+      "representative_id": "b1STQZy1rfQ",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "2 Kings",
+      "representative_id": "JVWXCW1Cvb8",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "1 Chronicles",
+      "representative_id": "xUQjW6y9Hks",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "2 Chronicles",
+      "representative_id": "R7hfgjgKn10",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Ezra",
+      "representative_id": "NV99i2jcIJU",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Nehemiah",
+      "representative_id": "40m3K1ebm94",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Esther",
+      "representative_id": "dDEZ3IyUfJk",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Job",
+      "representative_id": "zA2uXgr_Tmk",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Psalms",
+      "representative_id": "azikKHZGwy4",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Proverbs",
+      "representative_id": "ZJWdzYVVo5Y",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Ecclesiastes",
+      "representative_id": "M6BBT5vzhok",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Song of Solomon",
+      "representative_id": "BOuoDp97QjY",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Isaiah",
+      "representative_id": "BSIyjETwPsg",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Jeremiah",
+      "representative_id": "QUoX68VH7Xo",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Lamentations",
+      "representative_id": "FK_xR259ss8",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Ezekiel",
+      "representative_id": "CibaWuge3Mw",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Daniel",
+      "representative_id": "8mOB8oWT_Ag",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Hosea",
+      "representative_id": "2ZE134KdChI",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Joel",
+      "representative_id": "BsJO6bJ2YyM",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Amos",
+      "representative_id": "cOe2z_sEE8w",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Obadiah",
+      "representative_id": "Y9Vw8_i1BWc",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Jonah",
+      "representative_id": "RvwUuir5irc",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Micah",
+      "representative_id": "R9kpcymiqn4",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Nahum",
+      "representative_id": "nBKJ3mkW_84",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Habakkuk",
+      "representative_id": "IDNFEr4FYqc",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Zephaniah",
+      "representative_id": "ZP7KLTkrkPg",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Haggai",
+      "representative_id": "Y7x8zPUJwOg",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Zechariah",
+      "representative_id": "lu5NL9Vp27E",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Malachi",
+      "representative_id": "iML2LppMqyY",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Matthew",
+      "representative_id": "plsS10igexk",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Mark",
+      "representative_id": "dsxz1k0gvew",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Luke",
+      "representative_id": "h9tHgRkk-4c",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "John",
+      "representative_id": "UdKymHmhGlY",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Acts",
+      "representative_id": "lC7OOhfsuIM",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Romans",
+      "representative_id": "xpxaaPIUUbc",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "1 Corinthians",
+      "representative_id": "ZFuAJlnVFqA",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "2 Corinthians",
+      "representative_id": "ScF5533k9UA",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Galatians",
+      "representative_id": "zuREH04H5H0",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Ephesians",
+      "representative_id": "kTKNkUHM-k0",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Philippians",
+      "representative_id": "fy87xUfUVhY",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Colossians",
+      "representative_id": "YskDzg6dytc",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "1 Thessalonians",
+      "representative_id": "xdWg_ey_2K8",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "2 Thessalonians",
+      "representative_id": "s3S12TE1dok",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "1 Timothy",
+      "representative_id": "O4d7nzvTBno",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "2 Timothy",
+      "representative_id": "eT3p198HLmA",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Titus",
+      "representative_id": "-nAZBcsBA3k",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Philemon",
+      "representative_id": "l_QPgJktyjQ",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "Hebrews",
+      "representative_id": "IuV_i5-t6-M",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "James",
+      "representative_id": "YSyirKcrbZk",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "1 Peter",
+      "representative_id": "AXAHOAJlnx4",
+      "outcome": "saved_quality_review"
+    },
+    {
+      "book": "2 Peter",
+      "representative_id": "iIMTsayr7VU",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "1 John",
+      "representative_id": "fS1F2Acn45I",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "2 John",
+      "representative_id": "knj97IaubCg",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "3 John",
+      "representative_id": "knj97IaubCg",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Jude",
+      "representative_id": "KetgVB2kG4o",
+      "outcome": "tested_unresolved"
+    },
+    {
+      "book": "Revelation",
+      "representative_id": "FB-ymwYZNLo",
+      "outcome": "saved_quality_review"
+    }
+  ],
+  "prior_windows_linux_ci": {
+    "run_id": 39732767185,
+    "status": "success"
+  },
+  "recovery_incident": {
+    "symptom": "SQLite integrity and FTS failures after the broad import in the shared scratch workspace",
+    "cause": "Unknown. No attribution to a particular SQLite version, filesystem, browser or application operation is proven.",
+    "source_transcripts_lost": 0,
+    "action": "Preserved original database; rebuilt a separate active database outside the browser-shared folder from all 37 retained exports. Removed redundant export/index rewrites.",
+    "recovered_full_integrity_check": "ok",
+    "recovered_search_hits": 107,
+    "regression_test": "Disposable synthetic FTS corruption is detected by Verify Library; usable=false while intact transcript file remains valid."
+  },
+  "note": "All transcripts remain quality_review. No listening accuracy certification, complete Scripture coverage, full-catalog access conclusion, or Windows automatic acquisition claim."
+}

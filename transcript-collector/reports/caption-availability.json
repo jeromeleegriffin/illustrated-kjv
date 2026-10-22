@@ -1,47 +1,96 @@
 {
-  "date": "2026-10-22",
-  "method": "Work supported public YouTube transcript export",
+  "checked": "2026-10-22T06:36:20.452119+00:00",
   "catalog_sha256": "75d4c64a4ee87e131f80ef52206da9cec70bb2714747cabb129a83b9b8b8654c",
   "total_unique_recordings": 1294,
-  "captions_saved": 10,
-  "unprobed": 1284,
+  "counts": {
+    "saved_quality_review": 37,
+    "not_tested_with_this_method": 1222,
+    "tested_unresolved": 35
+  },
   "verified_complete": 0,
-  "note": "Per-recording acquisition evidence, not a complete archive or a grant of republication permission. Prior GitHub probe outcomes are historical and method-specific. Windows automation unproven.",
+  "verification": {
+    "structurally_valid": 37,
+    "failures": [],
+    "database_errors": [],
+    "library_usable": true,
+    "note": "Structural validation is not audio accuracy verification. If database integrity fails, preserve it and rebuild a separate library from retained source exports."
+  },
+  "rejected_files": [],
   "recordings": [
     {
       "id": "2F0K2ip_82U",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "0cc3425a8c865371fbf49cddbe9dcb1e779811f49e76853304b7f0952a6630f2",
-      "segments": 1073
+      "segments": 1073,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "2F0K2ip_82U",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      }
     },
     {
       "id": "J2Ia_1jDRdc",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "eee4ed6c7a3af03de869f5542a8d39ea31dbb5b82d83412008fb210c9cc5bb04",
-      "segments": 1113
+      "segments": 1113,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "J2Ia_1jDRdc",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      }
     },
     {
       "id": "CubvKyn4s14",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "81965c2983ede821aa5e21531d332a4455c31953ad04ab48601dc61b4cee7d3f",
-      "segments": 1034
+      "segments": 1034,
+      "first_start": 2.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "CubvKyn4s14",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      }
     },
     {
       "id": "RTwrhyLujcM",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "7c822fb7481465c5c4577318f371a3a6d8391d7b1594def407012431403854c3",
-      "segments": 1137
+      "segments": 1137,
+      "first_start": 2.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "RTwrhyLujcM",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      }
     },
     {
       "id": "-eNWqcRKKKw",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "967c4ab0b293c35df1dbccb798dac0a6323329daa37c5db4c4bbe7353365e915",
-      "segments": 1029
+      "segments": 1029,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "-eNWqcRKKKw",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      }
     },
     {
       "id": "gwjM-Nli7SE",
@@ -201,7 +250,14 @@
     {
       "id": "CEiN8_hTmcA",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Exodus 1:1 - 2:16 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "gqrCj0-wkIM",
@@ -323,7 +379,15 @@
       "teacher": "Dennis Murray",
       "caption_status": "saved_quality_review",
       "sha256": "f497d9afa8ba796ec06403c34e881c995038274906c272017353db7c3c5bfbcc",
-      "segments": 1022
+      "segments": 1022,
+      "first_start": 0.0,
+      "last_start": 3502.0,
+      "caption_metadata": {
+        "video_id": "2Q46edEZCp8",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      }
     },
     {
       "id": "Qaq_Iqbrb6g",
@@ -563,7 +627,14 @@
     {
       "id": "iANFfv6DKhw",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": null,
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "1HPYqWElfKM",
@@ -733,7 +804,24 @@
     {
       "id": "f3_aywKN6Lk",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "ff649f103ad3e4d973c2757e5cb71c8560afb728fae526b51e735e623684d957",
+      "segments": 909,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "f3_aywKN6Lk",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "6585 Deuteronomy 1:1 - 1:42 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "cYKX821M-U8",
@@ -923,7 +1011,14 @@
     {
       "id": "4HgHsYjwhes",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": null,
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "9BsQeAojykM",
@@ -988,7 +1083,24 @@
     {
       "id": "tQGwTL8BcKw",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "f28a6c864c18f31a2e0eae18233e3b66621184521b870bbcd9d43b0417d06e63",
+      "segments": 1027,
+      "first_start": 0.0,
+      "last_start": 3503.0,
+      "caption_metadata": {
+        "video_id": "tQGwTL8BcKw",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Judges 1:1 - 1:21 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "f3X-ykoPcyQ",
@@ -1093,7 +1205,29 @@
     {
       "id": "LMEN5JhKAwE",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "9a7d2647c30cee9542341e6a45d03f69c7632e7269c29109b50b9055e788a4b5",
+      "segments": 1177,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "LMEN5JhKAwE",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      },
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": null,
+          "error": "Error: No transcript is available for this YouTube video"
+        },
+        {
+          "status": "export_saved",
+          "title": "Ruth 1:1 - 3:2 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "Va9JWNwp2qo",
@@ -1113,7 +1247,14 @@
     {
       "id": "-nFVJ6RwJhw",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "01. I Samuel 1:1 - 2:16 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "v-7tvte9-xE",
@@ -1303,7 +1444,24 @@
     {
       "id": "bL0F1PJXovw",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "89e37154b05a7f01de1bc1cd7b72464ecfaf35cc492faafa8c8ee03c7cf0b708",
+      "segments": 944,
+      "first_start": 0.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "bL0F1PJXovw",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "I & II Samuel 30:23 - 1:9 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "4VHC6gTsC0g",
@@ -1428,7 +1586,14 @@
     {
       "id": "b1STQZy1rfQ",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "02. I Kings 1:50 - 2:29 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "tzjYLdll59g",
@@ -1568,7 +1733,24 @@
     {
       "id": "JVWXCW1Cvb8",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "92aa6b64821a896d94950a0f40a03b6743e7cd8b8a5d906232a0629f9a9785d0",
+      "segments": 983,
+      "first_start": 0.0,
+      "last_start": 3494.0,
+      "caption_metadata": {
+        "video_id": "JVWXCW1Cvb8",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Wednesday 2/17/21 I & II Kings 22:43 - 1:18 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "Mnwg0n6xMXo",
@@ -1683,7 +1865,14 @@
     {
       "id": "xUQjW6y9Hks",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "01. I Chronicles 1:1 - 4:43 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "F6PuKW899Ck",
@@ -1783,7 +1972,24 @@
     {
       "id": "R7hfgjgKn10",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "a3fee13125756b4444481bb5bb2d4763380635d4248da504a7e18847579f01f0",
+      "segments": 1002,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "R7hfgjgKn10",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Thursday 6/15/23 I & II Chronicles 1:1 - 1:17 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "icwn0PeGFu8",
@@ -2063,7 +2269,14 @@
     {
       "id": "NV99i2jcIJU",
       "teacher": "Dennis Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Thursday 4/16/20 Ezra 1:1 - 2:2 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "7Cb2G9z75Xw",
@@ -2103,7 +2316,14 @@
     {
       "id": "40m3K1ebm94",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "01. Nehemiah 1:1 - 2:6 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "4pmWjZmHK1o",
@@ -2165,19 +2385,52 @@
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "6da5b4dc116dcde5383ec0255516c28f0c41d8bb7907c0e0f7b43a90165dd66e",
-      "segments": 1088
+      "segments": 1088,
+      "first_start": 0.0,
+      "last_start": 2920.0,
+      "caption_metadata": {
+        "video_id": "dDEZ3IyUfJk",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      }
     },
     {
       "id": "BfNb2jswB_I",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "f9af96d4c6a10dcd80521432119933724dff0486e903ce3fcb16bac9f53a41fe",
-      "segments": 1048
+      "segments": 1048,
+      "first_start": 1.0,
+      "last_start": 2780.0,
+      "caption_metadata": {
+        "video_id": "BfNb2jswB_I",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      }
     },
     {
       "id": "zA2uXgr_Tmk",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "a03795d3c23b8860af0b6bc5ae5ef904d1b22f8ffa438a46f17c06d345087260",
+      "segments": 1253,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "zA2uXgr_Tmk",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "4545 Job 1:1 - 2:10 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "NejoB1xL4mQ",
@@ -2317,7 +2570,24 @@
     {
       "id": "azikKHZGwy4",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "6e481d3332e784e29b43dccfb5d0331fe5c518177231d006a2253221123ffff6",
+      "segments": 1325,
+      "first_start": 2.0,
+      "last_start": 3491.0,
+      "caption_metadata": {
+        "video_id": "azikKHZGwy4",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "01. Psalms 1:1- 3:5 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "7Ca4MmHj0gE",
@@ -3177,7 +3447,24 @@
     {
       "id": "ZJWdzYVVo5Y",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "3b23d39c66af705c41355157d60d89db635e32d195dfeacfea073fa125c51683",
+      "segments": 1206,
+      "first_start": 1.0,
+      "last_start": 3498.0,
+      "caption_metadata": {
+        "video_id": "ZJWdzYVVo5Y",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Proverbs 1:1 - 1:33 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "W2SNGtZ_DDY",
@@ -3352,7 +3639,14 @@
     {
       "id": "M6BBT5vzhok",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Ecclesiastes 1:1 - 2:12 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "R1eR-Et4dbg",
@@ -3407,7 +3701,24 @@
     {
       "id": "BOuoDp97QjY",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "748d85e2be9f864b8841101da08f3e062d7b0f48e8dbb356159b6642b56c41ff",
+      "segments": 1214,
+      "first_start": 2.0,
+      "last_start": 3508.0,
+      "caption_metadata": {
+        "video_id": "BOuoDp97QjY",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Song of Solomon 1:1 - 2:17 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "gqMIckYNxdQ",
@@ -3432,7 +3743,24 @@
     {
       "id": "BSIyjETwPsg",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "1f478c8648ac25708d9a25b00718075336c637d975a6acee2fc137dd7f6517c9",
+      "segments": 990,
+      "first_start": 1.0,
+      "last_start": 3499.0,
+      "caption_metadata": {
+        "video_id": "BSIyjETwPsg",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Isaiah 1:11 - 1:31 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "dIaXgfA590w",
@@ -3707,7 +4035,14 @@
     {
       "id": "QUoX68VH7Xo",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Jeremiah 1:1 - 1:19 - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "aW7oyc3zeCY",
@@ -3952,7 +4287,24 @@
     {
       "id": "FK_xR259ss8",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "5cb83480e50450abc9b9f8ee7b662e18df37581277e9b501bad3524bafc5c041",
+      "segments": 1087,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "FK_xR259ss8",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Wednesday 1/01/20 Lamentations 1:1 - 1:19 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "mnvbjevTOSY",
@@ -3977,7 +4329,24 @@
     {
       "id": "CibaWuge3Mw",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "ee88cf662b9c1434d4be793ce0cdd61f29626e5747c8436f09bc8fa493aba1c7",
+      "segments": 1401,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "CibaWuge3Mw",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Ezekiel 1:1 - 2:4 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "sqkaUSDu0RA",
@@ -4157,7 +4526,24 @@
     {
       "id": "8mOB8oWT_Ag",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "300a04598f23e40da229b2b2ee33ae1e9f8928984ad89784749c2343b83dc663",
+      "segments": 1347,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "8mOB8oWT_Ag",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Daniel 1:1 - 2:11 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "oj3YyNwGUxY",
@@ -4227,7 +4613,24 @@
     {
       "id": "2ZE134KdChI",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "9c3fda7bd90e894bce119c78aaf452c69708dc93bbc8bdca751acf1c067f21ef",
+      "segments": 1142,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "2ZE134KdChI",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Hosea 2:20 - 4:9 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "U9YkjTcPXps",
@@ -4297,7 +4700,14 @@
     {
       "id": "BsJO6bJ2YyM",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Joel 1:1 - 1:20 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "NvqoyvXQcEk",
@@ -4357,7 +4767,24 @@
     {
       "id": "cOe2z_sEE8w",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "1b1431690e163115a1b48fdf7ccaa55781cf753774574bdbbd4723e0b8e8fff5",
+      "segments": 1017,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "cOe2z_sEE8w",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Amos 1:1 - 2:3 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "k5MZgKs2Vyc",
@@ -4417,7 +4844,14 @@
     {
       "id": "Y9Vw8_i1BWc",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Amos & Obadiah 9:7 - :1:11 - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "t99U5NMuJYk",
@@ -4457,7 +4891,24 @@
     {
       "id": "RvwUuir5irc",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "92025ab47486a57b3f71c5633ad3ef4c81c786cc17215f45ff490189c812df88",
+      "segments": 1240,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "RvwUuir5irc",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Obadiah & Jonah 1:12 - 1:17 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "kSSjNuJQKD4",
@@ -4492,7 +4943,14 @@
     {
       "id": "R9kpcymiqn4",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Micah 1:1 - 2:7 - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "i3NXW2GYkz0",
@@ -4567,7 +5025,14 @@
     {
       "id": "nBKJ3mkW_84",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Nahum 1:1 - 2:3 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "XwpwOsBVhoQ",
@@ -4597,7 +5062,24 @@
     {
       "id": "IDNFEr4FYqc",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "708048fdc3311fe5b3dd1755dc718aefa3de8e0ac3e2345ba22198108f42081d",
+      "segments": 1137,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "IDNFEr4FYqc",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Habakkuk 1:1 - 2:6 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "UvSqPe6tqiU",
@@ -4642,7 +5124,14 @@
     {
       "id": "ZP7KLTkrkPg",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Zephaniah 1:1 - 2:3 - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "sSAh8W5QLm4",
@@ -4672,7 +5161,14 @@
     {
       "id": "Y7x8zPUJwOg",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Haggai 1:1 - 2:6 - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "nVKOBgtZSjw",
@@ -4697,7 +5193,14 @@
     {
       "id": "lu5NL9Vp27E",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Zechariah 1:1 - 2:4 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "xvQxpqgCaPs",
@@ -4812,7 +5315,24 @@
     {
       "id": "iML2LppMqyY",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "55fe7cb43569587712f18f3451752f8bdc27f2cdd432f91ce544556afd2821ca",
+      "segments": 1113,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "iML2LppMqyY",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Malachi 1:1 - 1:4 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "suJf72_JzVI",
@@ -4852,7 +5372,24 @@
     {
       "id": "plsS10igexk",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "a1f514ae6af0f30b490ca247a7a4acc654ac30cf29f44aa0dc2d7fed6a66edb6",
+      "segments": 1096,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "plsS10igexk",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Matthew 1:1 - 1:25 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "-RMkjXCYjfk",
@@ -5092,7 +5629,14 @@
     {
       "id": "dsxz1k0gvew",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Mark 1:1 - 1:32 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "gn03hBILZUo",
@@ -5202,7 +5746,14 @@
     {
       "id": "h9tHgRkk-4c",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Luke 1:1 - 1:41 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "4_p9SAYN_Wo",
@@ -5357,7 +5908,14 @@
     {
       "id": "UdKymHmhGlY",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "7203 John 1:1 - 1:23 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "sfzwKHaFwP0",
@@ -5477,7 +6035,24 @@
     {
       "id": "lC7OOhfsuIM",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "eb20f590f4812a8d11da28073ddb51984503ff721ff05339e301e982ebd42c15",
+      "segments": 1002,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "lC7OOhfsuIM",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Acts 1:1 - 1:26 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "9ndwk45tppA",
@@ -5637,7 +6212,24 @@
     {
       "id": "xpxaaPIUUbc",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "0cdae87833afec1a32a82d75ca88d853308a71435445c03b6accc4f683a0959f",
+      "segments": 965,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "xpxaaPIUUbc",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Romans 1:1 - 1:32 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "fnoxSEkqW6I",
@@ -5722,7 +6314,24 @@
     {
       "id": "ZFuAJlnVFqA",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "dbf33b16cc2cf19174972431e30a41cfc9c5fdad68a1e7d1825eb78128e48221",
+      "segments": 1068,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "ZFuAJlnVFqA",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Monday 5/25/20 I Corinthians 1:1 - 1:31 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "TFFz_H76PXI",
@@ -5797,14 +6406,29 @@
     {
       "id": "ScF5533k9UA",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Monday 6/15/20 I & II Corinthians 15:55 - 1:7 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "rwz3jeI2IFY",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "6ae5cbd47b0930c323d3dbeb8ea0db378c9e214afc5284df670958832b218b4d",
-      "segments": 768
+      "segments": 768,
+      "first_start": 0.0,
+      "last_start": 2144.0,
+      "caption_metadata": {
+        "video_id": "rwz3jeI2IFY",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      }
     },
     {
       "id": "Yte1Ibe70Ug",
@@ -5849,7 +6473,14 @@
     {
       "id": "zuREH04H5H0",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Tuesday 12/24/19 Galatians 1:1 - 2:7 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "KTQWdRUOxI4",
@@ -5879,7 +6510,14 @@
     {
       "id": "kTKNkUHM-k0",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Ephesians 1:1 - 1:23 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "jbTCgqRQhc0",
@@ -5914,7 +6552,24 @@
     {
       "id": "fy87xUfUVhY",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "839b695245373f3ec528c32a41e1b536cdcac81007d9064c872884cf1d3cc11d",
+      "segments": 1087,
+      "first_start": 1.0,
+      "last_start": 3503.0,
+      "caption_metadata": {
+        "video_id": "fy87xUfUVhY",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "Wednesday 1/8/20 Philippians 1:1 - 1:27 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "IYrty1QFYIU",
@@ -5939,7 +6594,14 @@
     {
       "id": "YskDzg6dytc",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Colossians 1:1 - 1:20 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "_diU1kXUFPI",
@@ -5969,7 +6631,14 @@
     {
       "id": "xdWg_ey_2K8",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "01. I Thessalonians 1:1 - 2:13 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "jY0KoBy9fvA",
@@ -5989,14 +6658,29 @@
     {
       "id": "s3S12TE1dok",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "01. II Thessalonians 1:1 - 2:6 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "Y23KJsx-Kqc",
       "teacher": "Arnold Murray",
       "caption_status": "saved_quality_review",
       "sha256": "6576d372df91627561955b3029918967ba13ccfb98b97d76a10d6baa210af499",
-      "segments": 702
+      "segments": 702,
+      "first_start": 4.0,
+      "last_start": 2139.0,
+      "caption_metadata": {
+        "video_id": "Y23KJsx-Kqc",
+        "language": "en",
+        "caption_label": "auto-generated",
+        "machine_generated": true
+      }
     },
     {
       "id": "JtamO5rTnhQ",
@@ -6006,7 +6690,14 @@
     {
       "id": "O4d7nzvTBno",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Timothy 1:1 - 1:20 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "sosVmA6ouc4",
@@ -6056,7 +6747,14 @@
     {
       "id": "eT3p198HLmA",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "II Timothy 1:1 - 2:4 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "ZFUqalpl63k",
@@ -6096,7 +6794,14 @@
     {
       "id": "-nAZBcsBA3k",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Titus 2:1 - 2:15 - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        }
+      ]
     },
     {
       "id": "-yKsiOrwx6U",
@@ -6116,7 +6821,29 @@
     {
       "id": "l_QPgJktyjQ",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "6a1de1f0c703dac2ff4aabd61db927d224f3156bcbceaff8e6f5dba3b8c86de1",
+      "segments": 944,
+      "first_start": 2.0,
+      "last_start": 3502.0,
+      "caption_metadata": {
+        "video_id": "l_QPgJktyjQ",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Wednesday 5/10/23 Philemon 1:1 - END - YouTube",
+          "error": "Error: No transcript is available for this YouTube video"
+        },
+        {
+          "status": "export_saved",
+          "title": "Wednesday 5/10/23 Philemon 1:1 - END - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "FKJBJnM4fqU",
@@ -6126,7 +6853,14 @@
     {
       "id": "IuV_i5-t6-M",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "7267 Hebrews 1:1 - 2:4 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "osFCg_hir6E",
@@ -6201,7 +6935,14 @@
     {
       "id": "YSyirKcrbZk",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "James 1:1 - 1:20 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "7QjtA0Rk-Uo",
@@ -6226,7 +6967,24 @@
     {
       "id": "AXAHOAJlnx4",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "2aed61222f3171c30d2ac2dd2314636db04325564baf60cf708f75f7bc08e382",
+      "segments": 1003,
+      "first_start": 2.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "AXAHOAJlnx4",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "export_saved",
+          "title": "I Peter 1:1 - 1:19 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "gLCEYCxpHnw",
@@ -6266,7 +7024,14 @@
     {
       "id": "iIMTsayr7VU",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "7242 I & II Peter 5:1 - 1:8 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "soSFyASwbLs",
@@ -6306,7 +7071,14 @@
     {
       "id": "fS1F2Acn45I",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "1st Epistle of John 1:1 - 2:12 - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "wvvDXsxnvvY",
@@ -6341,17 +7113,53 @@
     {
       "id": "knj97IaubCg",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "2nd and 3rd Epistle of John 1:1 - END - YouTube",
+          "error": "Error: Error: Playwright selector deadline exceeded\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      ]
     },
     {
       "id": "KetgVB2kG4o",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "tested_unresolved",
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Jude 1:1 - 1:25 END - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]"
+        }
+      ]
     },
     {
       "id": "FB-ymwYZNLo",
       "teacher": "Arnold Murray",
-      "caption_status": "not_tested_with_this_method"
+      "caption_status": "saved_quality_review",
+      "sha256": "fcb150c2c1d5c75cf7ff313255c297ce6a353e6b92e69512070fa635a7bd06df",
+      "segments": 1057,
+      "first_start": 1.0,
+      "last_start": 3500.0,
+      "caption_metadata": {
+        "video_id": "FB-ymwYZNLo",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
+      "attempts": [
+        {
+          "status": "interaction_error",
+          "title": "Revelation 1:1 - 1:20 - YouTube",
+          "error": "Error: Error: Timed out after 3000ms waiting for selector internal:role=button[name=\"...more\"s]: Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\nlocator.waitFor(visible) timed out for selector internal:role=button[name=\"...more\"s]\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"waitFor\",\"locator\":\"internal:role=button[name=\\\"...more\\\"s]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":\"button\",\"tag\":\"tp-yt-paper-button\",\"text\":\"...more\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}"
+        },
+        {
+          "status": "export_saved",
+          "title": "Revelation 1:1 - 1:20 - YouTube",
+          "error": null
+        }
+      ]
     },
     {
       "id": "8QzBBRfUG_Q",
@@ -6498,5 +7306,6 @@
       "teacher": "Arnold Murray",
       "caption_status": "not_tested_with_this_method"
     }
-  ]
+  ],
+  "note": "File-backed evidence only. Browser success without a validated saved file never counts as a transcript. Unresolved does not mean unavailable. Catalog teacher labels are not independent speaker verification. No Windows retrieval or full Scripture-coverage claim."
 }
