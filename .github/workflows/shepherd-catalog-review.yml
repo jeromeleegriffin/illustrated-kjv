@@ -11,6 +11,7 @@ permissions:
 jobs:
   catalog-dry-run:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -18,9 +19,15 @@ jobs:
           python-version: '3.12'
       - name: Validate curated video catalog offline
         run: python transcript-collector/prepare_queue.py --catalog dist/bible-teaching.json --out transcript-work/approved-candidates.json
-      - name: Upload review queue only
+      - name: Install caption metadata checker
+        run: python -m pip install 'yt-dlp>=2025.1.1'
+      - name: Probe five videos for caption availability (no downloads)
+        run: python transcript-collector/check_caption_access.py
+      - name: Upload review queue and availability statuses only
         uses: actions/upload-artifact@v4
         with:
-          name: shepherd-video-queue
-          path: transcript-work/approved-candidates.json
+          name: shepherd-video-availability-review
+          path: |
+            transcript-work/approved-candidates.json
+            transcript-work/caption-availability-report.json
           retention-days: 7
