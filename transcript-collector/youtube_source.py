@@ -5,7 +5,7 @@ import sys
 from pathlib import Path
 from engine import atomic, now, parse_captions, process
 
-BLOCKS = ('429', '403', 'sign in', 'not a bot', 'captcha', 'too many requests', 'access denied')
+BLOCKS = ('http error 429', 'http error 403', 'sign in', 'not a bot', 'captcha', 'too many requests', 'access denied')
 
 
 def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: None, runner=subprocess.run, max_new=None):
@@ -19,7 +19,11 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
     folder.mkdir(exist_ok=True)
     report_path = lib.root / 'youtube-source-report.json'
     report = json.loads(report_path.read_text()) if report_path.exists() else {'results': []}
-    previously_attempted = {r['id'] for r in report['results']}
+    from collections import Counter
+    attempts = Counter(r['id'] for r in report['results'])
+    latest = {r['id']:r for r in report['results']}
+    retryable = {'dependency_missing','timeout','request_failed','failed'}
+    previously_attempted = {vid for vid,r in latest.items() if r['status'] not in retryable or attempts[vid] >= 3}
     report['permission_basis'] = permission_basis
     attempted_now = 0
     for row in lib.db.execute('SELECT id,source,status FROM recordings ORDER BY rowid').fetchall():
@@ -30,12 +34,12 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
         progress('Checking YouTube captions: ' + vid)
         result = {'id': vid, 'checked': now()}
         command = [sys.executable, '-m', 'yt_dlp', '--ignore-config', '--skip-download',
-                   '--write-subs', '--write-auto-subs', '--sub-langs', 'en', '--sub-format', 'vtt',
+                   '--write-subs', '--write-auto-subs', '--sub-langs', 'en,en-orig,en-US,en-GB', '--sub-format', 'vtt',
                    '--write-info-json', '--no-playlist', '--socket-timeout', '15',
                    '--retries', '0', '--extractor-retries', '0', '--no-overwrites',
                    '-o', str(folder / '%(id)s.%(ext)s'), '--', 'https://www.youtube.com/watch?v=' + vid]
         try:
-            proc = runner(command, capture_output=True, text=True, timeout=65)
+            proc = runner(command, capture_output=True, text=True, encoding='utf-8', errors='replace', timeout=65)
             diagnostic = (proc.stdout or '') + '\n' + (proc.stderr or '')
             # No user cookies are requested or read; retain bounded diagnostics privately.
             result.update(returncode=proc.returncode, diagnostic=diagnostic[-12000:])
@@ -48,7 +52,8 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
             elif proc.returncode != 0:
                 result['status'] = 'request_failed'
             else:
-                caption = folder / (vid + '.en.vtt')
+                candidates = [folder / (vid + '.' + language + '.vtt') for language in ('en','en-orig','en-US','en-GB')]
+                caption = next((p for p in candidates if p.is_file()), candidates[0])
                 metadata = folder / (vid + '.info.json')
                 if not caption.is_file():
                     result['status'] = 'no_english_caption_saved'

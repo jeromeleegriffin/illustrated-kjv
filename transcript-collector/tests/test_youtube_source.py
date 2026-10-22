@@ -60,3 +60,33 @@ class YouTubeSourceTests(unittest.TestCase):
             self.assertEqual(len(second['results']),2)
             self.assertEqual(len(set(calls)),2)
             lib.close()
+
+    def test_english_variant_and_unrelated_numbers_are_not_block(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib = self.library(Path(tmp))
+            def saved(command, **kwargs):
+                self.assertEqual(kwargs['encoding'],'utf-8')
+                vid=command[-1].split('=')[-1]
+                folder=lib.root/'youtube-captions'
+                (folder/(vid+'.info.json')).write_text(json.dumps({'id':vid}))
+                (folder/(vid+'.en-US.vtt')).write_text('WEBVTT\n\n00:00:01.000 --> 00:00:02.000\nSynthetic English variant\n')
+                return SimpleNamespace(returncode=0,stdout='Lesson 403 duration 429',stderr='')
+            report=collect(lib,'fixture',runner=saved,max_new=1)
+            self.assertEqual(report['results'][0]['status'],'saved_quality_review')
+            self.assertFalse(lib.setting('youtube_access_hold',False))
+            from diagnostics import access_summary
+            summary=access_summary(lib.root)
+            self.assertIn('Saved for quality review: 1',summary)
+            self.assertNotIn('Synthetic English variant',summary)
+            lib.close()
+
+    def test_explicit_resume_retries_transient_failure_at_most_three(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib=self.library(Path(tmp)); calls=[]
+            def unavailable(command,**kwargs):
+                calls.append(command[-1])
+                return SimpleNamespace(returncode=1,stdout='',stderr='No module named yt_dlp')
+            for _ in range(4):collect(lib,'fixture',runner=unavailable)
+            self.assertEqual(sum(url.endswith('abcdefghijk') for url in calls),3)
+            self.assertEqual(sum(url.endswith('lmnopqrstuv') for url in calls),1)
+            lib.close()

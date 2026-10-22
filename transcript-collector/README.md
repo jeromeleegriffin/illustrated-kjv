@@ -1,4 +1,4 @@
-# Griffin Shepherd's Chapel Transcript Collector — Build 009
+# Griffin Shepherd's Chapel Transcript Collector — Build 010
 
 **Engineering release, not a completed Bible teaching archive.** Continues recovered Build 007 and the existing transcript branch. The Bible reader is unchanged. No paid transcription API is used.
 
@@ -54,6 +54,10 @@ The destination must not exist. This offline command copies preserved browser `.
 
 ## Experimental permitted YouTube captions
 
-Build 009 includes a caption-only provider and a five-recording access test. It requires enabled online sources, a permission basis, and the updated requirements (`yt-dlp==2026.10.21`). Existing installations must install the updated requirements before using it. It never downloads the video/audio, imports cookies or bypasses platform controls. A block pauses this provider persistently; `Retry Failed` does not clear that hold. Read `youtube-source-report.json` in your private output directory for the exact error. Saved captions remain quality_review. A clean downloader exit without a valid saved caption is not success.
+Build 010 includes a caption-only provider and a five-recording access test. It requires enabled online sources, a permission basis, and the updated requirements (`yt-dlp==2026.10.21`). Existing installations must install the updated requirements before using it. It never downloads the video/audio, imports cookies or bypasses platform controls. A block pauses this provider persistently; `Retry Failed` does not clear that hold. Read `youtube-source-report.json` in your private output directory for the exact error. Saved captions remain quality_review. A clean downloader exit without a valid saved caption is not success.
 
 The real cloud probe was blocked by YouTube; successful standalone Windows acquisition is NOT established. Do not use this as a claim of complete archive access.
+
+## Build 010 pre-install improvements
+
+The Access report button explains results without exposing transcript contents. English captions tagged en, en-orig, en-US or en-GB are supported. Windows downloader diagnostics use explicit UTF-8 decoding. Numeric video titles do not trigger false HTTP blocks. Transient/dependency failures can be retried by explicitly starting again, up to three attempts per recording; blocked access still holds the provider. If setup fails, read setup.log; REPAIR_SETUP.bat reinstalls dependencies without deleting your study library. Build 010 replaces Build 009.
