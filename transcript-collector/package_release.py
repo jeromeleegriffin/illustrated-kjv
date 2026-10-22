@@ -18,7 +18,7 @@ def build(destination):
         z.write(catalog, 'catalog.json')
     with zipfile.ZipFile(destination) as z:
         assert z.testzip() is None
-        for name in ['index.html','START_HERE.bat','app.py','engine.py','youtube_source.py','catalog.json','READ_FIRST.txt']:
+        for name in ['index.html','START_HERE.bat','app.py','engine.py','youtube_source.py','caption_worker.py','catalog.json','READ_FIRST.txt']:
             assert name in z.namelist(), name
         assert not any(n.endswith(('.sqlite','.mp3','.mp4')) for n in z.namelist())
     return destination

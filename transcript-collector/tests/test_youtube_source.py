@@ -49,7 +49,7 @@ class YouTubeSourceTests(unittest.TestCase):
             def saved(command, **kwargs):
                 vid = command[-1].split('=')[-1]
                 folder = lib.root/'youtube-captions'
-                (folder/(vid+'.info.json')).write_text(json.dumps({'id':vid}))
+                (folder/(vid+'.info.json')).write_text(json.dumps({'id':vid,'requested_subtitles':{'en':{'ext':'vtt','url':'https://example.invalid/captions?lang=en'}}}))
                 if vid == 'abcdefghijk':
                     (folder/(vid+'.en.vtt')).write_text('WEBVTT\n\n00:00:01.000 --> 00:00:02.000\nSynthetic beginning fixture\n')
                 return SimpleNamespace(returncode=0,stdout='',stderr='')
@@ -79,7 +79,7 @@ class YouTubeSourceTests(unittest.TestCase):
                 self.assertEqual(kwargs['encoding'],'utf-8')
                 vid=command[-1].split('=')[-1]
                 folder=lib.root/'youtube-captions'
-                (folder/(vid+'.info.json')).write_text(json.dumps({'id':vid}))
+                (folder/(vid+'.info.json')).write_text(json.dumps({'id':vid,'requested_subtitles':{'en-US':{'ext':'vtt','url':'https://example.invalid/captions?lang=en-US'}}}))
                 (folder/(vid+'.en-US.vtt')).write_text('WEBVTT\n\n00:00:01.000 --> 00:00:02.000\nSynthetic English variant\n')
                 return SimpleNamespace(returncode=0,stdout='Lesson 403 duration 429',stderr='')
             report=collect(lib,'fixture',runner=saved,max_new=1)
@@ -107,7 +107,8 @@ class YouTubeSourceTests(unittest.TestCase):
             lib=self.library(Path(tmp)); clock=Clock(); calls=[]
             def limited(command, **kwargs):
                 calls.append(clock.time())
-                self.assertEqual(command[command.index('--sub-langs')+1], 'en')
+                self.assertIn('caption_worker.py', command[1])
+                self.assertIn('youtube:skip=translated_subs,hls,dash', command)
                 return SimpleNamespace(returncode=1,stdout='',stderr='HTTP Error 429: Too Many Requests')
             first=real_collect(lib,'fixture',runner=limited,clock=clock.time,sleep=clock.sleep)
             self.assertEqual(first['results'][-1]['status'],'rate_limited')
@@ -143,3 +144,27 @@ class YouTubeSourceTests(unittest.TestCase):
             lib.close();lib=Library(Path(tmp)/'library')
             real_collect(lib,'fixture',runner=empty,clock=clock.time,sleep=clock.sleep)
             self.assertGreaterEqual(calls[1]-calls[0],60);lib.close()
+
+    def test_stale_caption_without_current_selection_is_not_imported(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib=self.library(Path(tmp))
+            folder=lib.root/'youtube-captions';folder.mkdir()
+            (folder/'abcdefghijk.en.vtt').write_text('WEBVTT\n\n00:00:01.000 --> 00:00:02.000\nStale caption\n')
+            def empty(command,**kwargs):
+                (folder/'abcdefghijk.info.json').write_text(json.dumps({'id':'abcdefghijk','requested_subtitles':{}}))
+                return SimpleNamespace(returncode=0,stdout='',stderr='')
+            report=collect(lib,'fixture',runner=empty,max_new=1)
+            self.assertEqual(report['results'][-1]['status'],'no_english_caption_saved')
+            self.assertFalse(lib.row('abcdefghijk')['source']);lib.close()
+
+    def test_migration_does_not_consume_a_network_attempt(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib=self.library(Path(tmp));vid='abcdefghijk';calls=[]
+            (lib.root/'youtube-source-report.json').write_text(json.dumps({'results':[
+                {'id':vid,'status':'rate_limited'},
+                {'id':vid,'status':'rate_limited','migration':'no network request'},
+                {'id':vid,'status':'rate_limited'}]}))
+            def failed(command,**kwargs):
+                calls.append(command[-1]);return SimpleNamespace(returncode=1,stdout='',stderr='temporary network failure')
+            collect(lib,'fixture',runner=failed,max_new=1)
+            self.assertTrue(calls[0].endswith(vid));lib.close()

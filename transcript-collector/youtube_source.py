@@ -41,7 +41,7 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
     folder = lib.root / 'youtube-captions'
     folder.mkdir(exist_ok=True)
     report_path = lib.root / 'youtube-source-report.json'
-    report = json.loads(report_path.read_text()) if report_path.exists() else {'results': []}
+    report = json.loads(report_path.read_text(encoding='utf-8')) if report_path.exists() else {'results': []}
     # Migrate only a positively identified legacy HTTP 429, never a login/403/bot block.
     hold = lib.setting('youtube_access_hold', None)
     if hold:
@@ -58,7 +58,7 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
     if lib.setting('youtube_rate_limits', 0) >= MAX_RATE_LIMITS:
         raise ValueError('Repeated rate limits: automatic requests stopped after three events. Review the access report.')
     from collections import Counter
-    attempts = Counter(r['id'] for r in report['results'])
+    attempts = Counter(r['id'] for r in report['results'] if not r.get('migration'))
     latest = {r['id']:r for r in report['results']}
     retryable = {'dependency_missing','timeout','request_failed','failed','rate_limited'}
     previously_attempted = {vid for vid,r in latest.items() if r['status'] not in retryable or attempts[vid] >= 3}
@@ -72,13 +72,15 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
         attempted_now += 1
         progress('Checking YouTube captions: ' + vid)
         result = {'id': vid, 'checked': now()}
-        command = [sys.executable, '-m', 'yt_dlp', '--ignore-config', '--skip-download',
-                   '--write-subs', '--write-auto-subs', '--sub-langs', 'en', '--sub-format', 'vtt',
-                   '--write-info-json', '--no-playlist', '--socket-timeout', '15',
-                   '--retries', '0', '--extractor-retries', '0', '--no-overwrites',
+        command = [sys.executable, str(Path(__file__).with_name('caption_worker.py')), '--ignore-config', '--skip-download',
+                   '--write-subs', '--write-auto-subs', '--sub-format', 'vtt',
+                   '--extractor-args', 'youtube:skip=translated_subs,hls,dash',
+                   '--sleep-requests', '2', '--sleep-subtitles', '5',
+                   '--write-info-json', '--no-clean-info-json', '--no-playlist', '--socket-timeout', '15',
+                   '--retries', '0', '--extractor-retries', '0', '--force-overwrites',
                    '-o', str(folder / '%(id)s.%(ext)s'), '--', 'https://www.youtube.com/watch?v=' + vid]
         try:
-            proc = runner(command, capture_output=True, text=True, encoding='utf-8', errors='replace', timeout=65)
+            proc = runner(command, capture_output=True, text=True, encoding='utf-8', errors='replace', timeout=120)
             diagnostic = (proc.stdout or '') + '\n' + (proc.stderr or '')
             # No user cookies are requested or read; retain bounded diagnostics privately.
             result.update(returncode=proc.returncode, diagnostic=diagnostic[-12000:])
@@ -99,23 +101,31 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
             elif proc.returncode != 0:
                 result['status'] = 'request_failed'
             else:
-                candidates = [folder / (vid + '.' + language + '.vtt') for language in ('en','en-orig','en-US','en-GB')]
-                caption = next((p for p in candidates if p.is_file()), candidates[0])
                 metadata = folder / (vid + '.info.json')
-                if not caption.is_file():
+                info = json.loads(metadata.read_text(encoding='utf-8')) if metadata.is_file() else {}
+                if info and info.get('id') != vid: raise ValueError('Downloaded metadata ID mismatch')
+                selected = info.get('requested_subtitles') or {}
+                # Never import a stale file just because its filename resembles English.
+                from caption_worker import select_native
+                if len(selected) > 1: raise ValueError('Expected one selected caption track')
+                valid = select_native({k:[v] for k,v in selected.items()}, {})
+                if selected and not valid: raise ValueError('Selected caption is translated or unsupported')
+                language = next(iter(valid), None)
+                caption = folder / (vid + '.' + language + '.vtt') if language else None
+                if caption is None or not caption.is_file():
                     result['status'] = 'no_english_caption_saved'
                 else:
-                    info = json.loads(metadata.read_text(encoding='utf-8'))
-                    if info.get('id') != vid: raise ValueError('Downloaded metadata ID mismatch')
                     cues = parse_captions(caption)
                     provenance = {'adapter': 'yt-dlp caption-only', 'permission_basis': permission_basis,
                                   'source_id': vid, 'url': info.get('webpage_url'),
                                   'channel': info.get('channel'), 'title': info.get('title'),
                                   'teacher_verification': 'catalog attribution; independent review required',
-                                  'generation': 'may be automatic; inspect original caption metadata'}
+                                  'language': language,
+                                  'generation': selected[language].get('collector_generation', 'unknown; review required')}
                     lib.attach(vid, caption, json.dumps(provenance))
                     process(lib, vid)
-                    result.update(status='saved_quality_review', segments=len(cues))
+                    result.update(status='saved_quality_review', segments=len(cues), language=language,
+                                  generation=provenance['generation'])
         except subprocess.TimeoutExpired:
             result['status'] = 'timeout'
         except Exception as exc:

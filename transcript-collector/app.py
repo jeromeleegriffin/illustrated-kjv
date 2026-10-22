@@ -9,7 +9,7 @@ CATALOG=BASE/'catalog.json' if (BASE/'catalog.json').exists() else BASE.parent/'
 CONFIG=Path(os.environ.get('LOCALAPPDATA',Path.home()/'.local/share'))/'GriffinShepherdCollector'/'location.json'
 class App:
  def __init__(self,root):
-  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 011");root.geometry('1180x780')
+  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 012");root.geometry('1180x780')
   self.events=queue.Queue();self.stop=threading.Event();self.worker=None
   try:self.output=Path(json.loads(CONFIG.read_text())['output'])
   except (OSError,ValueError,KeyError):self.output=Path.home()/'GriffinShepherdLibrary'

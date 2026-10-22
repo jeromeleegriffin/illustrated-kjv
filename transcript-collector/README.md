@@ -1,12 +1,14 @@
-# Griffin Shepherd's Chapel Transcript Collector — Build 011
+# Griffin Shepherd's Chapel Transcript Collector — Build 012
 
 **Engineering release, not a completed Bible teaching archive.** Continues recovered Build 007 and the existing transcript branch. The Bible reader is unchanged. No paid transcription API is used.
 
-## Build 011 update
+## Build 012 update
 
-See READ_FIRST.txt for in-place upgrade instructions preserving the existing virtual environment and private library. Owner-provided Build 010 logs confirm 17 saved caption imports and an HTTP 429 on the 18th recording. This update requests one exact English `en` track, spaces lesson requests by at least 60 seconds across restarts, and persists one-hour then two-hour cooldowns. A legacy pure-429 hold migrates to a fresh one-hour wait. Three rate-limit events stop automatic requests; login/CAPTCHA/403 holds never migrate. No server retry interval was exposed in the supplied subprocess log; these are conservative client defaults, not a guaranteed safe quota. English-variant-only recordings remain unresolved for later source review; existing cached variant imports are preserved.
+See READ_FIRST.txt for an in-place upgrade preserving your private library and existing dependencies. Research found that plain `en` can select a translated caption track associated with a documented HTTP 429 problem. This is a plausible cause of the owner's failure, not a confirmed diagnosis.
 
-Start / Resume waits and resumes the queue; the five-recording test stops on a rate limit. Progress is now above the lesson list. The Python prompt links to the specific 3.12 installer. No saved transcript is reset or marked verified complete.
+Build 012 selects one native English VTT: authored English first, original English automatic captions next. It rejects URLs containing `tlang`, including mislabeled originals, and records the selected language and generation type. Unnecessary media manifests and translated-subtitle enumeration are skipped; internal requests are spaced. Previously saved transcripts are not re-downloaded. Stale caption filenames alone are no longer accepted as a successful download.
+
+Existing 60-second lesson spacing, increasing cooldowns and three-event ceiling remain. The update does not clear your cooldown or a hard access block. Migration bookkeeping no longer counts as a network attempt. See reports/build-012-research-and-verification.md for sources, evidence, remaining blockers and validation. This change has not yet been tested against the failed recording from the owner's Windows network.
 
 ## Windows start
 

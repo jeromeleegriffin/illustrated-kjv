@@ -29,6 +29,9 @@ jobs:
       - name: Windows speech runtime smoke test
         if: runner.os == 'Windows'
         run: python transcript-collector/tests/speech_smoke.py
+      - name: Windows native-caption worker integration (localhost fixture)
+        if: runner.os == 'Windows'
+        run: python -m unittest discover -s transcript-collector/tests -p test_caption_worker_integration.py -v
       - name: Windows desktop smoke test
         if: runner.os == 'Windows'
         run: python transcript-collector/tests/gui_smoke.py
