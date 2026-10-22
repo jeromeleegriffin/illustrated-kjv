@@ -236,3 +236,11 @@ recovery does not prove the unknown original cause cannot recur.
 Run 39735176610 completed successfully on Windows/Linux. Added `recover_captions.py`, which refuses existing destinations, copies source exports with hash checks, rebuilds independently, and reopens/verifies SQLite and search. Tested on 37 real exports; 18 local automated tests pass. This does not establish the cause of the earlier corruption or restore audio checkpoints.
 
 A fresh public UI check of CEiN8_hTmcA (Exodus 1:1–2:16, official channel, description Pastor Arnold Murray) initially displayed captions unavailable. Expanding the description, opening Show transcript, and exporting succeeded. The validated file was imported: now 38 saved, 34 tested unresolved, 1,222 untested. This is still not a standalone Windows retrieval API or proof of complete coverage. All transcripts remain quality_review. See the current caption-availability report; earlier breadth/recovery reports describe their respective earlier snapshots.
+
+## Standalone caption adapter experiment (2026-10-22)
+
+Windows/Linux run 39735882613 passed for the previous recovery commit. Reopened Numbers iANFfv6DKhw and Joshua 4HgHsYjwhes through public UI, expanded description, opened transcript panel and saved valid exports. Current count: 40 saved, 32 unresolved, 1,222 untested. Catalog attribution is 34 Arnold / 6 Dennis; no independent voice certification.
+
+Installed yt-dlp 2026.10.21 in an isolated probe directory. A single caption-only request for the same Numbers recording failed: HTTP 429, then bot-sign-in requirement. A missing-JavaScript-runtime warning also appeared; fixing that warning is NOT evidence that it resolves the access block. No access-bypass attempts or follow-up network retries were made.
+
+Added `youtube_source.py` and a desktop button for caption-only collection where permission allows. It uses no cookies/proxies, bounded subprocess time, zero configured network retries, validates downloaded metadata ID and caption content, persists results, skips attempted/saved items, and holds the provider after an access denial. No recording without a saved caption is successful. 20 local tests pass; new adapter success tests are synthetic. Real standalone acquisition remains blocked and Windows retrieval unproven. This experimental adapter is on the branch, not yet in the Build 008 ZIP.

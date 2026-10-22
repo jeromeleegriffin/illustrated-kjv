@@ -51,3 +51,9 @@ Close the collector. Keep the damaged directory unchanged. From the installed co
 ```
 
 The destination must not exist. This offline command copies preserved browser `.txt` caption exports, checks source hashes, builds a fresh database, reopens it and checks SQLite integrity/search. It writes `recovery-report.json`; rejected files are listed and never counted as saved. After success, choose the recovered directory in Settings. It restores captions only, not audio processing checkpoints, settings or previous review decisions. Transcripts still require accuracy/completeness review. Keep both the original and recovered directories until you have inspected the result.
+
+## Experimental permitted YouTube captions
+
+The branch adds a caption-only provider button. It requires enabled online sources, a permission basis, and the updated requirements (`yt-dlp==2026.10.21`). Existing installations must install the updated requirements before using it. It never downloads the video/audio, imports cookies or bypasses platform controls. A block pauses this provider persistently; `Retry Failed` does not clear that hold. Read `youtube-source-report.json` in your private output directory for the exact error. Saved captions remain quality_review. A clean downloader exit without a valid saved caption is not success.
+
+The real cloud probe was blocked by YouTube; successful standalone Windows acquisition is NOT established. Do not use this as a claim of complete archive access.

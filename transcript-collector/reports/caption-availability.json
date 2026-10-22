@@ -1,15 +1,15 @@
 {
-  "checked": "2026-10-22T06:43:40.356117+00:00",
+  "checked": "2026-10-22T06:49:20.981737+00:00",
   "catalog_sha256": "75d4c64a4ee87e131f80ef52206da9cec70bb2714747cabb129a83b9b8b8654c",
   "total_unique_recordings": 1294,
   "counts": {
-    "saved_quality_review": 38,
+    "saved_quality_review": 40,
     "not_tested_with_this_method": 1222,
-    "tested_unresolved": 34
+    "tested_unresolved": 32
   },
   "verified_complete": 0,
   "verification": {
-    "structurally_valid": 38,
+    "structurally_valid": 40,
     "failures": [],
     "database_errors": [],
     "library_usable": true,
@@ -637,7 +637,17 @@
     {
       "id": "iANFfv6DKhw",
       "teacher": "Dennis Murray",
-      "caption_status": "tested_unresolved",
+      "caption_status": "saved_quality_review",
+      "sha256": "78c948dfb6dbadd10b2e985482e14f33ff8beface6951fc17aa5e686e9971822",
+      "segments": 934,
+      "first_start": 0.0,
+      "last_start": 3496.0,
+      "caption_metadata": {
+        "video_id": "iANFfv6DKhw",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
       "attempts": [
         {
           "status": "interaction_error",
@@ -1021,7 +1031,17 @@
     {
       "id": "4HgHsYjwhes",
       "teacher": "Arnold Murray",
-      "caption_status": "tested_unresolved",
+      "caption_status": "saved_quality_review",
+      "sha256": "5677a9e45ff7450e0bd90400211cad2d0eb873a067fc4c0d5d4a46fce644ea93",
+      "segments": 1073,
+      "first_start": 1.0,
+      "last_start": 3501.0,
+      "caption_metadata": {
+        "video_id": "4HgHsYjwhes",
+        "language": "en",
+        "caption_label": "authored or unspecified",
+        "machine_generated": null
+      },
       "attempts": [
         {
           "status": "interaction_error",

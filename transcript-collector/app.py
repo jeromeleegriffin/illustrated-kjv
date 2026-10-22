@@ -28,6 +28,7 @@ class App:
   more=ttk.Frame(root);more.pack(fill='x',padx=15,pady=4)
   ttk.Button(more,text='Scan official download listings',command=self.discover).pack(side='left')
   ttk.Button(more,text='Import approved source manifest',command=self.manifest).pack(side='left',padx=6)
+  ttk.Button(more,text='Collect permitted YouTube captions',command=self.youtube).pack(side='left',padx=6)
   bar=ttk.Frame(root);bar.pack(fill='x',padx=15)
   ttk.Entry(bar,textvariable=self.query,width=55).pack(side='left');ttk.Combobox(bar,textvariable=self.teacher,values=['','Arnold Murray','Dennis Murray'],state='readonly',width=22).pack(side='left',padx=6)
   ttk.Button(bar,text='Search transcripts',command=self.search).pack(side='left');ttk.Button(bar,text='All recordings',command=self.refresh).pack(side='left')
@@ -91,7 +92,7 @@ class App:
   if not self.idle():return
   id=self.selected()
   if not id:return
-  if not self.lib.setting('online_enabled',False):messagebox.showinfo('Source settings','Enable authorized direct-media downloads in Settings first.');return
+  if not self.lib.setting('online_enabled',False):messagebox.showinfo('Source settings','Enable authorized online downloads in Settings first.');return
   url=simpledialog.askstring('Direct media','Authorized direct audio/video URL (not a YouTube watch page):')
   if not url:return
   provenance=simpledialog.askstring('Source evidence','Permission and evidence this is the selected recording and teacher:')
@@ -116,6 +117,17 @@ class App:
    except Exception as e:self.events.put(str(e))
    finally:lib.close();self.events.put('REFRESH')
   self.worker=threading.Thread(target=run,daemon=True);self.worker.start()
+ def youtube(self):
+  if not self.idle():return
+  if not self.lib.setting('online_enabled',False):messagebox.showinfo('Source settings','Enable authorized online downloads in Settings first.');return
+  if self.lib.setting('youtube_access_hold',None):messagebox.showinfo('Provider paused','YouTube access was blocked. Read youtube-source-report.json in your output directory. Automatic retries are stopped.');return
+  basis=self.lib.setting('youtube_permission_basis','')
+  if not basis:
+   basis=simpledialog.askstring('YouTube caption permission','Describe your permission for automated caption access. This adapter cannot bypass platform restrictions:')
+   if not basis:return
+   self.lib.set_setting('youtube_permission_basis',basis)
+  from youtube_source import collect
+  self.background(lambda lib:collect(lib,basis,self.stop.is_set,self.events.put))
  def discover(self):
   from audit import official_sources
   from engine import atomic
@@ -165,7 +177,7 @@ class App:
   ttk.Combobox(win,textvariable=self.model,values=list(MODELS),state='readonly').pack()
   ttk.Label(win,text='Hardware: CPU works without an NVIDIA GPU. CUDA requires compatible libraries.').pack(pady=8)
   ttk.Combobox(win,textvariable=self.hardware,values=['cpu','cuda'],state='readonly').pack()
-  online=tk.BooleanVar(value=self.lib.setting('online_enabled',False));ttk.Checkbutton(win,text='Enable authorized direct-media downloads',variable=online).pack(pady=8)
+  online=tk.BooleanVar(value=self.lib.setting('online_enabled',False));ttk.Checkbutton(win,text='Enable authorized online downloads',variable=online).pack(pady=8)
   reserve=tk.StringVar(value=str(self.lib.setting('reserve_gb',2)));limit=tk.StringVar(value=str(self.lib.setting('max_file_gb',2)))
   ttk.Label(win,text='Minimum free disk GB / maximum single download GB').pack();ttk.Entry(win,textvariable=reserve,width=10).pack();ttk.Entry(win,textvariable=limit,width=10).pack()
   def save():
