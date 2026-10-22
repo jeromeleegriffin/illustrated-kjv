@@ -2,27 +2,65 @@
 import json
 import subprocess
 import sys
+import time
 from pathlib import Path
 from engine import atomic, now, parse_captions, process
 
-BLOCKS = ('http error 429', 'http error 403', 'sign in', 'not a bot', 'captcha', 'too many requests', 'access denied')
+BLOCKS = ('http error 403', 'sign in', 'not a bot', 'captcha', 'access denied')
 
 
-def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: None, runner=subprocess.run, max_new=None):
+PACE_SECONDS = 60
+COOLDOWN_SECONDS = 3600
+MAX_RATE_LIMITS = 3
+
+
+def is_rate_limit(diagnostic):
+    text = diagnostic.lower()
+    return ('http error 429' in text or 'too many requests' in text) and not any(term in text for term in BLOCKS)
+
+
+def wait_until(deadline, stop, progress, clock=time.time, sleep=time.sleep):
+    """Interruptible wait; never send requests during a persisted cooldown."""
+    last = None
+    while clock() < deadline:
+        if stop(): return False
+        remaining = max(1, int(deadline - clock()))
+        bucket = remaining // 30
+        if bucket != last:
+            progress(f'Waiting before next caption request: {remaining} seconds. Pause is available.')
+            last = bucket
+        sleep(min(1, max(0, deadline - clock())))
+    return not stop()
+
+
+def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: None, runner=subprocess.run, max_new=None, clock=time.time, sleep=time.sleep):
     if not permission_basis.strip():
         raise ValueError('A permission basis for automated caption access is required')
     if not lib.setting('online_enabled', False):
         raise ValueError('Online providers are disabled')
-    if lib.setting('youtube_access_hold', None):
-        raise ValueError('YouTube provider paused after an access block. Review youtube-source-report.json; do not repeatedly retry.')
     folder = lib.root / 'youtube-captions'
     folder.mkdir(exist_ok=True)
     report_path = lib.root / 'youtube-source-report.json'
     report = json.loads(report_path.read_text()) if report_path.exists() else {'results': []}
+    # Migrate only a positively identified legacy HTTP 429, never a login/403/bot block.
+    hold = lib.setting('youtube_access_hold', None)
+    if hold:
+        entry = next((r for r in reversed(report['results']) if r['id'] == hold.get('id')), {})
+        if is_rate_limit(entry.get('diagnostic', '')):
+            lib.set_setting('youtube_next_request_at', clock() + COOLDOWN_SECONDS)
+            lib.set_setting('youtube_rate_limits', 1)
+            lib.set_setting('youtube_access_hold', None)
+            lib.status(hold['id'], 'temporarily_failed', 'Legacy HTTP 429: waiting one hour before retry')
+            report['results'].append(dict(entry, status='rate_limited', checked=now(), migration='Build 011 cooldown; no network request'))
+            atomic(report_path, report)
+        else:
+            raise ValueError('YouTube provider paused after an access block. Review youtube-source-report.json; do not repeatedly retry.')
+    if lib.setting('youtube_rate_limits', 0) >= MAX_RATE_LIMITS:
+        raise ValueError('Repeated rate limits: automatic requests stopped after three events. Review the access report.')
     from collections import Counter
     attempts = Counter(r['id'] for r in report['results'])
     latest = {r['id']:r for r in report['results']}
-    retryable = {'dependency_missing','timeout','request_failed','failed'}
+    retryable = {'dependency_missing','timeout','request_failed','failed','rate_limited'}
     previously_attempted = {vid for vid,r in latest.items() if r['status'] not in retryable or attempts[vid] >= 3}
     report['permission_basis'] = permission_basis
     attempted_now = 0
@@ -30,11 +68,12 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
         vid = row['id']
         if stop() or (max_new is not None and attempted_now >= max_new): break
         if row['source'] or vid in previously_attempted or row['status'] == 'access_blocked': continue
+        if not wait_until(lib.setting('youtube_next_request_at', 0), stop, progress, clock, sleep): break
         attempted_now += 1
         progress('Checking YouTube captions: ' + vid)
         result = {'id': vid, 'checked': now()}
         command = [sys.executable, '-m', 'yt_dlp', '--ignore-config', '--skip-download',
-                   '--write-subs', '--write-auto-subs', '--sub-langs', 'en,en-orig,en-US,en-GB', '--sub-format', 'vtt',
+                   '--write-subs', '--write-auto-subs', '--sub-langs', 'en', '--sub-format', 'vtt',
                    '--write-info-json', '--no-playlist', '--socket-timeout', '15',
                    '--retries', '0', '--extractor-retries', '0', '--no-overwrites',
                    '-o', str(folder / '%(id)s.%(ext)s'), '--', 'https://www.youtube.com/watch?v=' + vid]
@@ -43,7 +82,15 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
             diagnostic = (proc.stdout or '') + '\n' + (proc.stderr or '')
             # No user cookies are requested or read; retain bounded diagnostics privately.
             result.update(returncode=proc.returncode, diagnostic=diagnostic[-12000:])
-            if any(term in diagnostic.lower() for term in BLOCKS):
+            if is_rate_limit(diagnostic):
+                result['status'] = 'rate_limited'
+                count = lib.setting('youtube_rate_limits', 0) + 1
+                lib.set_setting('youtube_rate_limits', count)
+                delay = COOLDOWN_SECONDS * (2 ** (count - 1))
+                lib.set_setting('youtube_next_request_at', clock() + delay)
+                result['retry_not_before_epoch'] = clock() + delay
+                lib.status(vid, 'temporarily_failed', 'HTTP 429: caption requests cooling down')
+            elif any(term in diagnostic.lower() for term in BLOCKS):
                 result['status'] = 'access_blocked'
                 lib.status(vid, 'access_blocked', 'YouTube provider access blocked; see private diagnostic report')
                 lib.set_setting('youtube_access_hold', {'id': vid, 'checked': now()})
@@ -73,10 +120,18 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
             result['status'] = 'timeout'
         except Exception as exc:
             result.update(status='failed', error=str(exc))
+        if result['status'] != 'rate_limited':
+            lib.set_setting('youtube_next_request_at', clock() + PACE_SECONDS)
         report['results'].append(result)
         atomic(report_path, report)
         progress(vid + ': ' + result['status'])
+        progress('REFRESH')
+        if result['status'] == 'rate_limited':
+            progress('Rate limited: saved cooldown. No more requests in this pass.')
+            break
         # Prevent thousands of repeated failures, including environmental failures.
         if result['status'] in ('access_blocked', 'dependency_missing', 'request_failed', 'timeout', 'failed'):
             break
+    report['attempted_this_run'] = attempted_now
+    atomic(report_path, report)
     return report

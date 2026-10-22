@@ -1,22 +1,30 @@
-GRIFFIN SHEPHERD'S CHAPEL TRANSCRIPT COLLECTOR — BUILD 010
-Current cumulative Windows engineering package; replaces Build 009.
+GRIFFIN SHEPHERD'S CHAPEL TRANSCRIPT COLLECTOR — BUILD 011
+Current cumulative Windows package; supersedes Build 010.
 
-1. On your Windows PC, extract the entire ZIP.
-2. Double-click START_HERE.bat. Follow the Python 3.12 installation prompt if needed.
-3. Open Settings and enable authorized online downloads.
-4. Click Test automatic caption access. Configure your permission basis once.
-5. If that test saves captions, click Start / Resume for the remaining catalog.
+UPDATING YOUR INSTALLED BUILD 010
+1. Close the collector normally.
+2. Extract this ZIP into the existing collector application folder.
+3. Choose Replace files when Windows asks. Keep the existing .venv folder.
+4. Do NOT delete or replace your separate GriffinShepherdLibrary data folder.
+5. Double-click START_HERE.bat. The title should say 011.
+6. Click Start / Resume once. It preserves saved transcripts.
 
-You do not select individual recordings. The catalog is bundled. Progress is saved.
-Pause/Stop preserves committed work. Keep the data folder when updating the app.
+A legacy HTTP 429 gets a one-hour cooldown starting when first resumed in 011.
+The visible status shows the wait. Leave the app open and the computer awake.
+Requests then run one lesson at a time, at least 60 seconds apart.
+The adapter requests only one English track (en), not en plus en-orig.
+Further HTTP 429 events use increasing cooldowns; after three events automatic
+requests stop for investigation. Login, CAPTCHA and HTTP 403 blocks remain held.
+No proxies, cookies, account switching or block bypass are used.
+The cooldown is an engineering default, not a promise of YouTube access.
 
-IMPORTANT: Automatic retrieval on your Windows connection has NOT been proven.
-The cloud downloader was blocked. If Windows is also blocked, the provider stops
-and writes youtube-source-report.json in your output folder. This is diagnostic
-evidence, not a completed library. No blocked recording is counted as successful.
+EVIDENCE
+Your Build 010 report shows 17 captions saved, then HTTP 429 on recording 18.
+Those 17 are not bundled here; they remain in your private Windows library.
+26 automated tests pass locally. Build 011 has not yet completed a real
+Windows collection run. All saved transcripts still need quality review.
+Full 1,294-recording access and full spoken Scripture coverage remain unproven.
 
-Start / Resume also transcribes attached authorized audio locally for free.
-It cannot transcribe unavailable audio or manufacture missing captions.
-No paid service is used. No automatic video/audio extraction from YouTube is included.
-The previous 40 private research transcripts are not bundled in this code package.
-See README.md and FEASIBILITY_AND_HANDOFF.md for recovery, tests and limitations.
+First installation: Python 3.12 64-bit with Tcl/Tk, then START_HERE.bat.
+No transcription API subscription. Local faster-whisper works with available audio.
+No YouTube audio downloading is included. See README.md and technical handoff.

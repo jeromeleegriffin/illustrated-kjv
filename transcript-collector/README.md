@@ -1,6 +1,12 @@
-# Griffin Shepherd's Chapel Transcript Collector — Build 010
+# Griffin Shepherd's Chapel Transcript Collector — Build 011
 
 **Engineering release, not a completed Bible teaching archive.** Continues recovered Build 007 and the existing transcript branch. The Bible reader is unchanged. No paid transcription API is used.
+
+## Build 011 update
+
+See READ_FIRST.txt for in-place upgrade instructions preserving the existing virtual environment and private library. Owner-provided Build 010 logs confirm 17 saved caption imports and an HTTP 429 on the 18th recording. This update requests one exact English `en` track, spaces lesson requests by at least 60 seconds across restarts, and persists one-hour then two-hour cooldowns. A legacy pure-429 hold migrates to a fresh one-hour wait. Three rate-limit events stop automatic requests; login/CAPTCHA/403 holds never migrate. No server retry interval was exposed in the supplied subprocess log; these are conservative client defaults, not a guaranteed safe quota. English-variant-only recordings remain unresolved for later source review; existing cached variant imports are preserved.
+
+Start / Resume waits and resumes the queue; the five-recording test stops on a rate limit. Progress is now above the lesson list. The Python prompt links to the specific 3.12 installer. No saved transcript is reset or marked verified complete.
 
 ## Windows start
 

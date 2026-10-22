@@ -23,7 +23,8 @@ def access_summary(root):
  latest={r['id']:r for r in report.get('results',[])}
  counts=Counter(r.get('status','unknown') for r in latest.values())
  lines=['AUTOMATIC CAPTION ACCESS — LATEST RESULTS',f'Recordings tested: {len(latest)}',f'Saved for quality review: {counts.get("saved_quality_review",0)}','']
- messages={'access_blocked':'YouTube blocked access. Automatic requests are paused; local audio transcription remains available.',
+ messages={'rate_limited':'HTTP 429: requests are cooling down. Start / Resume waits for the saved deadline; after three rate-limit events, automatic requests stop.',
+ 'access_blocked':'YouTube blocked access. Automatic requests are paused; local audio transcription remains available.',
  'dependency_missing':'The downloader is missing. Run REPAIR_SETUP.bat, then preserve this report if the problem continues.',
  'timeout':'The request timed out. No transcript was counted as saved.',
  'no_english_caption_saved':'No supported English caption file was saved. This is not proof that the recording has no captions.',

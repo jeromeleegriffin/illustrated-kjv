@@ -7,7 +7,7 @@ py -3.12 --version >nul 2>&1
 if errorlevel 1 (
  echo Install free Python 3.12 for Windows from python.org with Tcl/Tk enabled.
  echo Then double-click START_HERE.bat again. No Python programming is needed.
- start https://www.python.org/downloads/windows/
+ start https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
  pause
  exit /b 1
 )

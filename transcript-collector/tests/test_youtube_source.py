@@ -6,7 +6,18 @@ from pathlib import Path
 from types import SimpleNamespace
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from engine import Library
-from youtube_source import collect
+from youtube_source import collect as real_collect, wait_until
+
+class Clock:
+    def __init__(self): self.value=100000
+    def time(self): return self.value
+    def sleep(self, seconds): self.value+=seconds
+
+def collect(*args, **kwargs):
+    clock=Clock()
+    kwargs.setdefault("clock",clock.time)
+    kwargs.setdefault("sleep",clock.sleep)
+    return real_collect(*args,**kwargs)
 
 class YouTubeSourceTests(unittest.TestCase):
     def library(self, root):
@@ -23,7 +34,7 @@ class YouTubeSourceTests(unittest.TestCase):
             lib = self.library(Path(tmp)); calls = []
             def blocked(*args, **kwargs):
                 calls.append(args)
-                return SimpleNamespace(returncode=1,stdout='',stderr='HTTP Error 429: Too Many Requests')
+                return SimpleNamespace(returncode=1,stdout='',stderr='HTTP Error 403: Forbidden')
             report = collect(lib, 'synthetic test only', runner=blocked)
             self.assertEqual(len(calls), 1)
             self.assertEqual(report['results'][0]['status'],'access_blocked')
@@ -90,3 +101,45 @@ class YouTubeSourceTests(unittest.TestCase):
             self.assertEqual(sum(url.endswith('abcdefghijk') for url in calls),3)
             self.assertEqual(sum(url.endswith('lmnopqrstuv') for url in calls),1)
             lib.close()
+
+    def test_rate_limit_persists_wait_then_retries_same_recording(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib=self.library(Path(tmp)); clock=Clock(); calls=[]
+            def limited(command, **kwargs):
+                calls.append(clock.time())
+                self.assertEqual(command[command.index('--sub-langs')+1], 'en')
+                return SimpleNamespace(returncode=1,stdout='',stderr='HTTP Error 429: Too Many Requests')
+            first=real_collect(lib,'fixture',runner=limited,clock=clock.time,sleep=clock.sleep)
+            self.assertEqual(first['results'][-1]['status'],'rate_limited')
+            self.assertFalse(lib.setting('youtube_access_hold',None))
+            lib.close();lib=Library(Path(tmp)/'library')
+            real_collect(lib,'fixture',runner=limited,clock=clock.time,sleep=clock.sleep)
+            self.assertGreaterEqual(calls[1]-calls[0],3600)
+            real_collect(lib,'fixture',runner=limited,clock=clock.time,sleep=clock.sleep)
+            self.assertGreaterEqual(calls[2]-calls[1],7200)
+            with self.assertRaises(ValueError):real_collect(lib,'fixture',runner=limited,clock=clock.time,sleep=clock.sleep)
+            self.assertEqual(len(calls),3);lib.close()
+
+    def test_legacy_429_migration_and_pause_send_no_requests(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib=self.library(Path(tmp));vid='abcdefghijk';clock=Clock()
+            lib.status(vid,'access_blocked','legacy')
+            lib.set_setting('youtube_access_hold',{'id':vid})
+            (lib.root/'youtube-source-report.json').write_text(json.dumps({'results':[{'id':vid,'status':'access_blocked','diagnostic':'HTTP Error 429: Too Many Requests'}]}))
+            real_collect(lib,'fixture',stop=lambda:True,runner=lambda *a,**k:self.fail('request during pause'),clock=clock.time,sleep=clock.sleep)
+            self.assertEqual(lib.setting('youtube_next_request_at'),103600)
+            self.assertIsNone(lib.setting('youtube_access_hold'))
+            self.assertEqual(lib.row(vid)['status'],'temporarily_failed')
+            self.assertFalse(wait_until(104000,lambda:True,lambda x:None,clock.time,clock.sleep))
+            lib.close()
+
+    def test_pacing_is_persistent_between_passes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib=self.library(Path(tmp));clock=Clock();calls=[]
+            def empty(command,**kwargs):
+                calls.append(clock.time())
+                return SimpleNamespace(returncode=0,stdout='',stderr='')
+            real_collect(lib,'fixture',runner=empty,max_new=1,clock=clock.time,sleep=clock.sleep)
+            lib.close();lib=Library(Path(tmp)/'library')
+            real_collect(lib,'fixture',runner=empty,clock=clock.time,sleep=clock.sleep)
+            self.assertGreaterEqual(calls[1]-calls[0],60);lib.close()

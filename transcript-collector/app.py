@@ -9,7 +9,7 @@ CATALOG=BASE/'catalog.json' if (BASE/'catalog.json').exists() else BASE.parent/'
 CONFIG=Path(os.environ.get('LOCALAPPDATA',Path.home()/'.local/share'))/'GriffinShepherdCollector'/'location.json'
 class App:
  def __init__(self,root):
-  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 010");root.geometry('1180x780')
+  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 011");root.geometry('1180x780')
   self.events=queue.Queue();self.stop=threading.Event();self.worker=None
   try:self.output=Path(json.loads(CONFIG.read_text())['output'])
   except (OSError,ValueError,KeyError):self.output=Path.home()/'GriffinShepherdLibrary'
@@ -33,6 +33,7 @@ class App:
   bar=ttk.Frame(root);bar.pack(fill='x',padx=15)
   ttk.Entry(bar,textvariable=self.query,width=55).pack(side='left');ttk.Combobox(bar,textvariable=self.teacher,values=['','Arnold Murray','Dennis Murray'],state='readonly',width=22).pack(side='left',padx=6)
   ttk.Button(bar,text='Search transcripts',command=self.search).pack(side='left');ttk.Button(bar,text='All recordings',command=self.refresh).pack(side='left')
+  ttk.Label(root,textvariable=self.message,wraplength=1100).pack(fill='x',padx=15,pady=8)
   pane=ttk.Panedwindow(root,orient='vertical');pane.pack(fill='both',expand=True,padx=15,pady=10)
   frame=ttk.Frame(pane);pane.add(frame,weight=3)
   self.tree=ttk.Treeview(frame,columns=('teacher','lesson','status'),show='headings',selectmode='browse')
@@ -41,7 +42,6 @@ class App:
   textframe=ttk.Frame(pane);pane.add(textframe,weight=2)
   self.viewer=tk.Text(textframe,wrap='word',font=('Segoe UI',11));ts=ttk.Scrollbar(textframe,command=self.viewer.yview);self.viewer.configure(yscrollcommand=ts.set);ts.pack(side='right',fill='y');self.viewer.pack(fill='both',expand=True)
   ttk.Button(root,text='Open selected original recording',command=self.original).pack(anchor='w',padx=15)
-  ttk.Label(root,textvariable=self.message,wraplength=1100).pack(fill='x',padx=15,pady=10)
   root.protocol('WM_DELETE_WINDOW',self.close);self.refresh();root.after(300,self.poll)
  def selected(self):
   sel=self.tree.selection();return sel[0].split('|')[0] if sel else None
@@ -121,7 +121,6 @@ class App:
  def youtube(self):
   if not self.idle():return
   if not self.lib.setting('online_enabled',False):messagebox.showinfo('Source settings','Enable authorized online downloads in Settings first.');return
-  if self.lib.setting('youtube_access_hold',None):messagebox.showinfo('Provider paused','YouTube access was blocked. Read youtube-source-report.json in your output directory. Automatic retries are stopped.');return
   basis=self.lib.setting('youtube_permission_basis','')
   if not basis:
    basis=simpledialog.askstring('YouTube caption permission','Describe your permission for automated caption access. This adapter cannot bypass platform restrictions:')
@@ -154,7 +153,11 @@ class App:
     basis=lib.setting('youtube_permission_basis','')
     if lib.setting('online_enabled',False) and basis:
      from youtube_source import collect
-     try:collect(lib,basis,self.stop.is_set,self.events.put)
+     try:
+      while not self.stop.is_set():
+       report=collect(lib,basis,self.stop.is_set,self.events.put)
+       if self.stop.is_set() or not report.get('attempted_this_run') or not report['results'] or report['results'][-1]['status']!='rate_limited':break
+       if lib.setting('youtube_rate_limits',0)>=3:break
      except Exception as e:self.events.put('Caption provider: '+str(e))
     elif not basis:self.events.put('Automatic caption access is not configured. Use Test automatic caption access once to configure it.')
     rows=lib.db.execute("SELECT id FROM recordings WHERE status='ready' ORDER BY rowid").fetchall()
@@ -163,7 +166,7 @@ class App:
      try:process(lib,r[0],model,hardware,self.stop.is_set,self.events.put)
      except Exception as e:self.events.put(f'{r[0]} failed: {e}')
      self.events.put('REFRESH')
-    self.events.put('Queue stopped.' if self.stop.is_set() else 'Ready-source queue finished. Missing sources remain unprocessed.')
+    self.events.put('Queue stopped.' if self.stop.is_set() else 'Run ended. Open Access report for caption results and any stop reason. Missing sources remain unprocessed.')
    finally:lib.close()
   self.worker=threading.Thread(target=run,daemon=True);self.worker.start()
  def pause(self):self.stop.set();self.message.set('Stopping after the current chunk/download; saved progress is preserved.')
