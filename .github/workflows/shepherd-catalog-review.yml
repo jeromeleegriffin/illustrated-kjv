@@ -1,5 +1,10 @@
 name: Shepherd transcript catalog validation
 on:
+  pull_request:
+    paths:
+      - 'transcript-collector/**'
+      - '.github/workflows/shepherd-catalog-review.yml'
+      - 'dist/bible-teaching.json'
   workflow_dispatch:
 permissions:
   contents: read
