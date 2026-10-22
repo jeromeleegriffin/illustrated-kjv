@@ -9,7 +9,7 @@ CATALOG=BASE/'catalog.json' if (BASE/'catalog.json').exists() else BASE.parent/'
 CONFIG=Path(os.environ.get('LOCALAPPDATA',Path.home()/'.local/share'))/'GriffinShepherdCollector'/'location.json'
 class App:
  def __init__(self,root):
-  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 008");root.geometry('1180x780')
+  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 009");root.geometry('1180x780')
   self.events=queue.Queue();self.stop=threading.Event();self.worker=None
   try:self.output=Path(json.loads(CONFIG.read_text())['output'])
   except (OSError,ValueError,KeyError):self.output=Path.home()/'GriffinShepherdLibrary'
@@ -28,7 +28,7 @@ class App:
   more=ttk.Frame(root);more.pack(fill='x',padx=15,pady=4)
   ttk.Button(more,text='Scan official download listings',command=self.discover).pack(side='left')
   ttk.Button(more,text='Import approved source manifest',command=self.manifest).pack(side='left',padx=6)
-  ttk.Button(more,text='Collect permitted YouTube captions',command=self.youtube).pack(side='left',padx=6)
+  ttk.Button(more,text='Test automatic caption access',command=self.youtube).pack(side='left',padx=6)
   bar=ttk.Frame(root);bar.pack(fill='x',padx=15)
   ttk.Entry(bar,textvariable=self.query,width=55).pack(side='left');ttk.Combobox(bar,textvariable=self.teacher,values=['','Arnold Murray','Dennis Murray'],state='readonly',width=22).pack(side='left',padx=6)
   ttk.Button(bar,text='Search transcripts',command=self.search).pack(side='left');ttk.Button(bar,text='All recordings',command=self.refresh).pack(side='left')
@@ -127,7 +127,7 @@ class App:
    if not basis:return
    self.lib.set_setting('youtube_permission_basis',basis)
   from youtube_source import collect
-  self.background(lambda lib:collect(lib,basis,self.stop.is_set,self.events.put))
+  self.background(lambda lib:collect(lib,basis,self.stop.is_set,self.events.put,max_new=5))
  def discover(self):
   from audit import official_sources
   from engine import atomic
@@ -147,6 +147,12 @@ class App:
   def run():
    lib=Library(self.output)
    try:
+    basis=lib.setting('youtube_permission_basis','')
+    if lib.setting('online_enabled',False) and basis:
+     from youtube_source import collect
+     try:collect(lib,basis,self.stop.is_set,self.events.put)
+     except Exception as e:self.events.put('Caption provider: '+str(e))
+    elif not basis:self.events.put('Automatic caption access is not configured. Use Test automatic caption access once to configure it.')
     rows=lib.db.execute("SELECT id FROM recordings WHERE status='ready' ORDER BY rowid").fetchall()
     for r in rows:
      if self.stop.is_set():break

@@ -47,3 +47,16 @@ class YouTubeSourceTests(unittest.TestCase):
             self.assertEqual(len(lib.find('beginning')),1)
             self.assertEqual(len(collect(lib,'synthetic test only',runner=lambda *a,**k: self.fail('unnecessary retry'))['results']),2)
             lib.close()
+
+    def test_preflight_bounds_requests_then_resume(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            lib = self.library(Path(tmp)); calls = []
+            def empty(command, **kwargs):
+                calls.append(command[-1])
+                return SimpleNamespace(returncode=0, stdout='', stderr='')
+            first = collect(lib,'fixture',runner=empty,max_new=1)
+            self.assertEqual(len(first['results']),1)
+            second = collect(lib,'fixture',runner=empty)
+            self.assertEqual(len(second['results']),2)
+            self.assertEqual(len(set(calls)),2)
+            lib.close()

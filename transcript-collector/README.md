@@ -1,4 +1,4 @@
-# Griffin Shepherd's Chapel Transcript Collector — Build 008
+# Griffin Shepherd's Chapel Transcript Collector — Build 009
 
 **Engineering release, not a completed Bible teaching archive.** Continues recovered Build 007 and the existing transcript branch. The Bible reader is unchanged. No paid transcription API is used.
 
@@ -16,7 +16,7 @@
 
 ## Controls and data
 
-- Start / Resume: process ready sources, preserving committed chunks.
+- Start / Resume: collect captions through the configured permitted provider, then process ready local sources, preserving committed chunks.
 - Pause / Stop: stop after the current five-minute chunk. Closing waits for a safe checkpoint. Forced termination can lose the current chunk only; resume reprocesses it.
 - Retry Failed: explicitly retries eligible attached failures, maximum three processing attempts. Access-blocked sources are not retried automatically.
 - Verify Library: checks saved checksums, attribution and timestamp bounds. Structural validity does **not** certify recognition accuracy or entire-recording coverage.
@@ -54,6 +54,6 @@ The destination must not exist. This offline command copies preserved browser `.
 
 ## Experimental permitted YouTube captions
 
-The branch adds a caption-only provider button. It requires enabled online sources, a permission basis, and the updated requirements (`yt-dlp==2026.10.21`). Existing installations must install the updated requirements before using it. It never downloads the video/audio, imports cookies or bypasses platform controls. A block pauses this provider persistently; `Retry Failed` does not clear that hold. Read `youtube-source-report.json` in your private output directory for the exact error. Saved captions remain quality_review. A clean downloader exit without a valid saved caption is not success.
+Build 009 includes a caption-only provider and a five-recording access test. It requires enabled online sources, a permission basis, and the updated requirements (`yt-dlp==2026.10.21`). Existing installations must install the updated requirements before using it. It never downloads the video/audio, imports cookies or bypasses platform controls. A block pauses this provider persistently; `Retry Failed` does not clear that hold. Read `youtube-source-report.json` in your private output directory for the exact error. Saved captions remain quality_review. A clean downloader exit without a valid saved caption is not success.
 
 The real cloud probe was blocked by YouTube; successful standalone Windows acquisition is NOT established. Do not use this as a claim of complete archive access.

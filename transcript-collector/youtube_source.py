@@ -8,7 +8,7 @@ from engine import atomic, now, parse_captions, process
 BLOCKS = ('429', '403', 'sign in', 'not a bot', 'captcha', 'too many requests', 'access denied')
 
 
-def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: None, runner=subprocess.run):
+def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: None, runner=subprocess.run, max_new=None):
     if not permission_basis.strip():
         raise ValueError('A permission basis for automated caption access is required')
     if not lib.setting('online_enabled', False):
@@ -21,10 +21,12 @@ def collect(lib, permission_basis, stop=lambda: False, progress=lambda message: 
     report = json.loads(report_path.read_text()) if report_path.exists() else {'results': []}
     previously_attempted = {r['id'] for r in report['results']}
     report['permission_basis'] = permission_basis
+    attempted_now = 0
     for row in lib.db.execute('SELECT id,source,status FROM recordings ORDER BY rowid').fetchall():
         vid = row['id']
-        if stop(): break
+        if stop() or (max_new is not None and attempted_now >= max_new): break
         if row['source'] or vid in previously_attempted or row['status'] == 'access_blocked': continue
+        attempted_now += 1
         progress('Checking YouTube captions: ' + vid)
         result = {'id': vid, 'checked': now()}
         command = [sys.executable, '-m', 'yt_dlp', '--ignore-config', '--skip-download',

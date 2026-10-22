@@ -1,0 +1,22 @@
+GRIFFIN SHEPHERD'S CHAPEL TRANSCRIPT COLLECTOR — BUILD 009
+Current cumulative Windows engineering package; replaces Build 008.
+
+1. On your Windows PC, extract the entire ZIP.
+2. Double-click START_HERE.bat. Follow the Python 3.12 installation prompt if needed.
+3. Open Settings and enable authorized online downloads.
+4. Click Test automatic caption access. Configure your permission basis once.
+5. If that test saves captions, click Start / Resume for the remaining catalog.
+
+You do not select individual recordings. The catalog is bundled. Progress is saved.
+Pause/Stop preserves committed work. Keep the data folder when updating the app.
+
+IMPORTANT: Automatic retrieval on your Windows connection has NOT been proven.
+The cloud downloader was blocked. If Windows is also blocked, the provider stops
+and writes youtube-source-report.json in your output folder. This is diagnostic
+evidence, not a completed library. No blocked recording is counted as successful.
+
+Start / Resume also transcribes attached authorized audio locally for free.
+It cannot transcribe unavailable audio or manufacture missing captions.
+No paid service is used. No automatic video/audio extraction from YouTube is included.
+The previous 40 private research transcripts are not bundled in this code package.
+See README.md and FEASIBILITY_AND_HANDOFF.md for recovery, tests and limitations.
