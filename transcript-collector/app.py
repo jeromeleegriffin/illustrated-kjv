@@ -9,7 +9,7 @@ CATALOG=BASE/'catalog.json' if (BASE/'catalog.json').exists() else BASE.parent/'
 CONFIG=Path(os.environ.get('LOCALAPPDATA',Path.home()/'.local/share'))/'GriffinShepherdCollector'/'location.json'
 class App:
  def __init__(self,root):
-  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 012");root.geometry('1180x780')
+  self.root=root;root.title("Griffin Shepherd's Chapel Transcript Collector — 013 development");root.geometry('1180x780')
   self.events=queue.Queue();self.stop=threading.Event();self.worker=None
   try:self.output=Path(json.loads(CONFIG.read_text())['output'])
   except (OSError,ValueError,KeyError):self.output=Path.home()/'GriffinShepherdLibrary'
@@ -155,11 +155,15 @@ class App:
      from youtube_source import collect
      try:
       while not self.stop.is_set():
-       report=collect(lib,basis,self.stop.is_set,self.events.put)
+       report=collect(lib,basis,self.stop.is_set,self.events.put,max_new=10)
        if self.stop.is_set() or not report.get('attempted_this_run') or not report['results'] or report['results'][-1]['status']!='rate_limited':break
        if lib.setting('youtube_rate_limits',0)>=3:break
      except Exception as e:self.events.put('Caption provider: '+str(e))
     elif not basis:self.events.put('Automatic caption access is not configured. Use Test automatic caption access once to configure it.')
+    if not self.stop.is_set():
+     from audio_source import collect_audio
+     try:collect_audio(lib,basis,self.stop.is_set,self.events.put,model,hardware,max_new=10)
+     except Exception as e:self.events.put('Audio provider: '+str(e))
     rows=lib.db.execute("SELECT id FROM recordings WHERE status='ready' ORDER BY rowid").fetchall()
     for r in rows:
      if self.stop.is_set():break
@@ -179,7 +183,7 @@ class App:
   r=self.lib.verify();self.message.set(json.dumps(r));self.refresh()
  def settings(self):
   if not self.idle():return
-  win=tk.Toplevel(self.root);win.title('Settings');win.geometry('580x410')
+  win=tk.Toplevel(self.root);win.title('Settings');win.geometry('580x470')
   ttk.Label(win,text=f'Private library: {self.output}',wraplength=550).pack(pady=8)
   def location():
    p=filedialog.askdirectory()
@@ -191,13 +195,14 @@ class App:
   ttk.Label(win,text='Hardware: CPU works without an NVIDIA GPU. CUDA requires compatible libraries.').pack(pady=8)
   ttk.Combobox(win,textvariable=self.hardware,values=['cpu','cuda'],state='readonly').pack()
   online=tk.BooleanVar(value=self.lib.setting('online_enabled',False));ttk.Checkbutton(win,text='Enable authorized online downloads',variable=online).pack(pady=8)
+  audio=tk.BooleanVar(value=self.lib.setting('youtube_audio_enabled',False));ttk.Checkbutton(win,text='Try original English audio when captions are missing (local speech-to-text)',variable=audio).pack(pady=8)
   reserve=tk.StringVar(value=str(self.lib.setting('reserve_gb',2)));limit=tk.StringVar(value=str(self.lib.setting('max_file_gb',2)))
   ttk.Label(win,text='Minimum free disk GB / maximum single download GB').pack();ttk.Entry(win,textvariable=reserve,width=10).pack();ttk.Entry(win,textvariable=limit,width=10).pack()
   def save():
    try:
     a=float(reserve.get());b=float(limit.get())
     if not 0.1<=a<=10000 or not 0.01<=b<=100:raise ValueError('Invalid disk limits')
-    for k,v in [('model',self.model.get()),('hardware',self.hardware.get()),('online_enabled',online.get()),('reserve_gb',a),('max_file_gb',b)]:self.lib.set_setting(k,v)
+    for k,v in [('model',self.model.get()),('hardware',self.hardware.get()),('online_enabled',online.get()),('youtube_audio_enabled',audio.get()),('reserve_gb',a),('max_file_gb',b)]:self.lib.set_setting(k,v)
     win.destroy()
    except ValueError as e:messagebox.showerror('Settings',str(e))
   ttk.Button(win,text='Save',command=save).pack(pady=8)
