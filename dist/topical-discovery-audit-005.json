@@ -1,6 +1,6 @@
 {
   "observed_rows": 1516,
-  "new_selected": 314,
+  "new_selected": 311,
   "limit": 400,
   "candidates": [
     {
@@ -1634,16 +1634,6 @@
       "clean_title": "Where Are The Dead?"
     },
     {
-      "channel": "NCPTV",
-      "channel_url": "https://www.youtube.com/@NCPTV",
-      "listing": "Shepherd\u2019s Chapel \u2013Eze 33 1  33 31 Setting out watchmen\nNCPTV\n33K\n6y ago",
-      "title": "Shepherd\u2019s Chapel \u2013Eze 33 1  33 31 Setting out watchmen",
-      "url": "https://www.youtube.com/watch?v=fQcGwxL6pu8&list=PLpe8qYt4E8BJfmVBdfzkiDUN4jCk5zkQr&index=134&pp=iAQB",
-      "discovery_url": "https://www.youtube.com/playlist?list=PLpe8qYt4E8BJfmVBdfzkiDUN4jCk5zkQr",
-      "id": "fQcGwxL6pu8",
-      "clean_title": "Shepherd\u2019s Chapel \u2013Eze 33 1  33 31 Setting out watchmen"
-    },
-    {
       "channel": "FOOD FOR THE SOUL",
       "channel_url": "https://www.youtube.com/@FOODFORTHESOUL-YHVH",
       "listing": "\u271e Trouble; in-depth Bible study\nFOOD FOR THE SOUL\n1.2K\n5y ago",
@@ -3024,16 +3014,6 @@
       "clean_title": "End Times-   Shepherd's Chapel"
     },
     {
-      "channel": "NCPTV",
-      "channel_url": "https://www.youtube.com/@NCPTV",
-      "listing": "2 Peter 2 18  3 18 Peace of mind\nNCPTV\n234K\n9y ago",
-      "title": "2 Peter 2 18  3 18 Peace of mind",
-      "url": "https://www.youtube.com/watch?v=id9XI3nw3VA&list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J&index=22&pp=iAQB",
-      "discovery_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
-      "id": "id9XI3nw3VA",
-      "clean_title": "2 Peter 2 18  3 18 Peace of mind"
-    },
-    {
       "channel": "Shepherds Chapel Bible Studies",
       "channel_url": "https://www.youtube.com/@shepherdschapelbiblestudie2788",
       "listing": "Promises Remembered (March 17, 2014) ~ Rebroadcast on the topif of Promises Remembered\nShepherds Chapel Bible Studies\n151K\n12y ago",
@@ -3122,16 +3102,6 @@
       "discovery_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
       "id": "CLHG5B89AaE",
       "clean_title": "Shepherd\u2019s Chapel -  James 5-1--5-20   Later Day Rain"
-    },
-    {
-      "channel": "NCPTV",
-      "channel_url": "https://www.youtube.com/@NCPTV",
-      "listing": "Shepherd\u2019s Chapel - Eze 2 5  3 27 Watchman Gives Warning\nNCPTV\n89K\n8y ago",
-      "title": "Shepherd\u2019s Chapel - Eze 2 5  3 27 Watchman Gives Warning",
-      "url": "https://www.youtube.com/watch?v=JO6iPExocjg&list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J&index=72&pp=iAQB",
-      "discovery_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
-      "id": "JO6iPExocjg",
-      "clean_title": "Shepherd\u2019s Chapel - Eze 2 5  3 27 Watchman Gives Warning"
     },
     {
       "channel": "The Shepherd's Chapel Official Channel",
@@ -9154,6 +9124,21 @@
       "id": "o59MaUfJW_0",
       "title": "Seven Trumps",
       "reason": "Repeated normalized title/possible alternate upload"
+    },
+    {
+      "id": "fQcGwxL6pu8",
+      "title": "Shepherd\u2019s Chapel \u2013Eze 33 1  33 31 Setting out watchmen",
+      "reason": "Final review: chapter lesson disguised by colon-free title"
+    },
+    {
+      "id": "id9XI3nw3VA",
+      "title": "2 Peter 2 18  3 18 Peace of mind",
+      "reason": "Final review: chapter lesson disguised by colon-free title"
+    },
+    {
+      "id": "JO6iPExocjg",
+      "title": "Shepherd\u2019s Chapel - Eze 2 5  3 27 Watchman Gives Warning",
+      "reason": "Final review: chapter lesson disguised by colon-free title"
     }
   ],
   "cap_reached": false,

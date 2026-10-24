@@ -3,7 +3,7 @@
   "revision": "005",
   "checked": "2026-10-24",
   "scope": "Topical and special studies; separate from the 1294-recording passage catalog.",
-  "total": 1034,
+  "total": 1031,
   "discovery_sources": [
     "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
     "https://www.youtube.com/playlist?list=PLpe8qYt4E8BJfmVBdfzkiDUN4jCk5zkQr",
@@ -20324,29 +20324,6 @@
       "possible_related_ids": []
     },
     {
-      "id": "fQcGwxL6pu8",
-      "title": "Shepherd’s Chapel –Eze 33 1  33 31 Setting out watchmen",
-      "published_title": "Shepherd’s Chapel –Eze 33 1  33 31 Setting out watchmen",
-      "teacher": null,
-      "topic": "Special studies",
-      "url": "https://www.youtube.com/watch?v=fQcGwxL6pu8",
-      "channel": "NCPTV",
-      "channel_url": "https://www.youtube.com/@NCPTV",
-      "batch": 5,
-      "added": "2026-10-24",
-      "link_status": "observed_in_public_special_studies_playlist",
-      "teacher_status": "unconfirmed_do_not_attribute",
-      "teacher_evidence_url": "https://www.youtube.com/playlist?list=PLpe8qYt4E8BJfmVBdfzkiDUN4jCk5zkQr",
-      "teacher_evidence_basis": "Community discovery listing; speaker identity not established.",
-      "transcript_status": "not_requested",
-      "content_review_status": "pending",
-      "scripture_references": [],
-      "notes": "Candidate: confirm Arnold/Dennis speaker and topical content. Exclude other teachers; different IDs/titles may still be alternate teaching uploads. No full playback or caption access verified.",
-      "discovery_url": "https://www.youtube.com/playlist?list=PLpe8qYt4E8BJfmVBdfzkiDUN4jCk5zkQr",
-      "observed_listing": "Shepherd’s Chapel –Eze 33 1  33 31 Setting out watchmen\nNCPTV\n33K\n6y ago",
-      "possible_related_ids": []
-    },
-    {
       "id": "F7on2iTeuLY",
       "title": "Trouble",
       "published_title": "✞ Trouble; in-depth Bible study",
@@ -23521,29 +23498,6 @@
       "possible_related_ids": []
     },
     {
-      "id": "id9XI3nw3VA",
-      "title": "2 Peter 2 18  3 18 Peace of mind",
-      "published_title": "2 Peter 2 18  3 18 Peace of mind",
-      "teacher": null,
-      "topic": "Special studies",
-      "url": "https://www.youtube.com/watch?v=id9XI3nw3VA",
-      "channel": "NCPTV",
-      "channel_url": "https://www.youtube.com/@NCPTV",
-      "batch": 5,
-      "added": "2026-10-24",
-      "link_status": "observed_in_public_special_studies_playlist",
-      "teacher_status": "unconfirmed_do_not_attribute",
-      "teacher_evidence_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
-      "teacher_evidence_basis": "Community discovery listing; speaker identity not established.",
-      "transcript_status": "not_requested",
-      "content_review_status": "pending",
-      "scripture_references": [],
-      "notes": "Candidate: confirm Arnold/Dennis speaker and topical content. Exclude other teachers; different IDs/titles may still be alternate teaching uploads. No full playback or caption access verified.",
-      "discovery_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
-      "observed_listing": "2 Peter 2 18  3 18 Peace of mind\nNCPTV\n234K\n9y ago",
-      "possible_related_ids": []
-    },
-    {
       "id": "t65dnRWukqU",
       "title": "Promises Remembered (March 17, 2014) ~ Rebroadcast on the topif of Promises Remembered",
       "published_title": "Promises Remembered (March 17, 2014) ~ Rebroadcast on the topif of Promises Remembered",
@@ -23751,29 +23705,6 @@
       "possible_related_ids": []
     },
     {
-      "id": "JO6iPExocjg",
-      "title": "Shepherd’s Chapel - Eze 2 5  3 27 Watchman Gives Warning",
-      "published_title": "Shepherd’s Chapel - Eze 2 5  3 27 Watchman Gives Warning",
-      "teacher": null,
-      "topic": "Special studies",
-      "url": "https://www.youtube.com/watch?v=JO6iPExocjg",
-      "channel": "NCPTV",
-      "channel_url": "https://www.youtube.com/@NCPTV",
-      "batch": 5,
-      "added": "2026-10-24",
-      "link_status": "observed_in_public_special_studies_playlist",
-      "teacher_status": "unconfirmed_do_not_attribute",
-      "teacher_evidence_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
-      "teacher_evidence_basis": "Community discovery listing; speaker identity not established.",
-      "transcript_status": "not_requested",
-      "content_review_status": "pending",
-      "scripture_references": [],
-      "notes": "Candidate: confirm Arnold/Dennis speaker and topical content. Exclude other teachers; different IDs/titles may still be alternate teaching uploads. No full playback or caption access verified.",
-      "discovery_url": "https://www.youtube.com/playlist?list=PLlCopAt5uGO3HOH8vbHjfPIYibYtISr-J",
-      "observed_listing": "Shepherd’s Chapel - Eze 2 5  3 27 Watchman Gives Warning\nNCPTV\n89K\n8y ago",
-      "possible_related_ids": []
-    },
-    {
       "id": "FiEr3f0rejc",
       "title": "Seven Seals",
       "published_title": "Seven Seals DVD # 40462",
@@ -23797,17 +23728,17 @@
       "possible_related_ids": []
     }
   ],
-  "catalog_status": "20 archive-attributed entries plus1014 unconfirmed candidates",
+  "catalog_status": "20 archive-attributed entries plus1011 unconfirmed candidates",
   "batch_summary": {
     "1": 20,
     "2": 100,
     "3": 200,
     "4": 400,
-    "5": 314
+    "5": 311
   },
   "discovery_pause": {
     "reason": "Current sources inspected;more may remain",
-    "added_this_round": 314,
+    "added_this_round": 311,
     "limit": 400,
     "exhaustive": false
   }
