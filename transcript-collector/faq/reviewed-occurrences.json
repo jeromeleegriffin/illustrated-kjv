@@ -4134,6 +4134,54 @@
       "question": "How did Arnold explain the continued presence of those he called Kenites?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "like-minded-fellowship",
+      "question": "Why did Arnold say fellowship with like-minded believers can feel spiritually stronger?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "christmas-conception-celebration",
+      "question": "Did Arnold object to gathering at Christmas if he dated Christ’s conception rather than birth then?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "animals-angels",
+      "question": "How did Arnold answer a child asking whether animals can be angels?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "first-age-souls",
+      "question": "Did Arnold teach that people in his first earth age lacked souls?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "seals-order-learning",
+      "question": "Where did Arnold locate the seals and how did he distinguish their order?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "antichrist-present-now",
+      "question": "Did Arnold say the antichrist was already personally on earth in this broadcast?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "heaven-earth-beauty",
+      "question": "How did Arnold describe the future world to a child comparing heaven with Jerusalem or Bethlehem?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "seek-early",
+      "question": "How did Arnold interpret seeking wisdom early in Proverbs 8:17?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -19946,6 +19994,291 @@
       "recording_group": "3oknCh6wCWM",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "like-minded-fellowship",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2147.38,
+      "end": 2188.68,
+      "teacher": "Arnold Murray",
+      "variant": "like-minded-fellowship-3rPWuPSCMfU-2147.38-reviewed",
+      "summary": "Arnold described believers’ shared love of God’s word as minds and spirits meshing, connected it with Christ’s presence among those gathered and anticipated continued fellowship in eternity.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "divine-name-jehovah",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2192.36,
+      "end": 2271.1,
+      "teacher": "Arnold Murray",
+      "variant": "divine-name-jehovah-3rPWuPSCMfU-2192.36-reviewed",
+      "summary": "Arnold distinguished I am that I am from the listener’s recollection and connected it with the divine name and his preferred pronunciation. His etymology and pronunciation remain attributed claims rather than independently settled linguistic findings.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "christmas-conception-celebration",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2276.27,
+      "end": 2335.53,
+      "teacher": "Arnold Murray",
+      "variant": "christmas-conception-celebration-3rPWuPSCMfU-2276.27-reviewed",
+      "summary": "Arnold treated the conception as Christ beginning to dwell with people and referred to John’s response in Elizabeth’s womb. He directed listeners to his Christmas study for his calendar calculation rather than objecting to the family gathering.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "animals-angels",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2359.39,
+      "end": 2396.93,
+      "teacher": "Arnold Murray",
+      "variant": "animals-angels-3rPWuPSCMfU-2359.39-reviewed",
+      "summary": "Arnold spoke of animals having spiritual form and being present in God’s future order, referring to Isaiah 11. The captions initially say angels before clarifying animals, so this answer does not establish that animals are heavenly messengers.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "born-from-above",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2400.06,
+      "end": 2462.79,
+      "teacher": "Arnold Murray",
+      "variant": "born-from-above-3rPWuPSCMfU-2400.06-reviewed",
+      "summary": "Arnold referred to John 3 and Strong’s Greek entry 509, interpreting again as from above or from the first. He connected it with his first-age teaching and contrasted birth through a woman with his interpretation of fallen angels leaving their habitation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "satan-bound-now",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2466.66,
+      "end": 2510.94,
+      "teacher": "Arnold Murray",
+      "variant": "satan-bound-now-3rPWuPSCMfU-2466.66-reviewed",
+      "summary": "Arnold described Satan as restrained in heaven by Michael until the command to cast him out at the sixth trumpet. He expected fallen angels to come with him and encouraged believers to trust their authority in Christ.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "first-age-souls",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2516.58,
+      "end": 2605.3,
+      "teacher": "Arnold Murray",
+      "variant": "first-age-souls-3rPWuPSCMfU-2516.58-reviewed",
+      "summary": "Arnold rejected that premise, saying every living person has a soul. He explained Satan stealing souls as deception drawing people from God rather than removing the existence of a soul.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "seals-order-learning",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2609.94,
+      "end": 2691.05,
+      "teacher": "Arnold Murray",
+      "variant": "seals-order-learning-3rPWuPSCMfU-2609.94-reviewed",
+      "summary": "Arnold pointed to Revelation 6 and described the seals as knowledge learned in the mind rather than a simple chronological sequence. He stressed learning that the false Christ comes first; his explanation of the rider’s bow is an attributed interpretation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "murder-final-judgment",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2695.32,
+      "end": 2756.42,
+      "teacher": "Arnold Murray",
+      "variant": "murder-final-judgment-3rPWuPSCMfU-2695.32-reviewed",
+      "summary": "Arnold distinguished earthly consequences for premeditated murder from God’s capacity to forgive. He advocated execution for deliberate criminal homicide while leaving final forgiveness to God, and distinguished crimes of passion in his explanation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "antichrist-present-now",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2760.46,
+      "end": 2809.11,
+      "teacher": "Arnold Murray",
+      "variant": "antichrist-present-now-3rPWuPSCMfU-2760.46-reviewed",
+      "summary": "Arnold said no, while distinguishing present evil spiritual influence from Satan’s future personal arrival. He expected that arrival to be publicly celebrated as a religious deliverer rather than concealed.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "bless-anointing-oil",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2818.58,
+      "end": 2846.64,
+      "teacher": "Arnold Murray",
+      "variant": "bless-anointing-oil-3rPWuPSCMfU-2818.58-reviewed",
+      "summary": "Arnold clarified that God blesses the oil and a Christian asks him to do so. He said a minister is not required and the believer can make that request personally.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "church-assembly-broadcast",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2848.38,
+      "end": 2870.63,
+      "teacher": "Arnold Murray",
+      "variant": "church-assembly-broadcast-3rPWuPSCMfU-2848.38-reviewed",
+      "summary": "Arnold affirmed the listener’s feeling of participating in church through the broadcast. He identified Christ as the shepherd and described joining as a matter of acceptance by Christ.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "heaven-earth-beauty",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2885.95,
+      "end": 2928.19,
+      "teacher": "Arnold Murray",
+      "variant": "heaven-earth-beauty-3rPWuPSCMfU-2885.95-reviewed",
+      "summary": "Arnold expected a renewed earth more beautiful than those present places, citing Revelation 21:1. He described a pleasant, inhabitable world with what offends removed, rather than giving invented geographic details.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "mark-hand",
+      "video_id": "3rPWuPSCMfU",
+      "start": 2931.63,
+      "end": 3006.47,
+      "teacher": "Arnold Murray",
+      "variant": "mark-hand-3rPWuPSCMfU-2931.63-reviewed",
+      "summary": "Arnold distinguished a visible mark on the skin from deception in the mind and explained the hand as doing Satan’s work. He applied his warning to escape teaching and urged study to resist deception.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "seek-early",
+      "video_id": "3rPWuPSCMfU",
+      "start": 3010.54,
+      "end": 3044.87,
+      "teacher": "Arnold Murray",
+      "variant": "seek-early-3rPWuPSCMfU-3010.54-reviewed",
+      "summary": "Arnold accepted both early in the day and early in life as applications of the listener’s question. He identified the speaker in Proverbs 8 as wisdom.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "pork-salvation",
+      "video_id": "3rPWuPSCMfU",
+      "start": 3051.05,
+      "end": 3186.18,
+      "teacher": "Arnold Murray",
+      "variant": "pork-salvation-3rPWuPSCMfU-3051.05-reviewed",
+      "summary": "Arnold discouraged pork within his dietary teaching, directing the listener to Leviticus 11 and distinguishing harm to health from automatic damnation. His physiological claims about swine are recorded as his rationale, not verified medical or food-safety guidance.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "generational-curses",
+      "video_id": "3rPWuPSCMfU",
+      "start": 3191.29,
+      "end": 3269.43,
+      "teacher": "Arnold Murray",
+      "variant": "generational-curses-3rPWuPSCMfU-3191.29-reviewed",
+      "summary": "Arnold interpreted successive generations as accountable for their own continued rejection of God rather than children automatically inheriting a parent’s guilt. He said an individual turning to God ends that pattern for themselves; his recalled generation count is not supplied as an exact Scripture quotation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "cremation",
+      "video_id": "3rPWuPSCMfU",
+      "start": 3274.77,
+      "end": 3334.6,
+      "teacher": "Arnold Murray",
+      "variant": "cremation-3rPWuPSCMfU-3274.77-reviewed",
+      "summary": "Arnold reassured a widow that cremation does not prevent return to God and that flesh is no longer needed. He placed the person on one side or the other of paradise’s gulf and ultimately left the individual’s standing in God’s hands.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "work-eat-disability",
+      "video_id": "3rPWuPSCMfU",
+      "start": 3336.93,
+      "end": 3366.7,
+      "teacher": "Arnold Murray",
+      "variant": "work-eat-disability-3rPWuPSCMfU-3336.93-reviewed",
+      "summary": "Arnold explicitly said a listener with mental illness on disability was not a slacker. He limited his application of 2 Thessalonians 3:10 to healthy, able-bodied people unwilling to work.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "source_sha256": "fddb2b57b5665b366cffaa66fa6803ba5ea0e355988511170b10aee946e3bc9e",
+      "recording_group": "3rPWuPSCMfU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
     }
   ],
   "duplicate_recording_aliases": {
@@ -19955,5 +20288,27 @@
     "SO44pz-Cr6I": "WaqJ4p4NLFY",
     "iIMTsayr7VU": "soSFyASwbLs"
   },
-  "alias_basis": "Same passage and matching caller/question/answer wording; conservatively counted once. Three Peter pairs were identical normalized caption text."
+  "alias_basis": "Same passage and matching caller/question/answer wording; conservatively counted once. Three Peter pairs were identical normalized caption text.",
+  "recording_reviews": [
+    {
+      "video_id": "3rPWuPSCMfU",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "9935e08343416e41b0bc3c060ff73bcf6925f7ebc467eec80f13eeb601c8ec64",
+      "qa_start": 2143.61,
+      "qa_end": 3368.26,
+      "cursor_seconds": 3368.26,
+      "reviewed_ranges": [
+        {
+          "start": 2143.61,
+          "end": 3368.26
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [],
+      "review_status": "fully_reviewed",
+      "review_basis": "complete_caption_QA_review_audio_pending",
+      "reviewed_at": "2026-10-24"
+    }
+  ]
 }

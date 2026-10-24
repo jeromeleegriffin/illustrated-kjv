@@ -41,6 +41,7 @@
   $('results-count').textContent=`${list.length} matching questions · one question per page. Numbers show the overall frequency ranking; counts grow as review continues.`;$('empty').hidden=list.length!==0;
  }
  function review(){const q=$('review-query').value.toLowerCase();$('review-list').replaceChildren();for(const r of data.recordings||[]){if(!`${r.video_id} ${r.lesson} ${r.teacher} ${r.review_status}`.toLowerCase().includes(q))continue;const row=make('div',undefined,'review-row');row.append(make('b',r.lesson),make('span',`${r.teacher} · ${r.video_id} · ${r.kind||'passage'}`),make('span',r.review_status.replaceAll('_',' ')));if(r.question_ids.length)row.append(make('span','Linked questions: '+r.question_ids.join(', ')));$('review-list').append(row);}}
- $('review-counts').textContent=`${data.review.available} transcripts tracked and scanned · ${data.review.partially_reviewed} partially reviewed · ${data.review.fully_reviewed} fully reviewed · ${data.review.teacher_pending||0} awaiting teacher confirmation.`;
+ $('review-counts').textContent=`${data.review.available} transcripts tracked and scanned · ${data.review.partially_reviewed} partially reviewed · ${data.review.fully_reviewed} complete caption Q&A reviews (audio pending) · ${data.review.teacher_pending||0} awaiting teacher confirmation.`;
  $('filters').addEventListener('submit',e=>e.preventDefault());$('query').addEventListener('input',()=>render(true));$('teacher').addEventListener('change',()=>render(true));$('topic').addEventListener('change',()=>render(true));$('sort').addEventListener('change',()=>render(true));$('filters').addEventListener('reset',()=>setTimeout(()=>render(true),0));$('review-query').addEventListener('input',review);render();review();
 })();
+

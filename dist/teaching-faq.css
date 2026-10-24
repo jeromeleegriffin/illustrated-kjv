@@ -5,3 +5,4 @@
 .faq-pager{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:14px 0}.faq-pager button{margin:0;min-width:110px}.faq-pager button:disabled{opacity:.4;cursor:default}.page-label{text-align:center;font-size:.9rem}@media(max-width:420px){.faq-pager button{min-width:0;padding:10px;font-size:.85rem}}
 
 main{padding-top:14px}.question{margin-top:0}.question h2{font-size:clamp(1.5rem,4.5vw,2rem);margin-bottom:12px}.page-tools{margin-top:36px;border-top:1px solid #b7c1b8;padding-top:20px}.page-tools header{padding:12px;justify-content:flex-start}.page-tools h1{font-size:1.6rem}.page-tools .intro,.page-tools .eyebrow{display:none}@media(max-width:500px){main{padding-top:10px}.question{padding:16px}}
+

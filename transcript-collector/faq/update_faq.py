@@ -54,12 +54,29 @@ def build(library,dist,registry_path):
   if not any(s['video_id']==id and s['start_seconds']==o['start'] and s['end_seconds']==o['end'] for s in answer['sources']):answer['sources'].append(source)
   if q['id'] not in r['question_ids']:r['question_ids'].append(q['id'])
   r['reviewed_ranges'].append(dict(question_id=q['id'],start_seconds=o['start'],end_seconds=o['end'],review='caption_passage_checked_audio_pending'));r['review_status']='partially_reviewed'
+ # Explicit, hash-bound recording review evidence is independent of occurrences.
+ # A complete caption Q&A review does not imply independent audio verification.
+ for evidence in registry.get('recording_reviews',[]):
+  id=evidence['video_id'];r=records.get(id)
+  if not r or id not in docs or kinds[id]=='topical':continue
+  if evidence.get('transcript_sha256')!=r['transcript_sha256'] or evidence.get('teacher')!=r['teacher']:
+   r['review_status']='source_changed_needs_review';r['stale_recording_review']=True;continue
+  start=evidence.get('qa_start');end=evidence.get('qa_end');cursor=evidence.get('cursor_seconds')
+  if not isinstance(start,(int,float)) or not isinstance(end,(int,float)) or not 0<=start<end<=docs[id]['duration']+.01:continue
+  if not isinstance(cursor,(int,float)) or not start<=cursor<=end:continue
+  ranges=sorted(evidence.get('reviewed_ranges',[]),key=lambda x:x['start']);covered=start
+  for span in ranges:
+   if not start<=span['start']<span['end']<=end or span['start']>covered+.01:break
+   covered=max(covered,span['end'])
+  r['recording_review']=evidence;r['cursor_seconds']=cursor
+  complete=(evidence.get('qa_boundaries_confirmed') is True and evidence.get('all_listener_questions_reviewed') is True and not evidence.get('unresolved_ranges') and covered>=end-.01 and cursor>=end-.01)
+  r['review_status']='fully_reviewed' if complete else 'partially_reviewed'
  questions=list(questions.values())
  for q in questions:
   sources=[s for a in q['answers'] for s in a['sources']];q['asked_count']=frequency(sources);q['source_upload_count']=len({s['video_id'] for s in sources});q['count_basis']='distinct_recording_groups_in_reviewed_passages';q['frequency_scope']='lower_bound_not_full_archive_frequency'
  questions.sort(key=lambda q:(-q['asked_count'],q['question'].casefold()))
  for i,q in enumerate(questions,1):q['rank']=i
- counts=collections.Counter(r['review_status'] for r in records.values());review=dict(available=len(records),partially_reviewed=counts['partially_reviewed'],fully_reviewed=0,scanned=len(records),teacher_pending=counts['teacher_confirmation_pending'],pending=counts['pending'],source_changed=len(invalid),question_occurrences=sum(q['asked_count'] for q in questions))
+ counts=collections.Counter(r['review_status'] for r in records.values());review=dict(available=len(records),partially_reviewed=counts['partially_reviewed'],fully_reviewed=counts['fully_reviewed'],completion_basis='complete_caption_QA_review_not_audio_verification',scanned=len(records),teacher_pending=counts['teacher_confirmation_pending'],pending=counts['pending'],source_changed=len(invalid),question_occurrences=sum(q['asked_count'] for q in questions))
  data=dict(schema='griffin-faq-v2',updated=now,authority_policy='Arnold Murray primary; Dennis Murray clearly attributed secondary. Preserve variants; never combine different claims as a quotation.',frequency_policy='Most asked among reviewed passages. One count per question per distinct recording group. Alternate uploads count once. These are lower bounds while review continues.',questions=questions)
  ledger=dict(schema='griffin-faq-review-v2',updated=now,policy='Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.',recordings=list(records.values()),review=review)
  (dist/'teaching-faq.json').write_text(json.dumps(data,ensure_ascii=False,indent=2));(dist/'teaching-faq-review.json').write_text(json.dumps(ledger,ensure_ascii=False,indent=2));(private/'teaching-faq-review.json').write_text(json.dumps(ledger,ensure_ascii=False,indent=2))
@@ -67,3 +84,4 @@ def build(library,dist,registry_path):
  report=dict(updated=now,sources=len(docs),new_scans=new,changed_scans=changed,unchanged_scans=unchanged,questions=len(questions),review=review,invalid_approvals=invalid,ranked_questions=[dict(id=q['id'],count=q['asked_count']) for q in questions]);(private/'faq-update-report.json').write_text(json.dumps(report,indent=2));db.close();return report
 if __name__=='__main__':
  p=argparse.ArgumentParser();p.add_argument('--library',required=True,type=Path);p.add_argument('--dist',required=True,type=Path);p.add_argument('--registry',type=Path,default=(Path(__file__).resolve().parents[1]/'reviewed-occurrences.json' if (Path(__file__).resolve().parents[1]/'reviewed-occurrences.json').exists() else Path(__file__).resolve().parent/'reviewed-occurrences.json'));a=p.parse_args();print(json.dumps(build(a.library,a.dist,a.registry),indent=2))
+
