@@ -1353,7 +1353,7 @@
     },
     {
       "id": "spiritual-eyes-ears",
-      "question": "What did Arnold mean by eyes to see and ears to hear?",
+      "question": "How did the pastors explain eyes to see and ears to hear?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -2565,7 +2565,7 @@
     },
     {
       "id": "katabole",
-      "question": "How did Arnold direct listeners to study the word he calls katabole?",
+      "question": "How did the pastors explain the word they call katabole?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -4240,6 +4240,66 @@
     {
       "id": "testimony-world-courts",
       "question": "How did Arnold fit many testimonies within the five-month period?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "disasters-blame-god",
+      "question": "How did Dennis answer why God allows deadly disasters?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "heap-coals-enemy",
+      "question": "How did Dennis interpret heaping coals on an enemy’s head?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sixth-day-eighth-day",
+      "question": "How did Dennis distinguish sixth-day humanity from Adam in Genesis?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jesus-crucifixion-place",
+      "question": "Where did Dennis say Jesus was crucified?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "baptism-moving-water",
+      "question": "Did Dennis require flowing water for baptism?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "generation-40-70-120",
+      "question": "Which passages did Dennis use for 40-, 70- and 120-year generations?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "evil-after-judgment",
+      "question": "How did Dennis answer a listener worried evil might return after final judgment?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "revelation12-eagle-woman",
+      "question": "How did Dennis interpret the woman and eagle’s wings in Revelation 12:14?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "marriage-leave-cleave",
+      "question": "Where did Dennis point for leaving parents and becoming one flesh in marriage?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "daughter-parent-heartbreak",
+      "question": "How did Dennis advise a mother distressed by her daughter’s conduct?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     }
@@ -20624,6 +20684,230 @@
       "recording_group": "3waQOMJXwpM",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "disasters-blame-god",
+      "video_id": "3waC1HcLoXY",
+      "start": 2201.47,
+      "end": 2348.34,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-disasters-blame-god",
+      "summary": "Dennis emphasized the brevity of mortal life beside eternity and God’s love expressed through Christ. He warned against blaming God for every tragedy or wicked act, citing Jeremiah 23. This response did not explain the specific cause of the typhoon in the listener’s question.",
+      "scripture_mentions": [
+        "Jeremiah 23"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "heap-coals-enemy",
+      "video_id": "3waC1HcLoXY",
+      "start": 2348.35,
+      "end": 2421.41,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-heap-coals-enemy",
+      "summary": "Dennis interpreted Romans 12:20 spiritually: offer the enemy the bread of life and living water. He said such treatment may shame a wrongdoer into doing what is right.",
+      "scripture_mentions": [
+        "Romans 12:20"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "sixth-day-eighth-day",
+      "video_id": "3waC1HcLoXY",
+      "start": 2421.42,
+      "end": 2525.45,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-sixth-day-eighth-day",
+      "summary": "Dennis interpreted Genesis 1 as the creation of all peoples on the sixth day and Genesis 2 as a later creation of Adam for Christ’s genealogy. This is Dennis’s interpretation; the listener’s proposed wording was not presented as a verbatim Bible verse.",
+      "scripture_mentions": [
+        "Genesis 1:31",
+        "Genesis 2"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "jesus-crucifixion-place",
+      "video_id": "3waC1HcLoXY",
+      "start": 2525.46,
+      "end": 2657.34,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-jesus-crucifixion-place",
+      "summary": "Dennis identified Golgotha, the place of a skull, citing Matthew 27:33. He also associated the location with Mount Moriah and Abraham’s offering of Isaac; that geographical association is preserved as his teaching, not an independently verified location claim.",
+      "scripture_mentions": [
+        "Matthew 27:33",
+        "Genesis 22"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "baptism-moving-water",
+      "video_id": "3waC1HcLoXY",
+      "start": 2657.35,
+      "end": 2763.02,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-baptism-moving-water",
+      "summary": "Dennis said a baptismal tank is acceptable. He distinguished the water from cleansing through Christ’s blood, while explaining his preference for the Chapel’s outdoor baptisms at Spavinaw Creek.",
+      "scripture_mentions": [],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "generation-40-70-120",
+      "video_id": "3waC1HcLoXY",
+      "start": 2763.03,
+      "end": 2843.1,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-generation-40-70-120",
+      "summary": "Dennis cited Numbers 14:33 for forty years in the wilderness, Psalm 90:10 for seventy years, and Genesis 6:3 for 120 years. These are the passages he used for the three lengths in his teaching.",
+      "scripture_mentions": [
+        "Numbers 14:33",
+        "Psalm 90:10",
+        "Genesis 6:3"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "katabole",
+      "video_id": "3waC1HcLoXY",
+      "start": 2843.11,
+      "end": 2914.87,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-katabole",
+      "summary": "Dennis connected katabole with Satan’s rebellion and the end of what he called the first earth age. He then described the second age as God’s plan for souls to be born into flesh. His statements about dinosaurs and earth ages are attributed interpretations, not independently verified scientific conclusions.",
+      "scripture_mentions": [
+        "Genesis 1:2"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "evil-after-judgment",
+      "video_id": "3waC1HcLoXY",
+      "start": 2914.88,
+      "end": 2999.72,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-evil-after-judgment",
+      "summary": "Dennis described the present age as an opportunity for salvation because God did not wish to destroy his rebellious children immediately. He called eternity the third earth and heaven age. In this answer he did not directly develop the listener’s specific question about whether evil could recur afterward.",
+      "scripture_mentions": [],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "church-tribulation",
+      "video_id": "3waC1HcLoXY",
+      "start": 2999.73,
+      "end": 3126.15,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-church-tribulation",
+      "summary": "Dennis applied Ezekiel 13:17–20 against rapture teaching and interpreted its warning about making souls fly that way. He also offered a historical account involving Margaret MacDonald in 1830; that account is his claim and has not been independently verified here.",
+      "scripture_mentions": [
+        "Ezekiel 13:17–20"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "revelation12-eagle-woman",
+      "video_id": "3waC1HcLoXY",
+      "start": 3126.16,
+      "end": 3195.58,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-revelation12-eagle-woman",
+      "summary": "Dennis identified the woman with mother Israel, more specifically God’s elect, and the eagle with the Lord. He connected this with the Song of Moses and taught that the period was shortened to five months, citing Revelation 9.",
+      "scripture_mentions": [
+        "Revelation 12:14",
+        "Deuteronomy 32",
+        "Revelation 9"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "spiritual-eyes-ears",
+      "video_id": "3waC1HcLoXY",
+      "start": 3195.59,
+      "end": 3292.85,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-spiritual-eyes-ears",
+      "summary": "Dennis said Christ’s calls to hear particularly addressed the elect. He referred to Romans 11:7–8 and Isaiah 29:9–10 for a spirit of slumber. He did not simply equate every lack of understanding with laziness.",
+      "scripture_mentions": [
+        "Romans 11:7–8",
+        "Isaiah 29:9–10"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "marriage-leave-cleave",
+      "video_id": "3waC1HcLoXY",
+      "start": 3292.86,
+      "end": 3323.18,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-marriage-leave-cleave",
+      "summary": "Dennis pointed to Genesis 2:24: a husband leaves his parents, cleaves to his wife, and the two become one flesh.",
+      "scripture_mentions": [
+        "Genesis 2:24"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "daughter-parent-heartbreak",
+      "video_id": "3waC1HcLoXY",
+      "start": 3323.19,
+      "end": 3382.7,
+      "teacher": "Dennis Murray",
+      "variant": "dennis-daughter-parent-heartbreak",
+      "summary": "Dennis distinguished a child still living under parental authority from an independent adult. For a child at home he recommended loving discipline, citing Hebrews 12; for an adult he recommended setting an example and praying for change.",
+      "scripture_mentions": [
+        "Hebrews 12:6"
+      ],
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "source_sha256": "94aaf93322d6f38e0631f5419b29242e4536f176792b3b85c409349a1f43e19f",
+      "recording_group": "3waC1HcLoXY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
     }
   ],
   "duplicate_recording_aliases": {
@@ -20666,6 +20950,26 @@
         {
           "start": 2120.22,
           "end": 3369.3
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [],
+      "review_status": "fully_reviewed",
+      "review_basis": "complete_caption_QA_review_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "video_id": "3waC1HcLoXY",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+      "qa_start": 2197.46,
+      "qa_end": 3382.71,
+      "cursor_seconds": 3382.71,
+      "reviewed_ranges": [
+        {
+          "start": 2197.46,
+          "end": 3382.71
         }
       ],
       "qa_boundaries_confirmed": true,

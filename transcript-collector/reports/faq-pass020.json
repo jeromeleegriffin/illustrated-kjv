@@ -1,0 +1,17 @@
+{
+  "batch": "faq-pass020",
+  "video_id": "3waC1HcLoXY",
+  "teacher": "Dennis Murray",
+  "lesson": "Psalms 116:18 - 118:29",
+  "questions_added": 10,
+  "occurrences_added": 13,
+  "total_questions": 717,
+  "total_occurrences": 1099,
+  "caption_qa_complete": true,
+  "qa_start": 2197.46,
+  "qa_end": 3382.71,
+  "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+  "teacher_evidence": "Caption introduction at 26.09 names Dennis Murray; catalog agrees. Generic opening and closing mention Arnold.",
+  "audio_verified": false,
+  "published": false
+}

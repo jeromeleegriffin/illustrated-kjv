@@ -1,27 +1,17 @@
-# FAQ frequency update — October 24, 2026
+# Shepherd’s Chapel FAQ review
 
-The public FAQ contains 12 question groups, 81 linked reviewed source occurrences and 79 counted recording groups across68 videos. Counts are lower bounds from reviewed passages, not whole-archive frequencies. One question is counted once per underlying recording. Two reviewed alternate-upload pairs are linked and counted once; three known identical Peter-caption pairs are retained in the alias registry for future use.
+Current approved registry: 717 question groups and 1,099 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-1360 private exports are tracked:1291 passage-catalog transcripts,65 topical candidates and4 recovery supplements. All were scanned for question candidates.68 recordings have selected reviewed passages; zero recordings have completed full Q&A review.65 topical exports remain excluded from published answers pending teacher attribution. Private candidates are not facts or approved FAQ entries.
+All 1,360 private exports have been scanned for candidates. Three recordings have complete caption Q&A reviews, 120 remain partially reviewed, 1,172 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
-Public answers are short editorial paraphrases with separate pastor attribution, variants and timestamped original-video links. No raw transcript text, downloaded media or credentials belongs in this repository.
+## Rebuild
 
-## Incremental update
+Run `python3 transcript-collector/faq/update_faq.py --library PRIVATE_LIBRARY --dist dist --registry transcript-collector/faq/reviewed-occurrences.json`. Keep transcripts, media and candidate excerpts private. Commit only paraphrases, code and sanitized metadata.
 
-After importing a new transcript batch into the private library:
+Occurrences bind teacher, video, exact caption anchors and transcript hash. Changed hashes invalidate approval. Preserve answer variants and documented recording aliases. The `recording_reviews` array stores explicit Q&A boundaries, reviewed ranges, unresolved ranges and a resume cursor; only contiguous complete review with confirmed boundaries qualifies as fully reviewed. Never infer completion from occurrence presence.
 
-    python3 transcript-collector/faq/update_faq.py --library PRIVATE_LIBRARY --dist dist
+## Validation and publication
 
-In this development workspace the equivalent script is `faq-development/scripts/update_faq.py`; registry is `faq-development/reviewed-occurrences.json`. In the repository the script and registry live together under `transcript-collector/faq/`; pass `--registry transcript-collector/faq/reviewed-occurrences.json` explicitly.
+Run tests under `transcript-collector/faq/tests`. Verify duplicate counting, distinct variants, resume, hash invalidation and completion evidence. Rebuild frequency ranking and source ledger from approved occurrences.
 
-The private SQLite progress database stores videoID, export hash, scanner version and scan time. Unchanged files skip rescanning. New/changed files produce private candidate files. Editing the reviewed registry is a separate passage-review step; scanning never approves an answer or generates a quotation. Changed hashes invalidate approved occurrences until rechecked. Source-missing rows remain in the tracking ledger.
-
-Keep distinct questions separate. Preserve different answers as separate variants. New approved occurrences recalculate ranks automatically. Review suspected alternate uploads before adding aliases; never deduplicate merely because the topic matches.
-
-## Checks
-
-Real-corpus rebuild:1360 files;68 partially reviewed;12 question groups;79 counted recording groups. Second run:1360 unchanged,zero new scans, unchanged frequencies. Unit tests cover duplicate-group counting, restart/idempotence, changed-source approval invalidation and newly added files. Local browser download was unavailable; live browser verification is recorded separately.
-
-## Deployment scope
-
-Update only the six FAQ assets through a separate immutable FAQ release pin on the existing Bible Worker. Keep the production Bible asset release pin and other routes unchanged. Do not merge main or deploy GitHub Pages. Preserve the pre-update Worker for rollback.
+Publish only the six FAQ assets using the separate FAQ release pin on the existing Bible Worker. Read the current Worker and settings before changing that pin; preserve the Bible release and unrelated routes. Never merge main, deploy GitHub Pages or commit full transcript copies.

@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-24T23:20:12.018460+00:00",
+  "updated": "2026-10-24T23:36:49.131885+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -9186,12 +9186,126 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 37,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "disasters-blame-god",
+        "heap-coals-enemy",
+        "sixth-day-eighth-day",
+        "jesus-crucifixion-place",
+        "baptism-moving-water",
+        "generation-40-70-120",
+        "katabole",
+        "evil-after-judgment",
+        "church-tribulation",
+        "revelation12-eagle-woman",
+        "spiritual-eyes-ears",
+        "marriage-leave-cleave",
+        "daughter-parent-heartbreak"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "disasters-blame-god",
+          "start_seconds": 2201.47,
+          "end_seconds": 2348.34,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "heap-coals-enemy",
+          "start_seconds": 2348.35,
+          "end_seconds": 2421.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-day-eighth-day",
+          "start_seconds": 2421.42,
+          "end_seconds": 2525.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-crucifixion-place",
+          "start_seconds": 2525.46,
+          "end_seconds": 2657.34,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-moving-water",
+          "start_seconds": 2657.35,
+          "end_seconds": 2763.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "generation-40-70-120",
+          "start_seconds": 2763.03,
+          "end_seconds": 2843.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "katabole",
+          "start_seconds": 2843.11,
+          "end_seconds": 2914.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "evil-after-judgment",
+          "start_seconds": 2914.88,
+          "end_seconds": 2999.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2999.73,
+          "end_seconds": 3126.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "revelation12-eagle-woman",
+          "start_seconds": 3126.16,
+          "end_seconds": 3195.58,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spiritual-eyes-ears",
+          "start_seconds": 3195.59,
+          "end_seconds": 3292.85,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-leave-cleave",
+          "start_seconds": 3292.86,
+          "end_seconds": 3323.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "daughter-parent-heartbreak",
+          "start_seconds": 3323.19,
+          "end_seconds": 3382.7,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "3waC1HcLoXY",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "33e3a1bc684c9ac320ebc8a96f48e5c56e93d9a981effe87eae9f4b437430d80",
+        "qa_start": 2197.46,
+        "qa_end": 3382.71,
+        "cursor_seconds": 3382.71,
+        "reviewed_ranges": [
+          {
+            "start": 2197.46,
+            "end": 3382.71
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_QA_review_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3382.71
     },
     {
       "video_id": "3waQOMJXwpM",
@@ -32365,12 +32479,12 @@
   "review": {
     "available": 1360,
     "partially_reviewed": 120,
-    "fully_reviewed": 2,
+    "fully_reviewed": 3,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1173,
+    "pending": 1172,
     "source_changed": 0,
-    "question_occurrences": 1074
+    "question_occurrences": 1087
   }
 }
