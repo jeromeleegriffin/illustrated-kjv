@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-24T23:05:27.250541+00:00",
+  "updated": "2026-10-24T23:20:12.018460+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -9204,12 +9204,168 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 61,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "jesus-child-crucifixion",
+        "ezekiel16-city",
+        "satan-mind-life",
+        "pyramids-first-age",
+        "church-tribulation",
+        "home-anointing",
+        "god-divorce-israel",
+        "sacrifice-instructions-time",
+        "commandments-righteous-acts",
+        "ark-peoples",
+        "eighth-day-genesis",
+        "again-genesis-twins",
+        "three-teaching-levels",
+        "john8-claimed-belief",
+        "usa-isaiah18",
+        "jesus-age-dates",
+        "judgment-believers-rewards",
+        "testimony-world-courts",
+        "discernment-dislike"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "jesus-child-crucifixion",
+          "start_seconds": 2124.39,
+          "end_seconds": 2195.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel16-city",
+          "start_seconds": 2204.37,
+          "end_seconds": 2278.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-mind-life",
+          "start_seconds": 2280.54,
+          "end_seconds": 2319.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pyramids-first-age",
+          "start_seconds": 2327.89,
+          "end_seconds": 2351.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2359.92,
+          "end_seconds": 2459.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 2463.56,
+          "end_seconds": 2510.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-divorce-israel",
+          "start_seconds": 2512.48,
+          "end_seconds": 2545.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sacrifice-instructions-time",
+          "start_seconds": 2549.98,
+          "end_seconds": 2632.59,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "commandments-righteous-acts",
+          "start_seconds": 2638.77,
+          "end_seconds": 2679.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2685.92,
+          "end_seconds": 2750.25,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eighth-day-genesis",
+          "start_seconds": 2753.72,
+          "end_seconds": 2806.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "again-genesis-twins",
+          "start_seconds": 2810.14,
+          "end_seconds": 2855.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-teaching-levels",
+          "start_seconds": 2859.92,
+          "end_seconds": 2943.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john8-claimed-belief",
+          "start_seconds": 2944.97,
+          "end_seconds": 3037.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "usa-isaiah18",
+          "start_seconds": 3047.04,
+          "end_seconds": 3133.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-age-dates",
+          "start_seconds": 3136.27,
+          "end_seconds": 3170.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "judgment-believers-rewards",
+          "start_seconds": 3174.47,
+          "end_seconds": 3240.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "testimony-world-courts",
+          "start_seconds": 3242.24,
+          "end_seconds": 3262.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "discernment-dislike",
+          "start_seconds": 3264.46,
+          "end_seconds": 3367.8,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "3waQOMJXwpM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "b099a340ca7d0a3a88c79734f89f046bba064113d277b67e7eb004000fb0d334",
+        "qa_start": 2120.22,
+        "qa_end": 3369.3,
+        "cursor_seconds": 3369.3,
+        "reviewed_ranges": [
+          {
+            "start": 2120.22,
+            "end": 3369.3
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_QA_review_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3369.3
     },
     {
       "video_id": "3zBKHN8rek8",
@@ -32209,12 +32365,12 @@
   "review": {
     "available": 1360,
     "partially_reviewed": 120,
-    "fully_reviewed": 1,
+    "fully_reviewed": 2,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1174,
+    "pending": 1173,
     "source_changed": 0,
-    "question_occurrences": 1055
+    "question_occurrences": 1074
   }
 }
