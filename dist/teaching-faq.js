@@ -12,7 +12,7 @@
  let page=0;
  const pagers=[make('nav',undefined,'faq-pager'),make('nav',undefined,'faq-pager')];
  pagers[0].setAttribute('aria-label','Question pages at top');pagers[1].setAttribute('aria-label','Question pages at bottom');
- $('questions').before(pagers[0]);$('questions').after(pagers[1]);
+ $('questions').after(pagers[1]);
  function render(reset=false){
   if(reset)page=0;
   const terms=$('query').value.toLowerCase().trim().split(/\s+/).filter(Boolean),teacher=$('teacher').value,topic=$('topic').value;
@@ -23,7 +23,7 @@
   page=Math.max(0,Math.min(page,list.length-1));
   for(const nav of pagers){nav.replaceChildren();nav.hidden=!list.length;const prev=make('button','← Previous'),next=make('button','Next →'),label=make('span',list.length?`Page ${page+1} of ${list.length}`:'No results','page-label');prev.type=next.type='button';prev.disabled=page===0;next.disabled=page>=list.length-1;prev.onclick=()=>{page--;render();};next.onclick=()=>{page++;render();};nav.append(prev,label,next);}
   for(const q of list.slice(page,page+1)){
-   const card=make('article',undefined,'question');card.id=q.id;card.dataset.count=frequency(q.shownAnswers);card.append(make('p',q.topic,'topic'),make('h2',`#${q.rank}. ${q.question}`));
+   const card=make('article',undefined,'question');card.id=q.id;card.dataset.count=frequency(q.shownAnswers);card.append(make('h2',`#${q.rank}. ${q.question}`),pagers[0],make('p',q.topic,'topic'));
    const count=frequency(q.shownAnswers);card.append(make('p',`Asked in ${count} reviewed recording${count===1?'':'s'}`,'frequency'));
    const answers=[...q.shownAnswers].sort((a,b)=>(a.teacher==='Arnold Murray'?0:1)-(b.teacher==='Arnold Murray'?0:1));
    for(const [i,a] of answers.entries()){
