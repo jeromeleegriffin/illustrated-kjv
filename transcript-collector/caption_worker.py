@@ -1,6 +1,9 @@
 """Select one native English caption; never request server-side translation."""
 import re
 import sys
+import os
+import json
+from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
 
@@ -34,6 +37,16 @@ def main():
     class NativeEnglishDL(yt_dlp.YoutubeDL):
         def process_subtitles(self, video_id, normal_subtitles, automatic_captions):
             selected = select_native(normal_subtitles, automatic_captions)
+            # Optional diagnostic side channel: allowlisted fields only, never URLs.
+            if os.environ.get('GRIFFIN_CAPTION_DIAGNOSTIC'):
+                target = Path(os.environ['GRIFFIN_CAPTION_DIAGNOSTIC'])
+                payload = {'video_id': video_id, 'discovery': 'completed',
+                           'selection': 'selected' if selected else 'no_supported_native_english_track',
+                           'tracks': [{'language': k, 'generation': v['collector_generation']}
+                                      for k, v in selected.items()]}
+                tmp = target.with_suffix('.tmp')
+                tmp.write_text(json.dumps(payload), encoding='utf-8')
+                tmp.replace(target)
             self.to_screen('[collector] Native English caption: ' + (', '.join(selected) or 'unavailable'))
             return selected
 
