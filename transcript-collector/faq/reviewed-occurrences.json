@@ -72,6 +72,78 @@
       "question": "What does it mean to be unequally yoked?",
       "topic": "Christian living",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "numbered-hairs",
+      "question": "What does it mean that the hairs of our head are numbered?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "cross-symbol",
+      "question": "Is keeping a cross on a wall idolatry?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "high-sabbath",
+      "question": "What did Arnold mean by a high Sabbath?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "antichrist-origin",
+      "question": "Does the antichrist come from Africa?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "dinosaurs-job",
+      "question": "Where did Arnold find a reference to dinosaurs in the Bible?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ten-commandments",
+      "question": "Where are the Ten Commandments written?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "kenites-identity",
+      "question": "Who did Arnold identify as the Kenites?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "millennium-sequence",
+      "question": "What sequence did Arnold teach for the antichrist and millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "seth-lineage",
+      "question": "How did Arnold distinguish Seth’s lineage from Cain’s?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "paradise-gulf",
+      "question": "What did Arnold teach about the two sides of the gulf?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "adopted-parents",
+      "question": "Will an adopted person know their birth parents in heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "stay-home-parent",
+      "question": "Is being a stay-at-home mother laziness?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -880,7 +952,7 @@
     {
       "question_id": "where-tithe",
       "video_id": "Mvai-Sc-c7o",
-      "start": 2526.0,
+      "start": 2526,
       "end": 2648.309,
       "teacher": "Arnold Murray",
       "variant": "where-tithe-arnold-reviewed",
@@ -910,8 +982,8 @@
     {
       "question_id": "where-tithe",
       "video_id": "qqzXl4z-m1M",
-      "start": 2124.0,
-      "end": 2235.0,
+      "start": 2124,
+      "end": 2235,
       "teacher": "Arnold Murray",
       "variant": "where-tithe-arnold-reviewed",
       "summary": "He teaches that tithes go where a person is taught God’s Word, to support that teaching. He distinguishes this from love offerings given for other needs.",
@@ -1350,8 +1422,8 @@
     {
       "question_id": "hell-preaching",
       "video_id": "qqzXl4z-m1M",
-      "start": 2855.0,
-      "end": 2954.0,
+      "start": 2855,
+      "end": 2954,
       "teacher": "Arnold Murray",
       "variant": "hell-preaching-arnold-reviewed",
       "summary": "He teaches that Christ preached to those who died before the crucifixion so they could hear the gospel and have an opportunity to accept salvation. He refers to 1 Peter 3 and 4.",
@@ -1368,11 +1440,191 @@
     {
       "question_id": "unequally-yoked",
       "video_id": "qqzXl4z-m1M",
-      "start": 3238.0,
-      "end": 3340.0,
+      "start": 3238,
+      "end": 3340,
       "teacher": "Arnold Murray",
       "variant": "unequally-yoked-arnold-reviewed",
       "summary": "In this answer Arnold explains it as an agreement or partnership that prevents a person from studying God’s Word or exercising faith. He contrasts that burden with taking Christ’s yoke.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "numbered-hairs",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2184,
+      "end": 2235,
+      "teacher": "Arnold Murray",
+      "variant": "numbered-hairs-arnold-reviewed",
+      "summary": "Arnold explains it as God’s protection and power over Satan, referring to Luke 21:18.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "cross-symbol",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2259,
+      "end": 2356,
+      "teacher": "Arnold Murray",
+      "variant": "cross-symbol-arnold-reviewed",
+      "summary": "Arnold distinguishes a symbol of the crucifixion from an object that someone worships. He says the cross itself should not be worshipped.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "high-sabbath",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2404,
+      "end": 2502,
+      "teacher": "Arnold Murray",
+      "variant": "high-sabbath-arnold-reviewed",
+      "summary": "Arnold identifies Passover with Christ and explains Sabbath as rest found in Christ.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "antichrist-origin",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2623,
+      "end": 2740,
+      "teacher": "Arnold Murray",
+      "variant": "antichrist-origin-arnold-reviewed",
+      "summary": "Arnold rejects that interpretation. He says Revelation’s lion imagery concerns deception and identifies Revelation 12 as his explanation of Satan being cast from heaven.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "dinosaurs-job",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2689,
+      "end": 2784,
+      "teacher": "Arnold Murray",
+      "variant": "dinosaurs-job-arnold-reviewed",
+      "summary": "Arnold interprets the behemoth in Job 40 as a dinosaur and places it in his teaching about the first earth age.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "ten-commandments",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2740,
+      "end": 2811,
+      "teacher": "Arnold Murray",
+      "variant": "ten-commandments-arnold-reviewed",
+      "summary": "Arnold points to Exodus 20. In discussing inherited consequences, he says a person is not held responsible for a parent’s sin simply because of parentage.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "kenites-identity",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2811,
+      "end": 2907,
+      "teacher": "Arnold Murray",
+      "variant": "kenites-identity-arnold-reviewed",
+      "summary": "Arnold identifies the Kenites as descendants of Cain and distinguishes that name from Canaanites. He refers to 1 Chronicles 2:55 in this answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "millennium-sequence",
+      "video_id": "qqzXl4z-m1M",
+      "start": 3021,
+      "end": 3149,
+      "teacher": "Arnold Murray",
+      "variant": "millennium-sequence-arnold-reviewed",
+      "summary": "Arnold describes Satan’s five-month appearance, Christ’s coming at the seventh trumpet, the millennium, and Satan’s release for a short season to test people before judgment.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "seth-lineage",
+      "video_id": "qqzXl4z-m1M",
+      "start": 3109,
+      "end": 3171,
+      "teacher": "Arnold Murray",
+      "variant": "seth-lineage-arnold-reviewed",
+      "summary": "Arnold says Satan had no part in Seth’s birth. He connects Eve’s description as mother of all living with the lineage through which Christ would come.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "paradise-gulf",
+      "video_id": "qqzXl4z-m1M",
+      "start": 3149,
+      "end": 3238,
+      "teacher": "Arnold Murray",
+      "variant": "paradise-gulf-arnold-reviewed",
+      "summary": "Arnold uses Luke 16 to describe paradise and a separation between its sides. He connects the distinction with resurrection and judgment in his explanation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "adopted-parents",
+      "video_id": "qqzXl4z-m1M",
+      "start": 3287,
+      "end": 3380,
+      "teacher": "Arnold Murray",
+      "variant": "adopted-parents-arnold-reviewed",
+      "summary": "Arnold gives a qualified answer: he thinks recognition may occur, but leaves the circumstances in God’s hands rather than making an unconditional promise.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "stay-home-parent",
+      "video_id": "qqzXl4z-m1M",
+      "start": 3340,
+      "end": 3380,
+      "teacher": "Arnold Murray",
+      "variant": "stay-home-parent-arnold-reviewed",
+      "summary": "Arnold calls raising a family and caring for a home a full-time job and tells the listener not to regard that work as laziness.",
       "scripture_mentions": [],
       "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
       "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
