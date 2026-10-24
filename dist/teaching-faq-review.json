@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-24T23:36:49.131885+00:00",
+  "updated": "2026-10-24T23:57:12.117179+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -9492,12 +9492,133 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 55,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "revelation-study-help",
+        "2012-release-denial",
+        "sheshach-letter-reversal",
+        "satan-target-elect",
+        "boss-friendly-greeting",
+        "repentance-sincere",
+        "chemo-personal-decision",
+        "betrayal-forgiveness-distress",
+        "child-innocence",
+        "studio-fresh-flowers",
+        "backslider-first-belief",
+        "child-accountability-understanding",
+        "intruder-protect-family",
+        "paradise-communication"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "revelation-study-help",
+          "start_seconds": 2127.69,
+          "end_seconds": 2210.61,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "2012-release-denial",
+          "start_seconds": 2210.61,
+          "end_seconds": 2262.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sheshach-letter-reversal",
+          "start_seconds": 2262.63,
+          "end_seconds": 2433.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-target-elect",
+          "start_seconds": 2433.0,
+          "end_seconds": 2495.93,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "boss-friendly-greeting",
+          "start_seconds": 2495.93,
+          "end_seconds": 2568.53,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "repentance-sincere",
+          "start_seconds": 2585.38,
+          "end_seconds": 2600.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chemo-personal-decision",
+          "start_seconds": 2600.66,
+          "end_seconds": 2666.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "betrayal-forgiveness-distress",
+          "start_seconds": 2666.56,
+          "end_seconds": 2743.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-innocence",
+          "start_seconds": 2743.64,
+          "end_seconds": 2858.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "studio-fresh-flowers",
+          "start_seconds": 2858.72,
+          "end_seconds": 2915.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "backslider-first-belief",
+          "start_seconds": 2915.21,
+          "end_seconds": 2960.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-accountability-understanding",
+          "start_seconds": 2975.2,
+          "end_seconds": 3094.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "intruder-protect-family",
+          "start_seconds": 3094.06,
+          "end_seconds": 3305.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-communication",
+          "start_seconds": 3305.07,
+          "end_seconds": 3366.3,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "3zBKHN8rek8",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+        "qa_start": 2126.36,
+        "qa_end": 3366.3,
+        "cursor_seconds": 3366.3,
+        "reviewed_ranges": [
+          {
+            "start": 2126.36,
+            "end": 3366.3
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_QA_review_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3366.3
     },
     {
       "video_id": "40m3K1ebm94",
@@ -32479,12 +32600,12 @@
   "review": {
     "available": 1360,
     "partially_reviewed": 120,
-    "fully_reviewed": 3,
+    "fully_reviewed": 4,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1172,
+    "pending": 1171,
     "source_changed": 0,
-    "question_occurrences": 1087
+    "question_occurrences": 1101
   }
 }

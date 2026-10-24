@@ -1,0 +1,14 @@
+{
+  "batch": "faq-pass021",
+  "videos_fully_caption_qa_reviewed": 1,
+  "videos_partially_reviewed": 0,
+  "video_id": "3zBKHN8rek8",
+  "questions_added": 11,
+  "occurrences_added": 14,
+  "unanswered_subquestions_retained": 1,
+  "question_groups": 728,
+  "linked_answers": 1113,
+  "source_hash": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+  "audio_verified": false,
+  "reserved_grok_recordings_excluded": 300
+}

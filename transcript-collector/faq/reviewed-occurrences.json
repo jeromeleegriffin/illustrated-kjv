@@ -4302,6 +4302,72 @@
       "question": "How did Dennis advise a mother distressed by her daughter’s conduct?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "revelation-study-help",
+      "question": "How did Arnold advise someone struggling to understand Revelation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "2012-release-denial",
+      "question": "Did Arnold say Satan would be released in 2012?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sheshach-letter-reversal",
+      "question": "How did Arnold explain Sheshach and the letter reversal in Jeremiah?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "satan-target-elect",
+      "question": "Why did Arnold say Satan would still try to deceive the elect?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "boss-friendly-greeting",
+      "question": "How did Arnold answer about wishing a boss well despite religious disagreement?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "chemo-personal-decision",
+      "question": "How did Arnold answer a seriously ill listener about being unable to tolerate chemotherapy?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "betrayal-forgiveness-distress",
+      "question": "How did Arnold respond to someone unable to forgive a spouse’s betrayal?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "studio-fresh-flowers",
+      "question": "Did Arnold say the flowers in his studio were real, and did he require them in worship?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "child-accountability-understanding",
+      "question": "How did Arnold decide whether a child was accountable and ready for baptism?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "intruder-protect-family",
+      "question": "How did Arnold answer a listener about protecting family from an intruder?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "paradise-communication",
+      "question": "Did Arnold teach that people communicate in paradise?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -20908,6 +20974,225 @@
       "recording_group": "3waC1HcLoXY",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "revelation-study-help",
+      "video_id": "3zBKHN8rek8",
+      "start": 2127.69,
+      "end": 2210.61,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-revelation-study-help",
+      "summary": "Arnold encouraged studying Revelation with guided teaching rather than abandoning it for another book. He noted Daniel’s relationship to Revelation, but said a teacher could help the listener understand the revealing itself.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "2012-release-denial",
+      "video_id": "3zBKHN8rek8",
+      "start": 2210.61,
+      "end": 2262.63,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-2012-release-denial",
+      "summary": "Arnold explicitly denied having predicted Satan’s release in 2012. He distinguished his teaching about the fig-tree generation from naming a particular year and described the Mayan calendar concern as the end of a calendar segment.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "sheshach-letter-reversal",
+      "video_id": "3zBKHN8rek8",
+      "start": 2262.63,
+      "end": 2433.0,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-sheshach-letter-reversal",
+      "summary": "Arnold called it a pictogram and described reversing the Hebrew alphabet to decode Sheshach as Babylon. He cited Jeremiah 25:26, recalled another occurrence in chapter 51, and recommended the Companion Bible’s notes. His terminology and historical remarks are recorded as his teaching.",
+      "scripture_mentions": [
+        "Jeremiah 25:26",
+        "Jeremiah 51"
+      ],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "satan-target-elect",
+      "video_id": "3zBKHN8rek8",
+      "start": 2433.0,
+      "end": 2495.93,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-satan-target-elect",
+      "summary": "Arnold said Satan believes he is capable of winning even the elect. He warned the listener not to underestimate Satan’s deceptive appeal rather than assuming he would avoid those who recognize him.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "boss-friendly-greeting",
+      "video_id": "3zBKHN8rek8",
+      "start": 2495.93,
+      "end": 2568.53,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-boss-friendly-greeting",
+      "summary": "Arnold told the listener to use personal conviction and judgment. He discouraged turning the workplace into religious contention and suggested the listener was capable of handling an ordinary interaction. The captioned question does not fully explain the workplace dispute.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "repentance-sincere",
+      "video_id": "3zBKHN8rek8",
+      "start": 2585.38,
+      "end": 2600.66,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-repentance-sincere",
+      "summary": "Arnold described repentance as admitting the wrong to the Father, expressing sorrow and having a change of heart. He reassured this listener that wanting to repent showed such a change.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "chemo-personal-decision",
+      "video_id": "3zBKHN8rek8",
+      "start": 2600.66,
+      "end": 2666.56,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-chemo-personal-decision",
+      "summary": "Arnold emphasized the listener’s personal decision and prayer for God’s will. He spoke of the possibility of divine help while explicitly declining to promise it. This summarizes a historical pastoral response; it is not a treatment recommendation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "betrayal-forgiveness-distress",
+      "video_id": "3zBKHN8rek8",
+      "start": 2666.56,
+      "end": 2743.64,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-betrayal-forgiveness-distress",
+      "summary": "Arnold encouraged the listener not to let the betrayal consume his life and to move forward toward a better future. His response offered reassurance rather than a detailed process for forgiveness.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "child-innocence",
+      "video_id": "3zBKHN8rek8",
+      "start": 2743.64,
+      "end": 2858.72,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-child-innocence",
+      "summary": "Arnold appealed to Jesus welcoming and laying hands on children in Matthew 19:14–15. He stressed their innocence and God’s fairness, adding his belief about some children’s standing in a prior earth age. The listener also asked about an angel for children; he did not explicitly answer that part.",
+      "scripture_mentions": [
+        "Matthew 19:14–15"
+      ],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "studio-fresh-flowers",
+      "video_id": "3zBKHN8rek8",
+      "start": 2858.72,
+      "end": 2915.21,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-studio-fresh-flowers",
+      "summary": "Arnold confirmed that the studio flowers were fresh and expressed gratitude for their beauty and God’s creation. He did not establish the listener’s proposed requirement that worship must include fresh flowers.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "backslider-first-belief",
+      "video_id": "3zBKHN8rek8",
+      "start": 2915.21,
+      "end": 2960.22,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-backslider-first-belief",
+      "summary": "Arnold told the listener to repent and affirm love for God. He said Christ had already done the saving work and should not be asked to die again, while warning that drifting away could still lead to condemnation.",
+      "scripture_mentions": [
+        "Hebrews 6"
+      ],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "child-accountability-understanding",
+      "video_id": "3zBKHN8rek8",
+      "start": 2975.2,
+      "end": 3094.06,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-child-accountability-understanding",
+      "summary": "Arnold emphasized understanding Christ’s sacrifice and making a knowledgeable commitment rather than a fixed birthday. He described speaking with young baptism candidates to assess their understanding and rejected an automatic age-twelve rule.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "intruder-protect-family",
+      "video_id": "3zBKHN8rek8",
+      "start": 3094.06,
+      "end": 3305.07,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-intruder-protect-family",
+      "summary": "Arnold emphasized protecting one’s family, cited 1 Timothy 5:8, and insisted on obeying civil law and making certain of the person’s identity. This records his historical pastoral answer rather than a determination of lawful force in a present situation.",
+      "scripture_mentions": [
+        "1 Timothy 5:8"
+      ],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "paradise-communication",
+      "video_id": "3zBKHN8rek8",
+      "start": 3305.07,
+      "end": 3366.3,
+      "teacher": "Arnold Murray",
+      "variant": "arnold-paradise-communication",
+      "summary": "Arnold answered yes and said people recognize family members who have died. He described the departed as alive with the Father despite bodily death and referred to communication on both sides of paradise.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "source_sha256": "f7c1160145173a4708721916d913d3fe485f8718df3941984ae8214c92743565",
+      "recording_group": "3zBKHN8rek8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
     }
   ],
   "duplicate_recording_aliases": {
@@ -20970,6 +21255,26 @@
         {
           "start": 2197.46,
           "end": 3382.71
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [],
+      "review_status": "fully_reviewed",
+      "review_basis": "complete_caption_QA_review_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "video_id": "3zBKHN8rek8",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1167423b2843008cd938f08907f3aa9bcfc9dcc5b334a3f2a3f8e6913a2a6f7a",
+      "qa_start": 2126.36,
+      "qa_end": 3366.3,
+      "cursor_seconds": 3366.3,
+      "reviewed_ranges": [
+        {
+          "start": 2126.36,
+          "end": 3366.3
         }
       ],
       "qa_boundaries_confirmed": true,
