@@ -1,0 +1,202 @@
+{
+  "batch": "pass016",
+  "questions_added": 139,
+  "occurrences_added": 211,
+  "additional_answers_to_existing_questions": 72,
+  "totals": {
+    "questions": 689,
+    "occurrences": 1048
+  },
+  "recordings": [
+    {
+      "video_id": "2ZE134KdChI",
+      "teacher": "Arnold Murray",
+      "review_start": 2129,
+      "review_end": 3384,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "06218e1e08bef7e22336b577099f5d5d4edc5e4e1b5adb3496d336492f0929d5"
+    },
+    {
+      "video_id": "2hHlC_CUUr8",
+      "teacher": "Arnold Murray",
+      "review_start": 2428.32,
+      "review_end": 3370.73,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "b12d7b6401ee67456391386cabd562f137dac51f85f36afe0bbf4f08ade9afd5"
+    },
+    {
+      "video_id": "2k06jo0VD30",
+      "teacher": "Arnold Murray",
+      "review_start": 2092.24,
+      "review_end": 3375.12,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "03c28dd0690fbe665649c7f8aa89c4437ff77acfc6b3be40ae9c6838108c0844"
+    },
+    {
+      "video_id": "2kwLhPNF9y0",
+      "teacher": "Arnold Murray",
+      "review_start": 2121.32,
+      "review_end": 3372.4,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "8763c44c5bde630ef9b34ea83dd4e91e6f59b79a162c457859f7761ecca8fb1e"
+    },
+    {
+      "video_id": "2mPbFHD1GHM",
+      "teacher": "Arnold Murray",
+      "review_start": 2254.98,
+      "review_end": 3371.7,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "87b8e404c3a95ac2ff48fc5973e0568325c18c52c776a4ecd97f7a2a99e53749"
+    },
+    {
+      "video_id": "2rv_8_BmxW8",
+      "teacher": "Arnold Murray",
+      "review_start": 2117.18,
+      "review_end": 3370.6,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "fd5ea8bd05ecf98c9623a10dead82f8a14506117170852bc76adfc3389296d64"
+    },
+    {
+      "video_id": "35sEKNP4z68",
+      "teacher": "Arnold Murray",
+      "review_start": 2411.4,
+      "review_end": 3399.54,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "f30a66047f854ee746adb93ab88764b016e0991929360dc286c0fb09fa09c2a9"
+    },
+    {
+      "video_id": "3LigjdaSQDM",
+      "teacher": "Arnold Murray",
+      "review_start": 2110.54,
+      "review_end": 3380.11,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "57e11182e1f9d515cc2b76f997351ee3d896d930a1293c95ef79387070dafd02"
+    },
+    {
+      "video_id": "3Qz8f0FWmVo",
+      "teacher": "Arnold Murray",
+      "review_start": 2115.95,
+      "review_end": 3376.2,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "d4c72e988cfa6daf2474b980988440beb82baaf732e58eed44c8b3e6567231ac"
+    },
+    {
+      "video_id": "3VKTjGovX9g",
+      "teacher": "Arnold Murray",
+      "review_start": 2100.7,
+      "review_end": 3366.66,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "680ad5df5f0db3116fe3b35e8ff82aa3946e275bfdca91c59ab69d8c9a81d18d"
+    },
+    {
+      "video_id": "3gHdyHNClLg",
+      "teacher": "Arnold Murray",
+      "review_start": 2226.22,
+      "review_end": 3366.4,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "8896eaa2544f17142f2d9fee6f48e19d23ebe240067f2c11d66f28d0d0eb8570"
+    },
+    {
+      "video_id": "3gYKa1D1doY",
+      "teacher": "Arnold Murray",
+      "review_start": 2156.32,
+      "review_end": 3369.93,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "e8ae7debbd1014ea0268274a6a49bf519296c6cf186a69fd74f0fda216a541bd"
+    },
+    {
+      "video_id": "3oknCh6wCWM",
+      "teacher": "Arnold Murray",
+      "review_start": 2109.84,
+      "review_end": 3367.6,
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "transcript_sha256": "d5fccff141ae61c5b007734e4e7bedbb0cf0bafeb444dec02553d0a47bde3bb8"
+    }
+  ],
+  "gaps": [
+    {
+      "video_id": "3LigjdaSQDM",
+      "start": 2207.54,
+      "end": 2246.78,
+      "reason": "Listener wording incomplete; parental-example answer held pending recovery of question"
+    },
+    {
+      "video_id": "3LigjdaSQDM",
+      "start": 2395.29,
+      "end": 2426.16,
+      "reason": "Forgiveness answer without recoverable listener question; held pending"
+    }
+  ],
+  "excluded_non_questions": [
+    {
+      "video_id": "2kwLhPNF9y0",
+      "start": 2451.35,
+      "end": 2477.34,
+      "reason": "Deathbed experience comment"
+    },
+    {
+      "video_id": "2mPbFHD1GHM",
+      "start": 2098.86,
+      "end": 2248.02,
+      "reason": "Prayer requests and commentary"
+    },
+    {
+      "video_id": "2mPbFHD1GHM",
+      "start": 2811.84,
+      "end": 2820.96,
+      "reason": "Prayer request"
+    },
+    {
+      "video_id": "2mPbFHD1GHM",
+      "start": 3294.6,
+      "end": 3322.7,
+      "reason": "Prayer requests"
+    },
+    {
+      "video_id": "2rv_8_BmxW8",
+      "start": 3308.4,
+      "end": 3318.45,
+      "reason": "Compliment without question"
+    },
+    {
+      "video_id": "3Qz8f0FWmVo",
+      "start": 2117.35,
+      "end": 2155.89,
+      "reason": "Ministry audience clarification"
+    },
+    {
+      "video_id": "3Qz8f0FWmVo",
+      "start": 2851.25,
+      "end": 2894.86,
+      "reason": "Recovery testimony and thanks"
+    }
+  ],
+  "validation": {
+    "unit_tests_passed": 3,
+    "invalid_approvals": 0,
+    "duplicate_occurrences": 0,
+    "rank_order_verified": true,
+    "all_1048_occurrences_preserved": true
+  },
+  "notes": [
+    "Only original caption ranges reviewed; no independent audio accuracy claim.",
+    "Rolling caption redraws were collapsed for reading only; original source bytes preserved.",
+    "Older Psalms export has many uncertain names; uncertain citations and missing words are not reconstructed.",
+    "Distinct answers and qualifications remain separate; counts are lower bounds across reviewed passages, once per underlying recording.",
+    "All listener questions in the selected Q&A sections reviewed, including incomplete or ambiguous answers; two missing-question passages held pending.",
+    "No new assets published in this batch; live FAQ not updated or verified."
+  ]
+}
