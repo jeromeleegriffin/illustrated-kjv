@@ -23,3 +23,5 @@ Final title audit removed3 colon-free chapter lessons (Ezekiel and2Peter);311 ne
 
 
 Revision 006: 187 additional candidate links from three additional community playlists, 2,316 visible rows inspected; 1,218 cumulative links. Exact IDs and stronger normalized titles (dates and speaker suffixes removed) checked against existing entries. 20 historical teacher attributions; 1,198 pending speaker/content confirmation. No new transcripts or playback verification. Search remains nonexhaustive.
+
+Revision 007: 34 new candidates, 1252 cumulative. Three additional playlists, 1091 visible entries. Speaker/content checks and transcripts pending. One additional 7-video mixed playlist inspected but rejected as duplicates/unrelated; no entries imported. Not exhaustive.
