@@ -144,6 +144,132 @@
       "question": "Is being a stay-at-home mother laziness?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "noah-flood-extent",
+      "question": "Did Arnold teach that Noah’s flood covered the whole earth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "millennium-deception",
+      "question": "Why would people still follow Satan after the millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "disability-spiritual-body",
+      "question": "What did Arnold teach about disability and spiritual bodies?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "babel-scattering",
+      "question": "How did Arnold explain the scattering of peoples?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "murray-pilots",
+      "question": "Were Arnold, Dennis and David Murray pilots?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "cloven-tongue",
+      "question": "Will people understand the Holy Spirit speaking through believers?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "genesis-our-image",
+      "question": "How did Arnold explain “our image” in Genesis?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "psalms-authors",
+      "question": "Who did Arnold identify as the main writer of Psalms?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "visible-angels",
+      "question": "Will angels be visible when they come?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "anointing-sick",
+      "question": "How did Arnold describe anointing a sick person?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "niv-translation",
+      "question": "Why did Arnold object to using the NIV for his teaching?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "false-prophet",
+      "question": "Who did Arnold identify as the false prophet in Revelation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sinner-after-death",
+      "question": "Where did Arnold say a sinner goes after death?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "bible-notes",
+      "question": "Is it acceptable to underline and write notes in a Bible?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "easter-word",
+      "question": "How did Arnold explain the word Easter in Acts 12:4?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "water-baptism-example",
+      "question": "Why did Arnold encourage water baptism?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "rebaptism-backsliding",
+      "question": "Does backsliding require being baptized again?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "witnesses-shortened-time",
+      "question": "How did Arnold connect the two witnesses with shortened tribulation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "seventh-trump-change",
+      "question": "When did Arnold say believers change into spiritual bodies?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "mary-touch-jesus",
+      "question": "Why did Jesus tell Mary Magdalene not to touch him?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "eve-rib-interpretation",
+      "question": "How did Arnold interpret Eve being made from Adam’s rib?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -1629,6 +1755,321 @@
       "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
       "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
       "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "noah-flood-extent",
+      "video_id": "CmFVLDguYzg",
+      "start": 2154.418,
+      "end": 2211.442,
+      "teacher": "Arnold Murray",
+      "variant": "noah-flood-extent-arnold-reviewed",
+      "summary": "Arnold says it probably did not cover the whole world. He explains its extent through his interpretation of its purpose in Genesis 6.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "millennium-deception",
+      "video_id": "CmFVLDguYzg",
+      "start": 2211.442,
+      "end": 2282.079,
+      "teacher": "Arnold Murray",
+      "variant": "millennium-deception-arnold-reviewed",
+      "summary": "Arnold emphasizes Satan’s power to deceive and treats the multitude described in Revelation 20 as a warning.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "disability-spiritual-body",
+      "video_id": "CmFVLDguYzg",
+      "start": 2294.591,
+      "end": 2348.712,
+      "teacher": "Arnold Murray",
+      "variant": "disability-spiritual-body-arnold-reviewed",
+      "summary": "Arnold says God protects the innocent and teaches that disability will not remain in the spiritual body during the millennium.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "babel-scattering",
+      "video_id": "CmFVLDguYzg",
+      "start": 2350.815,
+      "end": 2410.14,
+      "teacher": "Arnold Murray",
+      "variant": "babel-scattering-arnold-reviewed",
+      "summary": "Arnold connects the scattering and different languages with the Tower of Babel in Genesis 10 and 11.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "murray-pilots",
+      "video_id": "CmFVLDguYzg",
+      "start": 2414.545,
+      "end": 2425.089,
+      "teacher": "Arnold Murray",
+      "variant": "murray-pilots-arnold-reviewed",
+      "summary": "Arnold answers that they were all pilots.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "cloven-tongue",
+      "video_id": "CmFVLDguYzg",
+      "start": 2427.023,
+      "end": 2481.879,
+      "teacher": "Arnold Murray",
+      "variant": "cloven-tongue-arnold-reviewed",
+      "summary": "Arnold says the Holy Spirit supplies the words and every language understands them. He connects this with Mark 13 and Acts 2.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "genesis-our-image",
+      "video_id": "CmFVLDguYzg",
+      "start": 2492.522,
+      "end": 2539.436,
+      "teacher": "Arnold Murray",
+      "variant": "genesis-our-image-arnold-reviewed",
+      "summary": "Arnold distinguishes the plural wording in Genesis 1:26 from verse 27 and relates the discussion to Jesus’ statement about seeing the Father in John 14.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "psalms-authors",
+      "video_id": "CmFVLDguYzg",
+      "start": 2568.464,
+      "end": 2574.337,
+      "teacher": "Arnold Murray",
+      "variant": "psalms-authors-arnold-reviewed",
+      "summary": "Arnold says David wrote most of Psalms.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "visible-angels",
+      "video_id": "CmFVLDguYzg",
+      "start": 2576.306,
+      "end": 2609.139,
+      "teacher": "Arnold Murray",
+      "variant": "visible-angels-arnold-reviewed",
+      "summary": "Arnold answers yes, explaining that angels can be seen when present in the same dimension.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "anointing-sick",
+      "video_id": "CmFVLDguYzg",
+      "start": 2611.375,
+      "end": 2656.72,
+      "teacher": "Arnold Murray",
+      "variant": "anointing-sick-arnold-reviewed",
+      "summary": "Arnold refers to James 5 and describes blessing a small amount of pure olive oil, applying it to the forehead, and asking God’s healing in Jesus’ name.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "niv-translation",
+      "video_id": "CmFVLDguYzg",
+      "start": 2658.822,
+      "end": 2727.257,
+      "teacher": "Arnold Murray",
+      "variant": "niv-translation-arnold-reviewed",
+      "summary": "Arnold rejects it for his teaching and criticizes its wording in Isaiah 14 and Ezekiel 13. This summary reports his view rather than independently assessing those translations.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "false-prophet",
+      "video_id": "CmFVLDguYzg",
+      "start": 2728.825,
+      "end": 2765.829,
+      "teacher": "Arnold Murray",
+      "variant": "false-prophet-arnold-reviewed",
+      "summary": "Arnold identifies the false prophet with the antichrist role and distinguishes that role from Satan himself in his explanation of the lake of fire.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "sinner-after-death",
+      "video_id": "CmFVLDguYzg",
+      "start": 2846.009,
+      "end": 2896.893,
+      "teacher": "Arnold Murray",
+      "variant": "sinner-after-death-arnold-reviewed",
+      "summary": "Arnold says everyone returns to Christ and distinguishes the two sides of paradise. He relates later judgment to the millennium.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "bible-notes",
+      "video_id": "CmFVLDguYzg",
+      "start": 2898.895,
+      "end": 2917.981,
+      "teacher": "Arnold Murray",
+      "variant": "bible-notes-arnold-reviewed",
+      "summary": "Arnold approves marking Scripture and making notes when it helps the reader study and remember God’s Word.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "easter-word",
+      "video_id": "CmFVLDguYzg",
+      "start": 2917.981,
+      "end": 3029.793,
+      "teacher": "Arnold Murray",
+      "variant": "easter-word-arnold-reviewed",
+      "summary": "Arnold points to Acts 12:4 and says the Greek word refers to Passover. He emphasizes Christ as Passover and rejects Easter customs in this answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "water-baptism-example",
+      "video_id": "CmFVLDguYzg",
+      "start": 3031.16,
+      "end": 3068.365,
+      "teacher": "Arnold Murray",
+      "variant": "water-baptism-example-arnold-reviewed",
+      "summary": "Arnold says Christ set an example through water baptism. He distinguishes the outward act from Christ’s forgiveness of sins.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "rebaptism-backsliding",
+      "video_id": "CmFVLDguYzg",
+      "start": 3071.601,
+      "end": 3119.115,
+      "teacher": "Arnold Murray",
+      "variant": "rebaptism-backsliding-arnold-reviewed",
+      "summary": "Arnold answers no and tells the listener to repent. He says Christ’s salvation did not fail when the believer drifted away.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "witnesses-shortened-time",
+      "video_id": "CmFVLDguYzg",
+      "start": 3182.545,
+      "end": 3208.771,
+      "teacher": "Arnold Murray",
+      "variant": "witnesses-shortened-time-arnold-reviewed",
+      "summary": "In response to this question Arnold says the period has been shortened from three and a half years to five months.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "seventh-trump-change",
+      "video_id": "CmFVLDguYzg",
+      "start": 3208.771,
+      "end": 3221.551,
+      "teacher": "Arnold Murray",
+      "variant": "seventh-trump-change-arnold-reviewed",
+      "summary": "Arnold agrees with the listener’s description of the change at the seventh trumpet, just before the millennium.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "mary-touch-jesus",
+      "video_id": "CmFVLDguYzg",
+      "start": 3223.753,
+      "end": 3289.552,
+      "teacher": "Arnold Murray",
+      "variant": "mary-touch-jesus-arnold-reviewed",
+      "summary": "Arnold interprets the instruction as not delaying or holding him up before going to the Father, rather than a prohibition on touching him.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "eve-rib-interpretation",
+      "video_id": "CmFVLDguYzg",
+      "start": 3290.954,
+      "end": 3372.435,
+      "teacher": "Arnold Murray",
+      "variant": "eve-rib-interpretation-arnold-reviewed",
+      "summary": "Arnold interprets the word rendered rib as a curve and connects it with a feminine DNA helix. This is his stated interpretation, not an independently verified scientific or linguistic conclusion.",
+      "scripture_mentions": [],
+      "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+      "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+      "recording_group": "CmFVLDguYzg",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
     }
