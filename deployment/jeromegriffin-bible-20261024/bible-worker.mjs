@@ -1,5 +1,5 @@
 // Illustrated KJV public assets only. Private transcripts/audio are never routed here.
-const RELEASE='9a9f43527d6435bc3cdf351ac944e49975b9d6b2';
+const RELEASE='ddf2dfcb31c8b8bc444d270513b4c895e834d34b';
 const ORIGIN=`https://raw.githubusercontent.com/jeromeleegriffin/illustrated-kjv/${RELEASE}/dist`;
 const TYPES={html:'text/html; charset=utf-8',js:'text/javascript; charset=utf-8',css:'text/css; charset=utf-8',json:'application/json; charset=utf-8',svg:'image/svg+xml',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',webp:'image/webp',ico:'image/x-icon',txt:'text/plain; charset=utf-8',woff2:'font/woff2'};
 export default {
@@ -18,7 +18,7 @@ export default {
    if(!response){
     const upstream=await fetch(ORIGIN+path,{headers:{'Accept':'*/*'},redirect:'manual'});
     if(!upstream.ok)return new Response(upstream.status===404?'Not Found':'The Bible files are temporarily unavailable. Please try again.',{status:upstream.status===404?404:503,headers:{'Cache-Control':'no-store'}});
-    const headers=new Headers({'Content-Type':TYPES[ext],'Cache-Control':'public, max-age=300, s-maxage=3600','X-Content-Type-Options':'nosniff','X-Bible-Release':RELEASE,'Referrer-Policy':'strict-origin-when-cross-origin'});
+    const headers=new Headers({'Content-Type':TYPES[ext],'Cache-Control':ext==='html'?'no-store':'public, max-age=300, s-maxage=3600','X-Content-Type-Options':'nosniff','X-Bible-Release':RELEASE,'Referrer-Policy':'strict-origin-when-cross-origin'});
     response=new Response(upstream.body,{status:200,headers});
     ctx.waitUntil(cache.put(key,response.clone()));
    }
