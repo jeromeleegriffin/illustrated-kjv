@@ -1,0 +1,90 @@
+{
+  "batch": "faq-pass012",
+  "before": {
+    "questions": 222,
+    "occurrences": 333
+  },
+  "after": {
+    "questions": 303,
+    "occurrences": 438
+  },
+  "added_occurrences": 105,
+  "new_questions": 81,
+  "recordings": [
+    {
+      "video_id": "-abDNPoVeQI",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "aa8e5f6a09310b98afbc4d14ccada0271eb10b5488bb2e77ec77f9fa15bb399d",
+      "reviewed_range": [
+        2128.89,
+        3388.75
+      ],
+      "unresolved": [
+        "Recall of Hebrews verse uncertain; Greek terms not independently checked"
+      ]
+    },
+    {
+      "video_id": "-eNWqcRKKKw",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "a871f01af2b6d4220233c2df2e49b0302cb81d233dd0ffa242ec1a63fa017df5",
+      "reviewed_range": [
+        2125,
+        3378
+      ],
+      "unresolved": [
+        "Incorrect caption spelling of Kenite/Cain terms",
+        "Multiple listener subquestions and answers retained"
+      ]
+    },
+    {
+      "video_id": "-nAZBcsBA3k",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "9a59bc258f955e7d2c94a5fb4cc7b4723efda5184f2053e26d76bcf9aab2d5c7",
+      "reviewed_range": [
+        2121.05,
+        3380.07
+      ],
+      "unresolved": [
+        "Chapter references in white-horse and transfiguration answers need confirmation",
+        "Two distinct answers about white-horse rider retained under same question; frequency once"
+      ]
+    },
+    {
+      "video_id": "-xR743RH-eE",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "e3422eae795513f4433bbead2322a2fd3b7fa450dde17924748a31c47afeb1e4",
+      "reviewed_range": [
+        2259.78,
+        3260.82
+      ],
+      "unresolved": [
+        "2230.74\u20132259.78: testimony of thanks, not listener question",
+        "Catalog says Psalms but answer points ahead to a Luke study; provenance discrepancy needs checking",
+        "2887.86\u20132918.36: prince-portion answer preserved as incomplete",
+        "3025.68\u20133066.9: political name and dating uncertain; historical claim only"
+      ]
+    },
+    {
+      "video_id": "-xlDoQHGmFs",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "337006ed3c8557e541f813d1249dd5c66937782a6ebafa007e86bf470041d876",
+      "reviewed_range": [
+        2065.56,
+        3361.82
+      ],
+      "unresolved": [
+        "3231.49\u20133290.65: listener comment/testimony, not counted as new question",
+        "3361.82: William deferred without question; nothing inferred"
+      ]
+    }
+  ],
+  "fully_reviewed_recordings": 0,
+  "validation": {
+    "automated_tests_passed": 3,
+    "all_approved_paraphrases_and_ranges_present": true,
+    "source_hash_invalidations": 0,
+    "ranking_descending": true,
+    "same_recording_multiple_answers_preserved": true,
+    "frequency_counts_recording_once": true
+  }
+}

@@ -47,10 +47,11 @@ def build(library,dist,registry_path):
   if kinds[id]=='topical' or o['teacher'] not in ['Arnold Murray','Dennis Murray']:continue
   assert 0<=o['start']<o['end']<=docs[id]['duration']+.01
   source=dict(video_id=id,teacher=o['teacher'],lesson=r['lesson'],start_seconds=o['start'],end_seconds=o['end'],transcript_sha256=r['transcript_sha256'],source_sha256=r['source_sha256'],review_status=o['review_status'],recording_group=o['recording_group'])
-  answer=next((a for a in q['answers'] if a['id']==o['variant']),None)
+  answer=next((a for a in q['answers'] if a['id']==o['variant'] and a['summary']==o['summary']),None)
   if answer is None:
-   answer=dict(id=o['variant'],teacher=o['teacher'],summary=o['summary'],kind='editorial_paraphrase',scripture_mentions=o['scripture_mentions'],relationship='initial_answer' if not q['answers'] else 'additional_reviewed_answer',sources=[]);q['answers'].append(answer)
-  if not any(s['video_id']==id for a in q['answers'] for s in a['sources']):answer['sources'].append(source)
+   answer_id=o['variant'] if not any(a['id']==o['variant'] for a in q['answers']) else o['variant']+'-'+hashlib.sha256(o['summary'].encode()).hexdigest()[:10]
+   answer=dict(id=answer_id,teacher=o['teacher'],summary=o['summary'],kind='editorial_paraphrase',scripture_mentions=o['scripture_mentions'],relationship='initial_answer' if not q['answers'] else 'additional_reviewed_answer',sources=[]);q['answers'].append(answer)
+  if not any(s['video_id']==id and s['start_seconds']==o['start'] and s['end_seconds']==o['end'] for s in answer['sources']):answer['sources'].append(source)
   if q['id'] not in r['question_ids']:r['question_ids'].append(q['id'])
   r['reviewed_ranges'].append(dict(question_id=q['id'],start_seconds=o['start'],end_seconds=o['end'],review='caption_passage_checked_audio_pending'));r['review_status']='partially_reviewed'
  questions=list(questions.values())
