@@ -1,0 +1,74 @@
+{
+  "updated": "2026-10-24T18:51:54.157854+00:00",
+  "sources": 1360,
+  "new_scans": 0,
+  "changed_scans": 0,
+  "unchanged_scans": 1360,
+  "questions": 12,
+  "review": {
+    "available": 1360,
+    "partially_reviewed": 68,
+    "fully_reviewed": 0,
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 1227,
+    "source_changed": 0,
+    "question_occurrences": 79
+  },
+  "invalid_approvals": [],
+  "ranked_questions": [
+    {
+      "id": "cremation",
+      "count": 22
+    },
+    {
+      "id": "recognize-family",
+      "count": 20
+    },
+    {
+      "id": "satan-born",
+      "count": 7
+    },
+    {
+      "id": "prescribed-medication",
+      "count": 6
+    },
+    {
+      "id": "forgiveness",
+      "count": 6
+    },
+    {
+      "id": "where-tithe",
+      "count": 5
+    },
+    {
+      "id": "hell-preaching",
+      "count": 5
+    },
+    {
+      "id": "five-months",
+      "count": 3
+    },
+    {
+      "id": "holy-trinity",
+      "count": 2
+    },
+    {
+      "id": "church-tribulation",
+      "count": 1
+    },
+    {
+      "id": "unequally-yoked",
+      "count": 1
+    },
+    {
+      "id": "spirit-after-death",
+      "count": 1
+    }
+  ],
+  "tests": {
+    "unit_tests": "2 passed",
+    "real_corpus_idempotence": "1360 unchanged on second scan; no rank changes",
+    "local_browser": "Chromium executable unavailable; official browser download returned invalid ZIP; live cloud-browser checks pending"
+  }
+}

@@ -2,24 +2,38 @@
 (() => {
  const data=window.GRIFFIN_FAQ;
  if(!data){document.getElementById('results-count').textContent='FAQ data could not load. Keep the page and its supporting files together.';return;}
- const $=id=>document.getElementById(id), make=(tag,text,cls)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
+ const $=id=>document.getElementById(id),make=(tag,text,cls)=>{const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
  const clock=n=>`${Math.floor(n/60)}:${String(Math.floor(n%60)).padStart(2,'0')}`;
  const safeId=id=>/^[A-Za-z0-9_-]{11}$/.test(id);
+ const frequency=answers=>new Set(answers.flatMap(a=>a.sources.map(s=>s.recording_group||s.video_id))).size;
  function watch(s){if(!safeId(s.video_id)||!Number.isFinite(s.start_seconds)||s.start_seconds<0)return null;const a=make('a',`▶ Hear the answer at ${clock(s.start_seconds)}`,'watch');a.href=`https://www.youtube.com/watch?v=${s.video_id}&t=${Math.floor(s.start_seconds)}s`;a.target='_blank';a.rel='noopener noreferrer';return a;}
+ function source(s){const box=make('div',undefined,'source-link'),w=watch(s);if(w)box.append(w);box.append(make('p',`${s.lesson} · ${s.video_id}`,'source'));return box;}
  for(const topic of [...new Set(data.questions.map(q=>q.topic))].sort())$('topic').append(make('option',topic));
  function render(){
-  const terms=$('query').value.toLowerCase().trim().split(/\s+/).filter(Boolean),teacher=$('teacher').value,topic=$('topic').value;let count=0;$('questions').replaceChildren();
-  for(const q of data.questions){if(topic&&q.topic!==topic)continue;const answers=q.answers.filter(a=>!teacher||a.teacher===teacher);if(!answers.length)continue;const text=[q.question,q.topic,...answers.flatMap(a=>[a.teacher,a.summary,...a.scripture_mentions,...a.sources.map(s=>s.lesson)])].join(' ').toLowerCase();if(!terms.every(t=>text.includes(t)))continue;
-   count++;const card=make('article',undefined,'question');card.id=q.id;card.append(make('p',q.topic,'topic'),make('h2',q.question));
-   for(const a of [...answers].sort((x,y)=>(x.teacher==='Arnold Murray'?0:1)-(y.teacher==='Arnold Murray'?0:1))){const v=make('section',undefined,'variant');v.append(make('p',`Pastor ${a.teacher} · summary of teaching`,'pastor'),make('p',a.summary));if(a.scripture_mentions.length)v.append(make('p','Scripture mentioned: '+a.scripture_mentions.join('; '),'source'));
-    for(const s of a.sources){const w=watch(s);if(w)v.append(w);v.append(make('p',`${s.lesson} · ${clock(s.start_seconds)}–${clock(s.end_seconds)}`,'source'));const details=make('details',undefined,'source-details');details.append(make('summary','Source and review details'),make('p',`Recording: ${s.video_id}. ${s.review_status==='source_changed_needs_review'?'Source changed or is missing: this answer needs review.':'Caption passage checked; audio verification pending.'}`,'status'));v.append(details);}
-    if(a.relationship!=='initial_answer')v.append(make('p','Relationship to other answers: '+a.relationship,'status'));card.append(v);
+  const terms=$('query').value.toLowerCase().trim().split(/\s+/).filter(Boolean),teacher=$('teacher').value,topic=$('topic').value;
+  let list=data.questions.map(q=>({...q,shownAnswers:q.answers.filter(a=>!teacher||a.teacher===teacher)})).filter(q=>q.shownAnswers.length&&(!topic||q.topic===topic));
+  list=list.filter(q=>{const text=[q.question,q.topic,...q.shownAnswers.flatMap(a=>[a.teacher,a.summary,...a.scripture_mentions,...a.sources.map(s=>s.lesson)])].join(' ').toLowerCase();return terms.every(t=>text.includes(t));});
+  list.sort((a,b)=>$('sort').value==='alphabetical'?a.question.localeCompare(b.question):frequency(b.shownAnswers)-frequency(a.shownAnswers)||a.question.localeCompare(b.question));
+  $('questions').replaceChildren();
+  for(const q of list){
+   const card=make('article',undefined,'question');card.id=q.id;card.dataset.count=frequency(q.shownAnswers);card.append(make('p',q.topic,'topic'),make('h2',q.question));
+   const count=frequency(q.shownAnswers);card.append(make('p',`Asked in ${count} reviewed recording${count===1?'':'s'}`,'frequency'));
+   const answers=[...q.shownAnswers].sort((a,b)=>(a.teacher==='Arnold Murray'?0:1)-(b.teacher==='Arnold Murray'?0:1));
+   for(const [i,a] of answers.entries()){
+    const v=make('section',undefined,'variant');v.append(make('p',`Pastor ${a.teacher} · summary of this answer`,'pastor'),make('p',a.summary));
+    if(a.scripture_mentions.length)v.append(make('p','Scripture mentioned in this answer: '+a.scripture_mentions.join('; '),'source'));
+    if(a.sources[0])v.append(source(a.sources[0]));
+    if(a.sources.length>1){const more=make('details',undefined,'source-details');more.append(make('summary',`${a.sources.length-1} more source link${a.sources.length===2?'':'s'} for this answer`));for(const s of a.sources.slice(1))more.append(source(s));v.append(more);}
+    v.append(make('p','Caption passage reviewed; audio verification pending.','status'));
+    if(i===0)card.append(v);else{const variant=make('details',undefined,'answer-variant');variant.append(make('summary',`Additional answer · Pastor ${a.teacher}`),v);card.append(variant);}
    }
-   if(q.conflict_status==='conflict_needs_review')card.append(make('p','Different answers require review. Both are preserved.','status'));$('questions').append(card);
+   if(q.source_upload_count>q.asked_count)card.append(make('p','Alternate uploads are linked but counted once.','status'));
+   if(q.conflict_status==='conflict_needs_review')card.append(make('p','Different answers require review. Both are preserved.','status'));
+   $('questions').append(card);
   }
-  $('results-count').textContent=`${count} of ${data.questions.length} questions shown. This is the first FAQ selection.`;$('empty').hidden=count!==0;
+  $('results-count').textContent=`${list.length} of ${data.questions.length} questions shown · ranked by reviewed recording count${teacher?' for '+teacher:''}. Counts grow as review continues.`;$('empty').hidden=list.length!==0;
  }
- function review(){const q=$('review-query').value.toLowerCase();$('review-list').replaceChildren();for(const r of data.recordings||[]){if(!`${r.video_id} ${r.lesson} ${r.teacher} ${r.review_status}`.toLowerCase().includes(q))continue;const row=make('div',undefined,'review-row');row.append(make('b',r.lesson),make('span',`${r.teacher} · ${r.video_id}`),make('span',r.review_status.replaceAll('_',' ')));if(r.question_ids.length)row.append(make('span','Linked questions: '+r.question_ids.join(', ')));$('review-list').append(row);}}
- $('review-counts').textContent=`${data.review.available} transcripts tracked · ${data.review.partially_reviewed} partially reviewed · ${data.review.fully_reviewed} fully reviewed. All remaining Q&A work stays queued.`;
- $('filters').addEventListener('submit',e=>e.preventDefault());$('query').addEventListener('input',render);$('teacher').addEventListener('change',render);$('topic').addEventListener('change',render);$('filters').addEventListener('reset',()=>setTimeout(render,0));$('review-query').addEventListener('input',review);render();review();
+ function review(){const q=$('review-query').value.toLowerCase();$('review-list').replaceChildren();for(const r of data.recordings||[]){if(!`${r.video_id} ${r.lesson} ${r.teacher} ${r.review_status}`.toLowerCase().includes(q))continue;const row=make('div',undefined,'review-row');row.append(make('b',r.lesson),make('span',`${r.teacher} · ${r.video_id} · ${r.kind||'passage'}`),make('span',r.review_status.replaceAll('_',' ')));if(r.question_ids.length)row.append(make('span','Linked questions: '+r.question_ids.join(', ')));$('review-list').append(row);}}
+ $('review-counts').textContent=`${data.review.available} transcripts tracked and scanned · ${data.review.partially_reviewed} partially reviewed · ${data.review.fully_reviewed} fully reviewed · ${data.review.teacher_pending||0} awaiting teacher confirmation.`;
+ $('filters').addEventListener('submit',e=>e.preventDefault());$('query').addEventListener('input',render);$('teacher').addEventListener('change',render);$('topic').addEventListener('change',render);$('sort').addEventListener('change',render);$('filters').addEventListener('reset',()=>setTimeout(render,0));$('review-query').addEventListener('input',review);render();review();
 })();
