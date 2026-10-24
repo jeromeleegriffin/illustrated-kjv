@@ -1,5 +1,5 @@
 // Illustrated KJV public assets only. Private transcripts/audio are never routed here.
-const RELEASE='47c349eab48ea560a76d0d9c9df20ceb9f800561';
+const RELEASE='e9168573a21b1edb533955882deab733fed71b3a';
 const ORIGIN=`https://raw.githubusercontent.com/jeromeleegriffin/illustrated-kjv/${RELEASE}/dist`;
 const TYPES={html:'text/html; charset=utf-8',js:'text/javascript; charset=utf-8',css:'text/css; charset=utf-8',json:'application/json; charset=utf-8',svg:'image/svg+xml',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',webp:'image/webp',ico:'image/x-icon',txt:'text/plain; charset=utf-8',woff2:'font/woff2'};
 export default {
