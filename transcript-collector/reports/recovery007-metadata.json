@@ -1,0 +1,32 @@
+{
+  "checkpoint": "Recovery007",
+  "original_catalog_total": 1294,
+  "original_saved": 1289,
+  "original_video_exceptions": 5,
+  "alternate_Acts": {
+    "id": "OxIb12CTt_E",
+    "uploader": "The Shepherd's Chapel Official Channel",
+    "teacher": "Arnold Murray",
+    "teacher_evidence": "Explicit caption introduction at25seconds plus official video attribution",
+    "passage": "Acts23:15–24:27",
+    "language": "en-orig",
+    "caption_type": "automatic native English",
+    "backtranslation": false,
+    "raw_cues": 2883,
+    "normalized_new_speech_segments": 1441,
+    "last_cue_end": 3505.72,
+    "original_raw_VTT_preserved": true,
+    "normalization": "Word-timed new speech retained; rolling-display carry-over excluded. No text rewriting.",
+    "audio_accuracy_verified": false
+  },
+  "alternate_overlapping_Acts": {
+    "id": "rOo7XnXhBb0",
+    "native_English_VTT_tracks": 0
+  },
+  "separate_supplement_search": {
+    "saved": 2,
+    "structural_verification": "PASS",
+    "phrase_search_after_restart": "PASS"
+  },
+  "notes": "Original source identities remain unresolved; full private captions not committed. Compact topical UI and Bible reader unchanged. Public AI remains paused."
+}

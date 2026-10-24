@@ -1,0 +1,29 @@
+GRIFFIN SHEPHERD'S CHAPEL TRANSCRIPT COLLECTOR — BUILD 012
+Current cumulative Windows package; supersedes Build 011.
+
+UPDATE WITHOUT LOSING YOUR 17 SAVED TRANSCRIPTS
+1. Close the collector normally and wait for it to close.
+2. Extract this ZIP into the existing collector application folder.
+3. Choose Replace files. Keep the existing .venv folder.
+4. Do NOT delete your separate GriffinShepherdLibrary data folder.
+5. Double-click START_HERE.bat. The title should say 012.
+6. Click Start / Resume once. Existing cooldowns remain in force.
+
+WHAT CHANGED
+One native English caption track is selected: authored English first, then
+original automatic English. Translated caption URLs are excluded. This targets
+a documented yt-dlp subtitle 429 issue; it is not yet a confirmed fix on your PC.
+Requests inside each lesson are paced, in addition to the 60-second lesson gap.
+No saved transcript is replaced. No block or cooldown is cleared by upgrading.
+After three rate-limit events, the existing stop remains; use Access report.
+
+EVIDENCE
+35 automated tests pass with pinned yt-dlp installed, including a real downloader
+transfer from localhost using synthetic caption metadata. This is NOT proof of
+YouTube access. The owner-PC evidence remains 17 saved captions before HTTP 429.
+All saved transcripts require quality review. Full 1,294-recording access and
+full spoken Scripture coverage remain unproven.
+
+No programming or new Python installation is needed for an existing setup.
+No paid transcription service. Local speech recognition uses available audio.
+Read reports/build-012-research-and-verification.md for the deeper findings.

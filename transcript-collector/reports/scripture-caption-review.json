@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-22",
+  "production_catalog_modified": false,
+  "esther": {
+    "catalog_first_id": "dDEZ3IyUfJk",
+    "catalog_claimed_range": "1:1\u20136:14",
+    "caption_observed_range_candidate": "1:1\u20132:23",
+    "evidence_seconds": {
+      "chapter_2_verse_1": 1934,
+      "chapter_2_verse_23": 2736,
+      "closing_prayer": 2893
+    },
+    "issue": "Catalog has parts 1 and 4 only. Caption evidence strongly suggests parts 2 and 3 are needed for chapters 3\u20136. Listening confirmation remains outstanding.",
+    "playlist": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D0a6yVvQBHUO9Ol9QsYXqYv",
+    "candidates": [
+      {
+        "id": "Zx0HS79ZCk0",
+        "url": "https://www.youtube.com/watch?v=Zx0HS79ZCk0",
+        "catalog_member": false,
+        "teacher": "Arnold Murray",
+        "teacher_basis": "Published playlist description; no independent voice authentication",
+        "proposed_start": [
+          3,
+          1
+        ],
+        "proposed_end": [
+          3,
+          15
+        ],
+        "range_status": "caption_based_candidate_requires_listening_review",
+        "segments": 713,
+        "last_start": 1855.0,
+        "sha256": "094a3a5dd2da83ada0d567edf842d6c27173b0a33d934d6c9ec33264ab44bd96",
+        "caption_source": "public YouTube auto-generated captions",
+        "publisher": "Shepherds Student, third-party channel; authorization not independently verified"
+      },
+      {
+        "id": "8eD3shcdgFE",
+        "url": "https://www.youtube.com/watch?v=8eD3shcdgFE",
+        "catalog_member": false,
+        "teacher": "Arnold Murray",
+        "teacher_basis": "Published playlist description; no independent voice authentication",
+        "proposed_start": [
+          4,
+          1
+        ],
+        "proposed_end": [
+          6,
+          14
+        ],
+        "range_status": "caption_based_candidate_requires_listening_review",
+        "segments": 844,
+        "last_start": 2232.0,
+        "sha256": "e8cd89444ef20e027513e6ee0006719f5c8336feb5645bfa2c471f4cdb61de5a",
+        "caption_source": "public YouTube auto-generated captions",
+        "publisher": "Shepherds Student, third-party channel; authorization not independently verified"
+      }
+    ]
+  },
+  "other_checks": [
+    {
+      "id": "rwz3jeI2IFY",
+      "reference": "1 Corinthians 6:12",
+      "caption_evidence_seconds": 1942,
+      "finding": "Caption explicitly introduces verse 12, then the corresponding verse text; listening review pending."
+    },
+    {
+      "id": "Y23KJsx-Kqc",
+      "reference": "2 Thessalonians 2:7\u201317",
+      "caption_evidence_seconds": 2027,
+      "finding": "Captions introduce verse seventeen to complete the chapter. Published title says 2:26, which is invalid; retain catalog correction to 2:17. Listening review pending."
+    }
+  ],
+  "warning": "Full 31,102-verse teaching coverage cannot be claimed from metadata range union. Candidate additions have not been merged into the catalog."
+}

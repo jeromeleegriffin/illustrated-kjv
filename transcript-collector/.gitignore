@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.sqlite*
+*.mp3
+*.wav
+*.mp4
+*.media
+*.part
+transcripts/
+media/
+models/

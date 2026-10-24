@@ -1,0 +1,229 @@
+{
+  "observed": 400,
+  "selected": 200,
+  "prior_retained": 120,
+  "skipped_before_selection_complete": [
+    {
+      "id": "ABTS2fAFGjg",
+      "title": "Three World Ages Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "kSchcMNCf90",
+      "title": "Three World Ages part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "JotauC-OKz4",
+      "title": "Elect",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "AbOFnuFpsjI",
+      "title": "Ark of the Last Days - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "KkXMt45r8Ig",
+      "title": "Ark of the Last Days - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "m7p8OU8xLtc",
+      "title": "Pre Existence - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "UnX1O13vvRc",
+      "title": "Elect",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "smr5oHrB4Q0",
+      "title": "Parable of the Fig Tree - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "1pG4BO8BrDs",
+      "title": "Parable of the Fig Tree - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "nKDHWiATIJY",
+      "title": "Ark of the Last Days - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "jM5i-RRXhwA",
+      "title": "Ark of the Last Days - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "z45zT4frrZ0",
+      "title": "Kingdom And Millennium - Part   1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "eIb1C6yub20",
+      "title": "Kingdom And Millennium - Part   2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "yqK06WMibCA",
+      "title": "Witch Of Endor - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "NxsqzUGKRok",
+      "title": "Witch Of Endor - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "quQS2XcRf1E",
+      "title": "Latter Rain - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "nbXu-dAwEGQ",
+      "title": "Latter Rain - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "HBOCWe3wYTA",
+      "title": "Don't Argue with Satan",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "0lunq0RcCvM",
+      "title": "This Generation Shall Not Pass",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "LPHT2YtyDs4",
+      "title": "Feed My Sheep - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "mIRAB1qr7po",
+      "title": "Feed My Sheep - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "W8AALuoaaTU",
+      "title": "How to Study Prophecy - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "pGuMgTA3sdg",
+      "title": "How to Study Prophecy - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "4A99Yunoln0",
+      "title": "NCN Amazing Grace interview of Pastor Arnold Murray from 1989",
+      "reason": "Not selected as a topical teaching"
+    },
+    {
+      "id": "t2rWTG4-BHg",
+      "title": "Horses of the Bible - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "1x1mYQnfuUo",
+      "title": "Horses of the Bible - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "6aoKs2gFn3k",
+      "title": "Strong Delusion - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "OULorqcDm-A",
+      "title": "Strong Delusion - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "_u0j4HxRBxk",
+      "title": "Passover 2008 Interviews",
+      "reason": "Not selected as a topical teaching"
+    },
+    {
+      "id": "p5YF8eKOYO0",
+      "title": "Passover 2010 Interviews",
+      "reason": "Not selected as a topical teaching"
+    },
+    {
+      "id": "WOfHqniwl6k",
+      "title": "Passover 2012 Interviews",
+      "reason": "Not selected as a topical teaching"
+    },
+    {
+      "id": "6Z5yj8u4kjI",
+      "title": "Passover 2013 Interviews",
+      "reason": "Not selected as a topical teaching"
+    },
+    {
+      "id": "2qxwA4liOkA",
+      "title": "Nations",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "luFP6FA0WhI",
+      "title": "NCN Amazing Grace interview 1989",
+      "reason": "Not selected as a topical teaching"
+    },
+    {
+      "id": "eht9_InTUGA",
+      "title": "Health God's Way Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "xaybhUVsFIw",
+      "title": "Health God's Way Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "7RczO-ZOJJI",
+      "title": "Jerusalem Compassed",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "7EhZmIBk38k",
+      "title": "Last Wilderness",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "3B46GQUZl7Y",
+      "title": "Sealing",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "ffEwfwf7H-M",
+      "title": "The Sower",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "8iZ98sMYypw",
+      "title": "Quench Not the Spirit",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "2zXGXZ5y8sM",
+      "title": "Called or Chosen",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "HtqdaPlbiGQ",
+      "title": "Gardens of God - Part 1",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    },
+    {
+      "id": "aYN9rY6Yg_I",
+      "title": "Gardens of God - Part 2",
+      "reason": "Same normalized title; possible alternate upload retained only in discovery audit"
+    }
+  ],
+  "discovery_url": "https://www.youtube.com/playlist?list=PLiA6kuKpn0D1i3waL7qtknTsCX5sqIWI4",
+  "limitation": "Metadata-only discovery; no voice/playback or caption retrieval verified. No claim of200 distinct approved teachings."
+}

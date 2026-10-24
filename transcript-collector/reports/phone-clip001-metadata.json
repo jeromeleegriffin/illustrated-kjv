@@ -1,0 +1,24 @@
+{
+  "clip_sha256": "0b3a53a3ad4f387bab2b33ad33d1d9f22a19f775af3b45672435dac007352647",
+  "clip_duration_seconds": 123.889089,
+  "requested_video_id": "WHpWQOUmluc",
+  "video_id_basis": "User clip supplied in response to this exact video link; matching title/channel visible. Actual video ID not independently visible in clip.",
+  "visible_title": "Exodus22:1\u201323:7",
+  "visible_channel": "@TheShepherdsChapel",
+  "free_local_asr": {
+    "engine": "faster-whisper1.2.1",
+    "model": "tiny.en",
+    "device": "CPU int8",
+    "audio_input": "ffmpeg mono16kHz WAV converted to numpy; PyAV metadata_errors incompatibility avoided",
+    "api_fees": 0,
+    "accuracy_review": "Machine transcription, not a full human audio accuracy review"
+  },
+  "conclusion": "Provided clip audio announces Exodus22 and verse1; the retrieved caption beginning25:19 does not match this opening. Preserve wrong captions in quarantine; do not relabel audio as chapter25.",
+  "alternate_exodus_id": "pXLyRki_lAs",
+  "alternate_teacher_evidence": "Phone clip introduction explicitly names Arnold Murray. Its subsequent lesson opening matches alternate-caption wording (224 matching normalized words from240 clip words in sampled opening); this supports Arnold attribution for the alternate excerpt. Not a full audio identity audit.",
+  "original_full_transcript_complete": false,
+  "original_saved_count": 1289,
+  "original_source_exceptions": 5,
+  "identity_opening_checked": 1,
+  "other_original_identity_checks_pending": 4
+}
