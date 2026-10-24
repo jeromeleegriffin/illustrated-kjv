@@ -348,6 +348,96 @@
       "question": "How did Arnold advise a parent whose adult child doubts God?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "companion-bible-source",
+      "question": "How did viewers obtain a Companion Bible or Strong’s Concordance?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "financial-boundaries",
+      "question": "Must a Christian financially support friends who pressure them?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "transfigured-bodies",
+      "question": "What did Arnold say happened to the flesh bodies of those taken by God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "dead-in-christ",
+      "question": "How did Arnold interpret “the dead in Christ shall rise first”?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "teaching-passover-child",
+      "question": "How did Arnold advise teaching a child about Passover?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "angels-wings",
+      "question": "Did Arnold teach that Satan and angels have wings?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "pray-financial-help",
+      "question": "Is it wrong to ask God for financial help?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "fig-tree-scriptures",
+      "question": "Where did Arnold direct listeners to study the fig-tree parable?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "elect-first-age",
+      "question": "What did Arnold teach that the elect did in the first earth age?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "elect-chosen",
+      "question": "Why did Arnold say God chose the elect?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "shekinah",
+      "question": "How did Arnold explain Shekinah glory?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "manna-paradise",
+      "question": "What did Arnold say about manna sustaining souls in paradise?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "baptism-dead",
+      "question": "Did Arnold endorse baptism for the dead?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "fly-away-scripture",
+      "question": "Where did Arnold find his objection to teaching people to fly away?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "generational-curses",
+      "question": "Did Arnold teach that believers inherit generational curses?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -2343,6 +2433,261 @@
       "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
       "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
       "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "companion-bible-source",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2194.725,
+      "end": 2207.572,
+      "teacher": "Arnold Murray",
+      "variant": "companion-bible-source-arnold-reviewed",
+      "summary": "In this recording Arnold directs viewers to the ministry bookstore and its book list. Availability and ordering details have not been checked for the present day.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "financial-boundaries",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2216.013,
+      "end": 2300.998,
+      "teacher": "Arnold Murray",
+      "variant": "financial-boundaries-arnold-reviewed",
+      "summary": "Arnold tells this widow that she need not let her friends pressure her into supporting them or moving them into her home. He encourages setting boundaries.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "unbelieving-child",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2302.466,
+      "end": 2357.188,
+      "teacher": "Arnold Murray",
+      "variant": "unbelieving-child-arnold-reviewed",
+      "summary": "Arnold encourages the parent to set an example, pray and be ready with sound answers when the child asks, rather than forcing agreement.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "transfigured-bodies",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2357.188,
+      "end": 2391.455,
+      "teacher": "Arnold Murray",
+      "variant": "transfigured-bodies-arnold-reviewed",
+      "summary": "Arnold describes their bodies as transfigured or taken and connects the discussion with the mount of transfiguration. The caption renders one biblical name unclearly.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "dead-in-christ",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2391.455,
+      "end": 2499.029,
+      "teacher": "Arnold Murray",
+      "variant": "dead-in-christ-arnold-reviewed",
+      "summary": "Arnold says those who died loving Christ are already with him. He asks listeners to read 1 Thessalonians 4:13–17 together instead of isolating the phrase.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "teaching-passover-child",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2499.029,
+      "end": 2574.939,
+      "teacher": "Arnold Murray",
+      "variant": "teaching-passover-child-arnold-reviewed",
+      "summary": "Arnold directs the parent to 1 Corinthians 5:7–8 and emphasizes Christ as Passover rather than an egg hunt.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "angels-wings",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2607.104,
+      "end": 2721.118,
+      "teacher": "Arnold Murray",
+      "variant": "angels-wings-arnold-reviewed",
+      "summary": "Arnold answers no and says angels resemble people in spiritual bodies. He interprets the wings in Ezekiel’s vision through his explanation of vehicles and their landing equipment.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "pray-financial-help",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2721.118,
+      "end": 2768.465,
+      "teacher": "Arnold Murray",
+      "variant": "pray-financial-help-arnold-reviewed",
+      "summary": "Arnold says it is not wrong. He encourages prayer alongside practical planning, work and rebuilding after a financial setback.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "fig-tree-scriptures",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2770.067,
+      "end": 2852.382,
+      "teacher": "Arnold Murray",
+      "variant": "fig-tree-scriptures-arnold-reviewed",
+      "summary": "Arnold points to Mark 13 and Jeremiah 24. He connects the good and bad figs with his explanation of Israel and the final generation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "elect-first-age",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2852.382,
+      "end": 2906.47,
+      "teacher": "Arnold Murray",
+      "variant": "elect-first-age-arnold-reviewed",
+      "summary": "Arnold describes the elect as having stood against Satan and defended God’s throne. He connects that stand with their role in resisting deception.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "elect-chosen",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2906.47,
+      "end": 2976.573,
+      "teacher": "Arnold Murray",
+      "variant": "elect-chosen-arnold-reviewed",
+      "summary": "Arnold says God chose them because of their stand against Satan in the first earth age. He relates their prior justification to God’s intervention in their lives.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "shekinah",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2976.573,
+      "end": 3025.522,
+      "teacher": "Arnold Murray",
+      "variant": "shekinah-arnold-reviewed",
+      "summary": "Arnold explains Shekinah as God dwelling there. He does not accept the questioner’s description of it simply as an unpleasant burning fire for sinners.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "manna-paradise",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 3025.522,
+      "end": 3030.56,
+      "teacher": "Arnold Murray",
+      "variant": "manna-paradise-arnold-reviewed",
+      "summary": "Arnold briefly answers by calling manna angels’ food. The answer is short and does not develop the subject further.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "baptism-dead",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 3030.56,
+      "end": 3092.255,
+      "teacher": "Arnold Murray",
+      "variant": "baptism-dead-arnold-reviewed",
+      "summary": "Arnold answers no. He interprets the wording in 1 Corinthians 15 through belief in Christ’s resurrection rather than a ceremony performed on behalf of deceased people.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "spirit-after-death",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 3092.255,
+      "end": 3171.067,
+      "teacher": "Arnold Murray",
+      "variant": "spirit-after-death-arnold-reviewed",
+      "summary": "Arnold says the spirit returns immediately to the Father and is not free to roam the earth. He refers to Ecclesiastes 12:6–7 and distinguishes the flesh body from the spiritual body.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "fly-away-scripture",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 3171.067,
+      "end": 3220.684,
+      "teacher": "Arnold Murray",
+      "variant": "fly-away-scripture-arnold-reviewed",
+      "summary": "Arnold points to Ezekiel 13 and interprets its wording as opposing a fly-away or rapture teaching. This reports his interpretation of the passage.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "generational-curses",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 3234.698,
+      "end": 3314.144,
+      "teacher": "Arnold Murray",
+      "variant": "generational-curses-arnold-reviewed",
+      "summary": "Arnold rejects that teaching, referring to Jeremiah 31:29. He distinguishes a person’s own relationship with God from an inherited spiritual curse.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
     }
