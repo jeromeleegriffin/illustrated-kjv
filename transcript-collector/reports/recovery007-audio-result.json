@@ -1,0 +1,44 @@
+{
+  "checkpoint": "Recovery007 audio result",
+  "uploaded_zip_sha256": "77275a0d6414cf7c0c2c28f8d7e06e1b82703840a6cc7634df5b6e1cd2e0203b",
+  "zip_entries": 3,
+  "actual_audio_files": 0,
+  "reported_status": "blocked",
+  "errors_independently_witnessed": false,
+  "source": "User-supplied Grok result",
+  "original_catalog_saved": 1289,
+  "original_catalog_total": 1294,
+  "original_source_exceptions": 5,
+  "recordings": [
+    {
+      "id": "JcWNbeixWt0",
+      "reported_error": "HTTP Error 403: Forbidden on original English audio URL (DASH 139-19 and HLS 233-19 segments)",
+      "imported": false
+    },
+    {
+      "id": "WHpWQOUmluc",
+      "reported_error": "HTTP Error 403: Forbidden on original English audio URL",
+      "imported": false
+    },
+    {
+      "id": "HzlJVOoH6Do",
+      "reported_error": "HTTP Error 403: Forbidden on original English audio URL",
+      "imported": false
+    },
+    {
+      "id": "nKaoJOXTt7Y",
+      "reported_error": "HTTP Error 403: Forbidden on original English audio URL",
+      "imported": false
+    },
+    {
+      "id": "3vNXxkJoFS0",
+      "reported_error": "HTTP Error 403: Forbidden on original English audio URL",
+      "imported": false
+    }
+  ],
+  "existing_recovered_alternates_preserved": [
+    "OxIb12CTt_E",
+    "Ky56Qzu7VIU"
+  ],
+  "next_step": "Original audio clips from normal user playback, or independently accessible authorized matching sources. Do not repeat the same cloud media downloads."
+}
