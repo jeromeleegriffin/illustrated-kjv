@@ -1,0 +1,50 @@
+{
+  "batch": "faq-pass008",
+  "before": {
+    "questions": 74,
+    "occurrences": 148
+  },
+  "after": {
+    "questions": 120,
+    "occurrences": 201
+  },
+  "added_occurrences": 53,
+  "new_questions": 46,
+  "recordings": [
+    {
+      "video_id": "-EdL_z7MMvo",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "reviewed_range": [
+        2088.22,
+        3391.388
+      ],
+      "unresolved": [
+        "Uncertain Psalm reference in last-generation answer; audio pending"
+      ]
+    },
+    {
+      "video_id": "-FrgONWDN4k",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "reviewed_range": [
+        2150.51,
+        3383.279
+      ],
+      "unresolved": [
+        "2983.35\u20132997.56 contains an answer without a recoverable listener question; held pending",
+        "Uncertain wording in question at 2416.71; caption errors in historical names and verse span; audio pending"
+      ]
+    },
+    {
+      "video_id": "-H1Qy-eN14g",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "reviewed_range": [
+        2090.76,
+        3376.91
+      ],
+      "unresolved": [
+        "Geber term at 2205.4 needs audio confirmation",
+        "Caption errors in genealogy and chapter spans; audio pending"
+      ]
+    }
+  ]
+}
