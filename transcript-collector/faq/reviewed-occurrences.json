@@ -270,6 +270,84 @@
       "question": "How did Arnold interpret Eve being made from Adam’s rib?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ezekiel-battle-time",
+      "question": "When did Arnold place the battle of Ezekiel 38–39?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "dead-relative-visit",
+      "question": "How did Arnold respond to a child reporting a visit from a deceased grandfather?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "seals-trumps-vials",
+      "question": "What is the difference between Revelation’s seals, trumpets and vials?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "women-hair",
+      "question": "Did Arnold teach that cutting a woman’s hair is a sin?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "returning-army",
+      "question": "Who did Arnold say returns with Christ, and what happens to others?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "witnesses-before-antichrist",
+      "question": "When did Arnold say the two witnesses appear?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "number-seven",
+      "question": "What did Arnold teach that the number seven represents?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "miscarriage-rebirth",
+      "question": "Did Arnold teach that a child lost before birth is born into this earth age again?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "memory-death",
+      "question": "Will a person remember the circumstances of death?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sharing-faith",
+      "question": "Must every believer teach everyone they meet?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "women-pants",
+      "question": "Did Arnold regard women wearing pants as sinful?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "restrainer-thessalonians",
+      "question": "How did Arnold interpret 2 Thessalonians 2:7?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "unbelieving-child",
+      "question": "How did Arnold advise a parent whose adult child doubts God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -2070,6 +2148,201 @@
       "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
       "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
       "recording_group": "CmFVLDguYzg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "ezekiel-battle-time",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2145.71,
+      "end": 2254.485,
+      "teacher": "Arnold Murray",
+      "variant": "ezekiel-battle-time-arnold-reviewed",
+      "summary": "Arnold places it near the end of this earth age and says God fights the battle without another army intervening.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "dead-relative-visit",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2396.16,
+      "end": 2454.618,
+      "teacher": "Arnold Murray",
+      "variant": "dead-relative-visit-arnold-reviewed",
+      "summary": "Arnold describes the experience as a blessing allowed through the Holy Spirit and reassures the child about seeing his grandfather again. This is his response to that report, not independent verification of the experience.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "seals-trumps-vials",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2457.321,
+      "end": 2651.281,
+      "teacher": "Arnold Murray",
+      "variant": "seals-trumps-vials-arnold-reviewed",
+      "summary": "Arnold describes the seals as understanding secured in the mind, trumpets as action or execution, and vials as God’s wrath poured out.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "women-hair",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2657.187,
+      "end": 2747.244,
+      "teacher": "Arnold Murray",
+      "variant": "women-hair-arnold-reviewed",
+      "summary": "Arnold interprets 1 Corinthians 11 through verse 10 and says its covering concerns Christ’s protection, rather than a rule about hair.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "returning-army",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2791.488,
+      "end": 2835.766,
+      "teacher": "Arnold Murray",
+      "variant": "returning-army-arnold-reviewed",
+      "summary": "Arnold identifies Christ’s accompanying army with those on the right side of the gulf and says those on the other side are taught during the millennium.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "witnesses-before-antichrist",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2838.869,
+      "end": 2898.462,
+      "teacher": "Arnold Murray",
+      "variant": "witnesses-before-antichrist-arnold-reviewed",
+      "summary": "Arnold places their ministry in this earth age before the millennium and says they appear shortly before the false Christ.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "number-seven",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2915.145,
+      "end": 2950.38,
+      "teacher": "Arnold Murray",
+      "variant": "number-seven-arnold-reviewed",
+      "summary": "Arnold explains seven as spiritual completeness and connects that meaning with his discussion of God’s elect.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "miscarriage-rebirth",
+      "video_id": "9L3c_-6dJk0",
+      "start": 3043.64,
+      "end": 3092.255,
+      "teacher": "Arnold Murray",
+      "variant": "miscarriage-rebirth-arnold-reviewed",
+      "summary": "Arnold answers no. He says the spirit is already present and that a person passes through this earth age only once.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "memory-death",
+      "video_id": "9L3c_-6dJk0",
+      "start": 3097.427,
+      "end": 3121.318,
+      "teacher": "Arnold Murray",
+      "variant": "memory-death-arnold-reviewed",
+      "summary": "Arnold says God remembers and that the person does not forget the circumstances if they were known.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "sharing-faith",
+      "video_id": "9L3c_-6dJk0",
+      "start": 3121.318,
+      "end": 3162.626,
+      "teacher": "Arnold Murray",
+      "variant": "sharing-faith-arnold-reviewed",
+      "summary": "Arnold advises planting seeds when someone is receptive, rather than forcing the message on people who are uninterested.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "women-pants",
+      "video_id": "9L3c_-6dJk0",
+      "start": 3165.362,
+      "end": 3245.008,
+      "teacher": "Arnold Murray",
+      "variant": "women-pants-arnold-reviewed",
+      "summary": "Arnold answers no. He interprets Deuteronomy 22:5 as addressing sexual roles rather than modern clothing styles.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "restrainer-thessalonians",
+      "video_id": "9L3c_-6dJk0",
+      "start": 3248.311,
+      "end": 3311.107,
+      "teacher": "Arnold Murray",
+      "variant": "restrainer-thessalonians-arnold-reviewed",
+      "summary": "Arnold identifies the restrained figure as the antichrist, held by Michael in heaven until being cast to earth. He refers to the surrounding verses and Revelation 12.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "unbelieving-child",
+      "video_id": "9L3c_-6dJk0",
+      "start": 3314.11,
+      "end": 3379.109,
+      "teacher": "Arnold Murray",
+      "variant": "unbelieving-child-arnold-reviewed",
+      "summary": "Arnold says the child is confused rather than cursed. He recommends patience, prayer and a Christian example instead of forcing belief.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
     }
