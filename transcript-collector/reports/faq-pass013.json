@@ -1,0 +1,100 @@
+{
+  "batch": "faq-pass013",
+  "before": {
+    "questions": 303,
+    "occurrences": 438
+  },
+  "after": {
+    "questions": 376,
+    "occurrences": 545
+  },
+  "added_occurrences": 107,
+  "new_questions": 73,
+  "recordings": [
+    {
+      "video_id": "-yKsiOrwx6U",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "0b931cd89e0e0f5d187ce92fa7ddc135a78fd636f255a8f90e8cdfef3401b7b7",
+      "reviewed_range": [
+        2076.27,
+        3376.74
+      ],
+      "unresolved": [
+        "Question about 2012 refers to historical prediction, not current astronomy",
+        "3153.11\u20133267.8: listener comment plus pastoral response; flagged for listener-question classification review"
+      ]
+    },
+    {
+      "video_id": "07JL-z0fMgY",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "63f8069c37a1d50ef297c3dbff414b3c8695d48b0dd73434413e5b5fedfdec51",
+      "reviewed_range": [
+        2225.22,
+        3388.22
+      ],
+      "unresolved": [
+        "2408.97: caption contradicts surrounding seventh-trump explanation",
+        "Hebrew/ancestry, Joseph-kinship and British-travel claims not independently established"
+      ]
+    },
+    {
+      "video_id": "08WdPO9zwZI",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "42c6de3be815786857540f9f32058fec038ff9f05dadd5c5bc5a1fdbe53df9e8",
+      "reviewed_range": [
+        2157.16,
+        3379.52
+      ],
+      "unresolved": [
+        "Capital-punishment passage uses recalled Matthew reference; unverified",
+        "Law interpretation is attributed, not current legal guidance"
+      ]
+    },
+    {
+      "video_id": "0D2NPIMzPjM",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "29f1882f47a338693136f3103068e358f7411e3170050fa6100dc380c4a2625b",
+      "reviewed_range": [
+        2158.32,
+        3378.34
+      ],
+      "unresolved": [
+        "Bullinger biography includes uncertain recalled details",
+        "Water baptism exception retained with general encouragement"
+      ]
+    },
+    {
+      "video_id": "0HmJkkP8YNo",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "3d621d96b7bcc1cac6f63140ed237f2183ee97288c5ae5b42a818dbdaf71267f",
+      "reviewed_range": [
+        2203.9,
+        3380.58
+      ],
+      "unresolved": [
+        "3356.39\u20133380.58: incomplete Genesis 1 image question held pending; no invented question",
+        "Multiple listener subquestions retained separately"
+      ]
+    },
+    {
+      "video_id": "0KQDV-4oRdU",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "3f564fd2bd95992d748f3c21dfcafb828ffa1078e070df793b706c69ace35fab",
+      "reviewed_range": [
+        2160.86,
+        3372.5
+      ],
+      "unresolved": [
+        "2589.82\u20132635.07: listener testimony, not counted as question",
+        "Some legal and Greek/Hebrew references need audio confirmation"
+      ]
+    }
+  ],
+  "fully_reviewed_recordings": 0,
+  "validation": {
+    "automated_tests_passed": 3,
+    "all_approved_paraphrases_and_ranges_present": true,
+    "source_hash_invalidations": 0,
+    "ranking_descending": true
+  }
+}
