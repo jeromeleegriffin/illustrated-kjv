@@ -1,0 +1,33 @@
+{
+  "batch": "pass018-partial",
+  "video_id": "3waQOMJXwpM",
+  "teacher": "Arnold Murray",
+  "transcript_sha256": "b099a340ca7d0a3a88c79734f89f046bba064113d277b67e7eb004000fb0d334",
+  "review_status": "partially_reviewed",
+  "qa_start": 2120.22,
+  "cursor_seconds": 2322.85,
+  "remaining": "Resume with Jerrel's pyramid question at 2322.85; finish all remaining Q&A before completion.",
+  "reviewed_answers": [
+    {
+      "start": 2124.39,
+      "end": 2195.83,
+      "question": "Did Jesus know as a child that he would be crucified?",
+      "summary": "Arnold said yes, appealing to Jesus at twelve and Psalm 22. He interpreted the later request concerning the cup as about wrath rather than avoiding crucifixion; this is his interpretation."
+    },
+    {
+      "start": 2204.37,
+      "end": 2278.91,
+      "question": "How did Arnold explain Ezekiel 16:44–45?",
+      "summary": "Arnold identified Jerusalem, rather than an individual woman, as the chapter's subject. He gave a brief historical and covenant explanation and deferred fuller treatment to his coming chapter study."
+    },
+    {
+      "start": 2280.54,
+      "end": 2319.18,
+      "question": "Where did Arnold support God's knowledge of thoughts?",
+      "summary": "Arnold referred to Luke 16:15 and the day's teaching. He distinguished God's knowledge from Satan's, speculating about possession while saying Christians should exercise authority in Christ's name."
+    }
+  ],
+  "approved_registry_occurrences_added": 0,
+  "published": false,
+  "audio_verified": false
+}
