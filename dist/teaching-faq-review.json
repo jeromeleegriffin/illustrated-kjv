@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-24T18:51:54.157854+00:00",
+  "updated": "2026-10-24T19:06:37.907026+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -5956,7 +5956,28 @@
       "review_status": "partially_reviewed",
       "question_ids": [
         "where-tithe",
-        "hell-preaching"
+        "hell-preaching",
+        "noah-flood-extent",
+        "millennium-deception",
+        "disability-spiritual-body",
+        "babel-scattering",
+        "murray-pilots",
+        "cloven-tongue",
+        "genesis-our-image",
+        "psalms-authors",
+        "visible-angels",
+        "anointing-sick",
+        "niv-translation",
+        "false-prophet",
+        "sinner-after-death",
+        "bible-notes",
+        "easter-word",
+        "water-baptism-example",
+        "rebaptism-backsliding",
+        "witnesses-shortened-time",
+        "seventh-trump-change",
+        "mary-touch-jesus",
+        "eve-rib-interpretation"
       ],
       "reviewed_ranges": [
         {
@@ -5969,6 +5990,132 @@
           "question_id": "hell-preaching",
           "start_seconds": 3120.85,
           "end_seconds": 3241.337,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noah-flood-extent",
+          "start_seconds": 2154.418,
+          "end_seconds": 2211.442,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-deception",
+          "start_seconds": 2211.442,
+          "end_seconds": 2282.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "disability-spiritual-body",
+          "start_seconds": 2294.591,
+          "end_seconds": 2348.712,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "babel-scattering",
+          "start_seconds": 2350.815,
+          "end_seconds": 2410.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "murray-pilots",
+          "start_seconds": 2414.545,
+          "end_seconds": 2425.089,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cloven-tongue",
+          "start_seconds": 2427.023,
+          "end_seconds": 2481.879,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "genesis-our-image",
+          "start_seconds": 2492.522,
+          "end_seconds": 2539.436,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "psalms-authors",
+          "start_seconds": 2568.464,
+          "end_seconds": 2574.337,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "visible-angels",
+          "start_seconds": 2576.306,
+          "end_seconds": 2609.139,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-sick",
+          "start_seconds": 2611.375,
+          "end_seconds": 2656.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "niv-translation",
+          "start_seconds": 2658.822,
+          "end_seconds": 2727.257,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "false-prophet",
+          "start_seconds": 2728.825,
+          "end_seconds": 2765.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sinner-after-death",
+          "start_seconds": 2846.009,
+          "end_seconds": 2896.893,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-notes",
+          "start_seconds": 2898.895,
+          "end_seconds": 2917.981,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "easter-word",
+          "start_seconds": 2917.981,
+          "end_seconds": 3029.793,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "water-baptism-example",
+          "start_seconds": 3031.16,
+          "end_seconds": 3068.365,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebaptism-backsliding",
+          "start_seconds": 3071.601,
+          "end_seconds": 3119.115,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-shortened-time",
+          "start_seconds": 3182.545,
+          "end_seconds": 3208.771,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seventh-trump-change",
+          "start_seconds": 3208.771,
+          "end_seconds": 3221.551,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mary-touch-jesus",
+          "start_seconds": 3223.753,
+          "end_seconds": 3289.552,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eve-rib-interpretation",
+          "start_seconds": 3290.954,
+          "end_seconds": 3372.435,
           "review": "caption_passage_checked_audio_pending"
         }
       ],
@@ -20672,7 +20819,19 @@
         "prescribed-medication",
         "where-tithe",
         "hell-preaching",
-        "unequally-yoked"
+        "unequally-yoked",
+        "numbered-hairs",
+        "cross-symbol",
+        "high-sabbath",
+        "antichrist-origin",
+        "dinosaurs-job",
+        "ten-commandments",
+        "kenites-identity",
+        "millennium-sequence",
+        "seth-lineage",
+        "paradise-gulf",
+        "adopted-parents",
+        "stay-home-parent"
       ],
       "reviewed_ranges": [
         {
@@ -20715,6 +20874,78 @@
           "question_id": "unequally-yoked",
           "start_seconds": 3238.0,
           "end_seconds": 3340.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "numbered-hairs",
+          "start_seconds": 2184,
+          "end_seconds": 2235,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cross-symbol",
+          "start_seconds": 2259,
+          "end_seconds": 2356,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "high-sabbath",
+          "start_seconds": 2404,
+          "end_seconds": 2502,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-origin",
+          "start_seconds": 2623,
+          "end_seconds": 2740,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dinosaurs-job",
+          "start_seconds": 2689,
+          "end_seconds": 2784,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ten-commandments",
+          "start_seconds": 2740,
+          "end_seconds": 2811,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenites-identity",
+          "start_seconds": 2811,
+          "end_seconds": 2907,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-sequence",
+          "start_seconds": 3021,
+          "end_seconds": 3149,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seth-lineage",
+          "start_seconds": 3109,
+          "end_seconds": 3171,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf",
+          "start_seconds": 3149,
+          "end_seconds": 3238,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adopted-parents",
+          "start_seconds": 3287,
+          "end_seconds": 3380,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "stay-home-parent",
+          "start_seconds": 3340,
+          "end_seconds": 3380,
           "review": "caption_passage_checked_audio_pending"
         }
       ],
@@ -25195,6 +25426,6 @@
     "teacher_pending": 65,
     "pending": 1227,
     "source_changed": 0,
-    "question_occurrences": 79
+    "question_occurrences": 112
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-v2",
-  "updated": "2026-10-24T18:51:54.157854+00:00",
+  "updated": "2026-10-24T19:06:37.907026+00:00",
   "authority_policy": "Arnold Murray primary; Dennis Murray clearly attributed secondary. Preserve variants; never combine different claims as a quotation.",
   "frequency_policy": "Most asked among reviewed passages. One count per question per distinct recording group. Alternate uploads count once. These are lower bounds while review continues.",
   "questions": [
@@ -1220,6 +1220,108 @@
       "rank": 9
     },
     {
+      "id": "noah-flood-extent",
+      "question": "Did Arnold teach that Noah’s flood covered the whole earth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "noah-flood-extent-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says it probably did not cover the whole world. He explains its extent through his interpretation of its purpose in Genesis 6.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2154.418,
+              "end_seconds": 2211.442,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 10
+    },
+    {
+      "id": "rebaptism-backsliding",
+      "question": "Does backsliding require being baptized again?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "rebaptism-backsliding-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold answers no and tells the listener to repent. He says Christ’s salvation did not fail when the believer drifted away.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 3071.601,
+              "end_seconds": 3119.115,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 11
+    },
+    {
+      "id": "antichrist-origin",
+      "question": "Does the antichrist come from Africa?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "antichrist-origin-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold rejects that interpretation. He says Revelation’s lion imagery concerns deception and identifies Revelation 12 as his explanation of Satan being cast from heaven.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2623,
+              "end_seconds": 2740,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 12
+    },
+    {
       "id": "church-tribulation",
       "question": "Does the church escape the tribulation through a rapture?",
       "topic": "End times",
@@ -1253,7 +1355,517 @@
       "source_upload_count": 1,
       "count_basis": "distinct_recording_groups_in_reviewed_passages",
       "frequency_scope": "lower_bound_not_full_archive_frequency",
-      "rank": 10
+      "rank": 13
+    },
+    {
+      "id": "witnesses-shortened-time",
+      "question": "How did Arnold connect the two witnesses with shortened tribulation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "witnesses-shortened-time-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "In response to this question Arnold says the period has been shortened from three and a half years to five months.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 3182.545,
+              "end_seconds": 3208.771,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 14
+    },
+    {
+      "id": "anointing-sick",
+      "question": "How did Arnold describe anointing a sick person?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "anointing-sick-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold refers to James 5 and describes blessing a small amount of pure olive oil, applying it to the forehead, and asking God’s healing in Jesus’ name.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2611.375,
+              "end_seconds": 2656.72,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 15
+    },
+    {
+      "id": "seth-lineage",
+      "question": "How did Arnold distinguish Seth’s lineage from Cain’s?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "seth-lineage-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says Satan had no part in Seth’s birth. He connects Eve’s description as mother of all living with the lineage through which Christ would come.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 3109,
+              "end_seconds": 3171,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 16
+    },
+    {
+      "id": "babel-scattering",
+      "question": "How did Arnold explain the scattering of peoples?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "babel-scattering-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold connects the scattering and different languages with the Tower of Babel in Genesis 10 and 11.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2350.815,
+              "end_seconds": 2410.14,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 17
+    },
+    {
+      "id": "easter-word",
+      "question": "How did Arnold explain the word Easter in Acts 12:4?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "easter-word-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold points to Acts 12:4 and says the Greek word refers to Passover. He emphasizes Christ as Passover and rejects Easter customs in this answer.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2917.981,
+              "end_seconds": 3029.793,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 18
+    },
+    {
+      "id": "genesis-our-image",
+      "question": "How did Arnold explain “our image” in Genesis?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "genesis-our-image-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold distinguishes the plural wording in Genesis 1:26 from verse 27 and relates the discussion to Jesus’ statement about seeing the Father in John 14.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2492.522,
+              "end_seconds": 2539.436,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 19
+    },
+    {
+      "id": "eve-rib-interpretation",
+      "question": "How did Arnold interpret Eve being made from Adam’s rib?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "eve-rib-interpretation-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold interprets the word rendered rib as a curve and connects it with a feminine DNA helix. This is his stated interpretation, not an independently verified scientific or linguistic conclusion.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 3290.954,
+              "end_seconds": 3372.435,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 20
+    },
+    {
+      "id": "stay-home-parent",
+      "question": "Is being a stay-at-home mother laziness?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "stay-home-parent-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold calls raising a family and caring for a home a full-time job and tells the listener not to regard that work as laziness.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 3340,
+              "end_seconds": 3380,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 21
+    },
+    {
+      "id": "bible-notes",
+      "question": "Is it acceptable to underline and write notes in a Bible?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "bible-notes-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold approves marking Scripture and making notes when it helps the reader study and remember God’s Word.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2898.895,
+              "end_seconds": 2917.981,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 22
+    },
+    {
+      "id": "cross-symbol",
+      "question": "Is keeping a cross on a wall idolatry?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "cross-symbol-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold distinguishes a symbol of the crucifixion from an object that someone worships. He says the cross itself should not be worshipped.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2259,
+              "end_seconds": 2356,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 23
+    },
+    {
+      "id": "murray-pilots",
+      "question": "Were Arnold, Dennis and David Murray pilots?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "murray-pilots-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold answers that they were all pilots.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2414.545,
+              "end_seconds": 2425.089,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 24
+    },
+    {
+      "id": "high-sabbath",
+      "question": "What did Arnold mean by a high Sabbath?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "high-sabbath-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold identifies Passover with Christ and explains Sabbath as rest found in Christ.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2404,
+              "end_seconds": 2502,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 25
+    },
+    {
+      "id": "disability-spiritual-body",
+      "question": "What did Arnold teach about disability and spiritual bodies?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "disability-spiritual-body-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says God protects the innocent and teaches that disability will not remain in the spiritual body during the millennium.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2294.591,
+              "end_seconds": 2348.712,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 26
+    },
+    {
+      "id": "paradise-gulf",
+      "question": "What did Arnold teach about the two sides of the gulf?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "paradise-gulf-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold uses Luke 16 to describe paradise and a separation between its sides. He connects the distinction with resurrection and judgment in his explanation.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 3149,
+              "end_seconds": 3238,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 27
+    },
+    {
+      "id": "numbered-hairs",
+      "question": "What does it mean that the hairs of our head are numbered?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "numbered-hairs-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold explains it as God’s protection and power over Satan, referring to Luke 21:18.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2184,
+              "end_seconds": 2235,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 28
     },
     {
       "id": "unequally-yoked",
@@ -1287,7 +1899,177 @@
       "source_upload_count": 1,
       "count_basis": "distinct_recording_groups_in_reviewed_passages",
       "frequency_scope": "lower_bound_not_full_archive_frequency",
-      "rank": 11
+      "rank": 29
+    },
+    {
+      "id": "millennium-sequence",
+      "question": "What sequence did Arnold teach for the antichrist and millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "millennium-sequence-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold describes Satan’s five-month appearance, Christ’s coming at the seventh trumpet, the millennium, and Satan’s release for a short season to test people before judgment.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 3021,
+              "end_seconds": 3149,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 30
+    },
+    {
+      "id": "seventh-trump-change",
+      "question": "When did Arnold say believers change into spiritual bodies?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "seventh-trump-change-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold agrees with the listener’s description of the change at the seventh trumpet, just before the millennium.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 3208.771,
+              "end_seconds": 3221.551,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 31
+    },
+    {
+      "id": "ten-commandments",
+      "question": "Where are the Ten Commandments written?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "ten-commandments-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold points to Exodus 20. In discussing inherited consequences, he says a person is not held responsible for a parent’s sin simply because of parentage.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2740,
+              "end_seconds": 2811,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 32
+    },
+    {
+      "id": "dinosaurs-job",
+      "question": "Where did Arnold find a reference to dinosaurs in the Bible?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "dinosaurs-job-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold interprets the behemoth in Job 40 as a dinosaur and places it in his teaching about the first earth age.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2689,
+              "end_seconds": 2784,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 33
+    },
+    {
+      "id": "sinner-after-death",
+      "question": "Where did Arnold say a sinner goes after death?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "sinner-after-death-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says everyone returns to Christ and distinguishes the two sides of paradise. He relates later judgment to the millennium.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2846.009,
+              "end_seconds": 2896.893,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 34
     },
     {
       "id": "spirit-after-death",
@@ -1323,7 +2105,347 @@
       "source_upload_count": 1,
       "count_basis": "distinct_recording_groups_in_reviewed_passages",
       "frequency_scope": "lower_bound_not_full_archive_frequency",
-      "rank": 12
+      "rank": 35
+    },
+    {
+      "id": "false-prophet",
+      "question": "Who did Arnold identify as the false prophet in Revelation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "false-prophet-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold identifies the false prophet with the antichrist role and distinguishes that role from Satan himself in his explanation of the lake of fire.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2728.825,
+              "end_seconds": 2765.829,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 36
+    },
+    {
+      "id": "kenites-identity",
+      "question": "Who did Arnold identify as the Kenites?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "kenites-identity-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold identifies the Kenites as descendants of Cain and distinguishes that name from Canaanites. He refers to 1 Chronicles 2:55 in this answer.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2811,
+              "end_seconds": 2907,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 37
+    },
+    {
+      "id": "psalms-authors",
+      "question": "Who did Arnold identify as the main writer of Psalms?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "psalms-authors-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says David wrote most of Psalms.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2568.464,
+              "end_seconds": 2574.337,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 38
+    },
+    {
+      "id": "water-baptism-example",
+      "question": "Why did Arnold encourage water baptism?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "water-baptism-example-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says Christ set an example through water baptism. He distinguishes the outward act from Christ’s forgiveness of sins.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 3031.16,
+              "end_seconds": 3068.365,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 39
+    },
+    {
+      "id": "niv-translation",
+      "question": "Why did Arnold object to using the NIV for his teaching?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "niv-translation-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold rejects it for his teaching and criticizes its wording in Isaiah 14 and Ezekiel 13. This summary reports his view rather than independently assessing those translations.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2658.822,
+              "end_seconds": 2727.257,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 40
+    },
+    {
+      "id": "mary-touch-jesus",
+      "question": "Why did Jesus tell Mary Magdalene not to touch him?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "mary-touch-jesus-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold interprets the instruction as not delaying or holding him up before going to the Father, rather than a prohibition on touching him.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 3223.753,
+              "end_seconds": 3289.552,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 41
+    },
+    {
+      "id": "millennium-deception",
+      "question": "Why would people still follow Satan after the millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "millennium-deception-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold emphasizes Satan’s power to deceive and treats the multitude described in Revelation 20 as a warning.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2211.442,
+              "end_seconds": 2282.079,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 42
+    },
+    {
+      "id": "adopted-parents",
+      "question": "Will an adopted person know their birth parents in heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "adopted-parents-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold gives a qualified answer: he thinks recognition may occur, but leaves the circumstances in God’s hands rather than making an unconditional promise.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 3287,
+              "end_seconds": 3380,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "qqzXl4z-m1M"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 43
+    },
+    {
+      "id": "visible-angels",
+      "question": "Will angels be visible when they come?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "visible-angels-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold answers yes, explaining that angels can be seen when present in the same dimension.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2576.306,
+              "end_seconds": 2609.139,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 44
+    },
+    {
+      "id": "cloven-tongue",
+      "question": "Will people understand the Holy Spirit speaking through believers?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "cloven-tongue-arnold-reviewed",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold says the Holy Spirit supplies the words and every language understands them. He connects this with Mark 13 and Acts 2.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "CmFVLDguYzg",
+              "teacher": "Arnold Murray",
+              "lesson": "Revelation 20:1 - 20:15",
+              "start_seconds": 2427.023,
+              "end_seconds": 2481.879,
+              "transcript_sha256": "8c599d9360863cafb3fc6ad8987da3ab209354a1377ed9a9fd120865135d0130",
+              "source_sha256": "63d65cf8fc844883e84492b9848056b7a4c8b2065b3e07b802a5c1a03d72f329",
+              "review_status": "caption_passage_checked_audio_pending",
+              "recording_group": "CmFVLDguYzg"
+            }
+          ]
+        }
+      ],
+      "asked_count": 1,
+      "source_upload_count": 1,
+      "count_basis": "distinct_recording_groups_in_reviewed_passages",
+      "frequency_scope": "lower_bound_not_full_archive_frequency",
+      "rank": 45
     }
   ]
 }
