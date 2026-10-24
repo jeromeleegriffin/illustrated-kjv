@@ -1,0 +1,32 @@
+{
+  "clip_sha256": "563d241db2e5a4ecbe7ce66c551bba1c0d18137c182cf4b3f93c1bf24d694f02",
+  "clip_duration_seconds": 120.718744,
+  "requested_video_id": "nKaoJOXTt7Y",
+  "id_binding": "Supplied in response to exact link; matching visible title/channel. Video ID not separately visible.",
+  "visible_title": "Psalms71:1\u201372:2",
+  "visible_channel": "@TheShepherdsChapel",
+  "spoken_opening": "Psalm71:1",
+  "teacher": "Dennis Murray, explicitly named in spoken introduction",
+  "clip_reference_evidence_seconds": [
+    [
+      20,
+      29
+    ],
+    [
+      117.96,
+      120.44
+    ]
+  ],
+  "time_basis": "Clip-relative times; source playback begins after the full broadcast introduction.",
+  "method": "Free local faster-whisper tiny.en, CPU int8; compare supplied audio opening against retained captions",
+  "result": "Saved Psalm71 caption opening matches this recording; release nKaoJOXTt7Y from identity quarantine. Preserve conflicting3vNXxkJoFS0 file until checked.",
+  "full_audio_accuracy_verified": false,
+  "verified_complete": false,
+  "current_saved": 1291,
+  "original_catalog_total": 1294,
+  "remaining_source_exceptions": 3,
+  "teacher_counts": {
+    "Arnold Murray": 898,
+    "Dennis Murray": 393
+  }
+}
