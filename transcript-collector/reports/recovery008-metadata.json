@@ -1,0 +1,103 @@
+{
+  "checkpoint": "Recovery008",
+  "attempted_alternate_Exodus": "Nw0wcl8CnFI",
+  "retrieval_result": "yt-dlp returned sign-in-to-confirm-not-bot; stopped YouTube retrieval",
+  "original_source_exceptions": 5,
+  "new_transcripts_imported": 0,
+  "existing_Arnold_Psalm_sources": [
+    {
+      "id": "tET2vEGV8Q4",
+      "teacher": "Arnold Murray",
+      "references": [
+        {
+          "book": "Psalms",
+          "title": "33. Psalms 70:1 - 71:24",
+          "start": [
+            70,
+            1
+          ],
+          "end": [
+            71,
+            24
+          ],
+          "mapping_basis": "Published passage range",
+          "official": false
+        }
+      ],
+      "saved_export_present": true,
+      "verification": "quality_review",
+      "audio_accuracy_verified": false
+    },
+    {
+      "id": "px8KmDgD4lY",
+      "teacher": "Arnold Murray",
+      "references": [
+        {
+          "book": "Psalms",
+          "title": "34. Psalms 72:1 - 73:17",
+          "start": [
+            72,
+            1
+          ],
+          "end": [
+            73,
+            17
+          ],
+          "mapping_basis": "Published passage range",
+          "official": false
+        }
+      ],
+      "saved_export_present": true,
+      "verification": "quality_review",
+      "audio_accuracy_verified": false
+    },
+    {
+      "id": "d8sqAs56NB8",
+      "teacher": "Arnold Murray",
+      "references": [
+        {
+          "book": "Psalms",
+          "title": "44. Psalms 89:6 - 90:3",
+          "start": [
+            89,
+            6
+          ],
+          "end": [
+            90,
+            3
+          ],
+          "mapping_basis": "Published passage range",
+          "official": false
+        }
+      ],
+      "saved_export_present": true,
+      "verification": "quality_review",
+      "audio_accuracy_verified": false
+    },
+    {
+      "id": "G5JGiYyL20U",
+      "teacher": "Arnold Murray",
+      "references": [
+        {
+          "book": "Psalms",
+          "title": "45. Psalms 90:4 - 91:16",
+          "start": [
+            90,
+            4
+          ],
+          "end": [
+            91,
+            16
+          ],
+          "mapping_basis": "Published passage range",
+          "official": false
+        }
+      ],
+      "saved_export_present": true,
+      "verification": "quality_review",
+      "audio_accuracy_verified": false
+    }
+  ],
+  "interpretation": "Catalog-mapped ranges in these saved Arnold recordings jointly cover the disputed Psalm71:1\u201372:2 and89:39\u201390:10 ranges. Caption samples identify Arnold and reference the corresponding Psalms. This is not a full verse-by-verse audio audit or resolution of the original Dennis IDs.",
+  "next_required_evidence": "Original English opening audio for the five original IDs. No repeat of blocked cloud downloads."
+}
