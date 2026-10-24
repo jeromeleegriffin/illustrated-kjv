@@ -1,0 +1,43 @@
+{
+  "batch": "faq-pass010",
+  "before": {
+    "questions": 154,
+    "occurrences": 247
+  },
+  "after": {
+    "questions": 190,
+    "occurrences": 291
+  },
+  "added_occurrences": 44,
+  "new_questions": 36,
+  "recordings": [
+    {
+      "video_id": "-SpmN7ZxK7k",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "c9f2f481f16d55e1ae0c4e0e2c063a151ffc2dc31185998891ac5fc5910cca0a",
+      "reviewed_range": [
+        2106.14,
+        3402.73
+      ],
+      "unresolved": [
+        "2284.68\u20132312.01: listener wording partially missing",
+        "3401.90\u20133402.73: final answer trails off",
+        "Some language explanations and recalled verse spans require audio checks"
+      ]
+    },
+    {
+      "video_id": "-VKgJK58LEw",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "d3bbe050b3c245e33e2fa5e9495b133177500c1f6621f47093d89bbde6fd30f7",
+      "reviewed_range": [
+        2129.73,
+        3380.18
+      ],
+      "unresolved": [
+        "Divine names repeatedly misrendered by captions; no invented spelling correction",
+        "No fully reviewed status assigned before full-review persistence support"
+      ]
+    }
+  ],
+  "fully_reviewed_recordings": 0
+}
