@@ -1,0 +1,221 @@
+{
+  "schema": "griffin-faq-v1",
+  "authority_policy": "Arnold Murray primary; Dennis Murray only as clearly attributed fallback. Preserve answer variants and flag conflicts for review.",
+  "questions": [
+    {
+      "id": "recognize-family",
+      "question": "Will we recognize our loved ones in heaven?",
+      "topic": "Life after death",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "recognize-family-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold teaches that family members remain recognizable in spiritual bodies. He points to Ezekiel 44 in his explanation of the millennium.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [
+            "Ezekiel 44"
+          ],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "9h_0pkDg8Jg",
+              "teacher": "Arnold Murray",
+              "lesson": "6591 Deuteronomy 6:16 - 7:20",
+              "start_seconds": 3300,
+              "end_seconds": 3355,
+              "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+              "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+              "passage_sha256": "f10dea9287466b5731ff2fde6a835d17676bbe8021286fb278b04809bf47031e",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spirit-after-death",
+      "question": "Where does a person’s spirit go after death?",
+      "topic": "Life after death",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "spirit-after-death-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold teaches that the spirit returns to the Father when the flesh body dies. In this answer he uses Luke 16 to describe paradise and the separation between its sides.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [
+            "Luke 16"
+          ],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 3149,
+              "end_seconds": 3250,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "passage_sha256": "6d03f22c9d17ec51b3877bcbdde63f7a85830713cd7ad23c3faf2f5e759c7257",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "church-tribulation",
+      "question": "Does the church escape the tribulation through a rapture?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "church-tribulation-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold rejects a rapture escape and teaches that believers remain during the false Christ’s tribulation. He refers to Mark 13 and the Holy Spirit speaking through those delivered up.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [
+            "Mark 13"
+          ],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "3UcmGNkjSXg",
+              "teacher": "Arnold Murray",
+              "lesson": "6587  Deuteronomy 3:5 - 4:2",
+              "start_seconds": 3306,
+              "end_seconds": 3380,
+              "transcript_sha256": "97e9e31dd5e908c686f42e300f22c289ae4855ca19b4aa0b7e7bd6831490c3b2",
+              "source_sha256": "3f1f911e956b9a5e024cec98c4a00b9e70f19e410d7c736145b844ab6de63ca7",
+              "passage_sha256": "8b9bc456e92102a72a2fe40ae07a06ea52c01932c679b738883b7b92e329fe77",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "five-months",
+      "question": "Why does Pastor Murray teach five months rather than forty-two months?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "five-months-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold teaches that the period was shortened. He identifies the five months in Revelation 9:5 and 9:10 with Satan’s tribulation and connects this with the shortening described in Mark 13.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [
+            "Revelation 9:5",
+            "Revelation 9:10",
+            "Mark 13"
+          ],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2235,
+              "end_seconds": 2285,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "passage_sha256": "b37fa6a428d0adfcf2f8c8004daceadc4a66bbb74d3a74a7ab60c23e92f03ae3",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "satan-born",
+      "question": "Must Satan be born of a woman before appearing as the antichrist?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "satan-born-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold answers no. He teaches that Satan is cast down fully formed, referring to Michael and his angels casting him out in Revelation 12.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [
+            "Revelation 12"
+          ],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2954,
+              "end_seconds": 3020,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "passage_sha256": "4c78bfe569df29cb0d0139a80b177142f4fd23961dd83293a5be8a7f281943fc",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "where-tithe",
+      "question": "Where should someone send their tithe?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "where-tithe-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold teaches that a person should tithe where they receive instruction in God’s Word. In this answer about past years without tithing, he tells the questioner not to become consumed with that past if they were not being spiritually fed.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "DIwjvUai43M",
+              "teacher": "Arnold Murray",
+              "lesson": "6594 Deuteronomy 10:14 - 11:20",
+              "start_seconds": 2810,
+              "end_seconds": 2850,
+              "transcript_sha256": "b787d2fb853013d17c6ede4a68d88d0f7b7e866cef664e20ab3a7370677a33ee",
+              "source_sha256": "062ccdb34cca75d667cc4380122cdda4e3d3259172512b827e9cf04b8238947e",
+              "passage_sha256": "e835237074f1c246d6a1178f7c045fc09212797f07e7a8ae0aff28c9dadd12e0",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prescribed-medication",
+      "question": "Did Pastor Murray’s warnings about drugs include prescribed medication?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings",
+      "answers": [
+        {
+          "id": "prescribed-medication-arnold-01",
+          "teacher": "Arnold Murray",
+          "summary": "Arnold distinguishes prescribed medication from drug use for intoxication. He says medication is acceptable and tells listeners not to stop prescribed medicine without speaking to their physician.",
+          "kind": "editorial_paraphrase",
+          "scripture_mentions": [],
+          "relationship": "initial_answer",
+          "sources": [
+            {
+              "video_id": "qqzXl4z-m1M",
+              "teacher": "Arnold Murray",
+              "lesson": "Genesis 27:30 - 28:19",
+              "start_seconds": 2502,
+              "end_seconds": 2585,
+              "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+              "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+              "passage_sha256": "6596971001eaa5fa7c1701555dab894abe09d40687d3ef1fc01d3f5bc6e224ee",
+              "review_status": "caption_passage_checked_audio_pending"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
