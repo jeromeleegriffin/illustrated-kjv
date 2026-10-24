@@ -15,3 +15,7 @@ Occurrences bind teacher, video, exact caption anchors and transcript hash. Chan
 Run tests under `transcript-collector/faq/tests`. Verify duplicate counting, distinct variants, resume, hash invalidation and completion evidence. Rebuild frequency ranking and source ledger from approved occurrences.
 
 Publish only the six FAQ assets using the separate FAQ release pin on the existing Bible Worker. Read the current Worker and settings before changing that pin; preserve the Bible release and unrelated routes. Never merge main, deploy GitHub Pages or commit full transcript copies.
+
+## External extraction assignments
+
+Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A contains 300 unreviewed Arnold Murray recordings prepared for Grok. They are reserved candidates, not reviewed/complete. Avoid duplicating this set while the external assignment is active. User submission and bot scheduling are not confirmed. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
