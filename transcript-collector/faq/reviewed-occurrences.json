@@ -438,6 +438,12 @@
       "question": "Did Arnold teach that believers inherit generational curses?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "cain-wife",
+      "question": "Where did Arnold say Cain found his wife?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -1246,7 +1252,7 @@
     {
       "question_id": "where-tithe",
       "video_id": "Mvai-Sc-c7o",
-      "start": 2526,
+      "start": 2526.0,
       "end": 2648.309,
       "teacher": "Arnold Murray",
       "variant": "where-tithe-arnold-reviewed",
@@ -1276,8 +1282,8 @@
     {
       "question_id": "where-tithe",
       "video_id": "qqzXl4z-m1M",
-      "start": 2124,
-      "end": 2235,
+      "start": 2124.0,
+      "end": 2235.0,
       "teacher": "Arnold Murray",
       "variant": "where-tithe-arnold-reviewed",
       "summary": "He teaches that tithes go where a person is taught God’s Word, to support that teaching. He distinguishes this from love offerings given for other needs.",
@@ -1716,8 +1722,8 @@
     {
       "question_id": "hell-preaching",
       "video_id": "qqzXl4z-m1M",
-      "start": 2855,
-      "end": 2954,
+      "start": 2855.0,
+      "end": 2954.0,
       "teacher": "Arnold Murray",
       "variant": "hell-preaching-arnold-reviewed",
       "summary": "He teaches that Christ preached to those who died before the crucifixion so they could hear the gospel and have an opportunity to accept salvation. He refers to 1 Peter 3 and 4.",
@@ -1734,8 +1740,8 @@
     {
       "question_id": "unequally-yoked",
       "video_id": "qqzXl4z-m1M",
-      "start": 3238,
-      "end": 3340,
+      "start": 3238.0,
+      "end": 3340.0,
       "teacher": "Arnold Murray",
       "variant": "unequally-yoked-arnold-reviewed",
       "summary": "In this answer Arnold explains it as an agreement or partnership that prevents a person from studying God’s Word or exercising faith. He contrasts that burden with taking Christ’s yoke.",
@@ -2688,6 +2694,66 @@
       "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
       "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
       "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "cain-wife",
+      "video_id": "9h_0pkDg8Jg",
+      "start": 2095.126,
+      "end": 2194.725,
+      "teacher": "Arnold Murray",
+      "variant": "cain-wife-arnold-reviewed",
+      "summary": "Arnold says Cain married a woman from the peoples he interprets Genesis 1 as describing before Adam and Eve. This is his interpretation of the creation account.",
+      "scripture_mentions": [],
+      "transcript_sha256": "9abbb0bbacf4735475ef31e20e6c4977c2cb8b13b198bc6f52919bf5481c71b8",
+      "source_sha256": "c46a1b9dc2bbdbcc39778279983a2378e4d7b2b7054a9145303f0cef88e3fa5c",
+      "recording_group": "9h_0pkDg8Jg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "church-tribulation",
+      "video_id": "9L3c_-6dJk0",
+      "start": 2257.555,
+      "end": 2390.154,
+      "teacher": "Arnold Murray",
+      "variant": "church-tribulation-arnold-reviewed",
+      "summary": "Arnold rejects a rapture escape and says Christians will be present when the antichrist comes. He refers to Mark 13 for their testimony and describes Christ returning to earth.",
+      "scripture_mentions": [],
+      "transcript_sha256": "de04fac089d2e3dbe1043dc9a391f10a4392fe7903dd231de9aea711af05d768",
+      "source_sha256": "6190ae8f7a5f3d730a2dbf3d620778abfcaa898f8f159efc80a6be77526a7860",
+      "recording_group": "9L3c_-6dJk0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "holy-trinity",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2356,
+      "end": 2449,
+      "teacher": "Arnold Murray",
+      "variant": "holy-trinity-arnold-reviewed",
+      "summary": "Arnold describes Jesus as God with us and the Holy Spirit as God’s own Spirit. He refers to John 14 in explaining the relationship of Father and Son. The saved caption blocks include adjacent questions, so the linked range is approximate.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-24"
+    },
+    {
+      "question_id": "recognize-family",
+      "video_id": "qqzXl4z-m1M",
+      "start": 2580,
+      "end": 2669,
+      "teacher": "Arnold Murray",
+      "variant": "recognize-family-arnold-reviewed",
+      "summary": "Arnold says loved ones will recognize each other in spiritual bodies and describes those bodies as young adults without aging. He refers to Ezekiel 44. The saved caption blocks include adjacent questions, so the linked range is approximate.",
+      "scripture_mentions": [],
+      "transcript_sha256": "c2efeabc4f37aade931fa6a6a73533d55602afa45a939fad6f0dbc3d988cbe04",
+      "source_sha256": "998a80f751f97cc39235aeb921fed3a0913a2cf0b641726678ba9bd9a45fae19",
+      "recording_group": "qqzXl4z-m1M",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-24"
     }
