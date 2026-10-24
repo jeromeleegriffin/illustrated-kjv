@@ -20,3 +20,6 @@ Owner requested up to400 additional links and a smaller,better-organized library
 Replaced cards with compact direct title links,50/page,A-Z letter filter,alphabetical numeric sorting ignoring A/An/The. Search always visible;More filters collapses pastor,title-derived subject and batch. Page navigation scrolls back to results. No source,transcript status or teacher-confirmation block per row. Provenance/recovery/download information retained in topical-collection.html andJSON. Single unobtrusive footer notes speaker checks. Revision005 asset URLs prevent stale mixedJS. Data remains separate from1294 passage catalog. Node behavior tests cover50-row rendering,sort/letter/search/teacher/batch,previous/next/reset/empty states. Physical device QA pending;live browser results recorded separately.
 
 Final title audit removed3 colon-free chapter lessons (Ezekiel and2Peter);311 new/1031total. Partial/missing-portion title warnings remain preserved.
+
+
+Revision 006: 187 additional candidate links from three additional community playlists, 2,316 visible rows inspected; 1,218 cumulative links. Exact IDs and stronger normalized titles (dates and speaker suffixes removed) checked against existing entries. 20 historical teacher attributions; 1,198 pending speaker/content confirmation. No new transcripts or playback verification. Search remains nonexhaustive.
