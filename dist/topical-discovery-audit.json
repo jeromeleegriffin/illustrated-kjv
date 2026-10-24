@@ -1,0 +1,49 @@
+{
+  "discovered": 144,
+  "selected_new": 100,
+  "existing_retained": 20,
+  "selection_stopped_at_100": true,
+  "skipped_before_stop": [
+    {
+      "id": "BeaY9OmmHaA",
+      "title": "Vision DVD # 41198",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "R3ZQKhELcN8",
+      "title": "The Cup",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "w6DdZSDKWuU",
+      "title": "Parable of the Sower and Tares",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "P25SmPza7xU",
+      "title": "Nations",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "7pDvMzO0Md8",
+      "title": "The Change",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "3fyV9edXsoc",
+      "title": "Jerusalem Compassed",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "MRM0AQVeHi0",
+      "title": "Wake Up",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    },
+    {
+      "id": "GdW6uVqstM8",
+      "title": "Basket of Figs",
+      "reason": "existing ID, repeated title, chapter lesson or introductory/short clip"
+    }
+  ],
+  "verification": "DOM-visible titles, exact IDs and uploaders observed; no full playback, voice verification or transcript import for batch002."
+}
