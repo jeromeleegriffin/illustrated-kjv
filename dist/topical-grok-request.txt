@@ -1,0 +1,22 @@
+TOPICAL BATCH 001 — 20 recordings. Read topical-transcript-queue.json for exact IDs, published titles, catalog teacher attribution and source evidence. Retrieve original English captions sequentially using the actual working method, authored first then automatic. Respect platform limits; stop on CAPTCHA, explicit access block or rate limit. Preserve originals and checkpoint each result. Reopen and parse timestamps; hash each file; detect duplicate whole teaching text. Teacher attribution is provisional: confirm the speaker from the actual introduction or audio where available; generic network branding is insufficient. Do not replace teacher metadata without evidence. Return Shepherd_Topical_Captions_020_001.zip with original captions, manifest, actual executed code, sanitized errors/logs, remaining queue and functional index.html at root. Do not invent captions or results. No paid service; no audio access bypass. This request is separate from the 1294 passage catalog.
+
+https://www.youtube.com/watch?v=lh6trrCOqDM
+https://www.youtube.com/watch?v=4HJ2FyslU9A
+https://www.youtube.com/watch?v=JAEwMWPRV4E
+https://www.youtube.com/watch?v=hypyISnuaMk
+https://www.youtube.com/watch?v=CU0n8t6lrRs
+https://www.youtube.com/watch?v=eI1l-3edNKc
+https://www.youtube.com/watch?v=FbPlY7w9mLc
+https://www.youtube.com/watch?v=g_V8qH40mOE
+https://www.youtube.com/watch?v=ABLvyAxpLRA
+https://www.youtube.com/watch?v=DfTSWauE6ZU
+https://www.youtube.com/watch?v=SCvQe1ia9EY
+https://www.youtube.com/watch?v=DbIgJd3Sv_E
+https://www.youtube.com/watch?v=1KwJSBncFyc
+https://www.youtube.com/watch?v=g1mH9TVtggU
+https://www.youtube.com/watch?v=BeaY9OmmHaA
+https://www.youtube.com/watch?v=EdlnRH88rDo
+https://www.youtube.com/watch?v=FWMu7Qn_KAQ
+https://www.youtube.com/watch?v=XQixt0sISHs
+https://www.youtube.com/watch?v=6YOLnKBD6LY
+https://www.youtube.com/watch?v=Cm_5n7ngwQs
