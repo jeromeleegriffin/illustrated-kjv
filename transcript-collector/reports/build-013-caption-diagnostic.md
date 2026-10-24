@@ -30,3 +30,5 @@ The latest private collection has 68 unique imported transcripts, all quality re
 ## Follow-up after environment recovery
 
 HcWbNez6GUY (Genesis 41:1–41:49, Arnold Murray) also succeeded: 1,087 cues, 2.202 to 3505.335 seconds. SHA-256 6288551409923ef06b1437c9bff0d229fb03ce720ed50c92d839bf58f245556f. All 7,991 normalized alphanumeric text tokens match the user-supplied SRT export. This is cross-export agreement, not independent audio review. The interrupted follow-up had no saved result; only this resumed run is counted.
+
+NV99i2jcIJU (Ezra 1:1–2:2, Dennis Murray) succeeded: 1,014 cues, 0.6 to 3506.402 seconds. SHA-256 b15856c2eb42eb9037efe1e5bdfef12aa550272233864f9a578ddc13bbe4ab32. Normalized caption text matches the user SRT: True. Three confirmed live retrievals now cover both pastors. No additional unique library recordings were added.
