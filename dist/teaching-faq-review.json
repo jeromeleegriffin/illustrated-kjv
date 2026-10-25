@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T08:05:44.159159+00:00",
+  "updated": "2026-10-25T08:58:46.915927+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -12749,12 +12749,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 38,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "baptism-salvation-dennis",
+        "gender-potter-dennis",
+        "rightly-dividing-dennis",
+        "forgiveness490-dennis",
+        "dennis-jesus-birth-date",
+        "kenite-lineage-dennis",
+        "refuse-spirit-dennis",
+        "child-teach-bible-dennis",
+        "all-israel-saved-dennis",
+        "sodom-same-time-dennis",
+        "ethnicity-eternity-dennis",
+        "prayer-three-offices-dennis",
+        "cross-stake-dennis",
+        "hebrews6-repent-dennis",
+        "race-creation-dennis",
+        "eighth-day-tabernacles-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "baptism-salvation-dennis",
+          "start_seconds": 2136.57,
+          "end_seconds": 2250.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gender-potter-dennis",
+          "start_seconds": 2250.68,
+          "end_seconds": 2301.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rightly-dividing-dennis",
+          "start_seconds": 2301.89,
+          "end_seconds": 2424.58,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness490-dennis",
+          "start_seconds": 2424.58,
+          "end_seconds": 2469.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-jesus-birth-date",
+          "start_seconds": 2469.79,
+          "end_seconds": 2555.35,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-lineage-dennis",
+          "start_seconds": 2555.35,
+          "end_seconds": 2607.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "refuse-spirit-dennis",
+          "start_seconds": 2607.83,
+          "end_seconds": 2704.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-teach-bible-dennis",
+          "start_seconds": 2704.47,
+          "end_seconds": 2826.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "all-israel-saved-dennis",
+          "start_seconds": 2826.43,
+          "end_seconds": 2886.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sodom-same-time-dennis",
+          "start_seconds": 2886.1,
+          "end_seconds": 2939.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ethnicity-eternity-dennis",
+          "start_seconds": 2939.07,
+          "end_seconds": 2998.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prayer-three-offices-dennis",
+          "start_seconds": 2998.57,
+          "end_seconds": 3073.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cross-stake-dennis",
+          "start_seconds": 3073.28,
+          "end_seconds": 3101.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrews6-repent-dennis",
+          "start_seconds": 3101.86,
+          "end_seconds": 3222.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "race-creation-dennis",
+          "start_seconds": 3222.86,
+          "end_seconds": 3335.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eighth-day-tabernacles-dennis",
+          "start_seconds": 3335.19,
+          "end_seconds": 3378.73,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5ON5KcO3TkY",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+        "qa_start": 2132.36,
+        "qa_end": 3378.73,
+        "cursor_seconds": 3378.73,
+        "reviewed_ranges": [
+          {
+            "start": 2132.36,
+            "end": 3378.73
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3378.73
     },
     {
       "video_id": "5P-lIqTeuwc",
@@ -13122,12 +13257,158 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 27,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "ignorance-knowledge-arnold",
+        "three-heavens-ages",
+        "children-spiritual-return",
+        "old-testament-needed",
+        "trial-beyond-strength",
+        "jesus-more-than-prophet",
+        "first-age-spirit-mass",
+        "witnesses-study-passages",
+        "cloven-tongue",
+        "church-letter-book-life",
+        "family-delivery-false-christ",
+        "eden-expulsion-child",
+        "banking-mark-barter",
+        "cremation",
+        "angel-human-reproduction"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "ignorance-knowledge-arnold",
+          "start_seconds": 2094.2,
+          "end_seconds": 2182.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-heavens-ages",
+          "start_seconds": 2182.32,
+          "end_seconds": 2269.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "children-spiritual-return",
+          "start_seconds": 2269.24,
+          "end_seconds": 2369.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "old-testament-needed",
+          "start_seconds": 2369.36,
+          "end_seconds": 2487.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "trial-beyond-strength",
+          "start_seconds": 2487.4,
+          "end_seconds": 2553.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-more-than-prophet",
+          "start_seconds": 2553.36,
+          "end_seconds": 2627.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-heavens-ages",
+          "start_seconds": 2627.4,
+          "end_seconds": 2640.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-age-spirit-mass",
+          "start_seconds": 2640.88,
+          "end_seconds": 2704.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-study-passages",
+          "start_seconds": 2704.16,
+          "end_seconds": 2766.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cloven-tongue",
+          "start_seconds": 2766.4,
+          "end_seconds": 2852.84,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-letter-book-life",
+          "start_seconds": 2852.84,
+          "end_seconds": 2921.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-delivery-false-christ",
+          "start_seconds": 2921.4,
+          "end_seconds": 2991.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-heavens-ages",
+          "start_seconds": 2991.36,
+          "end_seconds": 3070.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eden-expulsion-child",
+          "start_seconds": 3139.0,
+          "end_seconds": 3208.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "banking-mark-barter",
+          "start_seconds": 3208.52,
+          "end_seconds": 3278.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 3278.04,
+          "end_seconds": 3345.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angel-human-reproduction",
+          "start_seconds": 3345.6,
+          "end_seconds": 3370.92,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5WHP2NEIwNU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+        "qa_start": 2094.2,
+        "qa_end": 3370.92,
+        "cursor_seconds": 3070.36,
+        "reviewed_ranges": [
+          {
+            "start": 2094.2,
+            "end": 3370.92
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3070.36,
+            "end": 3139.0,
+            "reason": "Solar-calendar answer includes unclear numeric wording in captions; preserve original cues and require audio checking before approving its complete calculation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3070.36
     },
     {
       "video_id": "5WfwkUlCgAY",
@@ -35442,13 +35723,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 132,
-    "fully_reviewed": 12,
+    "partially_reviewed": 133,
+    "fully_reviewed": 13,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1151,
+    "pending": 1149,
     "source_changed": 0,
-    "question_occurrences": 1420
+    "question_occurrences": 1451
   }
 }

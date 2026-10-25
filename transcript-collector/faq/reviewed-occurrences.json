@@ -5724,6 +5724,144 @@
       "question": "How did Dennis explain better to marry than to burn?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "baptism-salvation-dennis",
+      "question": "How did Dennis relate water baptism to salvation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "gender-potter-dennis",
+      "question": "How did Dennis apply the potter-and-clay passage to gender transition?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "rightly-dividing-dennis",
+      "question": "What did Dennis mean by rightly dividing Scripture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "forgiveness490-dennis",
+      "question": "Did Dennis say Scripture promises forgiveness 490 times per day?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "kenite-lineage-dennis",
+      "question": "Did Dennis describe the ancestry he called Kenite as spiritual or physical?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "refuse-spirit-dennis",
+      "question": "How did Dennis describe refusing the Holy Spirit’s testimony?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "child-teach-bible-dennis",
+      "question": "Did Dennis encourage a nine-year-old to teach or share Scripture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "all-israel-saved-dennis",
+      "question": "How did Dennis interpret all Israel shall be saved?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sodom-same-time-dennis",
+      "question": "Did Dennis say Sodom and Gomorrah were destroyed together?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ethnicity-eternity-dennis",
+      "question": "Did Dennis expect racial separation in eternity?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "prayer-three-offices-dennis",
+      "question": "Did Dennis object to addressing Father, Son and Holy Spirit individually?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "cross-stake-dennis",
+      "question": "Did Dennis think Jesus was crucified on a cross or a stake?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "hebrews6-repent-dennis",
+      "question": "How did Dennis reassure a backsliding believer about Hebrews 6?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "race-creation-dennis",
+      "question": "How did Dennis answer about the ancestry of white and Black people?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "eighth-day-tabernacles-dennis",
+      "question": "How did Dennis explain the eighth day after Tabernacles?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ignorance-knowledge-arnold",
+      "question": "How did Arnold reconcile ignorance with destruction for lack of knowledge?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "children-spiritual-return",
+      "question": "How did Arnold reassure a teenager worried about small children at Christ’s return?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "old-testament-needed",
+      "question": "Why did Arnold urge Christians to study the Old Testament?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jesus-more-than-prophet",
+      "question": "Which passages did Arnold recommend to someone who regarded Jesus only as a dead prophet?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "witnesses-study-passages",
+      "question": "Where did Arnold recommend studying the two witnesses?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "church-letter-book-life",
+      "question": "What did Arnold mean by a church letter?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "family-delivery-false-christ",
+      "question": "Did Arnold advise warning relatives who mistake antichrist for Jesus?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "eden-expulsion-child",
+      "question": "How did Arnold explain expulsion from Eden to a child?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -27962,6 +28100,558 @@
       "recording_group": "5FJ-a7O6PL8",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "baptism-salvation-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2136.57,
+      "end": 2250.68,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-baptism-salvation-dennis",
+      "summary": "Dennis supported baptism as a public sign of belief and a symbol of Christ’s death, burial and resurrection, while saying he did not regard it as an absolute condition of salvation. He used the criminal crucified beside Jesus as an example. His captioned John chapter-and-verse wording is not silently repaired.",
+      "scripture_mentions": [
+        "John 3"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "gender-potter-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2250.68,
+      "end": 2301.89,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-gender-potter-dennis",
+      "summary": "Dennis expressed religious opposition to gender transition and applied Isaiah’s potter-and-clay imagery to it. This records his stated view, not a medical assessment or a determination of any individual’s standing before God.",
+      "scripture_mentions": [
+        "Isaiah 29:16"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "rightly-dividing-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2301.89,
+      "end": 2424.58,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-rightly-dividing-dennis",
+      "summary": "Dennis emphasized identifying who is speaking, who is addressed, the subject and object, and the period of time. He distinguished law and grace in his reading and recommended a reference work on the subject.",
+      "scripture_mentions": [
+        "2 Timothy 2:15"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "forgiveness490-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2424.58,
+      "end": 2469.79,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-forgiveness490-dennis",
+      "summary": "Dennis said the passage does not specifically say per day. He connected Peter’s question about forgiving a brother with seven times seventy and extended the illustration to God forgiving sincere repentance.",
+      "scripture_mentions": [
+        "Matthew 18:21–22"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "dennis-jesus-birth-date",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2469.79,
+      "end": 2555.35,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-dennis-jesus-birth-date",
+      "summary": "Dennis gave September 29 as Jesus’ birth and December 25 as conception. He referred to Zechariah’s priestly course and John’s relative age and recommended his Christmas study. These dates are his claims, not independently verified dates.",
+      "scripture_mentions": [],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "kenite-lineage-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2555.35,
+      "end": 2607.83,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-kenite-lineage-dennis",
+      "summary": "Dennis described it as physical and appealed to his reading of Strong’s Hebrew entries and the serpent-seed interpretation. This preserves his teaching without treating it as verified genetics or assigning that ancestry to modern people.",
+      "scripture_mentions": [
+        "Strong’s Hebrew 7014",
+        "Strong’s Hebrew 7017"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "refuse-spirit-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2607.83,
+      "end": 2704.47,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-refuse-spirit-dennis",
+      "summary": "Dennis applied blasphemy of the Holy Spirit to an elect person refusing the Spirit’s speech when delivered before false authority. He stressed unpremeditated testimony understood by all hearers. A captioned Revelation reference is malformed and is not presented as valid.",
+      "scripture_mentions": [
+        "Luke 12:10–13"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "child-teach-bible-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2704.47,
+      "end": 2826.43,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-child-teach-bible-dennis",
+      "summary": "Dennis encouraged beginning to share faith with friends while first learning the word. He recommended following in a personal Bible to learn where its books are located rather than relying only on screen text.",
+      "scripture_mentions": [],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "all-israel-saved-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2826.43,
+      "end": 2886.1,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-all-israel-saved-dennis",
+      "summary": "Dennis interpreted Israel as all twelve tribes descended from Jacob rather than everybody living in the modern geographic state. He did not explain every individual’s eventual response in this brief answer.",
+      "scripture_mentions": [
+        "Romans 11:26"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "sodom-same-time-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2886.1,
+      "end": 2939.07,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-sodom-same-time-dennis",
+      "summary": "Dennis said both were destroyed at the same time and distinguished dictionary dates from the event’s date. His approximate historical dating was not independently checked.",
+      "scripture_mentions": [],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ethnicity-eternity-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2939.07,
+      "end": 2998.57,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-ethnicity-eternity-dennis",
+      "summary": "Dennis said he did not believe people would be kept separate by race and emphasized belonging to Abraham’s seed in Christ regardless of ethnicity. His captioned Revelation chapter-and-verse number is invalid and is not silently corrected.",
+      "scripture_mentions": [
+        "Galatians 3:29"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "prayer-three-offices-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 2998.57,
+      "end": 3073.28,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-prayer-three-offices-dennis",
+      "summary": "Dennis said the listener’s prayer practice was acceptable if understood within his teaching that Father, Son and Holy Spirit are roles or offices of one heavenly Father rather than three separate entities.",
+      "scripture_mentions": [
+        "John 14"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "cross-stake-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 3073.28,
+      "end": 3101.86,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-cross-stake-dennis",
+      "summary": "Dennis said he believed it was a Roman cross because the Romans were in authority, while saying the distinction was not central to his answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "hebrews6-repent-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 3101.86,
+      "end": 3222.86,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-hebrews6-repent-dennis",
+      "summary": "Dennis interpreted Hebrews 6 as a reason to repent rather than try to repeat initial salvation or recrucify Christ. He emphasized asking forgiveness and receiving a fresh start. This is his reading of the passage.",
+      "scripture_mentions": [
+        "Hebrews 6:4–8"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "race-creation-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 3222.86,
+      "end": 3335.19,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-race-creation-dennis",
+      "summary": "Dennis distinguished the Adamic line in Genesis 2 from peoples he associated with Genesis 1 and rejected deriving Black people from a curse on Ham or Canaan. His racial-origin and biological assertions are unverified doctrinal claims, not established genetics.",
+      "scripture_mentions": [
+        "Genesis 1:26",
+        "Genesis 2",
+        "Genesis 9"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "eighth-day-tabernacles-dennis",
+      "video_id": "5ON5KcO3TkY",
+      "start": 3335.19,
+      "end": 3378.73,
+      "teacher": "Dennis Murray",
+      "variant": "5ON5KcO3TkY-eighth-day-tabernacles-dennis",
+      "summary": "Dennis distinguished that festival day from his Genesis eighth-day discussion. He described it as the Sabbath following the seven-day feast and closing the annual festival cycle in Tishri.",
+      "scripture_mentions": [
+        "Leviticus 23:39"
+      ],
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "source_sha256": "f9c019339c817e7a46a6f89e94c4ac94b1bbaab4f1ad30078f02218e7405dfef",
+      "recording_group": "5ON5KcO3TkY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ignorance-knowledge-arnold",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2094.2,
+      "end": 2182.32,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-ignorance-knowledge-arnold",
+      "summary": "Arnold distinguished a forgivable sin done in ignorance from automatic forgiveness. He urged gaining knowledge, recognizing wrongdoing and repenting, and recommended Proverbs on reverence for God and wisdom.",
+      "scripture_mentions": [
+        "Proverbs 1:7",
+        "Proverbs 8"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "three-heavens-ages",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2182.32,
+      "end": 2269.24,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-three-heavens-ages",
+      "summary": "Arnold interpreted Paul’s third heaven as a third heaven age rather than a separate physical heaven. He described heaven as wherever God is and linked Paul’s return with his interpretation of the thorn and impaired eyesight.",
+      "scripture_mentions": [
+        "2 Corinthians 12"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "children-spiritual-return",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2269.24,
+      "end": 2369.36,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-children-spiritual-return",
+      "summary": "Arnold described children as innocent and spiritual bodies as unaffected by aging, sickness or decay. He reassured the listener about her younger brothers rather than giving a precise schedule of births.",
+      "scripture_mentions": [],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "old-testament-needed",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2369.36,
+      "end": 2487.4,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-old-testament-needed",
+      "summary": "Arnold emphasized its prophecies and teaching about the millennium, pointing particularly to Ezekiel. He advised planting a seed and moving on rather than endlessly arguing with people who reject it.",
+      "scripture_mentions": [
+        "Ezekiel 40–48",
+        "Revelation 20"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "trial-beyond-strength",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2487.4,
+      "end": 2553.36,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-trial-beyond-strength",
+      "summary": "Arnold cited 1 Corinthians 10:13 and emphasized both the limit on testing and God’s provision of a way out. He encouraged trust in God’s presence.",
+      "scripture_mentions": [
+        "1 Corinthians 10:13"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "jesus-more-than-prophet",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2553.36,
+      "end": 2627.4,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-jesus-more-than-prophet",
+      "summary": "Arnold recommended John 14 and Isaiah’s Emmanuel prophecy to explain his understanding of Christ as God with us. He also connected Psalm 22 with the crucifixion and Psalm 23 with resurrection life; these are his applications.",
+      "scripture_mentions": [
+        "John 14",
+        "Isaiah 7:14",
+        "Psalms 22",
+        "Psalms 23"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "three-heavens-ages",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2627.4,
+      "end": 2640.88,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-three-heavens-ages",
+      "summary": "For another listener asking how many heavens God created, Arnold again answered one heaven with different ages, referring back to his earlier explanation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "first-age-spirit-mass",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2640.88,
+      "end": 2704.16,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-first-age-spirit-mass",
+      "summary": "Arnold contrasted flesh bodies in this age with spiritual bodies in his proposed first age and said they retained the same souls. He cited manna sustaining flesh as part of his explanation of spiritual substance. These are his doctrinal claims.",
+      "scripture_mentions": [],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "witnesses-study-passages",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2704.16,
+      "end": 2766.4,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-witnesses-study-passages",
+      "summary": "Arnold referred to Revelation 11 and Zechariah 4’s sons of oil. He connected the witnesses with Moses and Elijah at the transfiguration within his interpretation.",
+      "scripture_mentions": [
+        "Revelation 11",
+        "Zechariah 4"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "cloven-tongue",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2766.4,
+      "end": 2852.84,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-cloven-tongue",
+      "summary": "Arnold directed the listener to Acts 2:6–7 and said each hearer would understand in a familiar language or dialect. He contrasted that with an unintelligible utterance.",
+      "scripture_mentions": [
+        "Acts 2:6–7"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "church-letter-book-life",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2852.84,
+      "end": 2921.4,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-church-letter-book-life",
+      "summary": "Arnold described a church letter as a denominational membership record transferred when a member moves. He distinguished that record from judgment and rewards recorded in heaven’s book of life.",
+      "scripture_mentions": [],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "family-delivery-false-christ",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2921.4,
+      "end": 2991.36,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-family-delivery-false-christ",
+      "summary": "Arnold expected believers to tell relatives that the claimant is false. He interpreted Mark 13’s family betrayal as relatives seeking help for a loved one because they wrongly think the impostor is Christ.",
+      "scripture_mentions": [
+        "Mark 13"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "three-heavens-ages",
+      "video_id": "5WHP2NEIwNU",
+      "start": 2991.36,
+      "end": 3070.36,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-three-heavens-ages",
+      "summary": "Returning to Paul’s vision, Arnold interpreted the third heaven as the future age and proposed a connection with Paul being nearly stoned to death. He identified the thorn with an eyesight problem; those details are his interpretation.",
+      "scripture_mentions": [
+        "2 Corinthians 12:2–3"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "eden-expulsion-child",
+      "video_id": "5WHP2NEIwNU",
+      "start": 3139.0,
+      "end": 3208.52,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-eden-expulsion-child",
+      "summary": "Arnold connected expulsion with temptation and sin and described life afterward as work and childbearing. He also emphasized God’s continuing love, the Savior and his expectation of a future return to paradise.",
+      "scripture_mentions": [
+        "Genesis"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "banking-mark-barter",
+      "video_id": "5WHP2NEIwNU",
+      "start": 3208.52,
+      "end": 3278.04,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-banking-mark-barter",
+      "summary": "Arnold reassured the listener worried about savings during his expected antichrist period. He allowed that money might change but emphasized God’s care and his expectation of a prosperous, peaceful deception. This is dated religious reassurance, not financial advice or a guarantee about deposits.",
+      "scripture_mentions": [],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "cremation",
+      "video_id": "5WHP2NEIwNU",
+      "start": 3278.04,
+      "end": 3345.6,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-cremation",
+      "summary": "Arnold said cremation was acceptable and distinguished the flesh returning to earth from the spiritual body returning to God. He cited Corinthians and Ecclesiastes in support.",
+      "scripture_mentions": [
+        "1 Corinthians 13:3",
+        "1 Corinthians 15:35",
+        "Ecclesiastes 12:6–7"
+      ],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "angel-human-reproduction",
+      "video_id": "5WHP2NEIwNU",
+      "start": 3345.6,
+      "end": 3370.92,
+      "teacher": "Arnold Murray",
+      "variant": "5WHP2NEIwNU-angel-human-reproduction",
+      "summary": "Arnold said the women in his fallen-angel interpretation were in flesh bodies. He explained Satan’s interest in Adam’s daughters as an attempt to obstruct Christ’s birth. This records his interpretation, not independently verified ancestry.",
+      "scripture_mentions": [],
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "source_sha256": "734f0d06771f044c396470e8fefdaf16f5a32a8e609c0c5ca358051cc7e8a902",
+      "recording_group": "5WHP2NEIwNU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -28552,6 +29242,52 @@
       "all_listener_questions_reviewed": true,
       "unresolved_ranges": [],
       "review_status": "fully_reviewed",
+      "review_basis": "complete_caption_section_read_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "5ON5KcO3TkY",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "3462cd673c1f361b964341fe1cb1b15fa5db1e3432985f3236dc1f3632c8a424",
+      "qa_start": 2132.36,
+      "qa_end": 3378.73,
+      "cursor_seconds": 3378.73,
+      "reviewed_ranges": [
+        {
+          "start": 2132.36,
+          "end": 3378.73
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [],
+      "review_status": "fully_reviewed",
+      "review_basis": "complete_caption_section_read_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "5WHP2NEIwNU",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "67353a0abb1234ba8152898db432b2f7d64a309c17db4e34bf6a8583cb00d3ac",
+      "qa_start": 2094.2,
+      "qa_end": 3370.92,
+      "cursor_seconds": 3070.36,
+      "reviewed_ranges": [
+        {
+          "start": 2094.2,
+          "end": 3370.92
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 3070.36,
+          "end": 3139.0,
+          "reason": "Solar-calendar answer includes unclear numeric wording in captions; preserve original cues and require audio checking before approving its complete calculation."
+        }
+      ],
+      "review_status": "partially_reviewed",
       "review_basis": "complete_caption_section_read_audio_pending",
       "reviewed_at": "2026-10-25"
     }
