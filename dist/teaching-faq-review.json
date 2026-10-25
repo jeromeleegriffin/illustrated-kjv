@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T03:07:14.871045+00:00",
+  "updated": "2026-10-25T03:58:35.069008+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -10702,12 +10702,132 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 8,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "witnesses-not-antichrist",
+        "number10-responsibility",
+        "isaiah64-righteous-rags",
+        "all-souls-earth-age",
+        "first-age-fidelity-later-choice",
+        "dennis-jesus-birth-date",
+        "loans-family-no-usury",
+        "judgment-house-god",
+        "god-eternal-origin",
+        "witnesses-bodies-open",
+        "fallen-angels-repentance-dennis",
+        "future-purpose-work-dennis",
+        "eve-mary-lineage-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "witnesses-not-antichrist",
+          "start_seconds": 2236.52,
+          "end_seconds": 2364.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "number10-responsibility",
+          "start_seconds": 2364.16,
+          "end_seconds": 2441.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah64-righteous-rags",
+          "start_seconds": 2441.92,
+          "end_seconds": 2480.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "all-souls-earth-age",
+          "start_seconds": 2480.28,
+          "end_seconds": 2585.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-age-fidelity-later-choice",
+          "start_seconds": 2585.88,
+          "end_seconds": 2616.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-jesus-birth-date",
+          "start_seconds": 2616.64,
+          "end_seconds": 2716.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "loans-family-no-usury",
+          "start_seconds": 2752.88,
+          "end_seconds": 2847.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "judgment-house-god",
+          "start_seconds": 2847.6,
+          "end_seconds": 2914.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-eternal-origin",
+          "start_seconds": 2914.36,
+          "end_seconds": 2980.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-bodies-open",
+          "start_seconds": 2980.64,
+          "end_seconds": 3072.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angels-repentance-dennis",
+          "start_seconds": 3072.76,
+          "end_seconds": 3148.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "future-purpose-work-dennis",
+          "start_seconds": 3148.24,
+          "end_seconds": 3279.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eve-mary-lineage-dennis",
+          "start_seconds": 3279.52,
+          "end_seconds": 3362.52,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4UBEUY29dc0",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "7a451c185a6d5e77736c316133463388f85ec04aa4dc12d48d319436f349d1f7",
+        "qa_start": 2234.24,
+        "qa_end": 3362.52,
+        "cursor_seconds": 2716.0,
+        "reviewed_ranges": [
+          {
+            "start": 2234.24,
+            "end": 3362.52
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2716,
+            "end": 2752.88,
+            "reason": "World-war question and answer numerals are inconsistent in captions; cannot infer the intended war number."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "caption_section_review_one_held_answer_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 2716.0
     },
     {
       "video_id": "4VHC6gTsC0g",
@@ -10720,12 +10840,160 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 28,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "created-peoples-numbers",
+        "ezekiel7-sold-property",
+        "chapel-sixth-seventh-tv",
+        "antichrist-world-nationality",
+        "chosen-people-all-love",
+        "god-ancient-communication",
+        "kenite-parentage-claim",
+        "dennis-belief-not-bad-seed",
+        "dennis-end-signs-chapters",
+        "king-james-not-apostle",
+        "tree-life-spiritual-death",
+        "dennis-katabole-earth-void",
+        "ethnos-temple-access",
+        "feast-equinox-method",
+        "tithe-reference-tools",
+        "endtime-death-perspective",
+        "white-horse-literal-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "created-peoples-numbers",
+          "start_seconds": 2176.81,
+          "end_seconds": 2219.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel7-sold-property",
+          "start_seconds": 2219.72,
+          "end_seconds": 2276.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-sixth-seventh-tv",
+          "start_seconds": 2276.21,
+          "end_seconds": 2320.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-world-nationality",
+          "start_seconds": 2395.83,
+          "end_seconds": 2449.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chosen-people-all-love",
+          "start_seconds": 2449.38,
+          "end_seconds": 2541.34,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-ancient-communication",
+          "start_seconds": 2541.34,
+          "end_seconds": 2629.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-parentage-claim",
+          "start_seconds": 2629.39,
+          "end_seconds": 2709.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-belief-not-bad-seed",
+          "start_seconds": 2651.35,
+          "end_seconds": 2683.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-end-signs-chapters",
+          "start_seconds": 2709.74,
+          "end_seconds": 2762.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "king-james-not-apostle",
+          "start_seconds": 2762.19,
+          "end_seconds": 2817.61,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tree-life-spiritual-death",
+          "start_seconds": 2817.61,
+          "end_seconds": 2902.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-katabole-earth-void",
+          "start_seconds": 2902.07,
+          "end_seconds": 2949.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ethnos-temple-access",
+          "start_seconds": 2949.65,
+          "end_seconds": 2999.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "feast-equinox-method",
+          "start_seconds": 2999.06,
+          "end_seconds": 3098.49,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tithe-reference-tools",
+          "start_seconds": 3098.49,
+          "end_seconds": 3206.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "endtime-death-perspective",
+          "start_seconds": 3206.24,
+          "end_seconds": 3278.81,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "white-horse-literal-dennis",
+          "start_seconds": 3278.81,
+          "end_seconds": 3363.56,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4VHC6gTsC0g",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "cc2afbace053d28320cb6421e32cf9fe4d05c6d3067c6e4a91b098d4b00e07ca",
+        "qa_start": 2171.84,
+        "qa_end": 3363.56,
+        "cursor_seconds": 2320.18,
+        "reviewed_ranges": [
+          {
+            "start": 2171.84,
+            "end": 3363.56
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2320.18,
+            "end": 2395.83,
+            "reason": "Alleged scripture changes: caption and attribution claims need further checking before approval."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "caption_section_review_one_held_answer_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 2320.18
     },
     {
       "video_id": "4XAGRXsr74Y",
@@ -33427,13 +33695,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 123,
+    "partially_reviewed": 125,
     "fully_reviewed": 7,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1165,
+    "pending": 1163,
     "source_changed": 0,
-    "question_occurrences": 1197
+    "question_occurrences": 1227
   }
 }
