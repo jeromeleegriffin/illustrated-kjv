@@ -1,0 +1,18 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const source=fs.readFileSync(__dirname+'/../../../dist/teaching-faq.js','utf8');
+const hold=source.slice(source.indexOf(' let stopPagingHold='),source.indexOf(' const controls='));
+let timers=new Map(),id=0,page=3,scrolls=0;const globalEvents={},docEvents={};
+const context={setTimeout:f=>{timers.set(++id,f);return id},clearTimeout:i=>timers.delete(i),window:{scrollTo:()=>scrolls++,addEventListener:(n,f)=>globalEvents[n]=f},document:{hidden:false,addEventListener:(n,f)=>docEvents[n]=f},render:()=>{}};
+vm.createContext(context);vm.runInContext('let page=3;'+hold+';this.bind=holdToPage;this.getPage=()=>page;',context);
+const button=()=>({disabled:false,events:{},addEventListener(n,f){this.events[n]=f},setPointerCapture(){},fire(n,e={}){this.events[n](e)}});
+const next=button(),prev=button();context.bind(next,1);context.bind(prev,-1);
+const down=b=>b.fire('pointerdown',{isPrimary:true,button:0,pointerId:1});const tick=()=>{const [n,f]=timers.entries().next().value;timers.delete(n);f()};
+down(next);next.fire('pointerup');next.fire('click');assert.equal(context.getPage(),4);assert.equal(timers.size,0);
+down(next);tick();tick();assert.equal(context.getPage(),6);next.fire('pointerup');next.fire('click');assert.equal(context.getPage(),6);assert.equal(timers.size,0);
+down(prev);tick();tick();assert.equal(context.getPage(),4);prev.fire('pointercancel');assert.equal(timers.size,0);
+down(next);globalEvents.blur();assert.equal(timers.size,0);
+down(next);context.document.hidden=true;docEvents.visibilitychange();assert.equal(timers.size,0);
+down(next);next.disabled=true;tick();assert.equal(timers.size,0);assert.equal(context.getPage(),4);
+next.disabled=false;down(next);next.fire('pointerleave');assert.equal(timers.size,0);
+next.fire('keydown');next.fire('click');assert.equal(context.getPage(),5);
+console.log('PASS: tap, forward/reverse hold, release without extra click, cancellation, blur, visibility, boundary, pointer exit, keyboard');

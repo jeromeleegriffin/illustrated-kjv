@@ -14,15 +14,34 @@
  pagers[0].setAttribute('aria-label','Question pages at top');pagers[1].setAttribute('aria-label','Question pages at bottom');
  pagers[0].classList.add('faq-pager-top');pagers[1].classList.add('faq-pager-bottom');
  $('questions').before(pagers[0]);$('questions').after(pagers[1]);
+ let stopPagingHold=()=>{};
+ function holdToPage(button,direction){
+  let timer=null,pointer=null,repeated=false;
+  const stop=()=>{clearTimeout(timer);timer=null;pointer=null;};
+  const step=()=>{if(button.disabled)return false;page+=direction;render();window.scrollTo(0,0);return true;};
+  button.title='Tap for one page; hold to keep turning pages';
+  button.addEventListener('pointerdown',e=>{
+   if(!e.isPrimary||e.button!==0||button.disabled)return;
+   stopPagingHold();stopPagingHold=stop;pointer=e.pointerId;repeated=false;
+   button.setPointerCapture(e.pointerId);
+   const repeat=()=>{if(pointer===null||button.disabled){stop();return;}repeated=true;step();timer=setTimeout(repeat,180);};
+   timer=setTimeout(repeat,450);
+  });
+  for(const event of ['pointerup','pointercancel','lostpointercapture','pointerleave'])button.addEventListener(event,stop);
+  button.addEventListener('contextmenu',e=>e.preventDefault());
+  button.addEventListener('click',()=>{stop();if(repeated){repeated=false;return;}step();});
+  button.addEventListener('keydown',()=>{repeated=false;});
+ }
+ window.addEventListener('blur',()=>stopPagingHold());
+ document.addEventListener('visibilitychange',()=>{if(document.hidden)stopPagingHold();});
  const controls=pagers.map(nav=>{
   const prev=make('button','← Previous'),next=make('button','Next →'),label=make('span','','page-label');
   prev.type=next.type='button';label.setAttribute('aria-live','polite');
-  prev.onclick=()=>{page--;render();window.scrollTo(0,0);};
-  next.onclick=()=>{page++;render();window.scrollTo(0,0);};
+  holdToPage(prev,-1);holdToPage(next,1);
   nav.append(prev,label,next);return {nav,prev,next,label};
  });
  function render(reset=false){
-  if(reset)page=0;
+  if(reset){stopPagingHold();page=0;}
   const terms=$('query').value.toLowerCase().trim().split(/\s+/).filter(Boolean),teacher=$('teacher').value,topic=$('topic').value;
   let list=data.questions.map(q=>({...q,shownAnswers:q.answers.filter(a=>!teacher||a.teacher===teacher)})).filter(q=>q.shownAnswers.length&&(!topic||q.topic===topic));
   list=list.filter(q=>{const text=[q.question,q.topic,...q.shownAnswers.flatMap(a=>[a.teacher,a.summary,...a.scripture_mentions,...a.sources.map(s=>s.lesson)])].join(' ').toLowerCase();return terms.every(t=>text.includes(t));});
