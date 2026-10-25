@@ -1,0 +1,17 @@
+{
+  "batch": "faq-pass039-grok042",
+  "occurrences_added": 53,
+  "questions_added": 25,
+  "question_groups": 1162,
+  "linked_answers": 1790,
+  "recordings_fully_reviewed": 0,
+  "recordings_partially_reviewed": 3,
+  "video_ids": [
+    "djw2r6xERR4",
+    "dm2JRmyzqNI",
+    "dsxz1k0gvew"
+  ],
+  "held_ranges": 5,
+  "audio_verified": false,
+  "cross_recording_difference_flagged": true
+}
