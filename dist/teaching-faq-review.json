@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T07:05:50.125479+00:00",
+  "updated": "2026-10-25T08:05:44.159159+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -12197,12 +12197,196 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 47,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "heaven-see-earth-dennis",
+        "web-nuclear-bible",
+        "circumcision-dennis",
+        "sneeze-blessing",
+        "hebrews-aliens-foreigners",
+        "jesus-killed-prophecy",
+        "bible-purpose-child",
+        "eclipses-dennis",
+        "millennium-sacrifices-dennis",
+        "isis-zion-prediction",
+        "earth-renewal-dennis",
+        "field-taken-dennis",
+        "human-curses-dennis",
+        "elect-testimony-flesh-dennis",
+        "birth-disability-dennis",
+        "judas-death-dennis",
+        "seven-women-isaiah4-dennis",
+        "chapel-denomination",
+        "enoch-transfiguration-dennis",
+        "ark-ararat-dennis",
+        "elijah-tribe-dennis",
+        "isaiah-tribe-dennis",
+        "kenite-strong-patronymic-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "heaven-see-earth-dennis",
+          "start_seconds": 2176.01,
+          "end_seconds": 2222.05,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "web-nuclear-bible",
+          "start_seconds": 2222.05,
+          "end_seconds": 2232.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "circumcision-dennis",
+          "start_seconds": 2232.26,
+          "end_seconds": 2268.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sneeze-blessing",
+          "start_seconds": 2268.16,
+          "end_seconds": 2362.93,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrews-aliens-foreigners",
+          "start_seconds": 2362.93,
+          "end_seconds": 2415.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-killed-prophecy",
+          "start_seconds": 2415.21,
+          "end_seconds": 2487.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-purpose-child",
+          "start_seconds": 2487.42,
+          "end_seconds": 2529.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eclipses-dennis",
+          "start_seconds": 2529.66,
+          "end_seconds": 2557.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-sacrifices-dennis",
+          "start_seconds": 2557.32,
+          "end_seconds": 2641.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isis-zion-prediction",
+          "start_seconds": 2641.74,
+          "end_seconds": 2709.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "earth-renewal-dennis",
+          "start_seconds": 2709.54,
+          "end_seconds": 2740.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "field-taken-dennis",
+          "start_seconds": 2740.74,
+          "end_seconds": 2799.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "human-curses-dennis",
+          "start_seconds": 2799.3,
+          "end_seconds": 2853.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-testimony-flesh-dennis",
+          "start_seconds": 2853.48,
+          "end_seconds": 2895.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "birth-disability-dennis",
+          "start_seconds": 2895.26,
+          "end_seconds": 2959.59,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "judas-death-dennis",
+          "start_seconds": 2959.59,
+          "end_seconds": 3089.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seven-women-isaiah4-dennis",
+          "start_seconds": 3089.52,
+          "end_seconds": 3144.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-denomination",
+          "start_seconds": 3144.88,
+          "end_seconds": 3161.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "enoch-transfiguration-dennis",
+          "start_seconds": 3161.69,
+          "end_seconds": 3250.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-ararat-dennis",
+          "start_seconds": 3250.95,
+          "end_seconds": 3305.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elijah-tribe-dennis",
+          "start_seconds": 3305.57,
+          "end_seconds": 3325.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah-tribe-dennis",
+          "start_seconds": 3325.22,
+          "end_seconds": 3345.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-strong-patronymic-dennis",
+          "start_seconds": 3345.51,
+          "end_seconds": 3387.45,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5EOrPMZ3ZTM",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "de5ca4512406d0c58b3419d8543df11dd2ff8c5b55266c8bb9e6af9d127c0fb6",
+        "qa_start": 2176.01,
+        "qa_end": 3387.45,
+        "cursor_seconds": 3387.45,
+        "reviewed_ranges": [
+          {
+            "start": 2176.01,
+            "end": 3387.45
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3387.45
     },
     {
       "video_id": "5EUUWkfKuLY",
@@ -12233,12 +12417,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "world-end-ages-dennis",
+        "easter-response-dennis",
+        "anointing-oil-freshness-dennis",
+        "satan-scripture-twist-dennis",
+        "nahum-identity-dennis",
+        "bible-thrown-antichrist-dennis",
+        "genesis-gap-dennis",
+        "daniel12-resurrection-dennis",
+        "hunting-dennis",
+        "reap-sow-dennis",
+        "chosen-belief-dennis",
+        "fallen-angel-vehicles-dennis",
+        "generation72-dennis",
+        "witnesses-recognition-dennis",
+        "paradise-gulf-dennis",
+        "marry-burn-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "world-end-ages-dennis",
+          "start_seconds": 2241.91,
+          "end_seconds": 2320.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "easter-response-dennis",
+          "start_seconds": 2320.15,
+          "end_seconds": 2415.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-oil-freshness-dennis",
+          "start_seconds": 2415.21,
+          "end_seconds": 2531.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-scripture-twist-dennis",
+          "start_seconds": 2531.83,
+          "end_seconds": 2630.49,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nahum-identity-dennis",
+          "start_seconds": 2630.49,
+          "end_seconds": 2661.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-thrown-antichrist-dennis",
+          "start_seconds": 2661.69,
+          "end_seconds": 2698.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "genesis-gap-dennis",
+          "start_seconds": 2698.7,
+          "end_seconds": 2809.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "daniel12-resurrection-dennis",
+          "start_seconds": 2809.87,
+          "end_seconds": 2907.37,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hunting-dennis",
+          "start_seconds": 2907.37,
+          "end_seconds": 2988.85,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "reap-sow-dennis",
+          "start_seconds": 2988.85,
+          "end_seconds": 3040.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chosen-belief-dennis",
+          "start_seconds": 3040.07,
+          "end_seconds": 3085.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angel-vehicles-dennis",
+          "start_seconds": 3085.41,
+          "end_seconds": 3154.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "generation72-dennis",
+          "start_seconds": 3154.02,
+          "end_seconds": 3177.61,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-recognition-dennis",
+          "start_seconds": 3177.61,
+          "end_seconds": 3205.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf-dennis",
+          "start_seconds": 3205.5,
+          "end_seconds": 3319.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marry-burn-dennis",
+          "start_seconds": 3319.38,
+          "end_seconds": 3377.37,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5FJ-a7O6PL8",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "f1ddd423b0d67768f96a8eb4822545ed2d328f3c59f0387528e6a3ea228a64a4",
+        "qa_start": 2232.93,
+        "qa_end": 3377.37,
+        "cursor_seconds": 3377.37,
+        "reviewed_ranges": [
+          {
+            "start": 2232.93,
+            "end": 3377.37
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3377.37
     },
     {
       "video_id": "5FJDob7ThwE",
@@ -35124,12 +35443,12 @@
   "review": {
     "available": 1360,
     "partially_reviewed": 132,
-    "fully_reviewed": 10,
+    "fully_reviewed": 12,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1153,
+    "pending": 1151,
     "source_changed": 0,
-    "question_occurrences": 1381
+    "question_occurrences": 1420
   }
 }

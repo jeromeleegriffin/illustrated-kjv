@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 916 question groups and 1,401 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 954 question groups and 1,440 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Ten recordings have complete caption Q&A reviews, 132 remain partially reviewed, 1,153 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twelve recordings have complete caption Q&A reviews, 132 remain partially reviewed, 1,151 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -23,3 +23,7 @@ Before selecting another new recording batch, inspect `external-review-assignmen
 ## Attribution hold
 
 Do not approve `4pmWjZmHK1o` under the saved Arnold attribution: its named introduction and listener address identify Dennis. The original source remains unchanged. See the sanitized pass028 report and private attribution-holds checkpoint before further review.
+
+## Recovered private batch
+
+The39-answer Dennis checkpoint libfile_3a9e3631e500819183ae10f3f780a8e2 has been reconciled idempotently with the current registry. Sources5EOrPMZ3ZTM and5FJ-a7O6PL8 have complete caption Q&A reviews, audio pending. Do not import or count those39 occurrences again.

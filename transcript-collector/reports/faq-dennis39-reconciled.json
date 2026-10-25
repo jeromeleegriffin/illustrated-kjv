@@ -1,0 +1,17 @@
+{
+  "batch": "faq-pending-dennis39-reconciliation",
+  "base_commit": "3da2fcd3d25ef2fb1f81ff551bf3b59ad90bd5c3",
+  "recovered_from_library": "libfile_3a9e3631e500819183ae10f3f780a8e2",
+  "answers_added": 39,
+  "question_groups_added": 38,
+  "question_groups": 954,
+  "linked_answers": 1440,
+  "recovered_complete_caption_reviews": 2,
+  "new_recordings_reviewed_this_run": 0,
+  "audio_verified": false,
+  "source_hashes_and_anchors_verified": true,
+  "recordings": [
+    "5EOrPMZ3ZTM",
+    "5FJ-a7O6PL8"
+  ]
+}
