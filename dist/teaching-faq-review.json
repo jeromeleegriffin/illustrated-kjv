@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T19:36:31.454188+00:00",
+  "updated": "2026-10-25T20:08:33.557034+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -27531,12 +27531,181 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 200,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "study-military-timing",
+        "consuming-fire",
+        "lazarus-second-death",
+        "souls-see-earth-arnold",
+        "prophets-today-arnold",
+        "anointing-sick",
+        "spouse-tax-blame",
+        "bible-author-child",
+        "zadok-levi-arnold",
+        "millennium-help-relatives-arnold",
+        "return-timing-child",
+        "church-tribulation",
+        "satan-healing-illusion",
+        "anointing-frequency",
+        "forgiven-sins-judgment",
+        "repentance-sincere",
+        "eve-mother-living-arnold",
+        "enoch-transfigured-arnold",
+        "spirit-after-death",
+        "joseph-sticks-nations-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "study-military-timing",
+          "start_seconds": 2244.64,
+          "end_seconds": 2299.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "consuming-fire",
+          "start_seconds": 2317.92,
+          "end_seconds": 2363.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lazarus-second-death",
+          "start_seconds": 2367.68,
+          "end_seconds": 2504.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-see-earth-arnold",
+          "start_seconds": 2516.96,
+          "end_seconds": 2524.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prophets-today-arnold",
+          "start_seconds": 2524.88,
+          "end_seconds": 2570.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-sick",
+          "start_seconds": 2572.96,
+          "end_seconds": 2607.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spouse-tax-blame",
+          "start_seconds": 2609.599,
+          "end_seconds": 2634.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-author-child",
+          "start_seconds": 2653.839,
+          "end_seconds": 2704.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "zadok-levi-arnold",
+          "start_seconds": 2711.2,
+          "end_seconds": 2744.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-help-relatives-arnold",
+          "start_seconds": 2753.76,
+          "end_seconds": 2780.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "return-timing-child",
+          "start_seconds": 2816.96,
+          "end_seconds": 2850.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2864.96,
+          "end_seconds": 2914.549,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-healing-illusion",
+          "start_seconds": 2927.52,
+          "end_seconds": 2951.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-frequency",
+          "start_seconds": 2955.68,
+          "end_seconds": 3016.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiven-sins-judgment",
+          "start_seconds": 3016.8,
+          "end_seconds": 3096.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "repentance-sincere",
+          "start_seconds": 3096.64,
+          "end_seconds": 3119.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eve-mother-living-arnold",
+          "start_seconds": 3129.68,
+          "end_seconds": 3169.109,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "enoch-transfigured-arnold",
+          "start_seconds": 3172.559,
+          "end_seconds": 3214.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 3220.72,
+          "end_seconds": 3304.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "joseph-sticks-nations-arnold",
+          "start_seconds": 3338.559,
+          "end_seconds": 3371.19,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dIarcdQ0qDo",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "c0ee1e2db3289bd8fae1879b1299251ed52333d2bdab711c1f148441f298d9c8",
+        "qa_start": 2237.599,
+        "qa_end": 3374.799,
+        "cursor_seconds": 3310.48,
+        "reviewed_ranges": [
+          {
+            "start": 2237.599,
+            "end": 3374.799
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3310.48,
+            "end": 3338.559,
+            "reason": "Yvon’s question breaks off after Am I; do not invent the missing request from reassurance alone."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3310.48
     },
     {
       "video_id": "dJ_M0-FXlw8",
@@ -27549,12 +27718,151 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 44,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "church-tribulation",
+        "prescribed-medication",
+        "canaanite-kenite",
+        "guardian-angel",
+        "flesh-no-longer-needed",
+        "dinosaurs-human-fossils",
+        "world-system-wound-arnold",
+        "david-five-stones",
+        "oil-wine-revelation",
+        "cain-parentage",
+        "hair-covering-angels",
+        "apocrypha-favorite-arnold",
+        "infant-heaven-age",
+        "paul-conversion-date-arnold",
+        "edom-russia-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2129.46,
+          "end_seconds": 2234.664,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prescribed-medication",
+          "start_seconds": 2238.569,
+          "end_seconds": 2351.448,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "canaanite-kenite",
+          "start_seconds": 2355.019,
+          "end_seconds": 2403.501,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "guardian-angel",
+          "start_seconds": 2404.768,
+          "end_seconds": 2459.056,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "flesh-no-longer-needed",
+          "start_seconds": 2461.625,
+          "end_seconds": 2593.424,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dinosaurs-human-fossils",
+          "start_seconds": 2598.795,
+          "end_seconds": 2680.144,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "world-system-wound-arnold",
+          "start_seconds": 2684.481,
+          "end_seconds": 2751.381,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "david-five-stones",
+          "start_seconds": 2840.136,
+          "end_seconds": 2911.507,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "oil-wine-revelation",
+          "start_seconds": 2911.507,
+          "end_seconds": 2949.078,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-parentage",
+          "start_seconds": 2963.059,
+          "end_seconds": 3035.899,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hair-covering-angels",
+          "start_seconds": 3038.869,
+          "end_seconds": 3110.807,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "apocrypha-favorite-arnold",
+          "start_seconds": 3115.645,
+          "end_seconds": 3186.916,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "infant-heaven-age",
+          "start_seconds": 3203.733,
+          "end_seconds": 3223.019,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paul-conversion-date-arnold",
+          "start_seconds": 3229.759,
+          "end_seconds": 3267.564,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "edom-russia-arnold",
+          "start_seconds": 3269.265,
+          "end_seconds": 3362.192,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dJ_M0-FXlw8",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "87de4ae76a24c0fb50dcff8717e215f770b79586af88b497773cc88cefd5fe08",
+        "qa_start": 2127.591,
+        "qa_end": 3363.092,
+        "cursor_seconds": 2355.019,
+        "reviewed_ranges": [
+          {
+            "start": 2127.591,
+            "end": 3363.092
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2355.019,
+            "end": 2404.768,
+            "reason": "Final Canaanite identification in captions is questionable; clear spelling distinction approved but concluding identity requires audio."
+          },
+          {
+            "start": 2751.381,
+            "end": 2831.895,
+            "reason": "Creation answer mixes 14000 and 13000-year arithmetic and an unreadable opening phrase. Do not silently repair the numbers."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2355.019
     },
     {
       "video_id": "dLZ03zlO_WI",
@@ -37014,13 +37322,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 140,
+    "partially_reviewed": 142,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1140,
+    "pending": 1138,
     "source_changed": 0,
-    "question_occurrences": 1590
+    "question_occurrences": 1625
   }
 }

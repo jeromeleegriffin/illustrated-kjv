@@ -1,0 +1,31 @@
+{
+  "batch": "faq-pass036-grok042",
+  "occurrences_added": 35,
+  "questions_added": 18,
+  "question_groups": 1089,
+  "linked_answers": 1651,
+  "recordings_fully_reviewed": 0,
+  "recordings_partially_reviewed": 2,
+  "video_ids": [
+    "dIarcdQ0qDo",
+    "dJ_M0-FXlw8"
+  ],
+  "held_ranges": 3,
+  "excluded_rhetorical_candidates": 1,
+  "audio_verified": false,
+  "tests_passed": 4,
+  "invalid_approvals": 0,
+  "review": {
+    "available": 1360,
+    "partially_reviewed": 142,
+    "fully_reviewed": 15,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 1138,
+    "source_changed": 0,
+    "question_occurrences": 1625
+  },
+  "external_A_approved_total": 90,
+  "external_A_records_awaiting_review": 294
+}
