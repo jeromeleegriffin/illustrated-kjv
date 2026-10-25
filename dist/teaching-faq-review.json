@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T02:07:27.971126+00:00",
+  "updated": "2026-10-25T03:07:14.871045+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -10383,12 +10383,139 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 26,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "christ-sabbath-rest",
+        "ark-peoples",
+        "matthew24-antichrist-timing",
+        "sabbath-day-journey",
+        "communion-unleavened",
+        "olive-oil-choice",
+        "daniel-diet-fasting",
+        "nehemiah5-outcry",
+        "seals-end-events",
+        "taken-field",
+        "born-from-above",
+        "forgiveness",
+        "spirit-when-believe",
+        "procrastination-hardest-first"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "christ-sabbath-rest",
+          "start_seconds": 2350.8,
+          "end_seconds": 2419.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2419.43,
+          "end_seconds": 2497.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "matthew24-antichrist-timing",
+          "start_seconds": 2497.02,
+          "end_seconds": 2534.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-day-journey",
+          "start_seconds": 2534.16,
+          "end_seconds": 2563.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "communion-unleavened",
+          "start_seconds": 2563.44,
+          "end_seconds": 2592.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "olive-oil-choice",
+          "start_seconds": 2592.24,
+          "end_seconds": 2666.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "daniel-diet-fasting",
+          "start_seconds": 2683.38,
+          "end_seconds": 2719.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nehemiah5-outcry",
+          "start_seconds": 2666.88,
+          "end_seconds": 2760.12,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seals-end-events",
+          "start_seconds": 2760.12,
+          "end_seconds": 2907.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "taken-field",
+          "start_seconds": 2907.72,
+          "end_seconds": 3020.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "born-from-above",
+          "start_seconds": 3020.76,
+          "end_seconds": 3116.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3116.22,
+          "end_seconds": 3141.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-when-believe",
+          "start_seconds": 3141.6,
+          "end_seconds": 3195.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "procrastination-hardest-first",
+          "start_seconds": 3218.22,
+          "end_seconds": 3266.82,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4OeX3G0HnDk",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "980e9cb2a0f1741d0ea700b43b302cc15c7e9743edbb5a12770775b6fc78aa08",
+        "qa_start": 2350.8,
+        "qa_end": 3375.3,
+        "cursor_seconds": 3266.82,
+        "reviewed_ranges": [
+          {
+            "start": 2350.8,
+            "end": 3375.3
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3266.82,
+            "end": 3375.3,
+            "reason": "Listener asks about Companion Bible Revelation 3:3 note; response and cited cross-references damaged in captions. Hold pending audio/caption checking."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "caption_section_review_one_held_answer_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3266.82
     },
     {
       "video_id": "4Ou4rmjkbaQ",
@@ -10401,12 +10528,168 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 34,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "alzheimers-accountability",
+        "abib-passover-calendar",
+        "chapel-denomination",
+        "military-murder-distinction",
+        "deceased-mother-prayer-guilt",
+        "pastor-mentors",
+        "serpent-role-genesis",
+        "let-us-image-angels",
+        "elect-tribulation-harm",
+        "witnesses-purpose-known",
+        "sixth-day-adam-interval",
+        "pork-new-testament",
+        "jesus-baptism-objection",
+        "tongues-foreign-cloven",
+        "hybrids-present-dennis",
+        "angels-recognizable-return",
+        "ufo-sightings-question",
+        "throne-vehicles-ezekiel",
+        "jeremiah7-consuming-fire"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "alzheimers-accountability",
+          "start_seconds": 2191.99,
+          "end_seconds": 2280.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "abib-passover-calendar",
+          "start_seconds": 2280.08,
+          "end_seconds": 2360.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-denomination",
+          "start_seconds": 2360.89,
+          "end_seconds": 2391.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "military-murder-distinction",
+          "start_seconds": 2391.99,
+          "end_seconds": 2478.31,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "deceased-mother-prayer-guilt",
+          "start_seconds": 2478.31,
+          "end_seconds": 2563.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pastor-mentors",
+          "start_seconds": 2563.43,
+          "end_seconds": 2593.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "serpent-role-genesis",
+          "start_seconds": 2593.99,
+          "end_seconds": 2646.84,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "let-us-image-angels",
+          "start_seconds": 2646.84,
+          "end_seconds": 2659.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-tribulation-harm",
+          "start_seconds": 2659.42,
+          "end_seconds": 2772.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-purpose-known",
+          "start_seconds": 2772.14,
+          "end_seconds": 2786.82,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-day-adam-interval",
+          "start_seconds": 2786.82,
+          "end_seconds": 2831.09,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pork-new-testament",
+          "start_seconds": 2831.09,
+          "end_seconds": 2931.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-baptism-objection",
+          "start_seconds": 2931.3,
+          "end_seconds": 3021.62,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tongues-foreign-cloven",
+          "start_seconds": 3021.62,
+          "end_seconds": 3155.59,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hybrids-present-dennis",
+          "start_seconds": 3155.59,
+          "end_seconds": 3235.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-recognizable-return",
+          "start_seconds": 3155.59,
+          "end_seconds": 3235.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ufo-sightings-question",
+          "start_seconds": 3235.83,
+          "end_seconds": 3244.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "throne-vehicles-ezekiel",
+          "start_seconds": 3244.57,
+          "end_seconds": 3282.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jeremiah7-consuming-fire",
+          "start_seconds": 3282.41,
+          "end_seconds": 3372.1,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4Ou4rmjkbaQ",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "529195b1efe22342cdb2b65ae48369bbacedc7727ab06cb65f5730d22010199a",
+        "qa_start": 2187.32,
+        "qa_end": 3372.1,
+        "cursor_seconds": 3372.1,
+        "reviewed_ranges": [
+          {
+            "start": 2187.32,
+            "end": 3372.1
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_QA_review_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3372.1
     },
     {
       "video_id": "4UBEUY29dc0",
@@ -33144,13 +33427,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 122,
-    "fully_reviewed": 6,
+    "partially_reviewed": 123,
+    "fully_reviewed": 7,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1167,
+    "pending": 1165,
     "source_changed": 0,
-    "question_occurrences": 1164
+    "question_occurrences": 1197
   }
 }
