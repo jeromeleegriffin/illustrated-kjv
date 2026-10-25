@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T01:05:47.715768+00:00",
+  "updated": "2026-10-25T02:07:27.971126+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -10004,12 +10004,139 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 27,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "satan-cannot-delay",
+        "ten-kings-country-rulers",
+        "generation-not-lifespan",
+        "church-tribulation",
+        "contemporary-music-respect",
+        "adult-baptism-after-infant",
+        "banking-mark-barter",
+        "kill-murder-commandment",
+        "144000-very-elect-difference",
+        "satan-pride-expectation",
+        "baptize-without-membership",
+        "church-rapture-discussion",
+        "sixth-day-salvation",
+        "babylon-location-prophecy"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "satan-cannot-delay",
+          "start_seconds": 2257.97,
+          "end_seconds": 2336.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ten-kings-country-rulers",
+          "start_seconds": 2336.94,
+          "end_seconds": 2350.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "generation-not-lifespan",
+          "start_seconds": 2350.08,
+          "end_seconds": 2399.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2600.46,
+          "end_seconds": 2708.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "contemporary-music-respect",
+          "start_seconds": 2708.28,
+          "end_seconds": 2750.58,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adult-baptism-after-infant",
+          "start_seconds": 2771.46,
+          "end_seconds": 2790.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "banking-mark-barter",
+          "start_seconds": 2790.0,
+          "end_seconds": 2827.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kill-murder-commandment",
+          "start_seconds": 2918.52,
+          "end_seconds": 3006.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "144000-very-elect-difference",
+          "start_seconds": 3006.56,
+          "end_seconds": 3122.82,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-pride-expectation",
+          "start_seconds": 3122.82,
+          "end_seconds": 3233.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptize-without-membership",
+          "start_seconds": 3142.74,
+          "end_seconds": 3168.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-rapture-discussion",
+          "start_seconds": 3265.5,
+          "end_seconds": 3305.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-day-salvation",
+          "start_seconds": 3324.78,
+          "end_seconds": 3385.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "babylon-location-prophecy",
+          "start_seconds": 2458.44,
+          "end_seconds": 2549.46,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "48lecgcYgik",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "27a4913a977915383944759c8496c2fdeebe315ba04caae67ef67ccd12f3ca2a",
+        "qa_start": 2257.97,
+        "qa_end": 3385.14,
+        "cursor_seconds": 2399.04,
+        "reviewed_ranges": [
+          {
+            "start": 2257.97,
+            "end": 3385.14
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2399.04,
+            "end": 2458.44,
+            "reason": "Damaged wording in listener question about Jewish terminology and attribution claims; audio checking needed before approving a paraphrase."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "caption_section_read_one_held_answer_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 2399.04
     },
     {
       "video_id": "4BxMP_Xvnlc",
@@ -10049,12 +10176,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 47,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "police-service-psalm144",
+        "paradise-gulf",
+        "reading-salvation",
+        "cursing-parents-repentance",
+        "unspotted-world",
+        "satan-bound-now",
+        "satan-final-message",
+        "holy-trinity",
+        "pork-salvation",
+        "antichrist-tribe-dan",
+        "satan-visible-body",
+        "daniel-chronology-question",
+        "antichrist-test-nonchristians",
+        "verify-pastor-teaching",
+        "restrainer-thessalonians",
+        "ten-days-jail"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "police-service-psalm144",
+          "start_seconds": 2181,
+          "end_seconds": 2229,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf",
+          "start_seconds": 2229,
+          "end_seconds": 2257,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "reading-salvation",
+          "start_seconds": 2257,
+          "end_seconds": 2332,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cursing-parents-repentance",
+          "start_seconds": 2332,
+          "end_seconds": 2412,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "unspotted-world",
+          "start_seconds": 2412,
+          "end_seconds": 2497,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-bound-now",
+          "start_seconds": 2497,
+          "end_seconds": 2575,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-final-message",
+          "start_seconds": 2575,
+          "end_seconds": 2635,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "holy-trinity",
+          "start_seconds": 2635,
+          "end_seconds": 2789,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pork-salvation",
+          "start_seconds": 2789,
+          "end_seconds": 2905,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-tribe-dan",
+          "start_seconds": 2905,
+          "end_seconds": 3014,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-visible-body",
+          "start_seconds": 3024,
+          "end_seconds": 3038,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "daniel-chronology-question",
+          "start_seconds": 3038,
+          "end_seconds": 3088,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-test-nonchristians",
+          "start_seconds": 3088,
+          "end_seconds": 3169,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "verify-pastor-teaching",
+          "start_seconds": 3169,
+          "end_seconds": 3271,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "restrainer-thessalonians",
+          "start_seconds": 3271,
+          "end_seconds": 3346,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ten-days-jail",
+          "start_seconds": 3346,
+          "end_seconds": 3375,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4HgHsYjwhes",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "5561ce54b9b92e1fe31a99deaca8e197428421f913de6aa20097f224fee5aa47",
+        "qa_start": 2179,
+        "qa_end": 3375,
+        "cursor_seconds": 3375,
+        "reviewed_ranges": [
+          {
+            "start": 2179,
+            "end": 3375
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_QA_review_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3375
     },
     {
       "video_id": "4Hh_zUBqK4c",
@@ -32882,13 +33144,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 121,
-    "fully_reviewed": 5,
+    "partially_reviewed": 122,
+    "fully_reviewed": 6,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1169,
+    "pending": 1167,
     "source_changed": 0,
-    "question_occurrences": 1134
+    "question_occurrences": 1164
   }
 }
