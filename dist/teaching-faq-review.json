@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T10:05:00.774932+00:00",
+  "updated": "2026-10-25T19:36:31.454188+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -26953,12 +26953,138 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 13,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "called-chosen-arnold",
+        "souls-before-birth",
+        "opinion-documentation-arnold",
+        "civilization-before-adam",
+        "angel-former-servant-arnold",
+        "baptism-dead",
+        "viewer-address-privacy",
+        "better-job-blessing",
+        "capital-punishment",
+        "millennium-overcrowding",
+        "eden-tree-life-timing"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "called-chosen-arnold",
+          "start_seconds": 2191.079,
+          "end_seconds": 2203.609,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-before-birth",
+          "start_seconds": 2239.74,
+          "end_seconds": 2297.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "opinion-documentation-arnold",
+          "start_seconds": 2344.56,
+          "end_seconds": 2608.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "civilization-before-adam",
+          "start_seconds": 2454.06,
+          "end_seconds": 2473.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angel-former-servant-arnold",
+          "start_seconds": 2474.76,
+          "end_seconds": 2564.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-dead",
+          "start_seconds": 2608.319,
+          "end_seconds": 2639.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "viewer-address-privacy",
+          "start_seconds": 2639.16,
+          "end_seconds": 2674.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "better-job-blessing",
+          "start_seconds": 2692.26,
+          "end_seconds": 2729.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "capital-punishment",
+          "start_seconds": 2726.4,
+          "end_seconds": 2823.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-overcrowding",
+          "start_seconds": 2848.68,
+          "end_seconds": 2899.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eden-tree-life-timing",
+          "start_seconds": 3015.48,
+          "end_seconds": 3078.589,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "d8sqAs56NB8",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "2b829fbce6b2021c60c70c2945c04b2024cf7f67f57d297bdb04c8a6fd1d22c8",
+        "qa_start": 2135.64,
+        "qa_end": 3355.44,
+        "cursor_seconds": 2135.64,
+        "reviewed_ranges": [
+          {
+            "start": 2135.64,
+            "end": 3355.44
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2135.64,
+            "end": 2185.98,
+            "reason": "Question and answer about the three thirds contain damaged wording; do not infer which third made which choice."
+          },
+          {
+            "start": 2297.7,
+            "end": 2344.56,
+            "reason": "Individual-lifespan reference is deferred to following verses or the next lecture, not fully supplied here."
+          },
+          {
+            "start": 2899.859,
+            "end": 2924.88,
+            "reason": "Listener’s hybrid-reproduction question is incomplete and the numerical biological claim is unclear."
+          },
+          {
+            "start": 3078.599,
+            "end": 3148.559,
+            "reason": "Moses ancestry answer contains garbled names and contradictory Moses/Abraham wording; require audio before approving its full chain."
+          },
+          {
+            "start": 3148.559,
+            "end": 3355.44,
+            "reason": "Two-witnesses answer includes damaged seal wording and an ambiguous cannot-touch-them clause after describing the witnesses’ deaths. Do not harmonize it silently."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2135.64
     },
     {
       "video_id": "dClenWFh8sM",
@@ -26971,12 +27097,165 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 13,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "witnesses-enoch-elijah-candidates",
+        "one-cain-wanderer-builder",
+        "cainan-cain-distinction",
+        "infant-dedication-choice",
+        "tree-good-evil",
+        "figtree-1948-arnold",
+        "fallen-angels-restraint",
+        "hair-covering-angels",
+        "entertaining-angels-arnold",
+        "psalm104-mortal-death",
+        "psalm104-recreate",
+        "questions-broadcast-delay",
+        "resurrection-meaning",
+        "adam-eden-sin-limits",
+        "rahab-businesswoman-arnold",
+        "parousia-meaning-arnold",
+        "taken-field"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "witnesses-enoch-elijah-candidates",
+          "start_seconds": 2403.32,
+          "end_seconds": 2445.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "one-cain-wanderer-builder",
+          "start_seconds": 2449.38,
+          "end_seconds": 2493.17,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cainan-cain-distinction",
+          "start_seconds": 2500.14,
+          "end_seconds": 2537.81,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "infant-dedication-choice",
+          "start_seconds": 2539.68,
+          "end_seconds": 2632.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tree-good-evil",
+          "start_seconds": 2632.2,
+          "end_seconds": 2676.29,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "figtree-1948-arnold",
+          "start_seconds": 2676.3,
+          "end_seconds": 2689.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angels-restraint",
+          "start_seconds": 2689.859,
+          "end_seconds": 2777.089,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hair-covering-angels",
+          "start_seconds": 2775.839,
+          "end_seconds": 2830.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "entertaining-angels-arnold",
+          "start_seconds": 2838.3,
+          "end_seconds": 2953.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "psalm104-mortal-death",
+          "start_seconds": 2955.3,
+          "end_seconds": 2972.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "psalm104-recreate",
+          "start_seconds": 2975.4,
+          "end_seconds": 2991.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "questions-broadcast-delay",
+          "start_seconds": 2997.42,
+          "end_seconds": 3048.23,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 3096.42,
+          "end_seconds": 3150.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adam-eden-sin-limits",
+          "start_seconds": 3155.099,
+          "end_seconds": 3205.93,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rahab-businesswoman-arnold",
+          "start_seconds": 3208.079,
+          "end_seconds": 3281.089,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "parousia-meaning-arnold",
+          "start_seconds": 3291.8,
+          "end_seconds": 3310.37,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "taken-field",
+          "start_seconds": 3314.579,
+          "end_seconds": 3368.93,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dClenWFh8sM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "e76fd2cb153d634968551042b7e9104e7f190b5301c13eba1b90fb12877a48fc",
+        "qa_start": 2400.42,
+        "qa_end": 3368.94,
+        "cursor_seconds": 3162.42,
+        "reviewed_ranges": [
+          {
+            "start": 2400.42,
+            "end": 3368.94
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3162.42,
+            "end": 3291.8,
+            "reason": "Ruth/Israelite question is interrupted by another answer and the full genealogy explanation is deferred to a longer study; do not invent the missing question."
+          },
+          {
+            "start": 3289.079,
+            "end": 3310.38,
+            "reason": "Parousia answer ends with a descriptor captioned loyalty. Presence/coming paraphrase approved, but the final descriptor needs audio and is not silently corrected."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3162.42
     },
     {
       "video_id": "dDEZ3IyUfJk",
@@ -27025,12 +27304,221 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 69,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "hair-covering-angels",
+        "spirit-after-death",
+        "lose-salvation-repentance",
+        "peter-murder-premise",
+        "daniel12-days-arnold",
+        "chapel-denomination-arnold",
+        "son-david-genealogy",
+        "christ-sabbath-rest",
+        "john-birth-course-abijah",
+        "christmas-conception-celebration",
+        "forgiveness",
+        "kenites-continued-role",
+        "ark-peoples",
+        "millennium-help-relatives-arnold",
+        "paul-trials-reference",
+        "wedding-matthew19",
+        "church-tribulation",
+        "bigbang-family-discussion",
+        "five-months",
+        "animals-heaven",
+        "companion-large-print",
+        "noel-meaning-arnold",
+        "elect-number-arnold",
+        "naga-context-interpretation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "hair-covering-angels",
+          "start_seconds": 2127.491,
+          "end_seconds": 2191.355,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2200.397,
+          "end_seconds": 2263.327,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lose-salvation-repentance",
+          "start_seconds": 2267.23,
+          "end_seconds": 2321.218,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "peter-murder-premise",
+          "start_seconds": 2323.52,
+          "end_seconds": 2349.479,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "daniel12-days-arnold",
+          "start_seconds": 2358.989,
+          "end_seconds": 2414.378,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-denomination-arnold",
+          "start_seconds": 2419.449,
+          "end_seconds": 2434.832,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "son-david-genealogy",
+          "start_seconds": 2452.416,
+          "end_seconds": 2496.794,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-sabbath-rest",
+          "start_seconds": 2513.276,
+          "end_seconds": 2537.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john-birth-course-abijah",
+          "start_seconds": 2553.616,
+          "end_seconds": 2596.459,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christmas-conception-celebration",
+          "start_seconds": 2600.564,
+          "end_seconds": 2642.205,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2643.607,
+          "end_seconds": 2690.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenites-continued-role",
+          "start_seconds": 2701.064,
+          "end_seconds": 2749.212,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2756.486,
+          "end_seconds": 2826.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2830.293,
+          "end_seconds": 2867.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-help-relatives-arnold",
+          "start_seconds": 2869.666,
+          "end_seconds": 2906.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paul-trials-reference",
+          "start_seconds": 2913.609,
+          "end_seconds": 2923.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "wedding-matthew19",
+          "start_seconds": 2931.627,
+          "end_seconds": 2950.981,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2956.386,
+          "end_seconds": 3004.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bigbang-family-discussion",
+          "start_seconds": 3006.035,
+          "end_seconds": 3048.711,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3048.711,
+          "end_seconds": 3086.249,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-months",
+          "start_seconds": 3098.194,
+          "end_seconds": 3135.264,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-heaven",
+          "start_seconds": 3136.833,
+          "end_seconds": 3148.111,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "companion-large-print",
+          "start_seconds": 3149.779,
+          "end_seconds": 3157.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-sabbath-rest",
+          "start_seconds": 3161.825,
+          "end_seconds": 3177.774,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noel-meaning-arnold",
+          "start_seconds": 3179.409,
+          "end_seconds": 3207.704,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-number-arnold",
+          "start_seconds": 3209.805,
+          "end_seconds": 3219.515,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "naga-context-interpretation",
+          "start_seconds": 3223.752,
+          "end_seconds": 3370.532,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dIaXgfA590w",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "ffc78feff7d4ee0b656a5fb6f6724f4ddf560927ad64fc83e4bb7360c147a910",
+        "qa_start": 2123.721,
+        "qa_end": 3374.771,
+        "cursor_seconds": 3374.771,
+        "reviewed_ranges": [
+          {
+            "start": 2123.721,
+            "end": 3374.771
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3374.771
     },
     {
       "video_id": "dIarcdQ0qDo",
@@ -36526,13 +37014,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 138,
-    "fully_reviewed": 14,
+    "partially_reviewed": 140,
+    "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1143,
+    "pending": 1140,
     "source_changed": 0,
-    "question_occurrences": 1538
+    "question_occurrences": 1590
   }
 }
