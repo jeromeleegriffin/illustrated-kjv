@@ -7224,6 +7224,42 @@
       "question": "Did Arnold condemn a waitress who had to work weekends instead of attending church?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "lottery-recreation-family",
+      "question": "Did Arnold regard buying a lottery ticket as automatically sinful?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "child-death-parent-guilt",
+      "question": "Did Arnold say a child’s death was punishment for a parent causing deaths?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "michael-archangel-identity",
+      "question": "How did Arnold identify Michael the archangel?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jury-duty-judging",
+      "question": "Did Arnold see jury duty as forbidden judging?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "christianity-origin",
+      "question": "How did Arnold explain the origin of Christianity?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "disability-televised-church",
+      "question": "Did Arnold fault a disabled listener for attending church through television?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -36316,6 +36352,289 @@
       "recording_group": "e4TVUtWBDak",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "judas-death-judgment",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2157.187,
+      "end": 2205.903,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-judas-death-judgment",
+      "summary": "Arnold declined to decide Judas’s final standing, leaving judgment to God. He referred to Acts 1:18 and repeated his interpretation that others killed Judas to silence him. That accusation is his interpretation, not an independently established account.",
+      "scripture_mentions": [
+        "Matthew 27:3",
+        "Acts 1:18"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "lottery-recreation-family",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2219.082,
+      "end": 2298.663,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-lottery-recreation-family",
+      "summary": "Arnold distinguished limited recreation spending from compulsive gambling that consumes food or housing money. He allowed personal recreation spending only when it did not deprive the family and was not a habit the person could not resist. This records his pastoral distinction.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "child-death-parent-guilt",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2305.369,
+      "end": 2360.924,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-child-death-parent-guilt",
+      "summary": "Arnold emphatically rejected that conclusion and urged the listener not to assume guilt. He used Luke 13 and the tower of Siloam to distinguish an accident from a measure of the victims’ sin.",
+      "scripture_mentions": [
+        "Luke 13"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "god-hates-esau",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2366.23,
+      "end": 2484.682,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-god-hates-esau",
+      "summary": "Arnold connected Jacob and Esau with his first-earth-age interpretation and Esau’s disregard for his inheritance. He also claimed birth circumstances were earned in that earlier age, while emphasizing change through Christ. That claim is his doctrine and does not establish anyone’s worth or responsibility for hardship. His captioned Romans chapter number remains uncertain.",
+      "scripture_mentions": [
+        "Malachi 1"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ark-peoples",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2489.987,
+      "end": 2518.348,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-ark-peoples",
+      "summary": "Arnold denied giants were aboard in the account he described, while claiming other human peoples, including Kenites, were included under two of every flesh. These are his interpretations; the answer must not be presented as established ancestry of modern populations.",
+      "scripture_mentions": [
+        "Genesis 6"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "eve-mother-living-arnold",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2524.555,
+      "end": 2604.801,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-eve-mother-living-arnold",
+      "summary": "Arnold explained mother of all living through Christ’s descent from Eve and the eternal life he associated with Christ, rather than making her the genealogical mother of every people. He said humans he called sixth-day creation could sin without attributing their actions to Eve. His ancestry account is doctrinal interpretation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "michael-archangel-identity",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2604.801,
+      "end": 2698.295,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-michael-archangel-identity",
+      "summary": "Arnold directed the listener to Daniel 10 and 12, described Michael as Israel’s chief prince and God’s servant, and rejected identifying Michael as Christ. He warned against angel worship and distinguished archangels from Christ’s birth through a woman.",
+      "scripture_mentions": [
+        "Daniel 10",
+        "Daniel 12"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "jury-duty-judging",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2710.074,
+      "end": 2747.51,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-jury-duty-judging",
+      "summary": "Arnold approved jury service as a biblical responsibility, describing peers deciding from facts and corroborating witnesses. He distinguished that task from the spiritual judgment he told listeners to leave to God. This is his religious answer, not legal advice.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "christianity-origin",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2749.98,
+      "end": 2792.456,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-christianity-origin",
+      "summary": "Arnold located Christianity’s origin in Christ and described Christians as people who worship and follow him. He pointed to followers in Mark’s account rather than giving a historical chronology of later institutions.",
+      "scripture_mentions": [
+        "Mark"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "elect-recognition",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2802.031,
+      "end": 2900.997,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-elect-recognition",
+      "summary": "Arnold described recognizing that false Christ comes first and intending to stand against him as a strong indication of election in his teaching. He said it did not make a person special and linked others’ lack of understanding with Romans 11’s stupor language and millennium instruction.",
+      "scripture_mentions": [
+        "Romans 11"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ark-peoples",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2908.505,
+      "end": 2958.855,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-ark-peoples",
+      "summary": "In a second listener’s question, Arnold again claimed Kenites were included under two of every flesh aboard the ark. He gave a tentative Genesis chapter-and-verse reference whose wording needs review. This additional answer stays linked but does not count the same recording twice for this question. His claim is doctrinal interpretation.",
+      "scripture_mentions": [
+        "Genesis 6"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "e7IuSxcDxZE",
+      "start": 2962.225,
+      "end": 3019.449,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-forgiveness",
+      "summary": "Arnold reassured the listener by limiting the unpardonable sin, in his interpretation, to the elect refusing the Holy Spirit’s testimony when delivered before false Messiah. He distinguished that future situation from past cursing and urged repentance rather than lifelong fear.",
+      "scripture_mentions": [
+        "Matthew 12:31–32"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "disability-televised-church",
+      "video_id": "e7IuSxcDxZE",
+      "start": 3032.662,
+      "end": 3077.673,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-disability-televised-church",
+      "summary": "Arnold reassured the listener that studying Scripture through the televised Chapel service counted as being in church. He said God did not hold inability to travel against a disabled person.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "fly-away-scripture",
+      "video_id": "e7IuSxcDxZE",
+      "start": 3080.443,
+      "end": 3162.258,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-fly-away-scripture",
+      "summary": "Arnold pointed to Ezekiel 13 following verse 20 and applied its flying imagery against rapture teaching. He criticized newer translations and alleged scribal interference. Those translation accusations and the prophetic application are his claims, not independently verified textual conclusions.",
+      "scripture_mentions": [
+        "Ezekiel 13:20 onward"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "satan-pride-expectation",
+      "video_id": "e7IuSxcDxZE",
+      "start": 3168.498,
+      "end": 3224.954,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-satan-pride-expectation",
+      "summary": "Arnold said Satan considered himself convincing and successful in attracting followers. He connected numbers and force with his reading of Daniel 11, rather than saying knowledge of an eventual end would stop the deception.",
+      "scripture_mentions": [
+        "Daniel 11"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "trumpets-recognized",
+      "video_id": "e7IuSxcDxZE",
+      "start": 3238.034,
+      "end": 3277.841,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-trumpets-recognized",
+      "summary": "Arnold interpreted trumpets as recognizable events rather than sounds listeners would hear. He distinguished understanding the seals, recognizing what each trumpet describes, and the pouring out of wrath. These are his prophetic interpretations.",
+      "scripture_mentions": [
+        "Revelation 7"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "church-tribulation",
+      "video_id": "e7IuSxcDxZE",
+      "start": 3281.477,
+      "end": 3373.169,
+      "teacher": "Arnold Murray",
+      "variant": "e7IuSxcDxZE-church-tribulation",
+      "summary": "Arnold read 1 Thessalonians 4:13–17 in the context of those already dead being with Christ. He interpreted air as spiritual life and clouds as a large company, placing the change into spiritual bodies at the last trumpet. These lexical and prophetic readings are attributed to him, not independently verified translations.",
+      "scripture_mentions": [
+        "1 Thessalonians 4:13–17"
+      ],
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "source_sha256": "a0c05564dd02d55f4bae4064c76504ef7c1eff4b3a7712d837405fa831756f59",
+      "recording_group": "e7IuSxcDxZE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -37650,6 +37969,37 @@
           "start": 2490.688,
           "end": 2541.105,
           "reason": "Seven-thousand question is followed by a captioned eleven-thousand claim; do not silently correct the number before audio review."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "e7IuSxcDxZE",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+      "qa_start": 2129.226,
+      "qa_end": 3373.169,
+      "cursor_seconds": 2421.718,
+      "reviewed_ranges": [
+        {
+          "start": 2129.226,
+          "end": 3373.169
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2421.718,
+          "end": 2427.29,
+          "reason": "Caption says Romans chapter 13 in Esau answer; do not substitute a chapter without audio verification."
+        },
+        {
+          "start": 2926.689,
+          "end": 2938.802,
+          "reason": "Tentative Genesis 6:3 reference and quotation wording need audio; broad ark interpretation retained without silently repairing the citation."
         }
       ],
       "review_status": "partially_reviewed",

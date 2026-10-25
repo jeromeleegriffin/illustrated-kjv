@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T22:19:26.258818+00:00",
+  "updated": "2026-10-25T22:40:00.495799+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -29973,12 +29973,164 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 51,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "judas-death-judgment",
+        "lottery-recreation-family",
+        "child-death-parent-guilt",
+        "god-hates-esau",
+        "ark-peoples",
+        "eve-mother-living-arnold",
+        "michael-archangel-identity",
+        "jury-duty-judging",
+        "christianity-origin",
+        "elect-recognition",
+        "forgiveness",
+        "disability-televised-church",
+        "fly-away-scripture",
+        "satan-pride-expectation",
+        "trumpets-recognized",
+        "church-tribulation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "judas-death-judgment",
+          "start_seconds": 2157.187,
+          "end_seconds": 2205.903,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lottery-recreation-family",
+          "start_seconds": 2219.082,
+          "end_seconds": 2298.663,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-death-parent-guilt",
+          "start_seconds": 2305.369,
+          "end_seconds": 2360.924,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-hates-esau",
+          "start_seconds": 2366.23,
+          "end_seconds": 2484.682,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2489.987,
+          "end_seconds": 2518.348,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eve-mother-living-arnold",
+          "start_seconds": 2524.555,
+          "end_seconds": 2604.801,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-archangel-identity",
+          "start_seconds": 2604.801,
+          "end_seconds": 2698.295,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jury-duty-judging",
+          "start_seconds": 2710.074,
+          "end_seconds": 2747.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christianity-origin",
+          "start_seconds": 2749.98,
+          "end_seconds": 2792.456,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition",
+          "start_seconds": 2802.031,
+          "end_seconds": 2900.997,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2908.505,
+          "end_seconds": 2958.855,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2962.225,
+          "end_seconds": 3019.449,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "disability-televised-church",
+          "start_seconds": 3032.662,
+          "end_seconds": 3077.673,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fly-away-scripture",
+          "start_seconds": 3080.443,
+          "end_seconds": 3162.258,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-pride-expectation",
+          "start_seconds": 3168.498,
+          "end_seconds": 3224.954,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "trumpets-recognized",
+          "start_seconds": 3238.034,
+          "end_seconds": 3277.841,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 3281.477,
+          "end_seconds": 3373.169,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "e7IuSxcDxZE",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "a2485aa5d2539e2cce1eafaa1bef3bac1476c996889c265b094287fd6117f10a",
+        "qa_start": 2129.226,
+        "qa_end": 3373.169,
+        "cursor_seconds": 2421.718,
+        "reviewed_ranges": [
+          {
+            "start": 2129.226,
+            "end": 3373.169
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2421.718,
+            "end": 2427.29,
+            "reason": "Caption says Romans chapter 13 in Esau answer; do not substitute a chapter without audio verification."
+          },
+          {
+            "start": 2926.689,
+            "end": 2938.802,
+            "reason": "Tentative Genesis 6:3 reference and quotation wording need audio; broad ark interpretation retained without silently repairing the citation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2421.718
     },
     {
       "video_id": "e8gesclhsXI",
@@ -39150,13 +39302,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 154,
+    "partially_reviewed": 155,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1126,
+    "pending": 1125,
     "source_changed": 0,
-    "question_occurrences": 1822
+    "question_occurrences": 1838
   }
 }

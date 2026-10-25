@@ -1515,10 +1515,10 @@
         "received_recordings": 300,
         "received_question_candidates": 4641,
         "structural_errors": 0,
-        "semantically_reviewed_recordings": 17,
+        "semantically_reviewed_recordings": 18,
         "blocked_recordings": 1,
-        "awaiting_semantic_review": 282,
-        "approved_linked_answers": 293,
+        "awaiting_semantic_review": 281,
+        "approved_linked_answers": 310,
         "held_candidates": 22,
         "excluded_rhetorical_candidates": 1,
         "excluded_non_question_candidates": 1
