@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T06:06:28.059182+00:00",
+  "updated": "2026-10-25T07:05:50.125479+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -12251,12 +12251,173 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 58,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "babylon-woman",
+        "thomas-not-jesus-twin",
+        "psalm6-grave-remembrance",
+        "quit-job-gods-plan",
+        "gulf-millennium",
+        "cain-parentage",
+        "lose-salvation-repentance",
+        "hate-mistreatment-distance",
+        "rebaptism-backsliding",
+        "bereaved-parent-verse-unidentified",
+        "locust-season-feasts",
+        "spirit-after-death",
+        "multitude-144000",
+        "isaiah-old-new-earth",
+        "familiar-spirit",
+        "locust-army-muslim-claim",
+        "five-months",
+        "angels-became-bad"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "babylon-woman",
+          "start_seconds": 2153.251,
+          "end_seconds": 2224.255,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "thomas-not-jesus-twin",
+          "start_seconds": 2293.891,
+          "end_seconds": 2366.23,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "psalm6-grave-remembrance",
+          "start_seconds": 2367.665,
+          "end_seconds": 2455.619,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "quit-job-gods-plan",
+          "start_seconds": 2455.619,
+          "end_seconds": 2538.202,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-millennium",
+          "start_seconds": 2538.202,
+          "end_seconds": 2617.881,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-parentage",
+          "start_seconds": 2617.881,
+          "end_seconds": 2676.607,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lose-salvation-repentance",
+          "start_seconds": 2676.607,
+          "end_seconds": 2734.732,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hate-mistreatment-distance",
+          "start_seconds": 2734.732,
+          "end_seconds": 2813.143,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebaptism-backsliding",
+          "start_seconds": 2814.278,
+          "end_seconds": 2856.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bereaved-parent-verse-unidentified",
+          "start_seconds": 2856.72,
+          "end_seconds": 2937.367,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "locust-season-feasts",
+          "start_seconds": 2937.367,
+          "end_seconds": 2977.474,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2978.809,
+          "end_seconds": 2993.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "multitude-144000",
+          "start_seconds": 2993.69,
+          "end_seconds": 3065.929,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah-old-new-earth",
+          "start_seconds": 3065.929,
+          "end_seconds": 3113.443,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "familiar-spirit",
+          "start_seconds": 3113.443,
+          "end_seconds": 3148.645,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "locust-army-muslim-claim",
+          "start_seconds": 3148.645,
+          "end_seconds": 3215.378,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-parentage",
+          "start_seconds": 3216.379,
+          "end_seconds": 3295.959,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-months",
+          "start_seconds": 3295.959,
+          "end_seconds": 3346.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-became-bad",
+          "start_seconds": 3348.278,
+          "end_seconds": 3380.744,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5FJDob7ThwE",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "c2bff93906d8c128094ee1732b6381b1f833d38f824df581513652e2fa188077",
+        "qa_start": 2153.251,
+        "qa_end": 3380.744,
+        "cursor_seconds": 2224.255,
+        "reviewed_ranges": [
+          {
+            "start": 2153.251,
+            "end": 3380.744
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2224.255,
+            "end": 2293.891,
+            "reason": "Olive-tree/divine-name explanation contains uncertain lexical forms and spelling; retain for source/audio checking rather than publish a reconstructed Hebrew or Greek derivation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2224.255
     },
     {
       "video_id": "5ON5KcO3TkY",
@@ -12287,12 +12448,155 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "five-months",
+        "in-not-of-world",
+        "sharing-credit-teachers",
+        "fallen-angels-born",
+        "word-not-pass",
+        "transplant-family-religious-pressure",
+        "hair-covering-angels",
+        "women-teaching",
+        "abraham-family",
+        "satan-wilderness-person",
+        "honor-parents-commandment",
+        "cursed-fig-tree",
+        "amen-meaning",
+        "capital-punishment"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "five-months",
+          "start_seconds": 2108.239,
+          "end_seconds": 2162.326,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "in-not-of-world",
+          "start_seconds": 2162.326,
+          "end_seconds": 2199.931,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sharing-credit-teachers",
+          "start_seconds": 2199.931,
+          "end_seconds": 2255.519,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angels-born",
+          "start_seconds": 2362.393,
+          "end_seconds": 2465.696,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "word-not-pass",
+          "start_seconds": 2465.696,
+          "end_seconds": 2516.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "transplant-family-religious-pressure",
+          "start_seconds": 2518.249,
+          "end_seconds": 2581.879,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hair-covering-angels",
+          "start_seconds": 2585.549,
+          "end_seconds": 2727.157,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-teaching",
+          "start_seconds": 2727.157,
+          "end_seconds": 2863.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "abraham-family",
+          "start_seconds": 2864.528,
+          "end_seconds": 2950.847,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-wilderness-person",
+          "start_seconds": 2950.847,
+          "end_seconds": 3043.874,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "honor-parents-commandment",
+          "start_seconds": 3043.874,
+          "end_seconds": 3079.276,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cursed-fig-tree",
+          "start_seconds": 3082.079,
+          "end_seconds": 3153.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "amen-meaning",
+          "start_seconds": 3156.653,
+          "end_seconds": 3191.154,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "capital-punishment",
+          "start_seconds": 3191.154,
+          "end_seconds": 3335.799,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-months",
+          "start_seconds": 3337.2,
+          "end_seconds": 3373.57,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5P-lIqTeuwc",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "3ef56c6b7f03d6d5feca68af233c7abe05a7a4a9fc4d69528161debe6a45e51c",
+        "qa_start": 2108.239,
+        "qa_end": 3373.57,
+        "cursor_seconds": 2258.856,
+        "reviewed_ranges": [
+          {
+            "start": 2108.239,
+            "end": 3373.57
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2258.856,
+            "end": 2360.691,
+            "reason": "Caregiver letter is only partly read and no explicit decision question is supplied; do not reconstruct a treatment or end-of-life choice."
+          },
+          {
+            "start": 2391.088,
+            "end": 2399.463,
+            "reason": "Hebrew derivation in Genesis 6 answer is damaged; theological interpretation retained separately, lexical claim withheld."
+          },
+          {
+            "start": 2831.195,
+            "end": 2837.167,
+            "reason": "Named father of four prophetess daughters is inconsistent in captions; do not silently correct or publish the example."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2258.856
     },
     {
       "video_id": "5PIR29PSykA",
@@ -12305,12 +12609,170 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 19,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "stephen-unpardonable-daniel",
+        "seals-trumps-vials",
+        "rapture-history-claim",
+        "eternity-same-age",
+        "paradise-gulf",
+        "pray-father-name",
+        "resurrection-meaning",
+        "anointing-sick",
+        "child-discipline",
+        "teaching-passover-child",
+        "disabled-witness-service",
+        "genesis322-adam-tree-life",
+        "antichrist-recognition-protection",
+        "watchman-definition",
+        "nelson-study-bible",
+        "whited-wall-acts23",
+        "body-donation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "stephen-unpardonable-daniel",
+          "start_seconds": 2214.44,
+          "end_seconds": 2307.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seals-trumps-vials",
+          "start_seconds": 2307.28,
+          "end_seconds": 2371.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rapture-history-claim",
+          "start_seconds": 2371.319,
+          "end_seconds": 2433.03,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eternity-same-age",
+          "start_seconds": 2433.04,
+          "end_seconds": 2482.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf",
+          "start_seconds": 2514.48,
+          "end_seconds": 2618.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pray-father-name",
+          "start_seconds": 2618.64,
+          "end_seconds": 2682.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 2682.52,
+          "end_seconds": 2821.549,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-sick",
+          "start_seconds": 2839.88,
+          "end_seconds": 2853.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-discipline",
+          "start_seconds": 2821.559,
+          "end_seconds": 2937.549,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "teaching-passover-child",
+          "start_seconds": 2940.72,
+          "end_seconds": 3037.03,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "disabled-witness-service",
+          "start_seconds": 3037.04,
+          "end_seconds": 3090.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "genesis322-adam-tree-life",
+          "start_seconds": 3090.4,
+          "end_seconds": 3177.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-recognition-protection",
+          "start_seconds": 3177.96,
+          "end_seconds": 3223.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "watchman-definition",
+          "start_seconds": 3223.839,
+          "end_seconds": 3233.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nelson-study-bible",
+          "start_seconds": 3233.0,
+          "end_seconds": 3242.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "whited-wall-acts23",
+          "start_seconds": 3242.68,
+          "end_seconds": 3296.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "body-donation",
+          "start_seconds": 3296.079,
+          "end_seconds": 3349.829,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5PIR29PSykA",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "bf42f06c848067d981bb871f254b4bd070fa0502da7602a482e25993b5c2d3af",
+        "qa_start": 2133.079,
+        "qa_end": 3378.96,
+        "cursor_seconds": 2137.68,
+        "reviewed_ranges": [
+          {
+            "start": 2133.079,
+            "end": 3378.96
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2137.68,
+            "end": 2214.44,
+            "reason": "Star name and Hebrew spelling are uncertain in the captions; historical 2012 celestial discussion requires clarification, not a reconstructed lexical or astronomical claim."
+          },
+          {
+            "start": 2482.599,
+            "end": 2514.47,
+            "reason": "Conception-related listener question is not read; only a response and chapter/verse hesitation appear. Do not invent the decision being asked about."
+          },
+          {
+            "start": 3349.839,
+            "end": 3378.96,
+            "reason": "Blasphemy answer is interrupted and explicitly held to another program; requested definitions of hell are not answered here."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2137.68
     },
     {
       "video_id": "5UZ7EofaJAg",
@@ -34661,13 +35123,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 129,
+    "partially_reviewed": 132,
     "fully_reviewed": 10,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1156,
+    "pending": 1153,
     "source_changed": 0,
-    "question_occurrences": 1332
+    "question_occurrences": 1381
   }
 }
