@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T08:58:46.915927+00:00",
+  "updated": "2026-10-25T10:05:00.774932+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -13421,12 +13421,170 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 66,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "lose-salvation-repentance",
+        "ages-duration-arnold",
+        "adam-strong120-varied",
+        "elect-past-wrongdoing",
+        "millennium-second-chance",
+        "repentance-consequences-arnold",
+        "passion-movie-arnold",
+        "kenite-possession-arnold",
+        "gulf-millennium",
+        "bride-christ",
+        "deathbed-recognition-arnold",
+        "prayer-healing-request-arnold",
+        "prayer-peaceful-death-arnold",
+        "soul-spirit-grave-correction",
+        "god-title-name-arnold",
+        "cain-parentage",
+        "communion-home"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "lose-salvation-repentance",
+          "start_seconds": 2110.54,
+          "end_seconds": 2247.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ages-duration-arnold",
+          "start_seconds": 2247.95,
+          "end_seconds": 2293.82,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adam-strong120-varied",
+          "start_seconds": 2293.82,
+          "end_seconds": 2368.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-past-wrongdoing",
+          "start_seconds": 2368.97,
+          "end_seconds": 2439.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-second-chance",
+          "start_seconds": 2439.1,
+          "end_seconds": 2525.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "repentance-consequences-arnold",
+          "start_seconds": 2525.86,
+          "end_seconds": 2607.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "passion-movie-arnold",
+          "start_seconds": 2607.57,
+          "end_seconds": 2643.01,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-possession-arnold",
+          "start_seconds": 2643.01,
+          "end_seconds": 2714.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-millennium",
+          "start_seconds": 2714.41,
+          "end_seconds": 2755.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bride-christ",
+          "start_seconds": 2791.59,
+          "end_seconds": 2850.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "deathbed-recognition-arnold",
+          "start_seconds": 2850.51,
+          "end_seconds": 2918.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prayer-healing-request-arnold",
+          "start_seconds": 2936.47,
+          "end_seconds": 2960.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prayer-peaceful-death-arnold",
+          "start_seconds": 2960.42,
+          "end_seconds": 3030.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "soul-spirit-grave-correction",
+          "start_seconds": 3111.34,
+          "end_seconds": 3173.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-title-name-arnold",
+          "start_seconds": 3173.04,
+          "end_seconds": 3301.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-parentage",
+          "start_seconds": 3301.63,
+          "end_seconds": 3346.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "communion-home",
+          "start_seconds": 3346.18,
+          "end_seconds": 3368.93,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5WfwkUlCgAY",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "c50d43cd3d339eceed5c5af69ec772fb431b1d14d12347788c9092bbff31b493",
+        "qa_start": 2107.51,
+        "qa_end": 3368.93,
+        "cursor_seconds": 2755.65,
+        "reviewed_ranges": [
+          {
+            "start": 2107.51,
+            "end": 3368.93
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2755.65,
+            "end": 2791.59,
+            "reason": "Listener asks form and timing of fallen angels; Arnold defers explanation to Revelation 12 rather than finishing both parts here."
+          },
+          {
+            "start": 2918.45,
+            "end": 2936.47,
+            "reason": "Follow-up about asking the Father to relay a message is ambiguous; Arnold explicitly says he does not understand its referent."
+          },
+          {
+            "start": 3030.79,
+            "end": 3111.34,
+            "reason": "Marilyn’s actual ministry question is not read in the saved captions; only encouragement to her and her husband is present."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2755.65
     },
     {
       "video_id": "5Y3N_TT5L_o",
@@ -13457,12 +13615,174 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 31,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "ruddy-meaning",
+        "millennium-second-chance",
+        "repeat-forgiven-sin-arnold",
+        "forgiven-sins-judgment",
+        "assurance-forgiveness",
+        "john5-graves-arnold",
+        "god-remember-blotted-arnold",
+        "pray-father-name",
+        "nephilim-second-influx-arnold",
+        "angel-human-reproduction",
+        "first-future-spirit-difference",
+        "deceived-not-final-doom-arnold",
+        "sinless-claim-1john",
+        "satan-visible-body",
+        "wife-bride",
+        "antichrist-immanuel-name",
+        "ark-covenant-location-arnold",
+        "adamites-identity-arnold",
+        "glastonbury-tradition-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "ruddy-meaning",
+          "start_seconds": 2283.75,
+          "end_seconds": 2350.25,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-second-chance",
+          "start_seconds": 2350.25,
+          "end_seconds": 2389.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "repeat-forgiven-sin-arnold",
+          "start_seconds": 2389.45,
+          "end_seconds": 2450.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiven-sins-judgment",
+          "start_seconds": 2450.21,
+          "end_seconds": 2521.58,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "assurance-forgiveness",
+          "start_seconds": 2521.58,
+          "end_seconds": 2562.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john5-graves-arnold",
+          "start_seconds": 2562.16,
+          "end_seconds": 2625.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-remember-blotted-arnold",
+          "start_seconds": 2625.72,
+          "end_seconds": 2698.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pray-father-name",
+          "start_seconds": 2698.3,
+          "end_seconds": 2791.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nephilim-second-influx-arnold",
+          "start_seconds": 2791.79,
+          "end_seconds": 2830.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angel-human-reproduction",
+          "start_seconds": 2830.86,
+          "end_seconds": 2848.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-future-spirit-difference",
+          "start_seconds": 2848.74,
+          "end_seconds": 2887.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "deceived-not-final-doom-arnold",
+          "start_seconds": 2887.28,
+          "end_seconds": 2952.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sinless-claim-1john",
+          "start_seconds": 2952.08,
+          "end_seconds": 2978.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-visible-body",
+          "start_seconds": 2978.68,
+          "end_seconds": 3031.23,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "wife-bride",
+          "start_seconds": 3031.23,
+          "end_seconds": 3117.05,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-immanuel-name",
+          "start_seconds": 3117.05,
+          "end_seconds": 3164.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-covenant-location-arnold",
+          "start_seconds": 3164.66,
+          "end_seconds": 3190.55,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adamites-identity-arnold",
+          "start_seconds": 3190.55,
+          "end_seconds": 3245.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "glastonbury-tradition-arnold",
+          "start_seconds": 3245.14,
+          "end_seconds": 3322.25,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5aA4IAl9cz4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8ea8b9ab5c7ddd8b2f26ac74d1921bbfad2f859754fa4b57ce82a0a7fc0e222c",
+        "qa_start": 2283.75,
+        "qa_end": 3378.01,
+        "cursor_seconds": 3322.25,
+        "reviewed_ranges": [
+          {
+            "start": 2283.75,
+            "end": 3378.01
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3322.25,
+            "end": 3378.01,
+            "reason": "1 Thessalonians answer includes a captioned closing claim that the living can precede the dead, conflicting with its own immediate explanation; audio needed before approving the full answer."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3322.25
     },
     {
       "video_id": "5bHCNbPeCKA",
@@ -13475,12 +13795,100 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 9,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "illgotten-wealth-arnold",
+        "word-void-traditions-arnold",
+        "hellenists-ancestry-arnold",
+        "endtime-temples-arnold",
+        "millennium-sequence",
+        "genesis-our-image",
+        "church-tribulation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "illgotten-wealth-arnold",
+          "start_seconds": 2227.0,
+          "end_seconds": 2329.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "word-void-traditions-arnold",
+          "start_seconds": 2329.04,
+          "end_seconds": 2423.59,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hellenists-ancestry-arnold",
+          "start_seconds": 2453.04,
+          "end_seconds": 2465.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "endtime-temples-arnold",
+          "start_seconds": 2791.52,
+          "end_seconds": 2862.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-sequence",
+          "start_seconds": 2862.44,
+          "end_seconds": 2981.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "genesis-our-image",
+          "start_seconds": 2981.4,
+          "end_seconds": 3096.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 3096.8,
+          "end_seconds": 3376.56,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5bHCNbPeCKA",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "e554ecb83fc4eb0acfa9b7830c09c661d27f38a2d2d13a27a62213ec7495cbbe",
+        "qa_start": 2224.48,
+        "qa_end": 3376.56,
+        "cursor_seconds": 2423.59,
+        "reviewed_ranges": [
+          {
+            "start": 2224.48,
+            "end": 3376.56
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2423.59,
+            "end": 2628.2,
+            "reason": "Compound listener question says second Adam but answer moves into sixth/eighth-day creation and DNA claims; do not silently repair its disputed wording or infer the missing intended distinction. Separate brief Hellenist question retained."
+          },
+          {
+            "start": 2628.2,
+            "end": 2791.52,
+            "reason": "Passover question contains an unreadable listener phrase and unclear numerical calendar wording; preserve all cues for audio review."
+          },
+          {
+            "start": 3096.8,
+            "end": 3376.56,
+            "reason": "Requested explanation extends through 1 Thessalonians 4:18, but Arnold explicitly runs out of time before completing the full requested passage. Usable partial explanation is attributed and qualified."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2423.59
     },
     {
       "video_id": "5bJ4Qy_WvrA",
@@ -13493,12 +13901,153 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 52,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "tea-party-wound-arnold",
+        "church-rummage-expulsion",
+        "ezekiel18-penance-arnold",
+        "kings-north-south-arnold",
+        "sixth-eighth-race-arnold",
+        "antichrist-recognition-protection",
+        "paradise-gulf",
+        "marriage-license-arnold",
+        "ecclesiastes-delayed-justice",
+        "earth-after-millennium",
+        "discern-preacher-judge",
+        "satan-names-arnold",
+        "dake-bible",
+        "nations-after-first-age",
+        "family-birth-first-age-arnold",
+        "wormwood-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "tea-party-wound-arnold",
+          "start_seconds": 2110.77,
+          "end_seconds": 2174.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-rummage-expulsion",
+          "start_seconds": 2174.91,
+          "end_seconds": 2228.09,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel18-penance-arnold",
+          "start_seconds": 2228.09,
+          "end_seconds": 2277.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kings-north-south-arnold",
+          "start_seconds": 2277.21,
+          "end_seconds": 2305.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-eighth-race-arnold",
+          "start_seconds": 2305.94,
+          "end_seconds": 2403.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-recognition-protection",
+          "start_seconds": 2403.0,
+          "end_seconds": 2466.33,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf",
+          "start_seconds": 2466.33,
+          "end_seconds": 2520.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-license-arnold",
+          "start_seconds": 2520.92,
+          "end_seconds": 2600.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ecclesiastes-delayed-justice",
+          "start_seconds": 2600.83,
+          "end_seconds": 2667.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "earth-after-millennium",
+          "start_seconds": 2667.86,
+          "end_seconds": 2745.34,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "discern-preacher-judge",
+          "start_seconds": 2745.34,
+          "end_seconds": 2820.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-names-arnold",
+          "start_seconds": 2820.88,
+          "end_seconds": 2936.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dake-bible",
+          "start_seconds": 2936.4,
+          "end_seconds": 3053.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nations-after-first-age",
+          "start_seconds": 3053.45,
+          "end_seconds": 3120.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-birth-first-age-arnold",
+          "start_seconds": 3120.18,
+          "end_seconds": 3222.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "wormwood-arnold",
+          "start_seconds": 3362.96,
+          "end_seconds": 3392.69,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5bJ4Qy_WvrA",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "bb626ce778d827fa5c1ce0a511b50de5f4179dc96dde54d023b0cca19b5c3269",
+        "qa_start": 2108.61,
+        "qa_end": 3392.69,
+        "cursor_seconds": 3222.42,
+        "reviewed_ranges": [
+          {
+            "start": 2108.61,
+            "end": 3392.69
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3222.42,
+            "end": 3362.96,
+            "reason": "Question about false Christs and prophets is captioned Matthew 23:24; answer discusses gnats, camels and woes. Verify the intended passage before approving the combined question and interpretation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3222.42
     },
     {
       "video_id": "5bkEEXKxnoQ",
@@ -13511,12 +14060,139 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 18,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "eternity-earth-dennis",
+        "john5-graves-dennis",
+        "john3-wind-spirit-dennis",
+        "companion-features-dennis",
+        "translations-dennis-preference",
+        "eve-aware-conception-dennis",
+        "circumcision-dennis",
+        "psalm119-alphabet-dennis",
+        "heaven-talk-dennis",
+        "split-tithe-dennis",
+        "baptize-words-dennis",
+        "death-not-immediate-lake-dennis",
+        "figtree-timing-dennis",
+        "hell-final-destruction-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "eternity-earth-dennis",
+          "start_seconds": 2263.0,
+          "end_seconds": 2347.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john5-graves-dennis",
+          "start_seconds": 2347.2,
+          "end_seconds": 2440.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john3-wind-spirit-dennis",
+          "start_seconds": 2440.52,
+          "end_seconds": 2504.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "companion-features-dennis",
+          "start_seconds": 2508.08,
+          "end_seconds": 2660.84,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "translations-dennis-preference",
+          "start_seconds": 2660.84,
+          "end_seconds": 2733.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eve-aware-conception-dennis",
+          "start_seconds": 2733.4,
+          "end_seconds": 2782.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "circumcision-dennis",
+          "start_seconds": 2782.96,
+          "end_seconds": 2870.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "psalm119-alphabet-dennis",
+          "start_seconds": 2870.2,
+          "end_seconds": 2974.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "heaven-talk-dennis",
+          "start_seconds": 2974.28,
+          "end_seconds": 3029.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "split-tithe-dennis",
+          "start_seconds": 3029.16,
+          "end_seconds": 3053.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptize-words-dennis",
+          "start_seconds": 3153.88,
+          "end_seconds": 3230.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "death-not-immediate-lake-dennis",
+          "start_seconds": 3230.08,
+          "end_seconds": 3280.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "figtree-timing-dennis",
+          "start_seconds": 3280.2,
+          "end_seconds": 3318.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-final-destruction-dennis",
+          "start_seconds": 3318.24,
+          "end_seconds": 3386.56,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5bkEEXKxnoQ",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "3940a7954e0f53667e7dd296a32ee57e54381eed3089f39987da6a08d1a436cd",
+        "qa_start": 2260.32,
+        "qa_end": 3386.56,
+        "cursor_seconds": 3053.24,
+        "reviewed_ranges": [
+          {
+            "start": 2260.32,
+            "end": 3386.56
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3053.24,
+            "end": 3153.88,
+            "reason": "Gap-theory answer invokes Luke 4 and Isaiah 61:2 but its captioned first/second-Advent clauses conflict; preserve the wording and require audio before approving the explanation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3053.24
     },
     {
       "video_id": "5h5CUhGkb-I",
@@ -13574,12 +14250,139 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 112,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "antichrist-first-dennis",
+        "felon-forgiveness-dennis",
+        "self-forgiveness-dennis",
+        "minister-pay-dennis",
+        "joshua-hardening-dennis",
+        "shadow-government-dennis",
+        "murder-judgment-dennis",
+        "elect-recognition-dennis",
+        "millennium-relative-help-dennis",
+        "witnesses-recognition-dennis",
+        "refuse-spirit-dennis",
+        "michael-heaven-battle-dennis",
+        "born-water-dennis",
+        "cain-parentage-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "antichrist-first-dennis",
+          "start_seconds": 2255.84,
+          "end_seconds": 2340.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "felon-forgiveness-dennis",
+          "start_seconds": 2340.08,
+          "end_seconds": 2404.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "self-forgiveness-dennis",
+          "start_seconds": 2404.64,
+          "end_seconds": 2518.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "minister-pay-dennis",
+          "start_seconds": 2518.32,
+          "end_seconds": 2644.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "joshua-hardening-dennis",
+          "start_seconds": 2644.48,
+          "end_seconds": 2751.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "shadow-government-dennis",
+          "start_seconds": 2751.28,
+          "end_seconds": 2816.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "murder-judgment-dennis",
+          "start_seconds": 2816.88,
+          "end_seconds": 2931.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition-dennis",
+          "start_seconds": 2931.28,
+          "end_seconds": 2974.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-relative-help-dennis",
+          "start_seconds": 2974.8,
+          "end_seconds": 3018.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-recognition-dennis",
+          "start_seconds": 3018.16,
+          "end_seconds": 3070.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "refuse-spirit-dennis",
+          "start_seconds": 3070.88,
+          "end_seconds": 3087.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-heaven-battle-dennis",
+          "start_seconds": 3087.6,
+          "end_seconds": 3133.12,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "born-water-dennis",
+          "start_seconds": 3133.12,
+          "end_seconds": 3221.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-parentage-dennis",
+          "start_seconds": 3221.04,
+          "end_seconds": 3339.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-recognition-dennis",
+          "start_seconds": 3339.6,
+          "end_seconds": 3378.56,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5huB9YWgHyI",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "b0801cbb086e2bd834bb74fd7e7d8e6cd611b5eafb4ee314c1639c2b69863b0b",
+        "qa_start": 2250.72,
+        "qa_end": 3378.56,
+        "cursor_seconds": 3378.56,
+        "reviewed_ranges": [
+          {
+            "start": 2250.72,
+            "end": 3378.56
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3378.56
     },
     {
       "video_id": "5sShsS4flLo",
@@ -35723,13 +36526,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 133,
-    "fully_reviewed": 13,
+    "partially_reviewed": 138,
+    "fully_reviewed": 14,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1149,
+    "pending": 1143,
     "source_changed": 0,
-    "question_occurrences": 1451
+    "question_occurrences": 1538
   }
 }
