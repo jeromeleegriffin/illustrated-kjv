@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T03:58:35.069008+00:00",
+  "updated": "2026-10-25T04:35:51.344025+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -11006,12 +11006,146 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "video-games-moderation",
+        "old-sacrificial-offerings",
+        "prepay-utilities-tribulation",
+        "rest-dead-revelation20",
+        "millennium-teachers-students-dennis",
+        "law-ordinances-dennis",
+        "resting-place-abide-dennis",
+        "sun-light-new-jerusalem",
+        "disabled-service-dennis",
+        "soul-body-god-knows",
+        "prepaid-groceries-antichrist",
+        "chapel-denomination",
+        "salvation-not-only-elect",
+        "lake-fire-purpose",
+        "devil-caricature-origin"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "video-games-moderation",
+          "start_seconds": 2227.79,
+          "end_seconds": 2458.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "old-sacrificial-offerings",
+          "start_seconds": 2458.66,
+          "end_seconds": 2533.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prepay-utilities-tribulation",
+          "start_seconds": 2533.5,
+          "end_seconds": 2572.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rest-dead-revelation20",
+          "start_seconds": 2572.0,
+          "end_seconds": 2678.81,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-teachers-students-dennis",
+          "start_seconds": 2678.81,
+          "end_seconds": 2716.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "law-ordinances-dennis",
+          "start_seconds": 2716.68,
+          "end_seconds": 2803.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resting-place-abide-dennis",
+          "start_seconds": 2803.63,
+          "end_seconds": 2881.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sun-light-new-jerusalem",
+          "start_seconds": 2881.14,
+          "end_seconds": 2929.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "disabled-service-dennis",
+          "start_seconds": 2929.69,
+          "end_seconds": 2987.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "soul-body-god-knows",
+          "start_seconds": 2987.68,
+          "end_seconds": 3024.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prepaid-groceries-antichrist",
+          "start_seconds": 3024.99,
+          "end_seconds": 3145.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-denomination",
+          "start_seconds": 3145.57,
+          "end_seconds": 3167.53,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "salvation-not-only-elect",
+          "start_seconds": 3167.53,
+          "end_seconds": 3196.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lake-fire-purpose",
+          "start_seconds": 3196.89,
+          "end_seconds": 3307.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "devil-caricature-origin",
+          "start_seconds": 3307.8,
+          "end_seconds": 3390.15,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4XAGRXsr74Y",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "2a5264f1665dcdfe7480eb9ae966ece131446e3f1660d41c85b00974af8f46a4",
+        "qa_start": 2224.36,
+        "qa_end": 3390.15,
+        "cursor_seconds": 3307.8,
+        "reviewed_ranges": [
+          {
+            "start": 2224.36,
+            "end": 3390.15
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3307.8,
+            "end": 3390.15,
+            "reason": "Pastor explicitly defers part of final listener question to the next lecture. Only his limited answer about appearance is approved; origin of imagery remains unanswered in this recording."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3307.8
     },
     {
       "video_id": "4_p9SAYN_Wo",
@@ -11024,12 +11158,160 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 52,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "baptism-salvation-exception",
+        "twins-different-fathers",
+        "forgiveness-limit",
+        "pray-father-name",
+        "marriage-spirit-bodies",
+        "gulf-millennium",
+        "christ-sinless-perfect",
+        "basics-less-knowledge",
+        "fig-tree-last-generation",
+        "israel-two-houses-tribes",
+        "dollar-future-broadcast",
+        "reap-sow-discipline",
+        "world-money-god-motto",
+        "job-troubles-duration",
+        "spirit-age-gender",
+        "memory-study",
+        "church-tribulation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "baptism-salvation-exception",
+          "start_seconds": 2102.2,
+          "end_seconds": 2202.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "twins-different-fathers",
+          "start_seconds": 2202.5,
+          "end_seconds": 2276.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness-limit",
+          "start_seconds": 2276.04,
+          "end_seconds": 2343.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pray-father-name",
+          "start_seconds": 2343.94,
+          "end_seconds": 2419.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-spirit-bodies",
+          "start_seconds": 2419.65,
+          "end_seconds": 2504.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-millennium",
+          "start_seconds": 2504.97,
+          "end_seconds": 2589.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-sinless-perfect",
+          "start_seconds": 2589.15,
+          "end_seconds": 2671.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "basics-less-knowledge",
+          "start_seconds": 2671.1,
+          "end_seconds": 2754.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fig-tree-last-generation",
+          "start_seconds": 2754.72,
+          "end_seconds": 2787.82,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "israel-two-houses-tribes",
+          "start_seconds": 2787.82,
+          "end_seconds": 2868.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dollar-future-broadcast",
+          "start_seconds": 2868.2,
+          "end_seconds": 2924.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "reap-sow-discipline",
+          "start_seconds": 2924.42,
+          "end_seconds": 2996.59,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "world-money-god-motto",
+          "start_seconds": 2996.59,
+          "end_seconds": 3042.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "job-troubles-duration",
+          "start_seconds": 3042.67,
+          "end_seconds": 3116.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-age-gender",
+          "start_seconds": 3116.45,
+          "end_seconds": 3159.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "memory-study",
+          "start_seconds": 3159.79,
+          "end_seconds": 3243.11,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 3243.11,
+          "end_seconds": 3321.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-salvation-exception",
+          "start_seconds": 3321.15,
+          "end_seconds": 3372.57,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4_p9SAYN_Wo",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "a1895fd715f0aad5b322d03269c50e2755d381ea2044b69ad3babd0f03d6c0c7",
+        "qa_start": 2099.1,
+        "qa_end": 3372.57,
+        "cursor_seconds": 3372.57,
+        "reviewed_ranges": [
+          {
+            "start": 2099.1,
+            "end": 3372.57
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3372.57
     },
     {
       "video_id": "4f9pKrEIqBQ",
@@ -11060,12 +11342,125 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 18,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "inri-meaning",
+        "judas-death-judgment",
+        "satan-allowed-test",
+        "antichrist-human-host",
+        "ethnos-meaning-arnold",
+        "born-from-above",
+        "child-accountability-understanding",
+        "ethnos-rulers-predestined",
+        "cloning-arnold-opinion",
+        "starving-children-god",
+        "millennium-sacrifices",
+        "ministry-money-pressure"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "inri-meaning",
+          "start_seconds": 2424.77,
+          "end_seconds": 2472.12,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "judas-death-judgment",
+          "start_seconds": 2472.12,
+          "end_seconds": 2544.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-allowed-test",
+          "start_seconds": 2544.96,
+          "end_seconds": 2632.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-human-host",
+          "start_seconds": 2632.2,
+          "end_seconds": 2684.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ethnos-meaning-arnold",
+          "start_seconds": 2684.78,
+          "end_seconds": 2719.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "born-from-above",
+          "start_seconds": 2719.2,
+          "end_seconds": 2809.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-accountability-understanding",
+          "start_seconds": 2809.98,
+          "end_seconds": 2873.46,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-accountability-understanding",
+          "start_seconds": 2873.46,
+          "end_seconds": 3009.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ethnos-rulers-predestined",
+          "start_seconds": 3009.0,
+          "end_seconds": 3035.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cloning-arnold-opinion",
+          "start_seconds": 3035.45,
+          "end_seconds": 3148.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "starving-children-god",
+          "start_seconds": 3148.98,
+          "end_seconds": 3272.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-sacrifices",
+          "start_seconds": 3272.1,
+          "end_seconds": 3302.46,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ministry-money-pressure",
+          "start_seconds": 3302.46,
+          "end_seconds": 3389.76,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4lvVdhNtkSU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8b682a21048a385c062579dc27c691ec64fbba896aafb437334aa349daa5cca7",
+        "qa_start": 2409.72,
+        "qa_end": 3389.76,
+        "cursor_seconds": 3389.76,
+        "reviewed_ranges": [
+          {
+            "start": 2409.72,
+            "end": 3389.76
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3389.76
     },
     {
       "video_id": "4pmWjZmHK1o",
@@ -33695,13 +34090,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 125,
-    "fully_reviewed": 7,
+    "partially_reviewed": 126,
+    "fully_reviewed": 9,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1163,
+    "pending": 1160,
     "source_changed": 0,
-    "question_occurrences": 1227
+    "question_occurrences": 1271
   }
 }
