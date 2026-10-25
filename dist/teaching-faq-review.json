@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T21:56:18.881812+00:00",
+  "updated": "2026-10-25T22:10:08.338914+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -29300,12 +29300,188 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 41,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "cremation-personal-bible",
+        "church-tribulation",
+        "home-anointing",
+        "evil-spirit-invitation",
+        "satan-visible-body",
+        "high-places-worship",
+        "honor-god-love",
+        "ammi-loammi-hosea",
+        "cremation",
+        "psalm81-correction",
+        "commandments-gods-law",
+        "peter-sheet-people",
+        "peter-sheet-diet",
+        "anointing-proxy-distance",
+        "second-john-support-repent",
+        "nicodemus-fallen-lineage",
+        "graves-christ-crucifixion",
+        "mary-touch-jesus",
+        "kenites-identity",
+        "free-introductory-offer-history",
+        "dan-ephraim-personal-salvation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "cremation-personal-bible",
+          "start_seconds": 2213.344,
+          "end_seconds": 2236.366,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2238.034,
+          "end_seconds": 2312.343,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 2315.779,
+          "end_seconds": 2347.111,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "evil-spirit-invitation",
+          "start_seconds": 2354.985,
+          "end_seconds": 2444.074,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-visible-body",
+          "start_seconds": 2445.942,
+          "end_seconds": 2501.699,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "high-places-worship",
+          "start_seconds": 2503.933,
+          "end_seconds": 2518.148,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "honor-god-love",
+          "start_seconds": 2520.617,
+          "end_seconds": 2570.301,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ammi-loammi-hosea",
+          "start_seconds": 2577.207,
+          "end_seconds": 2692.923,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 2695.291,
+          "end_seconds": 2723.954,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "psalm81-correction",
+          "start_seconds": 2735.598,
+          "end_seconds": 2745.642,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "commandments-gods-law",
+          "start_seconds": 2750.747,
+          "end_seconds": 2760.557,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "peter-sheet-people",
+          "start_seconds": 2761.758,
+          "end_seconds": 2854.951,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "peter-sheet-diet",
+          "start_seconds": 2768.398,
+          "end_seconds": 2892.655,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-proxy-distance",
+          "start_seconds": 2894.557,
+          "end_seconds": 2930.961,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "second-john-support-repent",
+          "start_seconds": 2939.869,
+          "end_seconds": 2970.334,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nicodemus-fallen-lineage",
+          "start_seconds": 2973.236,
+          "end_seconds": 2990.721,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "graves-christ-crucifixion",
+          "start_seconds": 3000.697,
+          "end_seconds": 3039.002,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mary-touch-jesus",
+          "start_seconds": 3046.476,
+          "end_seconds": 3083.112,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenites-identity",
+          "start_seconds": 3089.885,
+          "end_seconds": 3137.233,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "free-introductory-offer-history",
+          "start_seconds": 3139.101,
+          "end_seconds": 3225.155,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dan-ephraim-personal-salvation",
+          "start_seconds": 3301.597,
+          "end_seconds": 3364.227,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "du9TB2ZmwvM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "3807ade887a058f8ff3adcb0dece941d0ef630d714818090d98853726da85259",
+        "qa_start": 2176.34,
+        "qa_end": 3365.895,
+        "cursor_seconds": 3226.656,
+        "reviewed_ranges": [
+          {
+            "start": 2176.34,
+            "end": 3365.895
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3226.656,
+            "end": 3298.527,
+            "reason": "Numbers 12 answer alternates Egyptian/Ethiopian and Median/Medan names; retain pending rather than silently reconstruct the genealogy."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3226.656
     },
     {
       "video_id": "dz-gao8ZXPs",
@@ -29318,12 +29494,136 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 22,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "midian-abraham-reference",
+        "eve-wording-garden",
+        "antichrist-temple",
+        "recognize-spiritual-change",
+        "jesus-childhood-memory",
+        "satan-bound-now",
+        "pauline-privilege-question",
+        "old-testament-needed",
+        "church-tribulation",
+        "arnold-president-question",
+        "apostasy-now",
+        "hebrews10-willful"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "midian-abraham-reference",
+          "start_seconds": 2330.16,
+          "end_seconds": 2382.109,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eve-wording-garden",
+          "start_seconds": 2404.8,
+          "end_seconds": 2454.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-temple",
+          "start_seconds": 2538.119,
+          "end_seconds": 2589.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-spiritual-change",
+          "start_seconds": 2593.56,
+          "end_seconds": 2665.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-childhood-memory",
+          "start_seconds": 2669.339,
+          "end_seconds": 2733.05,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-bound-now",
+          "start_seconds": 2737.26,
+          "end_seconds": 2777.569,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pauline-privilege-question",
+          "start_seconds": 2922.839,
+          "end_seconds": 2990.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "old-testament-needed",
+          "start_seconds": 2996.28,
+          "end_seconds": 3130.01,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 3224.579,
+          "end_seconds": 3268.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "arnold-president-question",
+          "start_seconds": 3298.8,
+          "end_seconds": 3323.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "apostasy-now",
+          "start_seconds": 3329.339,
+          "end_seconds": 3351.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "apostasy-now",
+          "start_seconds": 3351.96,
+          "end_seconds": 3361.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrews10-willful",
+          "start_seconds": 3361.98,
+          "end_seconds": 3368.75,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dz-gao8ZXPs",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "d37024a144a11cdd05a306276889576092417993b477ed750730f67bc5942c20",
+        "qa_start": 2322.119,
+        "qa_end": 3385.26,
+        "cursor_seconds": 2327.579,
+        "reviewed_ranges": [
+          {
+            "start": 2322.119,
+            "end": 3385.26
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2327.579,
+            "end": 2372.03,
+            "reason": "Opening yes conflicts with later distinction of Midianites and Kenites in damaged captions; do not force a same-tribe answer."
+          },
+          {
+            "start": 2457.18,
+            "end": 2484.78,
+            "reason": "Teenager’s actual marriage-question wording is corrupted. Preserve clear Genesis 2:18 response privately until the question can be established."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2327.579
     },
     {
       "video_id": "e-XSOV0GFnQ",
@@ -29336,12 +29636,168 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 18,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "binding-loosing-key",
+        "denomination-criticism-denial",
+        "generational-curses",
+        "sabbath-midnight-boundary",
+        "babylon-location-prophecy",
+        "resurrection-meaning",
+        "antichrist-peace-human-leaders",
+        "luke21-worldwide-signs",
+        "family-favoritism-response",
+        "evolution-origin-question",
+        "love-christ-before-family",
+        "michael-gabriel-earth-life",
+        "other-program-contact-request",
+        "moffatt-publisher-question",
+        "ezekiel16-cloak-covenant",
+        "isaiah117-symbolic-proposal"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "binding-loosing-key",
+          "start_seconds": 2312.94,
+          "end_seconds": 2373.53,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "denomination-criticism-denial",
+          "start_seconds": 2382.42,
+          "end_seconds": 2462.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "generational-curses",
+          "start_seconds": 2476.74,
+          "end_seconds": 2540.109,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-midnight-boundary",
+          "start_seconds": 2547.18,
+          "end_seconds": 2587.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "babylon-location-prophecy",
+          "start_seconds": 2597.52,
+          "end_seconds": 2644.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 2644.44,
+          "end_seconds": 2759.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-peace-human-leaders",
+          "start_seconds": 2803.079,
+          "end_seconds": 2842.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "luke21-worldwide-signs",
+          "start_seconds": 2844.839,
+          "end_seconds": 2902.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-favoritism-response",
+          "start_seconds": 2907.06,
+          "end_seconds": 2920.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "evolution-origin-question",
+          "start_seconds": 2923.319,
+          "end_seconds": 3002.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "love-christ-before-family",
+          "start_seconds": 3010.02,
+          "end_seconds": 3072.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-gabriel-earth-life",
+          "start_seconds": 3165.66,
+          "end_seconds": 3230.089,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "other-program-contact-request",
+          "start_seconds": 3245.16,
+          "end_seconds": 3274.01,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "moffatt-publisher-question",
+          "start_seconds": 3277.5,
+          "end_seconds": 3298.49,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel16-cloak-covenant",
+          "start_seconds": 3301.98,
+          "end_seconds": 3326.569,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah117-symbolic-proposal",
+          "start_seconds": 3326.579,
+          "end_seconds": 3359.21,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "e-XSOV0GFnQ",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "cf1ad37885be93cef74ec9741978dcb5836c4dd7057dec20c26f5160609a7b1f",
+        "qa_start": 2305.02,
+        "qa_end": 3399.599,
+        "cursor_seconds": 2759.28,
+        "reviewed_ranges": [
+          {
+            "start": 2305.02,
+            "end": 3399.599
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2759.28,
+            "end": 2803.069,
+            "reason": "Book/author/completer names in numerics question are corrupted; do not silently replace them with external names."
+          },
+          {
+            "start": 3078.78,
+            "end": 3151.19,
+            "reason": "153/173 arithmetic and Matthew/John reference conflict in captions; the pastor also says he cannot remember original statement."
+          },
+          {
+            "start": 3277.5,
+            "end": 3282.059,
+            "reason": "Publisher and translation names garbled; broad endorsement recorded, precise edition remains pending."
+          },
+          {
+            "start": 3370.2,
+            "end": 3399.589,
+            "reason": "Listener’s exact worms phrase and concluding explanation are damaged; preserve Gehenna explanation privately rather than inventing the question."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2759.28
     },
     {
       "video_id": "e3X0cma18k8",
@@ -38567,13 +39023,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 150,
+    "partially_reviewed": 153,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1130,
+    "pending": 1127,
     "source_changed": 0,
-    "question_occurrences": 1759
+    "question_occurrences": 1808
   }
 }
