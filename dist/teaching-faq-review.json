@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T20:08:33.557034+00:00",
+  "updated": "2026-10-25T20:27:45.230666+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -27875,12 +27875,198 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 41,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "number-seven",
+        "naga-context-interpretation",
+        "new-sin-repentance",
+        "antichrist-visible-person",
+        "belief-salvation-assurance",
+        "child-please-god",
+        "five-months",
+        "compare-kjv-living-bible",
+        "child-fear-possession",
+        "ark-peoples",
+        "elect-recognition",
+        "predestination-freewill",
+        "hardship-punishment",
+        "forgiven-sins-judgment",
+        "hard-times-learning",
+        "three-ages-scripture",
+        "chapel-tv-channel-history",
+        "serve-god-ordinary-job",
+        "honor-parents-commandment",
+        "voodoo-fear-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "number-seven",
+          "start_seconds": 2125.623,
+          "end_seconds": 2160.191,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "number-seven",
+          "start_seconds": 2160.191,
+          "end_seconds": 2173.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "naga-context-interpretation",
+          "start_seconds": 2180.244,
+          "end_seconds": 2206.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "new-sin-repentance",
+          "start_seconds": 2261.191,
+          "end_seconds": 2312.042,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-visible-person",
+          "start_seconds": 2314.211,
+          "end_seconds": 2368.866,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "belief-salvation-assurance",
+          "start_seconds": 2368.866,
+          "end_seconds": 2375.606,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-please-god",
+          "start_seconds": 2378.275,
+          "end_seconds": 2384.781,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-months",
+          "start_seconds": 2386.483,
+          "end_seconds": 2393.824,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "belief-salvation-assurance",
+          "start_seconds": 2405.001,
+          "end_seconds": 2486.416,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "compare-kjv-living-bible",
+          "start_seconds": 2507.537,
+          "end_seconds": 2576.139,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-fear-possession",
+          "start_seconds": 2588.051,
+          "end_seconds": 2660.957,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2672.135,
+          "end_seconds": 2778.108,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition",
+          "start_seconds": 2779.976,
+          "end_seconds": 2833.063,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "predestination-freewill",
+          "start_seconds": 2784.18,
+          "end_seconds": 2833.063,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hardship-punishment",
+          "start_seconds": 2842.205,
+          "end_seconds": 2876.706,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiven-sins-judgment",
+          "start_seconds": 2876.706,
+          "end_seconds": 2891.255,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hard-times-learning",
+          "start_seconds": 2892.689,
+          "end_seconds": 2912.675,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-ages-scripture",
+          "start_seconds": 2916.779,
+          "end_seconds": 3032.629,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-tv-channel-history",
+          "start_seconds": 3038.335,
+          "end_seconds": 3074.071,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "serve-god-ordinary-job",
+          "start_seconds": 3078.074,
+          "end_seconds": 3203.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "honor-parents-commandment",
+          "start_seconds": 3207.736,
+          "end_seconds": 3294.724,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "voodoo-fear-arnold",
+          "start_seconds": 3305.267,
+          "end_seconds": 3374.403,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dLZ03zlO_WI",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+        "qa_start": 2121.285,
+        "qa_end": 3375.572,
+        "cursor_seconds": 2210.641,
+        "reviewed_ranges": [
+          {
+            "start": 2121.285,
+            "end": 3375.572
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2210.641,
+            "end": 2219.083,
+            "reason": "Barb’s actual listener question is not read; retain reply privately without inventing the question."
+          },
+          {
+            "start": 2968.131,
+            "end": 2984.48,
+            "reason": "Starting term for 12000–13000-year chronology is omitted as foreign language; broad three-ages answer approved with that limitation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2210.641
     },
     {
       "video_id": "dNPQj5I42kk",
@@ -27893,12 +28079,177 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 53,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "ten-commandments",
+        "commandments-other-books",
+        "chapel-fall-communion-history",
+        "fear-antichrist",
+        "witnesses-before-antichrist",
+        "laws-after-cross",
+        "wisdom-speaker",
+        "home-anointing",
+        "bereaved-drug-death",
+        "gulf-before-final-judgment",
+        "taken-field",
+        "sharing-faith",
+        "adam-seth-appearance",
+        "millennium-seven-days",
+        "millennium-relative-compassion",
+        "natural-disasters-origin-arnold",
+        "bible-witnessing-book",
+        "elect-first-age"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "ten-commandments",
+          "start_seconds": 2168.499,
+          "end_seconds": 2182.713,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "commandments-other-books",
+          "start_seconds": 2170.701,
+          "end_seconds": 2219.784,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-fall-communion-history",
+          "start_seconds": 2222.552,
+          "end_seconds": 2262.093,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fear-antichrist",
+          "start_seconds": 2269.933,
+          "end_seconds": 2329.093,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-before-antichrist",
+          "start_seconds": 2391.488,
+          "end_seconds": 2436.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "laws-after-cross",
+          "start_seconds": 2438.501,
+          "end_seconds": 2512.609,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "wisdom-speaker",
+          "start_seconds": 2516.98,
+          "end_seconds": 2591.755,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 2594.724,
+          "end_seconds": 2645.509,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bereaved-drug-death",
+          "start_seconds": 2648.512,
+          "end_seconds": 2723.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-before-final-judgment",
+          "start_seconds": 2723.72,
+          "end_seconds": 2793.923,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "taken-field",
+          "start_seconds": 2795.358,
+          "end_seconds": 2894.791,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sharing-faith",
+          "start_seconds": 2896.025,
+          "end_seconds": 2957.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adam-seth-appearance",
+          "start_seconds": 2962.826,
+          "end_seconds": 2998.662,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-seven-days",
+          "start_seconds": 3002.499,
+          "end_seconds": 3100.897,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-relative-compassion",
+          "start_seconds": 3030.693,
+          "end_seconds": 3100.897,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "natural-disasters-origin-arnold",
+          "start_seconds": 3110.773,
+          "end_seconds": 3232.395,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-witnessing-book",
+          "start_seconds": 3272.201,
+          "end_seconds": 3289.853,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-first-age",
+          "start_seconds": 3292.889,
+          "end_seconds": 3363.326,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dNPQj5I42kk",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+        "qa_start": 2165.695,
+        "qa_end": 3365.094,
+        "cursor_seconds": 2399.129,
+        "reviewed_ranges": [
+          {
+            "start": 2165.695,
+            "end": 3365.094
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2399.129,
+            "end": 2424.321,
+            "reason": "Captioned 1290 days/42 months/days longer than months numerical explanation is inconsistent; probable ten-day conclusion approved without correcting arithmetic."
+          },
+          {
+            "start": 2520.35,
+            "end": 2554.818,
+            "reason": "Listener comparison with Genesis 1:26 is not directly resolved; Proverbs wisdom identification approved separately."
+          },
+          {
+            "start": 2619.116,
+            "end": 2628.191,
+            "reason": "Anointing material captioned all of our people; do not substitute olive oil without audio."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2399.129
     },
     {
       "video_id": "dQ-UYyCnJno",
@@ -37322,13 +37673,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 142,
+    "partially_reviewed": 144,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1138,
+    "pending": 1136,
     "source_changed": 0,
-    "question_occurrences": 1625
+    "question_occurrences": 1663
   }
 }

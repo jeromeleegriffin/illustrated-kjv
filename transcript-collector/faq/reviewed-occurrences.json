@@ -6534,6 +6534,108 @@
       "question": "How did Arnold connect ancient Edom with modern Russia?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "new-sin-repentance",
+      "question": "Did Arnold distinguish asking to be saved again from repenting of a new sin?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "antichrist-visible-person",
+      "question": "Did Arnold expect antichrist to be visibly present as a person?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "belief-salvation-assurance",
+      "question": "How did Arnold answer a listener asking how to know they are saved?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "child-please-god",
+      "question": "How did Arnold answer a child asking how to please God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "compare-kjv-living-bible",
+      "question": "Did Arnold permit comparing the KJV with the Living Bible paraphrase?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "hard-times-learning",
+      "question": "Did Arnold say hard times can teach a person?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "chapel-tv-channel-history",
+      "question": "What channel change did Arnold announce in this broadcast?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "serve-god-ordinary-job",
+      "question": "Did Arnold say someone could serve God while working an ordinary sales job?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "voodoo-fear-arnold",
+      "question": "How did Arnold reassure a listener afraid of voodoo?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "commandments-other-books",
+      "question": "Did Arnold say the Ten Commandments are discussed elsewhere in Scripture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "chapel-fall-communion-history",
+      "question": "How did Arnold tell television viewers to join the upcoming fall communion?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "bereaved-drug-death",
+      "question": "How did Arnold comfort a mother whose son died after drug abuse?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "gulf-before-final-judgment",
+      "question": "How did Arnold distinguish Luke 16’s gulf from the final judgment?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "adam-seth-appearance",
+      "question": "Did Arnold say Adam, Abel and Seth all looked like Jesus?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "millennium-relative-compassion",
+      "question": "Did Arnold encourage the elect to help struggling relatives during the millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "natural-disasters-origin-arnold",
+      "question": "Did Arnold attribute every natural disaster directly to God or Satan?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "bible-witnessing-book",
+      "question": "Which book did Arnold recommend for witnessing to members of another church?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -32256,6 +32358,664 @@
       "recording_group": "dJ_M0-FXlw8",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "number-seven",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2125.623,
+      "end": 2160.191,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-number-seven",
+      "summary": "Arnold distinguished seven as spiritual completeness from ten as testimony or responsibility. He urged checking Scripture rather than relying on conflicting ministers.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "number-seven",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2160.191,
+      "end": 2173.57,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-number-seven",
+      "summary": "In the listener’s follow-up, Arnold described spiritual completeness as the whole of what God intended. This is his explanation of biblical numerics, not a rule independently established here.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "naga-context-interpretation",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2180.244,
+      "end": 2206.07,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-naga-context-interpretation",
+      "summary": "Arnold redirected the listener from eating to touching and asserted a sexual sense of the Hebrew word. The Hebrew term is absent from the captions, so it is not reconstructed. This records his interpretation, not an established translation of every occurrence.",
+      "scripture_mentions": [
+        "Genesis 3"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "new-sin-repentance",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2261.191,
+      "end": 2312.042,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-new-sin-repentance",
+      "summary": "Arnold told the teenager not to keep asking to be saved again, while emphasizing repentance for each new sin. He reassured her that forgiven sins need not keep troubling her.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "antichrist-visible-person",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2314.211,
+      "end": 2368.866,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-antichrist-visible-person",
+      "summary": "Arnold said Satan would be visibly present, beautiful and claiming to be Jesus. He appealed to Isaiah 14’s description of a man being cast down. These are his prophetic interpretations.",
+      "scripture_mentions": [
+        "Isaiah 14"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "belief-salvation-assurance",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2368.866,
+      "end": 2375.606,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-belief-salvation-assurance",
+      "summary": "Arnold reassured the teenager on the basis of her belief, saying her questions showed it. He did not present a separate ritual or checklist in this brief answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "child-please-god",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2378.275,
+      "end": 2384.781,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-child-please-god",
+      "summary": "Arnold encouraged the teenager to continue what she was doing after she described studying and asked her questions. He did not give an additional list of requirements.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "five-months",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2386.483,
+      "end": 2393.824,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-five-months",
+      "summary": "Arnold answered five months and directed the listener to Revelation 9. This is his interpretation of antichrist’s period on earth.",
+      "scripture_mentions": [
+        "Revelation 9"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "belief-salvation-assurance",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2405.001,
+      "end": 2486.416,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-belief-salvation-assurance",
+      "summary": "Arnold emphasized belief and John 3:16, then explained everlasting life through his first-earth-age teaching. He said no created soul had yet ceased existing and qualified his objection to the word preexistence. This records his doctrinal explanation.",
+      "scripture_mentions": [
+        "John 3:16"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "compare-kjv-living-bible",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2507.537,
+      "end": 2576.139,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-compare-kjv-living-bible",
+      "summary": "Arnold said yes if it helped, while warning about translation choices. He objected to men rather than Adam in Deuteronomy 32 in his lineage interpretation and recommended using Strong’s with the KJV to study original-language words. The lexical claim is attributed rather than independently certified.",
+      "scripture_mentions": [
+        "Deuteronomy 32"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "child-fear-possession",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2588.051,
+      "end": 2660.957,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-child-fear-possession",
+      "summary": "Arnold answered that evil or familiar spirits were on earth, while reassuring the child that Christ gives power over enemies. He referred to Luke 10:18 onward; this is pastoral reassurance within his religious teaching.",
+      "scripture_mentions": [
+        "Luke 10:18"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ark-peoples",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2672.135,
+      "end": 2778.108,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-ark-peoples",
+      "summary": "Arnold distinguished eight people in the Adamic line from other peoples he believed were aboard the ark. He connected that interpretation with Genesis 6 and his fallen-angel account, and recommended his Genesis video lessons. His racial-origin and ancestry claims are not established genetics.",
+      "scripture_mentions": [
+        "Genesis 6"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "elect-recognition",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2779.976,
+      "end": 2833.063,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-elect-recognition",
+      "summary": "Arnold did not give a test for identifying an individual as elect. He described God choosing them before the earth’s foundation and intervening in their lives, referring approximately to Romans 8:26–28. The identification question was not directly resolved.",
+      "scripture_mentions": [
+        "Romans 8:26–28"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "predestination-freewill",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2784.18,
+      "end": 2833.063,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-predestination-freewill",
+      "summary": "Arnold said the elect have free will in a sense while God can intervene in their lives. He also said their choices can bring trouble and that God corrects them.",
+      "scripture_mentions": [
+        "Romans 8"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "hardship-punishment",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2842.205,
+      "end": 2876.706,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-hardship-punishment",
+      "summary": "Arnold rejected the idea that God forgives a sin and then punishes that same forgiven sin anyway. He emphasized the sincerity of forgiveness; this answer did not address every cause of hardship.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "forgiven-sins-judgment",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2876.706,
+      "end": 2891.255,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-forgiven-sins-judgment",
+      "summary": "Arnold distinguished repented sins, which he said were erased, from unrepented wrongdoing for which a person remains accountable.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "hard-times-learning",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2892.689,
+      "end": 2912.675,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-hard-times-learning",
+      "summary": "Arnold said they can, giving mistakes and their unpleasant consequences as an example of learning not to repeat something. He did not say every hardship was caused by the sufferer’s wrongdoing.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "three-ages-scripture",
+      "video_id": "dLZ03zlO_WI",
+      "start": 2916.779,
+      "end": 3032.629,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-three-ages-scripture",
+      "summary": "Arnold recommended 2 Peter 3, his reading of Genesis 1:1–2, and Companion Bible appendix 146 for three earth ages. He distinguished the planet’s age from his dates for the present age. A captioned starting term for the 12,000–13,000-year figure is missing, so no identity for it is supplied. His chronology is a doctrinal claim.",
+      "scripture_mentions": [
+        "2 Peter 3",
+        "Genesis 1:1–2",
+        "Companion Bible appendix 146"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "chapel-tv-channel-history",
+      "video_id": "dLZ03zlO_WI",
+      "start": 3038.335,
+      "end": 3074.071,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-chapel-tv-channel-history",
+      "summary": "Arnold said the program had moved for more broadcast hours and suggested checking the religion menu. Dennis briefly supplied channel 323 at Arnold’s request. This is historical broadcast information, not a current channel listing.",
+      "scripture_mentions": [],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "serve-god-ordinary-job",
+      "video_id": "dLZ03zlO_WI",
+      "start": 3078.074,
+      "end": 3203.8,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-serve-god-ordinary-job",
+      "summary": "Arnold said earning a living and setting a Christian example at work could be service to God. He encouraged study and said people seeking instruction might indicate a ministry opportunity, rather than telling the listener to leave his job.",
+      "scripture_mentions": [
+        "Proverbs 23:4"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "honor-parents-commandment",
+      "video_id": "dLZ03zlO_WI",
+      "start": 3207.736,
+      "end": 3294.724,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-honor-parents-commandment",
+      "summary": "Arnold said honoring parents continues after marriage, citing Mark 7:10 and Exodus 20. He also allowed setting oneself apart from harmful parental conduct and said parents should not necessarily interfere in a married child’s personal life.",
+      "scripture_mentions": [
+        "Mark 7:10",
+        "Exodus 20"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "voodoo-fear-arnold",
+      "video_id": "dLZ03zlO_WI",
+      "start": 3305.267,
+      "end": 3374.403,
+      "teacher": "Arnold Murray",
+      "variant": "dLZ03zlO_WI-voodoo-fear-arnold",
+      "summary": "Arnold rejected the listener’s fear of voodoo attaching to her, describing trickery and sometimes evil spirits. He appealed to Luke 10:18 and Christian confidence. This records his pastoral answer, not a diagnosis of the listener or confirmation of a supernatural attack.",
+      "scripture_mentions": [
+        "Luke 10:18"
+      ],
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "source_sha256": "a87e84eceb9eb4c47d31189d0ea408b15a156e68cce0154ba2755cfb09d5da58",
+      "recording_group": "dLZ03zlO_WI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ten-commandments",
+      "video_id": "dNPQj5I42kk",
+      "start": 2168.499,
+      "end": 2182.713,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-ten-commandments",
+      "summary": "Arnold directed the listener to Exodus 20 for the Ten Commandments.",
+      "scripture_mentions": [
+        "Exodus 20"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "commandments-other-books",
+      "video_id": "dNPQj5I42kk",
+      "start": 2170.701,
+      "end": 2219.784,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-commandments-other-books",
+      "summary": "Arnold said yes and connected Christ’s two commandments with the ten, dividing them into spiritual and civil responsibilities. He also distinguished murder from killing in his reading of the commandment. This records his explanation without supplying a precise Gospel citation he did not give.",
+      "scripture_mentions": [
+        "Exodus 20"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "chapel-fall-communion-history",
+      "video_id": "dNPQj5I42kk",
+      "start": 2222.552,
+      "end": 2262.093,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-chapel-fall-communion-history",
+      "summary": "Arnold asked viewers of that live Acts series to have the ingredients ready for communion in the next broadcast. This was an announcement relative to that recording, not a current event date or an instruction that every named festival was being held then.",
+      "scripture_mentions": [],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "fear-antichrist",
+      "video_id": "dNPQj5I42kk",
+      "start": 2269.933,
+      "end": 2329.093,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-fear-antichrist",
+      "summary": "Arnold reassured the listener through his elect testimony teaching, referring to Mark 13, Luke 21 and Christ’s authority over enemies in Luke 10:19. He said the Holy Spirit would supply speech rather than requiring a rehearsed defense.",
+      "scripture_mentions": [
+        "Mark 13",
+        "Luke 21",
+        "Luke 10:19"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "witnesses-before-antichrist",
+      "video_id": "dNPQj5I42kk",
+      "start": 2391.488,
+      "end": 2436.4,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-witnesses-before-antichrist",
+      "summary": "Arnold said the witnesses would probably precede false Messiah by about ten days after the period’s shortening. His probably is retained. The captions give a problematic 1290-day and 42-month comparison; that numerical explanation remains held rather than silently repaired.",
+      "scripture_mentions": [],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "laws-after-cross",
+      "video_id": "dNPQj5I42kk",
+      "start": 2438.501,
+      "end": 2512.609,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-laws-after-cross",
+      "summary": "Arnold rejected the premise that Christ introduced an unrelated new law. He described fulfillment and continuity, recommending both apostles and prophets and connecting the Old and New Testaments.",
+      "scripture_mentions": [
+        "Zechariah 14",
+        "2 Peter 3:1–2"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "wisdom-speaker",
+      "video_id": "dNPQj5I42kk",
+      "start": 2516.98,
+      "end": 2591.755,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-wisdom-speaker",
+      "summary": "Arnold identified wisdom as the speaker in Proverbs 8 by going back to verse 1. He described wisdom with God before creation and urged reading the whole chapter.",
+      "scripture_mentions": [
+        "Proverbs 8:1",
+        "Proverbs 8:30"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "home-anointing",
+      "video_id": "dNPQj5I42kk",
+      "start": 2594.724,
+      "end": 2645.509,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-home-anointing",
+      "summary": "Arnold described an order in Christ’s name rather than a particular written prayer, referring to Luke 10:19 and household anointing. The captioned anointing material is garbled and is not reconstructed. This is his religious practice, not a guarantee of physical security.",
+      "scripture_mentions": [
+        "Luke 10:19"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "bereaved-drug-death",
+      "video_id": "dNPQj5I42kk",
+      "start": 2648.512,
+      "end": 2723.72,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-bereaved-drug-death",
+      "summary": "Arnold said her son was with God but explicitly refused to judge which side of the gulf he occupied. He allowed that factors unknown to listeners could have contributed and described possible help from relatives in his millennium teaching. This is pastoral reassurance, not a medical finding about the death.",
+      "scripture_mentions": [
+        "Luke 16",
+        "Ezekiel 44:20–25"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "gulf-before-final-judgment",
+      "video_id": "dNPQj5I42kk",
+      "start": 2723.72,
+      "end": 2793.923,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-gulf-before-final-judgment",
+      "summary": "Arnold described the separation as reflecting a person’s recorded life and unrepented deeds, while placing the Great White Throne judgment after the millennium. These are his interpretations of the intermediate state and final judgment.",
+      "scripture_mentions": [
+        "Luke 16:19–31"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "taken-field",
+      "video_id": "dNPQj5I42kk",
+      "start": 2795.358,
+      "end": 2894.791,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-taken-field",
+      "summary": "Arnold interpreted the first one taken in Matthew 24 as deceived by antichrist. He urged following the chapter’s subject and warnings rather than treating being taken as automatic rescue.",
+      "scripture_mentions": [
+        "Matthew 24:40–41"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "sharing-faith",
+      "video_id": "dNPQj5I42kk",
+      "start": 2896.025,
+      "end": 2957.72,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-sharing-faith",
+      "summary": "Arnold advised against repeatedly pressuring the person, saying it could drive them away. He recommended judgment, example and sharing naturally rather than hammering the same message.",
+      "scripture_mentions": [],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "adam-seth-appearance",
+      "video_id": "dNPQj5I42kk",
+      "start": 2962.826,
+      "end": 2998.662,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-adam-seth-appearance",
+      "summary": "Arnold said they had their own individual appearances and distinguished that from his explanation of Jesus as the Father’s exact image. He did not give physical descriptions of those individuals.",
+      "scripture_mentions": [],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-seven-days",
+      "video_id": "dNPQj5I42kk",
+      "start": 3002.499,
+      "end": 3100.897,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-millennium-seven-days",
+      "summary": "Arnold affirmed the listener’s connection between helping spiritually dead relatives and temporary separation from temple service in Ezekiel 44. In the following explanation he specifically used seven days of purification, rather than establishing the question’s seven-to-ten-day range.",
+      "scripture_mentions": [
+        "Ezekiel 44"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-relative-compassion",
+      "video_id": "dNPQj5I42kk",
+      "start": 3030.693,
+      "end": 3100.897,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-millennium-relative-compassion",
+      "summary": "Arnold said he thought a person would be ashamed to withhold help when able to give it. He emphasized compassion and temporary purification in his Ezekiel 44 interpretation; he did not explicitly label the refusal a particular sin.",
+      "scripture_mentions": [
+        "Ezekiel 44"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "natural-disasters-origin-arnold",
+      "video_id": "dNPQj5I42kk",
+      "start": 3110.773,
+      "end": 3232.395,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-natural-disasters-origin-arnold",
+      "summary": "Arnold said present natural events could follow the earth’s natural processes rather than a direct act by God or Satan. He traced those processes to his earlier-world overthrow account and predicted restoration. His pole, geology and chronology explanations are unverified doctrinal and scientific claims.",
+      "scripture_mentions": [],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "bible-witnessing-book",
+      "video_id": "dNPQj5I42kk",
+      "start": 3272.201,
+      "end": 3289.853,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-bible-witnessing-book",
+      "summary": "Arnold recommended the Bible as the book for witnessing truth. He declined to name the particular church and did not recommend an additional named handbook.",
+      "scripture_mentions": [],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "elect-first-age",
+      "video_id": "dNPQj5I42kk",
+      "start": 3292.889,
+      "end": 3363.326,
+      "teacher": "Arnold Murray",
+      "variant": "dNPQj5I42kk-elect-first-age",
+      "summary": "Arnold said those who stood against Satan in his first-earth-age teaching came willingly to help misled brothers and sisters. He connected their purpose with witnessing in Mark 13 and described their destiny. This is his doctrinal account, not independently verified history.",
+      "scripture_mentions": [
+        "Mark 13"
+      ],
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "source_sha256": "4880ea8691c70a4fbf6fc6ff29c0896eb7fc77cc0448058ad98a096e84769dad",
+      "recording_group": "dNPQj5I42kk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -33213,6 +33973,73 @@
           "start": 2751.381,
           "end": 2831.895,
           "reason": "Creation answer mixes 14000 and 13000-year arithmetic and an unreadable opening phrase. Do not silently repair the numbers."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "dLZ03zlO_WI",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "f0e6c6f7f997fe7f1c4838d63d8d99347d8dbf52a423eca38f171f4f67d46496",
+      "qa_start": 2121.285,
+      "qa_end": 3375.572,
+      "cursor_seconds": 2210.641,
+      "reviewed_ranges": [
+        {
+          "start": 2121.285,
+          "end": 3375.572
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2210.641,
+          "end": 2219.083,
+          "reason": "Barb’s actual listener question is not read; retain reply privately without inventing the question."
+        },
+        {
+          "start": 2968.131,
+          "end": 2984.48,
+          "reason": "Starting term for 12000–13000-year chronology is omitted as foreign language; broad three-ages answer approved with that limitation."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "dNPQj5I42kk",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "42f735045d02d616f5475279d7d7ad7527a14396f460b3ea0db42fe10b9a3e12",
+      "qa_start": 2165.695,
+      "qa_end": 3365.094,
+      "cursor_seconds": 2399.129,
+      "reviewed_ranges": [
+        {
+          "start": 2165.695,
+          "end": 3365.094
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2399.129,
+          "end": 2424.321,
+          "reason": "Captioned 1290 days/42 months/days longer than months numerical explanation is inconsistent; probable ten-day conclusion approved without correcting arithmetic."
+        },
+        {
+          "start": 2520.35,
+          "end": 2554.818,
+          "reason": "Listener comparison with Genesis 1:26 is not directly resolved; Proverbs wisdom identification approved separately."
+        },
+        {
+          "start": 2619.116,
+          "end": 2628.191,
+          "reason": "Anointing material captioned all of our people; do not substitute olive oil without audio."
         }
       ],
       "review_status": "partially_reviewed",
