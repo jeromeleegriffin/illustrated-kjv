@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T20:27:45.230666+00:00",
+  "updated": "2026-10-25T20:48:04.648617+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -28298,12 +28298,148 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 46,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "locust-army-followers",
+        "locust-army-souls",
+        "satan-death-title",
+        "abraham-seed-john8",
+        "satan-job-now",
+        "elect-salvation-others",
+        "sparrows-god-care",
+        "mediums-dead-contact",
+        "firmament-footnote-marker",
+        "cain-daughters",
+        "judges-twelve-pieces",
+        "spiritual-presence-return-order",
+        "native-american-tribes-claim"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "locust-army-followers",
+          "start_seconds": 2167.264,
+          "end_seconds": 2220.751,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "locust-army-souls",
+          "start_seconds": 2170.767,
+          "end_seconds": 2187.284,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-death-title",
+          "start_seconds": 2222.485,
+          "end_seconds": 2289.854,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "abraham-seed-john8",
+          "start_seconds": 2293.757,
+          "end_seconds": 2380.377,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-job-now",
+          "start_seconds": 2458.555,
+          "end_seconds": 2566.764,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-salvation-others",
+          "start_seconds": 2569.966,
+          "end_seconds": 2612.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sparrows-god-care",
+          "start_seconds": 2628.825,
+          "end_seconds": 2703.133,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mediums-dead-contact",
+          "start_seconds": 2713.176,
+          "end_seconds": 2807.905,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "firmament-footnote-marker",
+          "start_seconds": 2840.403,
+          "end_seconds": 2872.469,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-daughters",
+          "start_seconds": 2872.469,
+          "end_seconds": 2880.377,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "judges-twelve-pieces",
+          "start_seconds": 2889.653,
+          "end_seconds": 2966.463,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spiritual-presence-return-order",
+          "start_seconds": 3063.059,
+          "end_seconds": 3117.514,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-salvation-others",
+          "start_seconds": 3123.319,
+          "end_seconds": 3286.249,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "native-american-tribes-claim",
+          "start_seconds": 3287.751,
+          "end_seconds": 3378.541,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dZ25vbksGjo",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "9abddd20780a16351fcf7d98d462c7c5da5eb1993347bd730f7418b603e9a16a",
+        "qa_start": 2135.065,
+        "qa_end": 3378.541,
+        "cursor_seconds": 2142.94,
+        "reviewed_ranges": [
+          {
+            "start": 2135.065,
+            "end": 3378.541
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2142.94,
+            "end": 2164.728,
+            "reason": "Answer shifts between sons of God, drowning and restraint in Jude; identity of those drowned is ambiguous. Do not silently harmonize angels and offspring."
+          },
+          {
+            "start": 2381.612,
+            "end": 2455.886,
+            "reason": "Question has bohemian and answer alternates Medan/Midian names; do not silently correct identity or ancestry chain."
+          },
+          {
+            "start": 3347.009,
+            "end": 3372.869,
+            "reason": "Captioned Cherokee divine name and historical identification need verification; broad claim attributed, exact name not supplied."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2142.94
     },
     {
       "video_id": "dhWV1YiGsg0",
@@ -28316,12 +28452,171 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 60,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "gulf-torment",
+        "prayer-christ-name",
+        "millennium-bodies-immortality",
+        "rightly-dividing-arnold",
+        "satan-pact-repentance",
+        "astrology-religion-arnold",
+        "choosing-church-study",
+        "spirit-after-death",
+        "predestination-freewill",
+        "paradise-gulf",
+        "delivered-not-following-satan",
+        "millennium-teaching-discipline",
+        "armageddon-location-arnold",
+        "married-sister-millennium-help",
+        "mark13-planting-seeds",
+        "fallen-angels-arrival",
+        "home-anointing"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "gulf-torment",
+          "start_seconds": 2185.449,
+          "end_seconds": 2292.556,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prayer-christ-name",
+          "start_seconds": 2315.713,
+          "end_seconds": 2372.135,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-bodies-immortality",
+          "start_seconds": 2374.171,
+          "end_seconds": 2452.416,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rightly-dividing-arnold",
+          "start_seconds": 2456.12,
+          "end_seconds": 2558.522,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-pact-repentance",
+          "start_seconds": 2563.059,
+          "end_seconds": 2627.925,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "astrology-religion-arnold",
+          "start_seconds": 2639.102,
+          "end_seconds": 2713.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "choosing-church-study",
+          "start_seconds": 2722.385,
+          "end_seconds": 2763.994,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2765.795,
+          "end_seconds": 2784.114,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "predestination-freewill",
+          "start_seconds": 2788.118,
+          "end_seconds": 2828.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf",
+          "start_seconds": 2830.66,
+          "end_seconds": 2942.973,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2955.618,
+          "end_seconds": 3005.202,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "delivered-not-following-satan",
+          "start_seconds": 3009.472,
+          "end_seconds": 3075.539,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-teaching-discipline",
+          "start_seconds": 3079.809,
+          "end_seconds": 3172.135,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "armageddon-location-arnold",
+          "start_seconds": 3083.279,
+          "end_seconds": 3123.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "married-sister-millennium-help",
+          "start_seconds": 3184.447,
+          "end_seconds": 3210.507,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark13-planting-seeds",
+          "start_seconds": 3213.209,
+          "end_seconds": 3271.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angels-arrival",
+          "start_seconds": 3276.238,
+          "end_seconds": 3291.087,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 3301.331,
+          "end_seconds": 3374.503,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dhWV1YiGsg0",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "f7fb149c478bbd2bc794785922ae69aab7f9dba389ffa00fe49405cdffcfa002",
+        "qa_start": 2172.97,
+        "qa_end": 3374.503,
+        "cursor_seconds": 2296.661,
+        "reviewed_ranges": [
+          {
+            "start": 2172.97,
+            "end": 3374.503
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2296.661,
+            "end": 2305.903,
+            "reason": "Brenda’s question is not read; keep response privately without manufacturing a listener question."
+          },
+          {
+            "start": 3317.113,
+            "end": 3366.395,
+            "reason": "Repeated oil of our people wording is unclear; basic anointing analogy approved, exact lexical wording requires audio."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2296.661
     },
     {
       "video_id": "dj0kEy8BnZ0",
@@ -28334,12 +28629,144 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 48,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "leviticus-fat-arnold",
+        "bat-creek-location-claim",
+        "satan-hear-prayer",
+        "elect-witness-231-guess",
+        "strongs-edition-arnold",
+        "satan-cherub-earned-role",
+        "2018-numerical-proposal",
+        "sea-dead-revelation20",
+        "america-isaiah18-claim",
+        "unhealed-prayer-arnold",
+        "women-teaching",
+        "spirit-age-gender",
+        "mark13-rooftop-winter",
+        "first-last-adam-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "leviticus-fat-arnold",
+          "start_seconds": 2185.583,
+          "end_seconds": 2210.074,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bat-creek-location-claim",
+          "start_seconds": 2218.282,
+          "end_seconds": 2342.205,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-hear-prayer",
+          "start_seconds": 2346.077,
+          "end_seconds": 2371.468,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-witness-231-guess",
+          "start_seconds": 2381.011,
+          "end_seconds": 2436.566,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "strongs-edition-arnold",
+          "start_seconds": 2440.137,
+          "end_seconds": 2497.695,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-cherub-earned-role",
+          "start_seconds": 2531.829,
+          "end_seconds": 2598.728,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "2018-numerical-proposal",
+          "start_seconds": 2606.77,
+          "end_seconds": 2641.171,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sea-dead-revelation20",
+          "start_seconds": 2648.812,
+          "end_seconds": 2709.772,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "america-isaiah18-claim",
+          "start_seconds": 2713.61,
+          "end_seconds": 2766.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "unhealed-prayer-arnold",
+          "start_seconds": 2785.749,
+          "end_seconds": 2844.107,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-teaching",
+          "start_seconds": 3020.517,
+          "end_seconds": 3124.887,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-age-gender",
+          "start_seconds": 3124.887,
+          "end_seconds": 3267.296,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark13-rooftop-winter",
+          "start_seconds": 3271.634,
+          "end_seconds": 3345.475,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-last-adam-arnold",
+          "start_seconds": 3354.083,
+          "end_seconds": 3378.508,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "dj0kEy8BnZ0",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "0c7d9179f5749bb841eb90cd05de897115a8cd5518dfa809e94dda7847c665f6",
+        "qa_start": 2179.743,
+        "qa_end": 3378.508,
+        "cursor_seconds": 2288.285,
+        "reviewed_ranges": [
+          {
+            "start": 2179.743,
+            "end": 3378.508
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2288.285,
+            "end": 2342.205,
+            "reason": "Inscription translation and directional-letter explanation contain damaged wording; location claim attributed separately, not certified as archaeology."
+          },
+          {
+            "start": 2849.513,
+            "end": 3020.517,
+            "reason": "Shared millennium answer says all flesh at 2890.353 amid spiritual-body statements; do not silently repair. Both overlapping candidate answers held for audio."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2288.285
     },
     {
       "video_id": "djw2r6xERR4",
@@ -37673,13 +38100,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 144,
+    "partially_reviewed": 147,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1136,
+    "pending": 1133,
     "source_changed": 0,
-    "question_occurrences": 1663
+    "question_occurrences": 1707
   }
 }
