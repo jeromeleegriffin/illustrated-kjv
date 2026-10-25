@@ -1521,6 +1521,1817 @@
         "approved_linked_answers": 55,
         "held_candidates": 6
       }
+    },
+    {
+      "assignment_id": "griffin-faq-grok-300-20261025-B",
+      "status": "prepared_for_user_to_submit_not_started_or_reviewed",
+      "assigned_count": 300,
+      "owner": "Grok external caption review",
+      "base_commit": "035b03b3e7f7d7aaa403b26b21aff865e367ee27",
+      "package_name": "Griffin_Grok_FAQ_300_Recordings_002.zip",
+      "publication_policy": "Reserved for external caption review. No completion or publication approval implied. Validate and semantically review returned answers before registry import.",
+      "recordings": [
+        {
+          "video_id": "4ulMSmr1NFA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "99d45c930452e2ff92890acb7e7aea47fa7e161684fc2b9a1bd7cc7a1361b5ef",
+          "recording_group": "4ulMSmr1NFA"
+        },
+        {
+          "video_id": "5wKWtfiVlug",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9d63cdc3aae95054ecb378e52f7e11a2fbac021e82e38f453960fb94566a152c",
+          "recording_group": "5wKWtfiVlug"
+        },
+        {
+          "video_id": "69_AMZtGbE0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "49851b89b7ba6c1a855710a989122fcc02bb18f4604c4a03b4c63a3819a6ec1f",
+          "recording_group": "69_AMZtGbE0"
+        },
+        {
+          "video_id": "6FJc5RP4fCw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2a3a977623729055e44a6784a01dcf70ceb66b5fc977b0cfc8266a46c98960c9",
+          "recording_group": "6FJc5RP4fCw"
+        },
+        {
+          "video_id": "6RVBfnkTBzE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a5622268ad06a4daf611febe04c5264157d8b09297590da8339745ff806e8039",
+          "recording_group": "6RVBfnkTBzE"
+        },
+        {
+          "video_id": "6WnmAqmHbOE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c6d32ddd8f7aec1ed7daa3ebdd244e8b2996449cee8d7cda6c2b231521ec7719",
+          "recording_group": "6WnmAqmHbOE"
+        },
+        {
+          "video_id": "6bEEl-CJqy8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "73c4c024a8db3fa02121b6669c3a0a84a3f08e26bb26d62302f2ca7109beae76",
+          "recording_group": "6bEEl-CJqy8"
+        },
+        {
+          "video_id": "6sFo3EW9ZX0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5846de0d04fcfe08ec7100815a177f8dcf8ab105d1dd9b57c3dd83871d0f48a2",
+          "recording_group": "6sFo3EW9ZX0"
+        },
+        {
+          "video_id": "6xjfmh9E41Q",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6d96eacddf6fa6b6826d7d5403b638fe82e535c5b67afcf1e2b44b1f260f97e4",
+          "recording_group": "6xjfmh9E41Q"
+        },
+        {
+          "video_id": "70YweNfcx0M",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "223b247ba7ce5cd0fa810c45dd7d4b3779512cfcdacf8c19eb297a70706f13ff",
+          "recording_group": "70YweNfcx0M"
+        },
+        {
+          "video_id": "74wbAVjWePc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "61cefdc5ebf15a41d866ba49643cbf3a0d1a3a72a8f73a04f7c4944b5cee4611",
+          "recording_group": "74wbAVjWePc"
+        },
+        {
+          "video_id": "76YRmcd-_LQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "aa1abaa3955564d00057af3d47063589e71c7f6d90720d177149bd1e57bc53c4",
+          "recording_group": "76YRmcd-_LQ"
+        },
+        {
+          "video_id": "7A7tbOPKTwE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "409baf4c67ebfbb4241c2b756bd48ce4d4fede3e42d41b46389d9c9665a9ea50",
+          "recording_group": "7A7tbOPKTwE"
+        },
+        {
+          "video_id": "7Ca4MmHj0gE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "bafce5907981be3a729fc28757af7190495737d66851f882e197e51725f4daa6",
+          "recording_group": "7Ca4MmHj0gE"
+        },
+        {
+          "video_id": "7EdyDOGE_d4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3705d6c082099825483c7bb466de7d4957d9ac84cb6c8c907dd21bec865db791",
+          "recording_group": "7EdyDOGE_d4"
+        },
+        {
+          "video_id": "7QjtA0Rk-Uo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3aa3bb63a88ec4bf47ff30a7001ce557d402d6e97ab4ca2642c20383242c6361",
+          "recording_group": "7QjtA0Rk-Uo"
+        },
+        {
+          "video_id": "7V4WQ1b_cyM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f3b03fda6aca1020e7ebcda41ed64584733ebdc9aa8e495b89810b8bf3bc96e3",
+          "recording_group": "7V4WQ1b_cyM"
+        },
+        {
+          "video_id": "7jGxPg4f29o",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "796d27e8b73f9fb51616f3da93cd6c893561ee37edcf4fa72a9b2791d3fa1e79",
+          "recording_group": "7jGxPg4f29o"
+        },
+        {
+          "video_id": "88cj174pmRE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8e6e69db7cfd2d7f5500880669bef51389e3c87420b59535524178777b100851",
+          "recording_group": "88cj174pmRE"
+        },
+        {
+          "video_id": "8NenZ5XePAc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d3ec83fde012d796166a2f4ca95dd544dd71fa5521c8c84bfbfa54c94ffaae0f",
+          "recording_group": "8NenZ5XePAc"
+        },
+        {
+          "video_id": "8QzBBRfUG_Q",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3226b7e23338324b1c251c6f409a66b6784c950b1883e7cc26e17f109c0ba1ed",
+          "recording_group": "8QzBBRfUG_Q"
+        },
+        {
+          "video_id": "8bNq4LykXyM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2bdfdc53eb8fd98b46fb2d163a3ee72efcf08f3eaffcc5cd97c43eba740588fe",
+          "recording_group": "8bNq4LykXyM"
+        },
+        {
+          "video_id": "8bYq9cZFM-A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6fa3b831f3ae83953e6ec603cbd136f1856387e15e8d06e4d5fe0c5bf3bf81bd",
+          "recording_group": "8bYq9cZFM-A"
+        },
+        {
+          "video_id": "8jDTVzBwH98",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "322cf0bd8b9123567dae058da9105821d381ca5d252baec6ad65a5d8fbc888e1",
+          "recording_group": "8jDTVzBwH98"
+        },
+        {
+          "video_id": "8mOB8oWT_Ag",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9153f15434f75101c580470e9be4d0c13c63ed3f596a8b411e6c9ef38133f534",
+          "recording_group": "8mOB8oWT_Ag"
+        },
+        {
+          "video_id": "93dOTGHkqEs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0feb5a51a7e55111dc3b673ce63446119519dbb2d4f54ad80f82aa1b21f6a1fa",
+          "recording_group": "93dOTGHkqEs"
+        },
+        {
+          "video_id": "9BsQeAojykM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "97ffa08306166d2c6205280e0a4722fda53407f3bb9d66f308e4f6d6077cc246",
+          "recording_group": "9BsQeAojykM"
+        },
+        {
+          "video_id": "9EbIB2Kq_Dc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "11df4fa54138cb5e26231a7900efc7b3c3a12cc0fb5de09a3158804ed69ed448",
+          "recording_group": "9EbIB2Kq_Dc"
+        },
+        {
+          "video_id": "9IAIkcHtqoo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b60ecec039c9a6d6c6c19dacfd1a9792d029b14098ad55f6f1176e0615b9dd61",
+          "recording_group": "9IAIkcHtqoo"
+        },
+        {
+          "video_id": "9XtUJzGm7L0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "960c5787a75907ea7fdb57e41358437b2e7811a8e401859d96b9f6a7c363a70e",
+          "recording_group": "9XtUJzGm7L0"
+        },
+        {
+          "video_id": "9XwUR_tMm5Q",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c81f66278c40fde5ababd9d433d968c2a6cefaf3f42a2aad0ee4b5922fc58672",
+          "recording_group": "9XwUR_tMm5Q"
+        },
+        {
+          "video_id": "9_9weKZR8RM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "519e24d9f1232d6738f22fb69d3be16ae57f0ef006e9098cdb58efd032c47342",
+          "recording_group": "9_9weKZR8RM"
+        },
+        {
+          "video_id": "9fZ0reAgymI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "38b4df0af1e863f8029b22a0bfb4be72484de953a929f8817794f83bcc7a8116",
+          "recording_group": "9fZ0reAgymI"
+        },
+        {
+          "video_id": "9hFL8TT3J1Y",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "07baff029b392df1c9254b4c969a30e08777ff3dfb7ae24c249c3ec510b9e972",
+          "recording_group": "9hFL8TT3J1Y"
+        },
+        {
+          "video_id": "9ndwk45tppA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a05dd43442f1aa468d201f0f93452ec517bb1ec35f386b770de616676a8824c1",
+          "recording_group": "9ndwk45tppA"
+        },
+        {
+          "video_id": "9ti_J5jq1T8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "551896356f4d70b3df288364965d6bcb163028bd608fd488ce21edfb1de2a4f2",
+          "recording_group": "9ti_J5jq1T8"
+        },
+        {
+          "video_id": "A3wZPxz0P7Y",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6b9a9ebcb859993f0e9cc2b38290d9a51683f33fd5cfab3ddf31de1d57c82988",
+          "recording_group": "A3wZPxz0P7Y"
+        },
+        {
+          "video_id": "AAWjy0Fs--g",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a122dcb33e43e76435fe7d57050c0c8a0f4ace83eaaf04478d445cf9327249ef",
+          "recording_group": "AAWjy0Fs--g"
+        },
+        {
+          "video_id": "ABvlejubQ9s",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7019c0f4ba9488c512095b4bb002fd9a24b7d46b84df7253f16db36ec2ecefc9",
+          "recording_group": "ABvlejubQ9s"
+        },
+        {
+          "video_id": "AW-9md3_xsE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "44fe9b1018a841030dc7534c81a2a213a74efdf26a3c7580dbdd6fa6d58d3fc8",
+          "recording_group": "AW-9md3_xsE"
+        },
+        {
+          "video_id": "AXAHOAJlnx4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2c08e834225bec116294e827bcf614558b2050314d75d5c7ab66b1b5f770ba4f",
+          "recording_group": "AXAHOAJlnx4"
+        },
+        {
+          "video_id": "AXpKcSu3SMw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "22db39ade898560b945007413746094533c5b1036f382d10fc7b053f25a5057e",
+          "recording_group": "AXpKcSu3SMw"
+        },
+        {
+          "video_id": "AgjrLKt8UAA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "bcc5ac97153c2da8a949c1176dff7f9bc38d73d860df078b7868abb359062e49",
+          "recording_group": "AgjrLKt8UAA"
+        },
+        {
+          "video_id": "AhriVV6MDBU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c38e0a82ec25d03a22862d911eda60f51f1945207a0f03d1d275b20593b05b3a",
+          "recording_group": "AhriVV6MDBU"
+        },
+        {
+          "video_id": "AkuJNciyUI0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7734646d38309454e41c88d6e6793e9f3da8be090826051ea6f92a3779340b73",
+          "recording_group": "AkuJNciyUI0"
+        },
+        {
+          "video_id": "AvV-DW3gLKk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a202a5c431b77044ce43ccbbbc464a04093885ebdd677010eb8619f6c8399a65",
+          "recording_group": "AvV-DW3gLKk"
+        },
+        {
+          "video_id": "AvpnblqF-i8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "02c496f2af0a857de66b937941fd109eb925fe107223215e21b6eaec624dd7e1",
+          "recording_group": "AvpnblqF-i8"
+        },
+        {
+          "video_id": "AyW7AFpQ4II",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9d692a1886f16c181b49a87dbaa8b50eb7a2cf7edffe8f5e89f5714cdacb5c47",
+          "recording_group": "AyW7AFpQ4II"
+        },
+        {
+          "video_id": "Az5rcxFac9I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "555e18f5803900da83809e41ddaa32650ed61fd5ea00d770a912f7d55a482406",
+          "recording_group": "Az5rcxFac9I"
+        },
+        {
+          "video_id": "B4tJ9Hzw7Ms",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e236256e479724b3bcad078c63108285b30c333e226d040d88b55b05085a379e",
+          "recording_group": "B4tJ9Hzw7Ms"
+        },
+        {
+          "video_id": "B5srgZRtVhw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d8a43ea00dd6676b706cb2a1e0f2d83b6874a558c19886ce475dfdf552f56030",
+          "recording_group": "B5srgZRtVhw"
+        },
+        {
+          "video_id": "B8NBzHOALG4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "df0c0d3bee5e9e1334956798896b76005dabb508a1e5020797d967b575c3116d",
+          "recording_group": "B8NBzHOALG4"
+        },
+        {
+          "video_id": "BG6bh8eL9L8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5c38bc51df76ff425eedd888f033fe702d92a18c006fe2f90f59376705a166db",
+          "recording_group": "BG6bh8eL9L8"
+        },
+        {
+          "video_id": "BJaA50ENvqA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c930d6cf633987c2e4e669abff138ca24438bbff29f95a9031bd48e5fc960bbc",
+          "recording_group": "BJaA50ENvqA"
+        },
+        {
+          "video_id": "BKYNHyAiMeQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0644d85c4ad4119f6a608252dbf1ceecfec9dce5d6e99f3c6c0323cef436b0b2",
+          "recording_group": "BKYNHyAiMeQ"
+        },
+        {
+          "video_id": "BOuoDp97QjY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "11084d4175f21f627d60854b3d16258b80c29286538d6c5abf9b8301732ec747",
+          "recording_group": "BOuoDp97QjY"
+        },
+        {
+          "video_id": "BSIyjETwPsg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5d2a8394b5dcd557471381fe719b23a9afb4d0ecba9015c8a13abad327d94ddb",
+          "recording_group": "BSIyjETwPsg"
+        },
+        {
+          "video_id": "BZHrIKuZEtc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6ebc6d8b15890b956f4b799bdc59e06d1864a14e8feb2e1db26a7d8718aa6eeb",
+          "recording_group": "BZHrIKuZEtc"
+        },
+        {
+          "video_id": "BgKDz8looek",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "fdef77376a1c9534080d75158c30f9caece42215c34b6fd2195c7c5351a891dc",
+          "recording_group": "BgKDz8looek"
+        },
+        {
+          "video_id": "BiS-PJTziHs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8d3ccee224574c9f5783da8285bb13047e06d94cfba21e62288bc6eb6cb385db",
+          "recording_group": "BiS-PJTziHs"
+        },
+        {
+          "video_id": "Bp2zvghlLaI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e646af330e2170b108165b50e277fe7ee87f89fbceeee9fb280774f6583e0d08",
+          "recording_group": "Bp2zvghlLaI"
+        },
+        {
+          "video_id": "BsJO6bJ2YyM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "07c9acfe420689f3e718ab9aa79c827576e4d2bc3b0f344d8018c5956cead17b",
+          "recording_group": "BsJO6bJ2YyM"
+        },
+        {
+          "video_id": "BzWdgGEa87Y",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6add917b0fa0fa85a757f68c97caa39f3e555bb075f4c0d0a28d1fe2dc638871",
+          "recording_group": "BzWdgGEa87Y"
+        },
+        {
+          "video_id": "C4X5C5hR3uQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2465625325725bc636f76d3f3960150a6b3a9a063967a567c93092b72e132c03",
+          "recording_group": "C4X5C5hR3uQ"
+        },
+        {
+          "video_id": "C50hXJVI4J0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0d403b3ef88e11076be2a91646cc05c242e2a320c803ecfa9d8207f3a6c922c6",
+          "recording_group": "C50hXJVI4J0"
+        },
+        {
+          "video_id": "CEiN8_hTmcA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e12a39d2a53e26a0fa72f8b5b534fa0021756ca591e6345ce16bb40e1d678889",
+          "recording_group": "CEiN8_hTmcA"
+        },
+        {
+          "video_id": "CLkW2almies",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "153466061697167d8fd9c5e2e297db3efc3213833ab032f86699026eb62cac5a",
+          "recording_group": "CLkW2almies"
+        },
+        {
+          "video_id": "CVZC89MpDl4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7a35e493a07376a5b22d4cff66ca71eabe9a9b456ebec8a66251944d2d1b9f52",
+          "recording_group": "CVZC89MpDl4"
+        },
+        {
+          "video_id": "CbAYU-MBVH8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7befda6ed3cca305fd8d082a46197f27de59382232c8718af1cd9b8b4b4a7ccf",
+          "recording_group": "CbAYU-MBVH8"
+        },
+        {
+          "video_id": "CibaWuge3Mw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b63ca918e280b0a36b6d104f13c5fb9f28a670d76b13ff10acec28b3f1bae13a",
+          "recording_group": "CibaWuge3Mw"
+        },
+        {
+          "video_id": "Cq1hlC8614o",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a81931a6b7ae8e8d3398205332bb46b562e54a45e9bdb991292e553aaf340249",
+          "recording_group": "Cq1hlC8614o"
+        },
+        {
+          "video_id": "Cu74FcAIJ1A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "57e70be1ac30e5ac42543affe9ce307182d5a200bd020496b0d48f0ed951af55",
+          "recording_group": "Cu74FcAIJ1A"
+        },
+        {
+          "video_id": "CubvKyn4s14",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5fb121c4c7e0174ca2ce0a028da3115553e3657e3f6aab808581321b38058964",
+          "recording_group": "CubvKyn4s14"
+        },
+        {
+          "video_id": "CyrJCyMboVQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "08bd7e597366a9f4439993c91fe7c2b31c28ae6bb4899abc66b7409672e809f7",
+          "recording_group": "CyrJCyMboVQ"
+        },
+        {
+          "video_id": "DCsWdpW0xmU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1afb238d10f00d896ae70b97f76e983e4d428327145d6e348c319902820abc41",
+          "recording_group": "DCsWdpW0xmU"
+        },
+        {
+          "video_id": "DLYU2MOsnxY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "20c3dd3e4a2bfdebfcdced1cf945755e985b832338c122b9d29de93ccdb1e445",
+          "recording_group": "DLYU2MOsnxY"
+        },
+        {
+          "video_id": "DMSTMsUT8Go",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "317a99b45e9b9d29a542bce15bbcd5a9183a58959a242222b54f421c5bb8dd84",
+          "recording_group": "DMSTMsUT8Go"
+        },
+        {
+          "video_id": "DQqh76wvl5g",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ebd5fd847dec351c6d59d0c9e4b7c0f828468696e6071b384c604f9169a1b92f",
+          "recording_group": "DQqh76wvl5g"
+        },
+        {
+          "video_id": "DXd-nHz_FeY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "db8b12890028ae5d3da3fc0642159bf8a12d8078e4cbccab0805087715b64186",
+          "recording_group": "DXd-nHz_FeY"
+        },
+        {
+          "video_id": "DhZjtvj6L4M",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c845b9bc41e4f667ae9beaad8aa2342412c196d25e98e861abcc77753941490c",
+          "recording_group": "DhZjtvj6L4M"
+        },
+        {
+          "video_id": "DkGOS95g8k0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "fd76afd0f2cc63617b2e5857c56dee1375bfd96a5799df01fff8cc2079521c93",
+          "recording_group": "DkGOS95g8k0"
+        },
+        {
+          "video_id": "DlXZA9xTW8E",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "fbc27e545173ad267ebc58dc305463e185645c83b067365922122f6c4727fe37",
+          "recording_group": "DlXZA9xTW8E"
+        },
+        {
+          "video_id": "DzJqJIopIi8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "eff831d1801528bfa16004c6855748d052197eac8f5fa027c663110f509f016e",
+          "recording_group": "DzJqJIopIi8"
+        },
+        {
+          "video_id": "E2cFm4GoAXQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "eb73c7dc8266d5abd0c51f728d0b90ec7fc01b2e932f61198166f74e393f9c0d",
+          "recording_group": "E2cFm4GoAXQ"
+        },
+        {
+          "video_id": "EANFxBN4g1w",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e1b3b7c57d37f74551e3a8f1f92e9625f78f28447bd3606ed59f209420220b26",
+          "recording_group": "EANFxBN4g1w"
+        },
+        {
+          "video_id": "EEc9zpdaepE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "251a4a95ea77003dab7723bc5dc4a9060eebbf5cb393294fca523a95bc9f3426",
+          "recording_group": "EEc9zpdaepE"
+        },
+        {
+          "video_id": "EFDGs2Swl8k",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "196a247eff4f675b33a08f8444e93033d59de1aff1a4cf991860acc17f3f6d24",
+          "recording_group": "EFDGs2Swl8k"
+        },
+        {
+          "video_id": "EHX80Ms5vSc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "018078fca50c323e498a97ea72b7be15fa8ad48c2b2a4c8252ef1fcb9c24a6ad",
+          "recording_group": "EHX80Ms5vSc"
+        },
+        {
+          "video_id": "EJilBt6mztc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "94ec4d177e9097dc2988c17b5a6e9f9d58afbc8ccc9eee247eb2268055d99700",
+          "recording_group": "EJilBt6mztc"
+        },
+        {
+          "video_id": "EOPyCzQe0AQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4bd677ddeed2b3087e7ea7013f60368a6f30633c5693e78df7d4e62e543cf151",
+          "recording_group": "EOPyCzQe0AQ"
+        },
+        {
+          "video_id": "EP2BC76KpjI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "785a452d4ddc3ca08db58c102a387a12f4ac49c34a5a930f5eca6459083d8977",
+          "recording_group": "EP2BC76KpjI"
+        },
+        {
+          "video_id": "ET76vZeo7YM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "574d60f4f2e2c89f7bb335d357f63026992d8e25ae53656c8e9b25c87ac8ba9f",
+          "recording_group": "ET76vZeo7YM"
+        },
+        {
+          "video_id": "EXbo7Nu9_ok",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8ece1f2fd7a1543b400b83427444130b03a018864542e00de9216ba4d40d5f5f",
+          "recording_group": "EXbo7Nu9_ok"
+        },
+        {
+          "video_id": "F0B3wkQSamc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2949f7adcac0af4ca8f3973fef59fd6f672f5c6fec5105fbce06dec3407c8e49",
+          "recording_group": "F0B3wkQSamc"
+        },
+        {
+          "video_id": "FB-ymwYZNLo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1bc4cdd284b823098dce8bdf82a150b96e56d3a414c5d1b61134b3906dcdce8e",
+          "recording_group": "FB-ymwYZNLo"
+        },
+        {
+          "video_id": "FJDfmHyQ7Ic",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "82d70c6e645ee120a70358c0c93665d8be15e9409c25699b5ac40bb79ba56a6d",
+          "recording_group": "FJDfmHyQ7Ic"
+        },
+        {
+          "video_id": "FK_xR259ss8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f61f6bc96116e991e2900d7089fb7486e6393587954bc5136bfd1830eaf3a8a7",
+          "recording_group": "FK_xR259ss8"
+        },
+        {
+          "video_id": "FQ7nbrmnVD0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6a01cad0fe6a9b86b486963ad638fe9ab3afbc10d9b611ef6ebf1297ff3bdbe7",
+          "recording_group": "FQ7nbrmnVD0"
+        },
+        {
+          "video_id": "FTr_twSy4J4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "98b1f3b15bdd0fd3ddda65051f399560226899f46a82cf860c47bda2585d7ab5",
+          "recording_group": "FTr_twSy4J4"
+        },
+        {
+          "video_id": "FZRDynN1SwA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "bcf3021c9a4c71de2fc5274e1b3d8b99f5d62c3b3924e33e8322ab9f7b77c8d1",
+          "recording_group": "FZRDynN1SwA"
+        },
+        {
+          "video_id": "FkRwh8UkZfg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8ad6dd5b84083a2a3afa7260dd3219e45dbb420ead33edc110d058db9bcffcd6",
+          "recording_group": "FkRwh8UkZfg"
+        },
+        {
+          "video_id": "FnwwUh7x0Zc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d37efba77a08539f64dcc01748dfcdf4b3ee49ae7108dca8999fda8efa95c166",
+          "recording_group": "FnwwUh7x0Zc"
+        },
+        {
+          "video_id": "FrNgmOIadqw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0592967ecc92a6fc7a6ee7195c43d1582a0d885cb84e5c8cff3d4ad004e95727",
+          "recording_group": "FrNgmOIadqw"
+        },
+        {
+          "video_id": "G0uQvlm6YO0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b640b0a56d6bef7219ebf3826cb743bc5fbd111d24b39085ddfaffd59231feb5",
+          "recording_group": "G0uQvlm6YO0"
+        },
+        {
+          "video_id": "G16TZQ0iugU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1b3006dabb38d01d8a71698f3693c3f2aafb8c58deef127c1c8ed9b6767676e3",
+          "recording_group": "G16TZQ0iugU"
+        },
+        {
+          "video_id": "G5JGiYyL20U",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1945c01b6721f9d22c4a6d67909bd1b1c7328c343955189fe9f1e6b354fdd1f3",
+          "recording_group": "G5JGiYyL20U"
+        },
+        {
+          "video_id": "G773FhiVcSQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "dacc5ff855bd1ae127431ae5387bc8d8e67db0bc3e6144a16493a90173516706",
+          "recording_group": "G773FhiVcSQ"
+        },
+        {
+          "video_id": "G8rdNsyOHGU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "491abcdc1b316810bf94f08edd87aebc0a563e527b0504638105863555d23b7e",
+          "recording_group": "G8rdNsyOHGU"
+        },
+        {
+          "video_id": "G9Ut6w4XrmI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "96aa7d895b460b4796d9bf8f9d917db989d6d5f2523e547685398ce1eccc84d5",
+          "recording_group": "G9Ut6w4XrmI"
+        },
+        {
+          "video_id": "GK_hi57BhYs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "de2ee4942f7fb6d695838d2261e13f2b29266ca5bfccc431c8d7fda2211d1d77",
+          "recording_group": "GK_hi57BhYs"
+        },
+        {
+          "video_id": "GQrR2p7jNq0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5416828d6f490e0f76952e66116ee3603829e5c2986ec96cc39830f772de5020",
+          "recording_group": "GQrR2p7jNq0"
+        },
+        {
+          "video_id": "GS-GwSHRGvQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ac64b3e9b8f601832e3cbe5d76ef8b8e88f318a67a1f53407c324fd7404d4b5f",
+          "recording_group": "GS-GwSHRGvQ"
+        },
+        {
+          "video_id": "GU07AhzNUbw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "41e2d7f03374286de762c439595e5a6595a3a9b3806e3c6b70cabe6cbf2a6c53",
+          "recording_group": "GU07AhzNUbw"
+        },
+        {
+          "video_id": "G_YXsrkx8XE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ae5d2b7820b73444093f63cbf61c475a1a00accdc77057e26f5c1576e6984f39",
+          "recording_group": "G_YXsrkx8XE"
+        },
+        {
+          "video_id": "Gm4RT55fV6s",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "dc99bff6ef188f78425f55e229672622423f1fff477d6323a656ef773a7114f8",
+          "recording_group": "Gm4RT55fV6s"
+        },
+        {
+          "video_id": "GqtusnFDmIs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "dae6d6391c2c18f80d5b4fc4897db857548249c75fd226ac49472fd64472283f",
+          "recording_group": "GqtusnFDmIs"
+        },
+        {
+          "video_id": "Gw3mVnXUsp8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c41766de737a330e27356ed7b48567ea01866df1d81b3e5d457140c6fb2ac0c4",
+          "recording_group": "Gw3mVnXUsp8"
+        },
+        {
+          "video_id": "GwNI9jR20_g",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4190f1dc250209b5c4744034a162bf8d0ef9d818ec3eb3e3dd084668d17776d9",
+          "recording_group": "GwNI9jR20_g"
+        },
+        {
+          "video_id": "H3pI4DwXkUY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "181f2fde0b1564ee6747ccb32cde07b72a0b488727d4e94c4622f198cab69cde",
+          "recording_group": "H3pI4DwXkUY"
+        },
+        {
+          "video_id": "H5wx41TtAg4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "827805d399229b4d9d181868f5d37fce859dbe8e007ea3e73a6ee283d2927b9e",
+          "recording_group": "H5wx41TtAg4"
+        },
+        {
+          "video_id": "HDrqzVLkvqQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e452403a09ff4931108642c44298bf8fa3b40bcba73b13d40f436a0fc3d32e35",
+          "recording_group": "HDrqzVLkvqQ"
+        },
+        {
+          "video_id": "HNsUiUUuglw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5d6171258638cf3cb8efbf4112de76bd9750bee65cb36df1089be1b34a9abbef",
+          "recording_group": "HNsUiUUuglw"
+        },
+        {
+          "video_id": "HcWbNez6GUY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "184d5c8d23b1374c16f59202e045914716316572494c9a982c8ce08619736b4c",
+          "recording_group": "HcWbNez6GUY"
+        },
+        {
+          "video_id": "Hz8RWLyQfwE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8f2808a7b776a1c692dd5f3a93a04e3aa65fc58dd4f5b463e74c6548c2787913",
+          "recording_group": "Hz8RWLyQfwE"
+        },
+        {
+          "video_id": "I7et4Ey5b7I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5bafae4483a5fde04269d2021078582f0693263bd51800fb64ab7ad4a5c84d58",
+          "recording_group": "I7et4Ey5b7I"
+        },
+        {
+          "video_id": "IDNFEr4FYqc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "06da025a47efe65ee667742a97d67ef07fb37ee8c9a810cc957b9d1919a22867",
+          "recording_group": "IDNFEr4FYqc"
+        },
+        {
+          "video_id": "IFeJETlg5uU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "76b71afb9d30d9252d2c99027e68889f4753c09a1810a576cc10865a9bc3ab8d",
+          "recording_group": "IFeJETlg5uU"
+        },
+        {
+          "video_id": "IJwHcGyRkMc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "54bb228e7ac0416dc12cd905d3e889ee8984ada5a5543a203e5e554ec7d2fa78",
+          "recording_group": "IJwHcGyRkMc"
+        },
+        {
+          "video_id": "IYrty1QFYIU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ce7c27c701331851a9d81d73023b66a4c53b8e72e5c64877bb4e2291326ca17d",
+          "recording_group": "IYrty1QFYIU"
+        },
+        {
+          "video_id": "Ib9OLeU_ac0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "226b323e24964fc7bcca88d45b167a5349f8c04eb57abd97d5d9221c7c68373d",
+          "recording_group": "Ib9OLeU_ac0"
+        },
+        {
+          "video_id": "IgJksC0wY88",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9f3a13ec9d05c2fed456d88104a2cb52bc05c39d563b78d0b6a975d7348590ea",
+          "recording_group": "IgJksC0wY88"
+        },
+        {
+          "video_id": "Im6cb6goBH0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6ed79598d9e4473748ca44d62d22c3cc1516a5a28b41c14e028c6798dbb6abf0",
+          "recording_group": "Im6cb6goBH0"
+        },
+        {
+          "video_id": "It4sCJMvHmI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f10cae60e7ef90a22b3302877d6491ecf92f02769aaebea2897d5e82ce5597a9",
+          "recording_group": "It4sCJMvHmI"
+        },
+        {
+          "video_id": "IuV_i5-t6-M",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "610a03df8e9df30b6b4519e28ece59f0dc05df2d5c2766b6f58d3ae1fe8db826",
+          "recording_group": "IuV_i5-t6-M"
+        },
+        {
+          "video_id": "J2Ia_1jDRdc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ea8f48c41ccc9bf996f3c4e137c66ef692802c1923a663716256993b22844667",
+          "recording_group": "J2Ia_1jDRdc"
+        },
+        {
+          "video_id": "J45o5KvMTE0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c0766a165316717fd88fcc362b91c4708965dc76885f5219c60bc2d7d973dc9f",
+          "recording_group": "J45o5KvMTE0"
+        },
+        {
+          "video_id": "J9_PY8r0vKk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "acbc7d654b5e4cca16719777fbb8ef05e0878e850869c93d1e5f64ed9e9d8515",
+          "recording_group": "J9_PY8r0vKk"
+        },
+        {
+          "video_id": "JBG8emAw4qI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ccd0416ab6e8aa75384ac5e20faf097f21d36a92ce830537af9fef4c9d88a3f8",
+          "recording_group": "JBG8emAw4qI"
+        },
+        {
+          "video_id": "JHNAWNtPOXQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d27998f3c3bfead8c0fbedd697f13c6b59ef9f7992a68c14c76c6268aeffa6fc",
+          "recording_group": "JHNAWNtPOXQ"
+        },
+        {
+          "video_id": "JJMqGkrQqAo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ada527246d522f395c1c3e39b83d98819cac099000320b2aba7f80489c9556ef",
+          "recording_group": "JJMqGkrQqAo"
+        },
+        {
+          "video_id": "JZwDARULnoM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c84a1b78d20bd2101bab30b3edd107c32b37230820ef0d16b61e9d6e4c682e05",
+          "recording_group": "JZwDARULnoM"
+        },
+        {
+          "video_id": "Jc7xmFRUhRI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8b15bfad746ee7cc5fa2fcb65531d370b864b4cae6292c7aece6a23cd2e89458",
+          "recording_group": "Jc7xmFRUhRI"
+        },
+        {
+          "video_id": "JjuEA3hdlGo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "59038dfdb56fde73f7ec448ca43881631d199bef573dc47dd8e2280b8d37e4f6",
+          "recording_group": "JjuEA3hdlGo"
+        },
+        {
+          "video_id": "Jpc3WBLvZrg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "504b31e7dcf37a96d95bab64e514a0333386e517373f69ac6b33057d2afdb25b",
+          "recording_group": "Jpc3WBLvZrg"
+        },
+        {
+          "video_id": "JrXu8C5--NY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7e3b127a091a4157d05d1ca4b8eee90ecf24819495be56e163bc7c57ef55b87f",
+          "recording_group": "JrXu8C5--NY"
+        },
+        {
+          "video_id": "JtjkEHIN4w4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "488ae6cc0252e6a2f47ae6fe008874575d948249545feeb275976ad4abeec502",
+          "recording_group": "JtjkEHIN4w4"
+        },
+        {
+          "video_id": "KTQWdRUOxI4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "62e9f4159d2075112dc1aa1063bd3216bdb6ef9c227dcf4650cc6481a56d4dd8",
+          "recording_group": "KTQWdRUOxI4"
+        },
+        {
+          "video_id": "KTyWzscgHtk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "eb8b12dd8a58c5332b3336e4af2a3097a427f97522ac0c9fe6573fea1ce9c676",
+          "recording_group": "KTyWzscgHtk"
+        },
+        {
+          "video_id": "K_M4lBmrUxU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4ee4e951c3c1e54b66425d6540c4d8c61a1d6d4d114b194106c00eb78ce77ea6",
+          "recording_group": "K_M4lBmrUxU"
+        },
+        {
+          "video_id": "KfCmEqSLb8s",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "659a77e7b8040d72486e358a9aab900867e603dab07d6adb4dd7250fdf4a55ec",
+          "recording_group": "KfCmEqSLb8s"
+        },
+        {
+          "video_id": "KoQCg-WB2Ps",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7f4272797d388e16016d8e999a7330357bf875fedc89d630d07efa98b613892e",
+          "recording_group": "KoQCg-WB2Ps"
+        },
+        {
+          "video_id": "L-IB26gP2sQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "910b1ee29b8dab4267209cd38383344bbfb0de876cd0655eff524ecff024f0a9",
+          "recording_group": "L-IB26gP2sQ"
+        },
+        {
+          "video_id": "LJ-hquTw4Mw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "45718d46ff9ab10a7734a9c9a24cd440de3e3bb68defda1d4a8750091b5f9e66",
+          "recording_group": "LJ-hquTw4Mw"
+        },
+        {
+          "video_id": "LMEN5JhKAwE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "949f8a46104550b1077fa6fddecb6fec8eed87153e5c6e624c6d0b8dca68cfa7",
+          "recording_group": "LMEN5JhKAwE"
+        },
+        {
+          "video_id": "LXEiYSqc3dY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3ef7d3beab3b7dbabb56e9bee20dad75936eac939a074a758c6c2ab1080783cb",
+          "recording_group": "LXEiYSqc3dY"
+        },
+        {
+          "video_id": "LcVwQTl1SD4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d0550655c26c926f4482db8a04c719761f22525bde49538b05161d24dac437a5",
+          "recording_group": "LcVwQTl1SD4"
+        },
+        {
+          "video_id": "LtkrdvaMnCg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6d76bb7a3182595fd42e5129663c16a8b7eed45b72d6e5d5e064fab53bd86000",
+          "recording_group": "LtkrdvaMnCg"
+        },
+        {
+          "video_id": "Lv1_AdJbBGU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e95cbb9e165d14b6faaf731bd74623b3dc0bc824db4f04ca1bfa53198922661d",
+          "recording_group": "Lv1_AdJbBGU"
+        },
+        {
+          "video_id": "LyPN1UbyUeo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7d82082672c4f8f113f37d577013cd87c959f384eb472a04863d57909bda13fd",
+          "recording_group": "LyPN1UbyUeo"
+        },
+        {
+          "video_id": "LzVkmuHYQ4I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "fe66d99457b79687d50338af7989f7daae04a71ec5f023034003b6f4edad159c",
+          "recording_group": "LzVkmuHYQ4I"
+        },
+        {
+          "video_id": "Lzeuh0AvHc4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "bd78c22b367bf46d81e3f371f3f93e395baf3d63e4d286489d8c0a916d568bed",
+          "recording_group": "Lzeuh0AvHc4"
+        },
+        {
+          "video_id": "M-LuCAYZLJ8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f56bea6fa66f50736ca60d3bf02c5fa39db6b2ad1757d9e33b6a58840a99d565",
+          "recording_group": "M-LuCAYZLJ8"
+        },
+        {
+          "video_id": "M-k_Qw3ShFM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1c859dbab0178c833feaa733a1ac31c8b5a54d6e6c9fd4e199b14fa25fb87b9c",
+          "recording_group": "M-k_Qw3ShFM"
+        },
+        {
+          "video_id": "M3Xk8jezV5o",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0c0ede4fbc3ecfd1a5d34a5099c502437d67d4591c06f1fe5e2f7e65a1007b4b",
+          "recording_group": "M3Xk8jezV5o"
+        },
+        {
+          "video_id": "M6BBT5vzhok",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "26bc52dac7da9b7b6426d94cb4bff30aa870bdef11431e7879d99290d30097ac",
+          "recording_group": "M6BBT5vzhok"
+        },
+        {
+          "video_id": "MMg6mvm2d_E",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3edbd06a00df0fa0d1c34f372f4640778a5b11b647e56c7f1b272135fbf3bfbe",
+          "recording_group": "MMg6mvm2d_E"
+        },
+        {
+          "video_id": "MQaWN30jkoY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e744fbf3da76c21c9e29a0dcfdc37c2e81542b279a34f2547e6f210f200e42f4",
+          "recording_group": "MQaWN30jkoY"
+        },
+        {
+          "video_id": "MYmpqyZWUgA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e0f828f07dc7e2d669915feac19eb5f78eac62a694e34b8b6d4cb97bf649c17f",
+          "recording_group": "MYmpqyZWUgA"
+        },
+        {
+          "video_id": "N0P_Hfv7UJ0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a8315b2dd86e60cebaa3115f4cd04a0342b5c7ce080f1d037874e66666650ed8",
+          "recording_group": "N0P_Hfv7UJ0"
+        },
+        {
+          "video_id": "NAgNcRw0VxA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "95c1dc494478e1a4e887365e00c998fbbd6692c607d34c052be65f2677df07ec",
+          "recording_group": "NAgNcRw0VxA"
+        },
+        {
+          "video_id": "NFFkHf0__1I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ebd87b5b3e35ca22ba82c0e102116055c302fd9977a6050e249ca2255abe92f0",
+          "recording_group": "NFFkHf0__1I"
+        },
+        {
+          "video_id": "NSdi4X03rBY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f0043d12aae4ed828c4a6a72ab7f74fde238357d01cdcf407cb86796fe4423ab",
+          "recording_group": "NSdi4X03rBY"
+        },
+        {
+          "video_id": "NZib35fVXk0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "be6b9a01ae04052ea8a1d13e774d8c9ceecdd37733ec2f162bb25727993d815f",
+          "recording_group": "NZib35fVXk0"
+        },
+        {
+          "video_id": "Nc1p659Qkjw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b996567b631f0ab4e40efd131b42c09f55523a52cf9686c43234282949f33011",
+          "recording_group": "Nc1p659Qkjw"
+        },
+        {
+          "video_id": "NejoB1xL4mQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c137a4e714a19f53599cf942176e3b5cf9dd6b0782223622d69af1f4a5ab5627",
+          "recording_group": "NejoB1xL4mQ"
+        },
+        {
+          "video_id": "NiR1tUNPMM0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ce6602908ffabbbfc034cddcf334706e9f3bf00792391929b1332823216e54f4",
+          "recording_group": "NiR1tUNPMM0"
+        },
+        {
+          "video_id": "NvqoyvXQcEk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8677b1cb74de49ce0f37040d6e97688436318001ac88a87db2438a47a1e8abd6",
+          "recording_group": "NvqoyvXQcEk"
+        },
+        {
+          "video_id": "NyFoQbdMebA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0e38153d54f2d450072f53ac8583b96642a4b40e0c5504ee40d61f2a1c603793",
+          "recording_group": "NyFoQbdMebA"
+        },
+        {
+          "video_id": "Nz6fUBQ4tDc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "91ba2d4270846e751461c59eb6ccf1810fe044f5fdb8e48f0876e114cb383064",
+          "recording_group": "Nz6fUBQ4tDc"
+        },
+        {
+          "video_id": "O0zA9DzSPGg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "987873963fe0eb96498a8cee6dc261e2733bdf8072c2d1d22a5824115e7c4093",
+          "recording_group": "O0zA9DzSPGg"
+        },
+        {
+          "video_id": "O4d7nzvTBno",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0775ca5a5862cebcdf0729d35c2b50ec85090ad6f67169784e3794d161620bcd",
+          "recording_group": "O4d7nzvTBno"
+        },
+        {
+          "video_id": "O929yxUUiEE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2b91323afb0b34664fb9dfc5485ac22f24685b83987211640595595b6ebdc51e",
+          "recording_group": "O929yxUUiEE"
+        },
+        {
+          "video_id": "OFRRVBNG6RU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "30e89c6a132e13ad664d68135a34b48d999539125607993cafaec54909c3496a",
+          "recording_group": "OFRRVBNG6RU"
+        },
+        {
+          "video_id": "OJMziDO-zrA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "bca8de01f4eb310635b74d3bbc796b659440f42cb8c8e80823b562525234b3b9",
+          "recording_group": "OJMziDO-zrA"
+        },
+        {
+          "video_id": "OKOwwayaeFs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c76ff0639f65f95959cd3804b6001576fddc7a30283a8bbbdf63cdbdb611824a",
+          "recording_group": "OKOwwayaeFs"
+        },
+        {
+          "video_id": "ONc7TQsS4-I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "13823b5997df08358e61e701a31b6f8f1d3e7a396285515a64d392f2be95217d",
+          "recording_group": "ONc7TQsS4-I"
+        },
+        {
+          "video_id": "OTmt1PKmOHI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "460bc7e790815ad2b52f9c6643a515be8a171497bbe2ab5707bac232052c9072",
+          "recording_group": "OTmt1PKmOHI"
+        },
+        {
+          "video_id": "OWAyr_4OsqE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9cdcc8dcf287226b7fc669d2bce592c3ccc29f17d0a24bed8db836b313b51995",
+          "recording_group": "OWAyr_4OsqE"
+        },
+        {
+          "video_id": "OZ1Nkl-Esew",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "543dc2695567f3ffa76664b6f3a18302ddf1ec3cd526bd757dd8b9e3cb555848",
+          "recording_group": "OZ1Nkl-Esew"
+        },
+        {
+          "video_id": "Oh9azewqeTg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3cd3948e0395aee60bd9464ef6034d40386db7b570118bcfacb916c974bad273",
+          "recording_group": "Oh9azewqeTg"
+        },
+        {
+          "video_id": "Oj7tBTKTsLY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "da0e26658f88dfa2fc67aea18acc28d37350d1435db60b7a1296c99e42209ea5",
+          "recording_group": "Oj7tBTKTsLY"
+        },
+        {
+          "video_id": "OoAufcQXmng",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ebee7b73959c06dce1142bff1b69d4f2726778491b8e876ebc74fd39fa858547",
+          "recording_group": "OoAufcQXmng"
+        },
+        {
+          "video_id": "OoaKR4un-2A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "54e182405dc7a4bd7eb4ea1521bad764a32adb52d61d133de9851eefed6eac55",
+          "recording_group": "OoaKR4un-2A"
+        },
+        {
+          "video_id": "P9DYEhPaigo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "811edf83c0d595d2775e35f8f79f2570beaaa57833dfffa3723576cde0677835",
+          "recording_group": "P9DYEhPaigo"
+        },
+        {
+          "video_id": "P9hTtr1PnCQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1f713acc1d5f418b69ca4869fc750ea4de4fa7e8fa1758c6fdac3aa61c1f589a",
+          "recording_group": "P9hTtr1PnCQ"
+        },
+        {
+          "video_id": "PAUhj7SUp6A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b220b2846faa76c1f4f20307a7518e7a4225eeeb3fb40432caf80d9de4ca7727",
+          "recording_group": "PAUhj7SUp6A"
+        },
+        {
+          "video_id": "PBDzryK_pT4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3cd82aded227fbec58a490fbd17fc9763a62d811ce0e5ff4d75db545a8964dbd",
+          "recording_group": "PBDzryK_pT4"
+        },
+        {
+          "video_id": "PUklLp6YHmg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "876aeb9f340cf53cbb530d9ee22b8cd55fc550261df8a87073297d850a81f1fb",
+          "recording_group": "PUklLp6YHmg"
+        },
+        {
+          "video_id": "PWRXy9tSc3w",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "18aa5afa5adbd1478c33df7145bbc1ecf7e9c861479f8ea85a6eba5f93b28c92",
+          "recording_group": "PWRXy9tSc3w"
+        },
+        {
+          "video_id": "Q0-z44Z8B7Y",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ebb1fa38df71a5d45c06b36a4ac228aa3ec74a4437205d6b1356d9848b2ed2d6",
+          "recording_group": "Q0-z44Z8B7Y"
+        },
+        {
+          "video_id": "Q3RAY8x5DCM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ac6879101fd022d74a0ce8d8997d82f68448cb188da57c569f2e687920a9569b",
+          "recording_group": "Q3RAY8x5DCM"
+        },
+        {
+          "video_id": "QJc8k_zBI94",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4a549f5c9f2baa22560629328cf4395225f674b3f3c260d0163f0f9d67a6aab7",
+          "recording_group": "QJc8k_zBI94"
+        },
+        {
+          "video_id": "QQHHfA1X_78",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a0a3472f86b54f02e6ff2132ca2b05f4338d6ed194042c0e3b3c5292032fdbba",
+          "recording_group": "QQHHfA1X_78"
+        },
+        {
+          "video_id": "QUoX68VH7Xo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "591f8b35d368267685ee90fbb731e28d418ceded03132ec6c5cb33c55b6043ba",
+          "recording_group": "QUoX68VH7Xo"
+        },
+        {
+          "video_id": "QYNuApbWlfg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "fc47a93e972dc2c98a1cc203c8c6b0ccf8d45dfd8048daf2b04379eb47a40a1d",
+          "recording_group": "QYNuApbWlfg"
+        },
+        {
+          "video_id": "QgyH8VCbG-Q",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f8aa0a0dfe695e8a577a32002661ac2edc3716b5766df961a21ad45c6f29110a",
+          "recording_group": "QgyH8VCbG-Q"
+        },
+        {
+          "video_id": "Qnd297ZJaYs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a18496269bfe5e6dc017bed9cf6fdfdda92eb5fe1f934b012b650bc1512df569",
+          "recording_group": "Qnd297ZJaYs"
+        },
+        {
+          "video_id": "Qu2GFKJVRaw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "902c6ebc533f661bed1c9b801be587bbc93b3f961ee60cee4905a4be1fa6fc5d",
+          "recording_group": "Qu2GFKJVRaw"
+        },
+        {
+          "video_id": "Qww-PqXBWOA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "23726839c97935c48a0f6057c6f95a108170256b146a211d55e5ffd30aee4ca1",
+          "recording_group": "Qww-PqXBWOA"
+        },
+        {
+          "video_id": "R1eR-Et4dbg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ad948a282335a9b73f245b4feba88cd9f6908e4fc366042dd74bf0afd3b43683",
+          "recording_group": "R1eR-Et4dbg"
+        },
+        {
+          "video_id": "R9kpcymiqn4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "58368d456d75e764e9a4f7262b9441dfbd9268310e4c40d456542ee50f46c7ab",
+          "recording_group": "R9kpcymiqn4"
+        },
+        {
+          "video_id": "RAK_VX6-pac",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ad77538792766c108cd90b60e6729efd21c5f571f464d05571d9a5ddca244f50",
+          "recording_group": "RAK_VX6-pac"
+        },
+        {
+          "video_id": "RBIffJKIjeg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "613a2c58dbd2fc911a3a25fdf92d8e69141e064c8be732c140a094e77add22c2",
+          "recording_group": "RBIffJKIjeg"
+        },
+        {
+          "video_id": "RE2X6PFQPA8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "01efd7bf1617bb661ff6d4d21d840b8fda0b14585c728e7a1f067e6ea9f1606d",
+          "recording_group": "RE2X6PFQPA8"
+        },
+        {
+          "video_id": "REqmSLXGm-A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2fd12f5edc6e5607fe8e7bae06b0c01bced72300ead08a621eb2ee749f8c965f",
+          "recording_group": "REqmSLXGm-A"
+        },
+        {
+          "video_id": "RGAHz1JOTy8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "55ed6ac9f70a07925df20f67dd9a23a2cbc63c0496f8b96c8187cfd605fcd4b4",
+          "recording_group": "RGAHz1JOTy8"
+        },
+        {
+          "video_id": "RGz0ThP--OY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f9dbdec55ab49b1746b711b709d6fe95fe71eed0a6f02aab3994432c6a5dfff4",
+          "recording_group": "RGz0ThP--OY"
+        },
+        {
+          "video_id": "RHVxvRsJFO0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "37dd91a4ea701d5e04b8e20f95c82a93ecbeaa844db7ccdab0a9ca7fc76c2772",
+          "recording_group": "RHVxvRsJFO0"
+        },
+        {
+          "video_id": "RMrrAZHSZuI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "99df5cebc82223bb66c07ec6e170a964c203008d8fbbc8c8b7a0707cc3a55ac1",
+          "recording_group": "RMrrAZHSZuI"
+        },
+        {
+          "video_id": "RQfOeqb_Lss",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b67956e264a140fd697d288abea83dee2b0c0c0a7d697ee38ffdfcd8d85cffde",
+          "recording_group": "RQfOeqb_Lss"
+        },
+        {
+          "video_id": "RSUSGXWUjgw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "561fe051bbfb1c7165cf8817d46c3edb2548d34abaacf49a3f4932ba2687d689",
+          "recording_group": "RSUSGXWUjgw"
+        },
+        {
+          "video_id": "RTwrhyLujcM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d2ca2e0f9b0f89d1151129f43bdcb840f95049f294861ebfb32a2e44407acd50",
+          "recording_group": "RTwrhyLujcM"
+        },
+        {
+          "video_id": "RvwUuir5irc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4d3e776e51c6f09a91175682f959f3a08464545e7ab584d9b455562124f59de8",
+          "recording_group": "RvwUuir5irc"
+        },
+        {
+          "video_id": "Rx2T2xgYbKY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6aa83a450a11d0a9a5be37ad33d082d07484f7cd5ea206946d8213163469db12",
+          "recording_group": "Rx2T2xgYbKY"
+        },
+        {
+          "video_id": "S-r3YIzsnR4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "95a67573a0a35b77b6eceba9375d4c88bf7e23668955e864d166b5f59ac87806",
+          "recording_group": "S-r3YIzsnR4"
+        },
+        {
+          "video_id": "S3Yifl7jGM4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5e2bb7b7e1fb165c8c717dcd94329bbf093aa906af9c9a44d695028fac9df7fe",
+          "recording_group": "S3Yifl7jGM4"
+        },
+        {
+          "video_id": "SO44pz-Cr6I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "abe76ed3781e2d1312289d779b7db1f9322ea07662c188d627129de9405b0903",
+          "recording_group": "WaqJ4p4NLFY"
+        },
+        {
+          "video_id": "SZnMscxvTyU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "dff40d136d8391f7edc37b2d6fd7503521ba8e8dddcb9287c266cb715561a61b",
+          "recording_group": "SZnMscxvTyU"
+        },
+        {
+          "video_id": "SbL_tH3EKOo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "636876a5e9a7aa88a5b345f234c099dd6c48a918e0ee984f725286d6d1da1e4c",
+          "recording_group": "SbL_tH3EKOo"
+        },
+        {
+          "video_id": "Sb_obh_XG_E",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "216e0a7c1256396213097431939cf4552c6129999dc353f1c176b52743a0ef19",
+          "recording_group": "Sb_obh_XG_E"
+        },
+        {
+          "video_id": "ScF5533k9UA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1a51f6dcb560c2e92d6606ee6c90b62cb1d8d6ecddfe3a389c1be52b5880bada",
+          "recording_group": "ScF5533k9UA"
+        },
+        {
+          "video_id": "Sd07TwFtXzM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "535aecf91e44fd4c9029ecd83513055c2baa70b9c27742c1cf2b07fe85b0d18a",
+          "recording_group": "Sd07TwFtXzM"
+        },
+        {
+          "video_id": "SkUxVM98IJk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6470d7cc68e3450819095e3fb52e2e251d17b2b83c5c41964e6f8ed6743b1f1b",
+          "recording_group": "SkUxVM98IJk"
+        },
+        {
+          "video_id": "T3j9KTlxZPs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "147eec6b72e85dbe2ed0a6f76d05f03d620f532efb4983f39e6a9bf5b14a0785",
+          "recording_group": "T3j9KTlxZPs"
+        },
+        {
+          "video_id": "TEWdmJBXwuk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "38a42c7f82cf523ee368fa740161ad613aa78ea27464e7070dff58259ffd6e11",
+          "recording_group": "TEWdmJBXwuk"
+        },
+        {
+          "video_id": "TFFz_H76PXI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "3e88f86678a6d3f737fb2e174a7b558af00c9660b444bc34fd19e87d8f3ef928",
+          "recording_group": "TFFz_H76PXI"
+        },
+        {
+          "video_id": "TYwESHx90Og",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "8d48ec28851fa7d6b7260a82b48ad40a2214a991946c40845f88463b1d9a6291",
+          "recording_group": "TYwESHx90Og"
+        },
+        {
+          "video_id": "T_DfWqhRD3k",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "181b8f4258c1714e9570812a2efa8d741aac87dc53b2a5cf88bae1cf57b46850",
+          "recording_group": "T_DfWqhRD3k"
+        },
+        {
+          "video_id": "Tyassiohg9k",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "38714f48bd30fcae4196b151d24f6403a5aabbfa624b55c902015e12c7ec2ccd",
+          "recording_group": "Tyassiohg9k"
+        },
+        {
+          "video_id": "U9YkjTcPXps",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e36350510f851d89615413df24fce7ca340dda02df3fcfb99ff9128cab1e2ef1",
+          "recording_group": "U9YkjTcPXps"
+        },
+        {
+          "video_id": "U9_N0VFyAZI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b251c8e2642831222121868dd8e3dd378bfc15fcd62c841c3414b0651a0162d2",
+          "recording_group": "U9_N0VFyAZI"
+        },
+        {
+          "video_id": "UCQoDi35qpU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b4fdb598932ee256014a3bf92d128af0f910edb80652f924fe92c3a53258a429",
+          "recording_group": "UCQoDi35qpU"
+        },
+        {
+          "video_id": "UdKymHmhGlY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "bae371e2b0fa551dc1b7b27a18724e91debb9be08bd619da5d581bd5891a043c",
+          "recording_group": "UdKymHmhGlY"
+        },
+        {
+          "video_id": "UfwvWHwnMTw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d7dc762cef3c3475819c162e1392ecee3da2351b291ab4bed27140d9429bf777",
+          "recording_group": "UfwvWHwnMTw"
+        },
+        {
+          "video_id": "UvSqPe6tqiU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "aec1c64e30e561937a3b2f9cdcc151e2b72d899d2c2ffd6f25de273ffcfe178e",
+          "recording_group": "UvSqPe6tqiU"
+        },
+        {
+          "video_id": "UyUPsAW0SMA",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4be74267855ac2e0e08e8642d5da9d422caa1df2dbfa7c3c68d3a0d3458d589a",
+          "recording_group": "UyUPsAW0SMA"
+        },
+        {
+          "video_id": "Uyjl6Phchuw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "23abc172977be8fab118da34c7c89cd2e904226638877abd6f071956a75eaec6",
+          "recording_group": "Uyjl6Phchuw"
+        },
+        {
+          "video_id": "V0vf7Lq_Feg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ce3617804433f5ee6665dc3d1c537592ebe7f8ea31f2a5a9885c211b8373f0a2",
+          "recording_group": "V0vf7Lq_Feg"
+        },
+        {
+          "video_id": "V13mPLj9FZs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e55b743c2ec0c7f4b7736907c3fc36a2e8c1054138c49efda17058a1f006464d",
+          "recording_group": "V13mPLj9FZs"
+        },
+        {
+          "video_id": "V1FfopiOw8I",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b260fd533cf68ccaee8944377d5b990f3c661945192566f7cd2728a6bcf6cf14",
+          "recording_group": "V1FfopiOw8I"
+        },
+        {
+          "video_id": "VVg7Diemsm8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "5845f51d07a45e6016846bfe0181255fb74118c71212abaade5f3a25bd7c871a",
+          "recording_group": "VVg7Diemsm8"
+        },
+        {
+          "video_id": "VWn2sMBxpb8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1a8c77d947fdcdd672e6c77d61b004166cdaab2d241a1e7523500cc7fc5a8aec",
+          "recording_group": "VWn2sMBxpb8"
+        },
+        {
+          "video_id": "VXCOhPvwIGU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "24fa094b355e187c7ffc874f4bd19eb58bd047567d5b1d6911712ce80aa0e984",
+          "recording_group": "VXCOhPvwIGU"
+        },
+        {
+          "video_id": "Va9JWNwp2qo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d7c21fafe6fb253811925abf02e4d040915a970cbdb503b5697b1297b390c980",
+          "recording_group": "Va9JWNwp2qo"
+        },
+        {
+          "video_id": "VbN8LLQSLX8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ff3acd86a71609055e165d7a3fb2ca0ae7d85f151c080d204c52f0aaa5eda291",
+          "recording_group": "VbN8LLQSLX8"
+        },
+        {
+          "video_id": "VbltYf6IdfU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "56396611c2aad28347bb15f8009231bc4158045b57c0893850d733abc1786b3c",
+          "recording_group": "VbltYf6IdfU"
+        },
+        {
+          "video_id": "VgJJBsuJqZw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "830c47bce7156f893c22110f9e25ae77cc643810ce23a1c9c23ab309704ea292",
+          "recording_group": "VgJJBsuJqZw"
+        },
+        {
+          "video_id": "Volu2vOn9uU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9215f5705d391872ae31b71676cbab79d28481f403015d690eb56358fdce0b17",
+          "recording_group": "Volu2vOn9uU"
+        },
+        {
+          "video_id": "VtAx7ns2-3A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c28979e572ef305e5d3a710378495304526ebf2bb312dc3067a1ad97ea0ecbdf",
+          "recording_group": "VtAx7ns2-3A"
+        },
+        {
+          "video_id": "W2BIG2BNefQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a80a49509f8655bd3bb6ecaba47830315e119c721b9821d3344ff2ce495bf502",
+          "recording_group": "W2BIG2BNefQ"
+        },
+        {
+          "video_id": "W2SNGtZ_DDY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e92a64e991ac728c456e045dcd2efe3c51cf4ecbf56746d600c9adf8e1e651c4",
+          "recording_group": "W2SNGtZ_DDY"
+        },
+        {
+          "video_id": "W8IDAdHF3q4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "640ef7cf38211b75b4ab07d0044bd2c484927283d68ca5b80db5e1fe29c57bdf",
+          "recording_group": "W8IDAdHF3q4"
+        },
+        {
+          "video_id": "WNjpxNlnSjE",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b3141fd897c1933bc71ce20c6a8170b67d29368d18ee8f6f983d25531a3e5f42",
+          "recording_group": "WNjpxNlnSjE"
+        },
+        {
+          "video_id": "WOmvP2i5lVU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4def13069e06b8b40ac3e391d90ff3c0704323d996f684e414b032de1d9236d0",
+          "recording_group": "WOmvP2i5lVU"
+        },
+        {
+          "video_id": "WQeQY_z5Tbk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "f7a93a76223b546c6a9e058a67cad9b33d56863231402f5e55572349e66f71e9",
+          "recording_group": "WQeQY_z5Tbk"
+        },
+        {
+          "video_id": "WUOurpo6nxU",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6b7b4828283594ffb4d04bc6cdb06412f9005c22673b916e32b58a62d92eb7a5",
+          "recording_group": "WUOurpo6nxU"
+        },
+        {
+          "video_id": "WiyNa_1VIjs",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2ebdc46f038523a047b5ca56f48ecad2a149e3e493a765c31634a81cdd278172",
+          "recording_group": "WiyNa_1VIjs"
+        },
+        {
+          "video_id": "Wr5THEy7nZw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d8d8772ef8d767f050cb7dabe5ce7b08924b3ce9622939ec47088691be05eba2",
+          "recording_group": "Wr5THEy7nZw"
+        },
+        {
+          "video_id": "Wu2Xn28yTr0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "1abccbb6344e438e524b90ce0cb241ccf539e1e3594ccdabba2a3886af0c1d8e",
+          "recording_group": "Wu2Xn28yTr0"
+        },
+        {
+          "video_id": "WuXCB34-YhY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "780b7c21e680d00c8c940733e35a458e5976c762117a124e6401c7b13ca70b44",
+          "recording_group": "WuXCB34-YhY"
+        },
+        {
+          "video_id": "X2MWMltMlO4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "2ad9081abf547e797fe3b34ae627a5e32fa23fa527e887a8f564c3b5ed9ca3d6",
+          "recording_group": "X2MWMltMlO4"
+        },
+        {
+          "video_id": "X8Lurbj92Hg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6b55b8e219c447689945437d0c432b0641ca051e9b6f2b96b45e52714c0a3727",
+          "recording_group": "X8Lurbj92Hg"
+        },
+        {
+          "video_id": "XDQN59ME3_8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6b8d49a6f4dcc35da0ac50a975a4b625762537ec1d7caacc18b8199cf81a3f33",
+          "recording_group": "XDQN59ME3_8"
+        },
+        {
+          "video_id": "XEunr8WRhDI",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4f3e2a9f1af87fe46e8fb5fbde6218efc388f6d7b90cf64df4152ae99669b153",
+          "recording_group": "XEunr8WRhDI"
+        },
+        {
+          "video_id": "XJBpKcdMwzc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "57487ee4ff94172fc1172ea9999aa463334cb738dbd6987809e00e61a694d0dc",
+          "recording_group": "XJBpKcdMwzc"
+        },
+        {
+          "video_id": "XJlUVIZlF20",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "21f282c84d6fb7d8985e4c281f863b822293d3075e313e8ad085a2414be1ff51",
+          "recording_group": "XJlUVIZlF20"
+        },
+        {
+          "video_id": "XMf7AVHB4zk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c1845b4ea54ab37396254625979cea4b83989abf0485c2b2fe880109ade9cbeb",
+          "recording_group": "XMf7AVHB4zk"
+        },
+        {
+          "video_id": "XSuuktzj8u0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d5d55f6e20c3712b0ac52fd2a711e4e878bce57da259334cc5b9c6c7e08a2dbd",
+          "recording_group": "mwUGbZP-yaM"
+        },
+        {
+          "video_id": "XUIWFacBIVw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "dd167e4e05284ba033d6cdac6b8369ce6235a5bd39cd92219505b48e2796dfbd",
+          "recording_group": "XUIWFacBIVw"
+        },
+        {
+          "video_id": "XXIAWkazqh8",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "38eec0f929e3d6026f62ec9ccaba4ce02adbbf2d066b6cd299e1ba2fc0c24f1c",
+          "recording_group": "XXIAWkazqh8"
+        },
+        {
+          "video_id": "XZKo3RO_ZI4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "4a6e3f268df5b555b4aef77e805a8012321e469eda47dda9aa54940dcc18287b",
+          "recording_group": "XZKo3RO_ZI4"
+        },
+        {
+          "video_id": "Xg9M4BozX38",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "0568d0aae513bf1f5ec8b1c58be880633e57d313418736875b43cd16fa069e83",
+          "recording_group": "Xg9M4BozX38"
+        },
+        {
+          "video_id": "XrsdqfqsaYk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "d2855f3fd2508429840459ffd14d9a8a5ddb07040cfa76108a505a5245ab03e3",
+          "recording_group": "XrsdqfqsaYk"
+        },
+        {
+          "video_id": "XtIid27IxXM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "7d7253bcac629fa02beb98eee149564107fd730e9b2d511b300a005a7803ac3b",
+          "recording_group": "XtIid27IxXM"
+        },
+        {
+          "video_id": "XwpwOsBVhoQ",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "df127bda2b580a18f613273b9e6297616844f5746843c955d0f402c2053ed74e",
+          "recording_group": "XwpwOsBVhoQ"
+        },
+        {
+          "video_id": "Xx_60PhtanM",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "855afd092d9736255732f834f99be41fbf3d5d7d17315a7753ee635b410a0067",
+          "recording_group": "Xx_60PhtanM"
+        },
+        {
+          "video_id": "Y2vgO8Zalsk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "19fb5a0c5a12087f374776e0f170f95a9e5d01554eebcb16e5435c8d83aa5915",
+          "recording_group": "Y2vgO8Zalsk"
+        },
+        {
+          "video_id": "Y5F5ITq761U",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "ef81f9d1912dc471af206d4cbd9c846366ec0698aa30b013eccb8b858f8f75a8",
+          "recording_group": "Y5F5ITq761U"
+        },
+        {
+          "video_id": "Y7x8zPUJwOg",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "cddfb1b0ecbbc1483e12258c403ddda41967eec0661783b25ac28ced47561550",
+          "recording_group": "Y7x8zPUJwOg"
+        },
+        {
+          "video_id": "Y9Vw8_i1BWc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b1b08aa878249ba0e4805203c3365756f92f317172bc2cf80919ddabe7318df3",
+          "recording_group": "Y9Vw8_i1BWc"
+        },
+        {
+          "video_id": "YECZb64dces",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "677ed064de067c13eab42d6344b3e13d76f1bacabd0da8b32837211563ce4f4e",
+          "recording_group": "YECZb64dces"
+        },
+        {
+          "video_id": "YGf5kawTT3s",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "36e7b3b3b48436a990af76844496b50623d0405b198b07898775c9db9c65f5fc",
+          "recording_group": "YGf5kawTT3s"
+        },
+        {
+          "video_id": "YJy0Qqzm74A",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "68ec17d8ddb4b3979ddcd00ff1dc5fe4d1555b4904c7642a3502bb66ede8042f",
+          "recording_group": "YJy0Qqzm74A"
+        },
+        {
+          "video_id": "YPoB0YK6tZo",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "b903232f4b626b6d0ea7fdbba05e397f42537406f03eb032cd012137d34b6a9c",
+          "recording_group": "YPoB0YK6tZo"
+        },
+        {
+          "video_id": "YS-EeucXv_0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "a3501522ca2d84c5323715c5634e421cf98b7c01761c36d39e176339b585c733",
+          "recording_group": "YS-EeucXv_0"
+        },
+        {
+          "video_id": "YSyirKcrbZk",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "9a095f84ce430a3e5fd014c7ee61859eb1e392c97b16f2dec237cb9bae8cfaed",
+          "recording_group": "YSyirKcrbZk"
+        },
+        {
+          "video_id": "Yee8G1tb8z4",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "6280744af7baa9c29bb88ed682585a31133242139dac908dde3f72db4f8307aa",
+          "recording_group": "Yee8G1tb8z4"
+        },
+        {
+          "video_id": "YskDzg6dytc",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "c1740aa40c763324ed6ade37e5aad8e7b39943e7cff05e9728f8940afb81fffa",
+          "recording_group": "YskDzg6dytc"
+        },
+        {
+          "video_id": "Ysvh5oVRRhw",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "abeec373d97b06a0fbe4d240a6fb5c7adf9fb6984de1fc052e949649baefb82b",
+          "recording_group": "Ysvh5oVRRhw"
+        },
+        {
+          "video_id": "Yte1Ibe70Ug",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "e79f4f7bc1c277a6bd961d745b19fbc1eec5d0ff03be5d904febd7831f0ca813",
+          "recording_group": "Yte1Ibe70Ug"
+        }
+      ]
     }
   ]
 }

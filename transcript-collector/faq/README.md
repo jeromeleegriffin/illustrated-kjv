@@ -28,3 +28,7 @@ Do not approve `4pmWjZmHK1o` under the saved Arnold attribution: its named intro
 
 The39-answer Dennis checkpoint libfile_3a9e3631e500819183ae10f3f780a8e2 has been reconciled idempotently with the current registry. Sources5EOrPMZ3ZTM and5FJ-a7O6PL8 have complete caption Q&A reviews, audio pending. Do not import or count those39 occurrences again.
 
+
+## Second external assignment
+
+Set `griffin-faq-grok-300-20261025-B` reserves another 300 previously unreviewed Arnold Murray passage exports, excluding assignment A, reviewed records, known alias groups and attribution holds. Package: `Griffin_Grok_FAQ_300_Recordings_002.zip`. All 300 remain pending; preparation is not a completed review and does not change published FAQ counts. The package supplies untouched transcripts, cue-indexed reading aids, the full prompt and tested structural validators. Actual presenter, source completeness and semantics still require review.
