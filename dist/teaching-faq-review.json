@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T05:05:49.204523+00:00",
+  "updated": "2026-10-25T06:06:28.059182+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -11877,12 +11877,165 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 48,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "fear-aging-arnold",
+        "births-end-age",
+        "elect-recognition",
+        "first-age-spirit-mass",
+        "white-horse-riders",
+        "smyrna-philadelphia-teaching",
+        "earth-after-millennium",
+        "temple-many-members",
+        "millennium-resurrection-closed",
+        "millennium-teaching-discipline",
+        "intruder-protect-family",
+        "seals-order-learning",
+        "isaiah45-evil-correction",
+        "widow-sell-wedding-ring",
+        "satan-visible-body",
+        "witnesses-die-once"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "fear-aging-arnold",
+          "start_seconds": 2144.31,
+          "end_seconds": 2226.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "births-end-age",
+          "start_seconds": 2226.16,
+          "end_seconds": 2303.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition",
+          "start_seconds": 2303.43,
+          "end_seconds": 2353.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-age-spirit-mass",
+          "start_seconds": 2353.38,
+          "end_seconds": 2405.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "white-horse-riders",
+          "start_seconds": 2409.61,
+          "end_seconds": 2486.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "smyrna-philadelphia-teaching",
+          "start_seconds": 2486.38,
+          "end_seconds": 2616.75,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "earth-after-millennium",
+          "start_seconds": 2616.75,
+          "end_seconds": 2635.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "temple-many-members",
+          "start_seconds": 2635.43,
+          "end_seconds": 2650.31,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "earth-after-millennium",
+          "start_seconds": 2650.31,
+          "end_seconds": 2679.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-resurrection-closed",
+          "start_seconds": 2679.98,
+          "end_seconds": 2790.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-teaching-discipline",
+          "start_seconds": 2790.32,
+          "end_seconds": 2830.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "intruder-protect-family",
+          "start_seconds": 2830.73,
+          "end_seconds": 2916.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seals-order-learning",
+          "start_seconds": 2916.91,
+          "end_seconds": 2951.35,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "earth-after-millennium",
+          "start_seconds": 2951.35,
+          "end_seconds": 3038.77,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah45-evil-correction",
+          "start_seconds": 3038.77,
+          "end_seconds": 3173.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "widow-sell-wedding-ring",
+          "start_seconds": 3173.04,
+          "end_seconds": 3217.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-visible-body",
+          "start_seconds": 3217.68,
+          "end_seconds": 3296.59,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-die-once",
+          "start_seconds": 3329.53,
+          "end_seconds": 3374.8,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "53H9gRM4TWQ",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "4d674016172b0496ca94fd37f2d8564c5a87ee225e36fa44234dc7df52a31ae9",
+        "qa_start": 2142.71,
+        "qa_end": 3374.8,
+        "cursor_seconds": 3296.59,
+        "reviewed_ranges": [
+          {
+            "start": 2142.71,
+            "end": 3374.8
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3296.59,
+            "end": 3329.53,
+            "reason": "Listener letter is only partly read; the actual question is absent. Do not reconstruct a question from the pastor’s reassurance."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3296.59
     },
     {
       "video_id": "55rFC8y8DDY",
@@ -11895,12 +12048,143 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 89,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "hair-covering-angels",
+        "endtime-followers-harm",
+        "elect-judgment",
+        "job-friends-inspiration",
+        "bronze-serpent-idol",
+        "voting-duty",
+        "animals-prefer-company",
+        "mistakes-christian-living",
+        "addiction-family-distance",
+        "tithe-no-income",
+        "manuscripts-masorah",
+        "memory-study",
+        "song-moses"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "hair-covering-angels",
+          "start_seconds": 2137.6,
+          "end_seconds": 2187.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "endtime-followers-harm",
+          "start_seconds": 2187.22,
+          "end_seconds": 2248.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-judgment",
+          "start_seconds": 2248.68,
+          "end_seconds": 2343.17,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "job-friends-inspiration",
+          "start_seconds": 2343.17,
+          "end_seconds": 2483.45,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bronze-serpent-idol",
+          "start_seconds": 2483.45,
+          "end_seconds": 2633.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "voting-duty",
+          "start_seconds": 2633.63,
+          "end_seconds": 2681.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-prefer-company",
+          "start_seconds": 2681.08,
+          "end_seconds": 2712.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "voting-duty",
+          "start_seconds": 2712.24,
+          "end_seconds": 2738.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mistakes-christian-living",
+          "start_seconds": 2851.75,
+          "end_seconds": 2954.25,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "addiction-family-distance",
+          "start_seconds": 2954.25,
+          "end_seconds": 3036.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tithe-no-income",
+          "start_seconds": 3036.43,
+          "end_seconds": 3077.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "manuscripts-masorah",
+          "start_seconds": 3077.14,
+          "end_seconds": 3242.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "memory-study",
+          "start_seconds": 3242.51,
+          "end_seconds": 3296.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "song-moses",
+          "start_seconds": 3296.63,
+          "end_seconds": 3362.49,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "55rFC8y8DDY",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "0f60b8e006dcc742533121f916cc5045496ccb2be44a8a7c2c076840141101be",
+        "qa_start": 2134.23,
+        "qa_end": 3362.49,
+        "cursor_seconds": 2738.94,
+        "reviewed_ranges": [
+          {
+            "start": 2134.23,
+            "end": 3362.49
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2738.94,
+            "end": 2756.42,
+            "reason": "Pastor answers about seeing a son but does not read the actual listener question; retain privately without inventing its premise."
+          },
+          {
+            "start": 2756.42,
+            "end": 2851.75,
+            "reason": "Age of salvation not supplied; autobiographical war numbering in captions is inconsistent and needs audio checking."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2738.94
     },
     {
       "video_id": "5EOrPMZ3ZTM",
@@ -34377,13 +34661,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 127,
+    "partially_reviewed": 129,
     "fully_reviewed": 10,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1158,
+    "pending": 1156,
     "source_changed": 0,
-    "question_occurrences": 1303
+    "question_occurrences": 1332
   }
 }
