@@ -5112,6 +5112,138 @@
       "question": "How did Arnold answer why children starve if God exists?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "flesh-return-transition",
+      "question": "What did Arnold say happens to flesh bodies when Christ returns?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "john8-abraham-devil",
+      "question": "How did Arnold reconcile Abraham’s offspring with children of the devil in John 8?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "five-month-half-hour",
+      "question": "Why did Arnold divide his five-month period into two halves?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "god-owns-property",
+      "question": "Where did Arnold point for God’s ownership of earthly property?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "bullinger-disagreement-rapture",
+      "question": "How did Arnold recommend Bullinger’s work while disagreeing about a rapture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "nations-kings-queens",
+      "question": "Whom did Arnold identify as the nations’ kings and queens?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ten-virgins-truth",
+      "question": "Did Dennis read the ten virgins as proof of a rapture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "aliens-pyramids-dennis",
+      "question": "Did Dennis attribute the Egyptian pyramids to aliens?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "chapel-succession-dennis",
+      "question": "How did Dennis answer about Shepherd’s Chapel after Arnold’s death?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "holy-spirit-acknowledgment",
+      "question": "Did Dennis require a separate tongues experience to receive the Holy Spirit?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "backslide-death-dennis",
+      "question": "How did Dennis answer about dying after backsliding?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "translations-dennis-preference",
+      "question": "Why did Dennis prefer the KJV to the translations named by a listener?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "strong-exhaustive-dennis",
+      "question": "What did Dennis mean by Strong’s Exhaustive Concordance?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "purgatory-gulf-dennis",
+      "question": "Did Dennis equate purgatory with the gulf in paradise?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "heaven-linen-works",
+      "question": "How did Dennis explain clothing in heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "noah-ancestry-races-dennis",
+      "question": "Did Dennis teach that all people descend from Noah?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "chapel-corinthians-taught",
+      "question": "How did Dennis answer why pastors do not teach 1 Corinthians 15:1–4?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "marriage-license-dennis",
+      "question": "Did Dennis regard private vows as a substitute for a marriage license?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "laws-land-dennis",
+      "question": "How did Dennis explain obeying the laws of the land?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "adult-son-witness",
+      "question": "How did Dennis advise a parent trying to share faith with an adult son?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "mind-reading-god-only",
+      "question": "Did Dennis say ordinary people can read minds?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "stepgrandchild-family",
+      "question": "Did Dennis approve a step-grandchild calling someone Grandma?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -24784,6 +24916,565 @@
       "recording_group": "4lvVdhNtkSU",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "dinosaurs-job",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2158.49,
+      "end": 2249.08,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-dinosaurs-job",
+      "summary": "Arnold identified Job’s behemoth with dinosaurs and placed them in his proposed first earth age. He connected that age’s destruction with Jeremiah 4 and recommended his earth-ages study. These are his interpretations, not scientific conclusions established by this review.",
+      "scripture_mentions": [
+        "Job 40",
+        "Jeremiah 4:18"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "where-tithe",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2249.08,
+      "end": 2352.25,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-where-tithe",
+      "summary": "Arnold advised supporting the place that actually teaches and spiritually feeds the listener. If more than one ministry supplies that teaching, he recommended dividing support fairly in proportion to the teaching received.",
+      "scripture_mentions": [],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "animals-heaven",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2352.25,
+      "end": 2448.38,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-animals-heaven",
+      "summary": "Arnold reassured a child about animals in God’s future kingdom, referred to Isaiah 11 and said animals would have spiritual bodies without predation. The answer did not document the identity of each particular deceased pet.",
+      "scripture_mentions": [
+        "Isaiah 11"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "born-from-above",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2448.38,
+      "end": 2592.99,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-born-from-above",
+      "summary": "Arnold interpreted John 3 as requiring birth from above and connected natural birth and its waters with souls coming from God. He contrasted that with fallen angels whom he said refused the appointed birth. These connections belong to his earth-age interpretation.",
+      "scripture_mentions": [
+        "John 3",
+        "Jude"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "flesh-return-transition",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2592.99,
+      "end": 2662.29,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-flesh-return-transition",
+      "summary": "Arnold explained the change in terms of a different dimension and said flesh and blood cannot enter the kingdom. He deferred the requested details about the bodies to his coming study of Zechariah 14, so this occurrence remains an incomplete explanation.",
+      "scripture_mentions": [
+        "Zechariah 14"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "john8-abraham-devil",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2662.29,
+      "end": 2798.26,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-john8-abraham-devil",
+      "summary": "Arnold used Abraham’s name as father of many nations in a spiritual sense, then interpreted Christ’s opponents as descendants of Cain. He stressed that even those he called Kenites could become children of God by believing Christ. This is his interpretation, not verified ancestry or a classification of Jewish people.",
+      "scripture_mentions": [
+        "John 8:37–44"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "five-month-half-hour",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2798.26,
+      "end": 2894.89,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-five-month-half-hour",
+      "summary": "Arnold connected Revelation’s symbolic hour with five months and its half-hour silence with half of that interval. He consequently described two periods of two and a half months. This records his prophetic interpretation.",
+      "scripture_mentions": [
+        "Revelation 8:1",
+        "Revelation 9",
+        "Revelation 17"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "pork-salvation",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 2894.89,
+      "end": 3140.3,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-pork-salvation",
+      "summary": "Arnold distinguished what he called a health-law violation from a sin that prevents salvation. He interpreted Peter’s vision as acceptance of gentiles and maintained the dietary distinction in Leviticus 11. His claims about swine physiology and toxins are unverified and are not presented here as medical guidance.",
+      "scripture_mentions": [
+        "Leviticus 11",
+        "Acts 10",
+        "1 Timothy 4"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "god-owns-property",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 3140.3,
+      "end": 3172.03,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-god-owns-property",
+      "summary": "Arnold cited Psalm 50’s description of God owning the cattle and hills and reasoned that the Creator owns what he made.",
+      "scripture_mentions": [
+        "Psalms 50:10–11"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "bullinger-disagreement-rapture",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 3172.03,
+      "end": 3270.7,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-bullinger-disagreement-rapture",
+      "summary": "Arnold said a reference work could be useful while containing errors. He connected differences in prophetic understanding with later events and urged students to recognize flaws in his own teaching as well as Bullinger’s. His captioned date for Bullinger’s death has not been verified.",
+      "scripture_mentions": [],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "flesh-return-transition",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 3270.7,
+      "end": 3313.28,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-flesh-return-transition",
+      "summary": "For a second listener asking about flesh bodies at Christ’s return, Arnold said apparently they would return to dust, then again deferred a fuller explanation to Zechariah 14. He repeated his description of a different dimension.",
+      "scripture_mentions": [
+        "Zechariah 14"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "nations-kings-queens",
+      "video_id": "4q3FbQt8Kg4",
+      "start": 3313.28,
+      "end": 3381.91,
+      "teacher": "Arnold Murray",
+      "variant": "4q3FbQt8Kg4-nations-kings-queens",
+      "summary": "Arnold interpreted the nations in Revelation 21 as gentile or ethnic peoples with their own leaders. He compared those leaders with the elect and said their people would listen to teachers from among them.",
+      "scripture_mentions": [
+        "Revelation 21:20–24"
+      ],
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "source_sha256": "36279458580e963e8a41856c213f868317a9b6126735ca56e45c76eed42398fa",
+      "recording_group": "4q3FbQt8Kg4",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "twins-different-fathers",
+      "video_id": "50L1A0XqSIM",
+      "start": 2167.08,
+      "end": 2253.26,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-twins-different-fathers",
+      "summary": "Dennis identified the serpent as Cain’s father and Adam as Abel’s, treating them as twins. He appealed to Eve’s conception and the separate genealogies in Genesis. This is his serpent-seed interpretation, not verified biological parentage.",
+      "scripture_mentions": [
+        "Genesis 3:16",
+        "Genesis 4",
+        "Genesis 5"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ten-virgins-truth",
+      "video_id": "50L1A0XqSIM",
+      "start": 2253.26,
+      "end": 2337.72,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-ten-virgins-truth",
+      "summary": "Dennis said no. He interpreted the oil as truth, the bridegroom as Christ and the unprepared virgins as people deceived by antichrist. He emphasized preparation before the bridegroom returns.",
+      "scripture_mentions": [
+        "Matthew 25"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "aliens-pyramids-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2337.72,
+      "end": 2395.08,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-aliens-pyramids-dennis",
+      "summary": "Dennis explained biblical strangers as human foreigners and did not offer an alien-builder explanation. For further pyramid study he recommended two works in the ministry’s reference library; those authors are not used as independent teaching authorities here.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "chapel-succession-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2395.08,
+      "end": 2432.76,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-chapel-succession-dennis",
+      "summary": "Dennis said Arnold had already died and that he had been raised up to pastor Shepherd’s Chapel. He expressed confidence that God would provide another pastor when needed. This describes the broadcast’s historical circumstances, not a current leadership update.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "holy-spirit-acknowledgment",
+      "video_id": "50L1A0XqSIM",
+      "start": 2432.76,
+      "end": 2542.44,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-holy-spirit-acknowledgment",
+      "summary": "Dennis said that if Christ is in a person, the Holy Spirit is also present, describing Father, Son and Spirit as inseparable. Suspecting that the listener meant tongues, he contrasted unintelligible speech requiring an interpreter with his reading of the universally understood speech in Acts 2.",
+      "scripture_mentions": [
+        "Acts 2"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "backslide-death-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2542.44,
+      "end": 2591.16,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-backslide-death-dennis",
+      "summary": "Dennis said everyone returns to heaven but distinguished the two sides of the gulf in his reading of Luke 16. He said judgment involves works and unrepented sins and encouraged frequent repentance, rather than pronouncing the individual’s final standing.",
+      "scripture_mentions": [
+        "Luke 16",
+        "2 Esdras 7:77"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "translations-dennis-preference",
+      "video_id": "50L1A0XqSIM",
+      "start": 2591.16,
+      "end": 2666.4,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-translations-dennis-preference",
+      "summary": "Dennis criticized the named translations but also said the KJV is not perfect. He recommended reading the translators’ explanation of their difficulties and using Strong’s to examine underlying words. The alleged omissions and translation comparisons were not independently checked in this review.",
+      "scripture_mentions": [
+        "Luke 11:2",
+        "Isaiah 14:12"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "strong-exhaustive-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2666.4,
+      "end": 2737.62,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-strong-exhaustive-dennis",
+      "summary": "Dennis identified that as the concordance offered through the Chapel and emphasized obtaining what he regarded as Strong’s original definitions. His broader allegation that some publishers alter definitions was not demonstrated or independently verified in this answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "purgatory-gulf-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2737.62,
+      "end": 2791.68,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-purgatory-gulf-dennis",
+      "summary": "Dennis rejected purgatory as a human tradition and distinguished it from the two sides of the gulf in his reading of Luke 16.",
+      "scripture_mentions": [
+        "Luke 16"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "heaven-linen-works",
+      "video_id": "50L1A0XqSIM",
+      "start": 2791.68,
+      "end": 2835.06,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-heaven-linen-works",
+      "summary": "Dennis connected the fine linen in Revelation 19 with the saints’ righteous acts. He also cited works following a person at death and used the length of a robe as an illustration of those acts.",
+      "scripture_mentions": [
+        "Revelation 14:13",
+        "Revelation 19:8"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "noah-ancestry-races-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2835.06,
+      "end": 2887.98,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-noah-ancestry-races-dennis",
+      "summary": "Dennis said no and appealed to his interpretation of the separate creation of peoples in Genesis 1. His further assertions about racial ancestry and biological impossibility are unverified doctrinal claims, not accepted here as genetics or a measure of anyone’s worth.",
+      "scripture_mentions": [
+        "Genesis 1"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "chapel-corinthians-taught",
+      "video_id": "50L1A0XqSIM",
+      "start": 2887.98,
+      "end": 2918.04,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-chapel-corinthians-taught",
+      "summary": "Dennis said Shepherd’s Chapel had taught those verses along with its other chapter-by-chapter studies. He noted that the listener had not asked about a particular verse’s meaning. This broadcast claim does not itself establish audited coverage of every Bible verse.",
+      "scripture_mentions": [
+        "1 Corinthians 15:1–4"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "capital-punishment",
+      "video_id": "50L1A0XqSIM",
+      "start": 2918.04,
+      "end": 2974.56,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-capital-punishment",
+      "summary": "Dennis referred to Numbers 35 and Deuteronomy 19 for deliberate murder, and Deuteronomy 22 concerning rape, in explaining his support for capital punishment. This records his biblical interpretation and supplies no advice about current law.",
+      "scripture_mentions": [
+        "Numbers 35",
+        "Deuteronomy 19",
+        "Deuteronomy 22"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "marriage-license-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 2974.56,
+      "end": 3023.1,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-marriage-license-dennis",
+      "summary": "Dennis recommended obtaining a marriage license and emphasized responsibility toward children if a relationship ends. His comments about legal protection are recorded as his advice in the broadcast, not a verified statement of current family law.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "laws-land-dennis",
+      "video_id": "50L1A0XqSIM",
+      "start": 3023.1,
+      "end": 3080.88,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-laws-land-dennis",
+      "summary": "Dennis appealed to rendering to Caesar what is Caesar’s and urged lawful conduct to preserve credibility and avoid imprisonment that would hinder service. He did not develop exceptions in this answer.",
+      "scripture_mentions": [
+        "Matthew 22:21"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "pork-new-testament",
+      "video_id": "50L1A0XqSIM",
+      "start": 3080.88,
+      "end": 3199.74,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-pork-new-testament",
+      "summary": "Dennis maintained the Old Testament dietary restrictions. He read Acts 10 as forbidding calling people unclean and read 1 Timothy 4 in light of foods he said God created to be received, referring back to Leviticus 11.",
+      "scripture_mentions": [
+        "Acts 10:28",
+        "1 Timothy 4:3–4",
+        "Leviticus 11"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "jesus-mary-genealogy",
+      "video_id": "50L1A0XqSIM",
+      "start": 3199.74,
+      "end": 3246.0,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-jesus-mary-genealogy",
+      "summary": "Dennis called Jesus Joseph’s stepchild and distinguished Joseph’s genealogy in Matthew from what he interpreted as Mary’s genealogy in Luke. He explained the father relationship in Luke as an in-law relationship.",
+      "scripture_mentions": [
+        "Matthew 1",
+        "Luke 3"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "adult-son-witness",
+      "video_id": "50L1A0XqSIM",
+      "start": 3246.0,
+      "end": 3296.64,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-adult-son-witness",
+      "summary": "Dennis advised planting a seed, allowing God’s timing, and living as a good example rather than expecting to control the son’s response.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "adopted-parents",
+      "video_id": "50L1A0XqSIM",
+      "start": 3296.64,
+      "end": 3329.82,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-adopted-parents",
+      "summary": "Dennis said he thought an adopted person would recognize biological relatives. He reasoned from the elect being able to approach immediate family in Ezekiel 44, presenting recognition as his inference.",
+      "scripture_mentions": [
+        "Ezekiel 44:25–26"
+      ],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "mind-reading-god-only",
+      "video_id": "50L1A0XqSIM",
+      "start": 3329.82,
+      "end": 3361.1,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-mind-reading-god-only",
+      "summary": "Dennis answered no and said only God can read a person’s mind. He explicitly included Satan among those he said could not do so.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "stepgrandchild-family",
+      "video_id": "50L1A0XqSIM",
+      "start": 3361.1,
+      "end": 3376.26,
+      "teacher": "Dennis Murray",
+      "variant": "50L1A0XqSIM-stepgrandchild-family",
+      "summary": "Dennis said yes and encouraged reciprocal recognition of the child as a granddaughter.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "source_sha256": "799d7de9c0c98217522b315a38c425eff030187275f278db3d38c6d54bdb7ea1",
+      "recording_group": "50L1A0XqSIM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -25122,6 +25813,57 @@
         {
           "start": 2409.72,
           "end": 3389.76
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [],
+      "review_status": "fully_reviewed",
+      "review_basis": "complete_caption_section_read_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "4q3FbQt8Kg4",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+      "qa_start": 2156.19,
+      "qa_end": 3381.91,
+      "cursor_seconds": 2592.99,
+      "reviewed_ranges": [
+        {
+          "start": 2156.19,
+          "end": 3381.91
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2592.99,
+          "end": 2662.29,
+          "reason": "Detailed answer about disposition of flesh bodies explicitly deferred to Zechariah 14."
+        },
+        {
+          "start": 3270.7,
+          "end": 3313.28,
+          "reason": "Second occurrence of same question also defers full explanation."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "complete_caption_section_read_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "50L1A0XqSIM",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+      "qa_start": 2165.1,
+      "qa_end": 3376.26,
+      "cursor_seconds": 3376.26,
+      "reviewed_ranges": [
+        {
+          "start": 2165.1,
+          "end": 3376.26
         }
       ],
       "qa_boundaries_confirmed": true,

@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T04:35:51.344025+00:00",
+  "updated": "2026-10-25T05:05:49.204523+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -11491,12 +11491,129 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 52,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "dinosaurs-job",
+        "where-tithe",
+        "animals-heaven",
+        "born-from-above",
+        "flesh-return-transition",
+        "john8-abraham-devil",
+        "five-month-half-hour",
+        "pork-salvation",
+        "god-owns-property",
+        "bullinger-disagreement-rapture",
+        "nations-kings-queens"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "dinosaurs-job",
+          "start_seconds": 2158.49,
+          "end_seconds": 2249.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "where-tithe",
+          "start_seconds": 2249.08,
+          "end_seconds": 2352.25,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-heaven",
+          "start_seconds": 2352.25,
+          "end_seconds": 2448.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "born-from-above",
+          "start_seconds": 2448.38,
+          "end_seconds": 2592.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "flesh-return-transition",
+          "start_seconds": 2592.99,
+          "end_seconds": 2662.29,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john8-abraham-devil",
+          "start_seconds": 2662.29,
+          "end_seconds": 2798.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-month-half-hour",
+          "start_seconds": 2798.26,
+          "end_seconds": 2894.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pork-salvation",
+          "start_seconds": 2894.89,
+          "end_seconds": 3140.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-owns-property",
+          "start_seconds": 3140.3,
+          "end_seconds": 3172.03,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bullinger-disagreement-rapture",
+          "start_seconds": 3172.03,
+          "end_seconds": 3270.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "flesh-return-transition",
+          "start_seconds": 3270.7,
+          "end_seconds": 3313.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nations-kings-queens",
+          "start_seconds": 3313.28,
+          "end_seconds": 3381.91,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4q3FbQt8Kg4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "5bd73e39d4bcd06663739b07d4e51a4ea5778791b665d423b433e1ba1ac5ee5b",
+        "qa_start": 2156.19,
+        "qa_end": 3381.91,
+        "cursor_seconds": 2592.99,
+        "reviewed_ranges": [
+          {
+            "start": 2156.19,
+            "end": 3381.91
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2592.99,
+            "end": 2662.29,
+            "reason": "Detailed answer about disposition of flesh bodies explicitly deferred to Zechariah 14."
+          },
+          {
+            "start": 3270.7,
+            "end": 3313.28,
+            "reason": "Second occurrence of same question also defers full explanation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2592.99
     },
     {
       "video_id": "4ssJFUI3avY",
@@ -11572,12 +11689,182 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "twins-different-fathers",
+        "ten-virgins-truth",
+        "aliens-pyramids-dennis",
+        "chapel-succession-dennis",
+        "holy-spirit-acknowledgment",
+        "backslide-death-dennis",
+        "translations-dennis-preference",
+        "strong-exhaustive-dennis",
+        "purgatory-gulf-dennis",
+        "heaven-linen-works",
+        "noah-ancestry-races-dennis",
+        "chapel-corinthians-taught",
+        "capital-punishment",
+        "marriage-license-dennis",
+        "laws-land-dennis",
+        "pork-new-testament",
+        "jesus-mary-genealogy",
+        "adult-son-witness",
+        "adopted-parents",
+        "mind-reading-god-only",
+        "stepgrandchild-family"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "twins-different-fathers",
+          "start_seconds": 2167.08,
+          "end_seconds": 2253.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ten-virgins-truth",
+          "start_seconds": 2253.26,
+          "end_seconds": 2337.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "aliens-pyramids-dennis",
+          "start_seconds": 2337.72,
+          "end_seconds": 2395.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-succession-dennis",
+          "start_seconds": 2395.08,
+          "end_seconds": 2432.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "holy-spirit-acknowledgment",
+          "start_seconds": 2432.76,
+          "end_seconds": 2542.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "backslide-death-dennis",
+          "start_seconds": 2542.44,
+          "end_seconds": 2591.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "translations-dennis-preference",
+          "start_seconds": 2591.16,
+          "end_seconds": 2666.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "strong-exhaustive-dennis",
+          "start_seconds": 2666.4,
+          "end_seconds": 2737.62,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "purgatory-gulf-dennis",
+          "start_seconds": 2737.62,
+          "end_seconds": 2791.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "heaven-linen-works",
+          "start_seconds": 2791.68,
+          "end_seconds": 2835.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noah-ancestry-races-dennis",
+          "start_seconds": 2835.06,
+          "end_seconds": 2887.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapel-corinthians-taught",
+          "start_seconds": 2887.98,
+          "end_seconds": 2918.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "capital-punishment",
+          "start_seconds": 2918.04,
+          "end_seconds": 2974.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-license-dennis",
+          "start_seconds": 2974.56,
+          "end_seconds": 3023.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "laws-land-dennis",
+          "start_seconds": 3023.1,
+          "end_seconds": 3080.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pork-new-testament",
+          "start_seconds": 3080.88,
+          "end_seconds": 3199.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-mary-genealogy",
+          "start_seconds": 3199.74,
+          "end_seconds": 3246.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adult-son-witness",
+          "start_seconds": 3246.0,
+          "end_seconds": 3296.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adopted-parents",
+          "start_seconds": 3296.64,
+          "end_seconds": 3329.82,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mind-reading-god-only",
+          "start_seconds": 3329.82,
+          "end_seconds": 3361.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "stepgrandchild-family",
+          "start_seconds": 3361.1,
+          "end_seconds": 3376.26,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "50L1A0XqSIM",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "97366786179688c9dcb376fd83d9c27242e5c64dd6d5c0e67a4328e42b5de1ef",
+        "qa_start": 2165.1,
+        "qa_end": 3376.26,
+        "cursor_seconds": 3376.26,
+        "reviewed_ranges": [
+          {
+            "start": 2165.1,
+            "end": 3376.26
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_section_read_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 3376.26
     },
     {
       "video_id": "53H9gRM4TWQ",
@@ -34090,13 +34377,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 126,
-    "fully_reviewed": 9,
+    "partially_reviewed": 127,
+    "fully_reviewed": 10,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1160,
+    "pending": 1158,
     "source_changed": 0,
-    "question_occurrences": 1271
+    "question_occurrences": 1303
   }
 }

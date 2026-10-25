@@ -1,0 +1,28 @@
+{
+  "batch": "faq-pass028",
+  "recordings_fully_reviewed": 1,
+  "recordings_partially_reviewed": 1,
+  "video_ids": [
+    "4q3FbQt8Kg4",
+    "50L1A0XqSIM"
+  ],
+  "occurrences_added": 33,
+  "questions_added": 22,
+  "question_groups": 874,
+  "linked_answers": 1318,
+  "held_answer_ranges": 2,
+  "audio_verified": false,
+  "attribution_holds": [
+    {
+      "video_id": "4pmWjZmHK1o",
+      "catalog_teacher": "Arnold Murray",
+      "named_intro_teacher": "Dennis Murray",
+      "intro_timestamp": 25.56,
+      "status": "attribution_mismatch_held_no_public_occurrences",
+      "reason": "Both named introduction and listener address identify Dennis; saved transcript/catalog teacher field says Arnold. Preserve original source and resolve attribution before publication."
+    }
+  ],
+  "inspected_without_QA": [
+    "4u_LZ0A1Fyw"
+  ]
+}

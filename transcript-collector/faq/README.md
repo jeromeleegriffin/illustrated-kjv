@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 852 question groups and 1,285 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 874 question groups and 1,318 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Nine recordings have complete caption Q&A reviews, 126 remain partially reviewed, 1,160 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Ten recordings have complete caption Q&A reviews, 127 remain partially reviewed, 1,158 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -19,3 +19,7 @@ Publish only the six FAQ assets using the separate FAQ release pin on the existi
 ## External extraction assignments
 
 Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A contains 300 unreviewed Arnold Murray recordings prepared for Grok. They are reserved candidates, not reviewed/complete. Avoid duplicating this set while the external assignment is active. User submission and bot scheduling are not confirmed. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
+
+## Attribution hold
+
+Do not approve `4pmWjZmHK1o` under the saved Arnold attribution: its named introduction and listener address identify Dennis. The original source remains unchanged. See the sanitized pass028 report and private attribution-holds checkpoint before further review.
