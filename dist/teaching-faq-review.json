@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-24T23:57:12.117179+00:00",
+  "updated": "2026-10-25T01:05:47.715768+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -9649,12 +9649,146 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "dennis-alcohol-salvation",
+        "gender-eternity",
+        "leadership-after-joshua",
+        "infant-sprinkling-immersion",
+        "forgiveness",
+        "angels-wings",
+        "tithe-rapture-church",
+        "dinosaurs-human-fossils",
+        "temple-rebuilding-expectation",
+        "serpent-role-genesis",
+        "wise-serpents-innocent",
+        "mark9-monopoly",
+        "witnesses-accused",
+        "resurrection-meaning",
+        "amos7-locust-army"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "dennis-alcohol-salvation",
+          "start_seconds": 2200.46,
+          "end_seconds": 2265.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gender-eternity",
+          "start_seconds": 2265.56,
+          "end_seconds": 2356.29,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "leadership-after-joshua",
+          "start_seconds": 2356.29,
+          "end_seconds": 2526.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "infant-sprinkling-immersion",
+          "start_seconds": 2526.06,
+          "end_seconds": 2610.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2610.24,
+          "end_seconds": 2689.25,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-wings",
+          "start_seconds": 2689.25,
+          "end_seconds": 2815.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tithe-rapture-church",
+          "start_seconds": 2815.41,
+          "end_seconds": 2899.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dinosaurs-human-fossils",
+          "start_seconds": 2899.83,
+          "end_seconds": 2964.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "temple-rebuilding-expectation",
+          "start_seconds": 2964.56,
+          "end_seconds": 3035.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "serpent-role-genesis",
+          "start_seconds": 3035.1,
+          "end_seconds": 3085.35,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "wise-serpents-innocent",
+          "start_seconds": 3085.35,
+          "end_seconds": 3136.57,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark9-monopoly",
+          "start_seconds": 3136.57,
+          "end_seconds": 3184.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-accused",
+          "start_seconds": 3184.98,
+          "end_seconds": 3231.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 3231.86,
+          "end_seconds": 3326.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "amos7-locust-army",
+          "start_seconds": 3326.39,
+          "end_seconds": 3357.75,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "418kIe_Wgdg",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "4bb19e70c79f9680c581c01a05728b40bc788e98ac257a74ca0bfee6db1bf658",
+        "qa_start": 2198.5,
+        "qa_end": 3372.34,
+        "cursor_seconds": 3357.75,
+        "reviewed_ranges": [
+          {
+            "start": 2198.5,
+            "end": 3357.75
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3357.75,
+            "end": 3372.34,
+            "reason": "Last letter begins with gestation comment but question is not fully read; deferred to next broadcast. Do not invent it."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "caption_QA_review_final_letter_incomplete_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3357.75
     },
     {
       "video_id": "41vJyKctqic",
@@ -9685,12 +9819,161 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "organ-donation",
+        "cremation",
+        "zadok-millennium-priests",
+        "aging-pain-punishment",
+        "alcoholic-sunday-school",
+        "sixth-day-eighth-day",
+        "twins-different-fathers",
+        "samson-tribe",
+        "eternity-common-language",
+        "same-sex-passages",
+        "cup-passing-wrath",
+        "ethnos-temple-access",
+        "witnesses-shortened-time",
+        "god-renewed-earth-dwelling",
+        "eden-fruit-literal",
+        "elect-born-before1948",
+        "resurrection-meaning",
+        "un-eu-world-system"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "organ-donation",
+          "start_seconds": 2204.16,
+          "end_seconds": 2273.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 2204.16,
+          "end_seconds": 2309.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "zadok-millennium-priests",
+          "start_seconds": 2309.68,
+          "end_seconds": 2370.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "aging-pain-punishment",
+          "start_seconds": 2370.08,
+          "end_seconds": 2417.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "alcoholic-sunday-school",
+          "start_seconds": 2417.16,
+          "end_seconds": 2470.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-day-eighth-day",
+          "start_seconds": 2470.24,
+          "end_seconds": 2510.08,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "twins-different-fathers",
+          "start_seconds": 2510.08,
+          "end_seconds": 2619.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "samson-tribe",
+          "start_seconds": 2619.64,
+          "end_seconds": 2646.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eternity-common-language",
+          "start_seconds": 2646.88,
+          "end_seconds": 2720.12,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "same-sex-passages",
+          "start_seconds": 2720.12,
+          "end_seconds": 2799.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cup-passing-wrath",
+          "start_seconds": 2799.64,
+          "end_seconds": 2876.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ethnos-temple-access",
+          "start_seconds": 2876.44,
+          "end_seconds": 2902.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-shortened-time",
+          "start_seconds": 2902.24,
+          "end_seconds": 2987.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-renewed-earth-dwelling",
+          "start_seconds": 2987.36,
+          "end_seconds": 3079.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eden-fruit-literal",
+          "start_seconds": 3079.16,
+          "end_seconds": 3175.84,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-born-before1948",
+          "start_seconds": 3175.84,
+          "end_seconds": 3254.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 3254.6,
+          "end_seconds": 3324.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "un-eu-world-system",
+          "start_seconds": 3324.0,
+          "end_seconds": 3368.52,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4712oaWfl84",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "3663e500b95ddd463b19a11e6be583b0cf5a3bdce28a6f958aea2610fb47536e",
+        "qa_start": 2199.68,
+        "qa_end": 3373.68,
+        "cursor_seconds": 3373.68,
+        "reviewed_ranges": [
+          {
+            "start": 2199.68,
+            "end": 3373.68
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [],
+        "review_status": "fully_reviewed",
+        "review_basis": "complete_caption_QA_review_audio_pending",
+        "reviewed_at": "2026-10-24"
+      },
+      "cursor_seconds": 3373.68
     },
     {
       "video_id": "47hfjtnqxL8",
@@ -32599,13 +32882,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 120,
-    "fully_reviewed": 4,
+    "partially_reviewed": 121,
+    "fully_reviewed": 5,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1171,
+    "pending": 1169,
     "source_changed": 0,
-    "question_occurrences": 1101
+    "question_occurrences": 1134
   }
 }
