@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T22:10:08.338914+00:00",
+  "updated": "2026-10-25T22:19:26.258818+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -29828,12 +29828,139 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 59,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "satan-final-destruction-arnold",
+        "evil-spirits-return-origin",
+        "satan-confuse-god",
+        "kenite-teaching-lack",
+        "babel-tower-purpose",
+        "easter-greeting-arnold",
+        "easter-other-churches",
+        "mark-hand",
+        "millennium-help-relatives-arnold",
+        "millennium-bodies-immortality",
+        "millennium-teaching-discipline",
+        "egypt-biblical-role",
+        "millennium-second-chance",
+        "weekend-work-church"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "satan-final-destruction-arnold",
+          "start_seconds": 2149.38,
+          "end_seconds": 2225.989,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "evil-spirits-return-origin",
+          "start_seconds": 2244.008,
+          "end_seconds": 2335.933,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-confuse-god",
+          "start_seconds": 2346.743,
+          "end_seconds": 2382.646,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-teaching-lack",
+          "start_seconds": 2384.114,
+          "end_seconds": 2486.851,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "babel-tower-purpose",
+          "start_seconds": 2546.409,
+          "end_seconds": 2641.605,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "easter-greeting-arnold",
+          "start_seconds": 2655.919,
+          "end_seconds": 2752.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "easter-other-churches",
+          "start_seconds": 2665.629,
+          "end_seconds": 2689.153,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark-hand",
+          "start_seconds": 2758.155,
+          "end_seconds": 2864.894,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-help-relatives-arnold",
+          "start_seconds": 2872.903,
+          "end_seconds": 2923.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-bodies-immortality",
+          "start_seconds": 2935.398,
+          "end_seconds": 3041.004,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-teaching-discipline",
+          "start_seconds": 2940.17,
+          "end_seconds": 3041.004,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "egypt-biblical-role",
+          "start_seconds": 3114.077,
+          "end_seconds": 3177.541,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-second-chance",
+          "start_seconds": 3184.18,
+          "end_seconds": 3311.341,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "weekend-work-church",
+          "start_seconds": 3340.869,
+          "end_seconds": 3376.772,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "e4TVUtWBDak",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+        "qa_start": 2149.38,
+        "qa_end": 3376.772,
+        "cursor_seconds": 2490.688,
+        "reviewed_ranges": [
+          {
+            "start": 2149.38,
+            "end": 3376.772
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2490.688,
+            "end": 2541.105,
+            "reason": "Seven-thousand question is followed by a captioned eleven-thousand claim; do not silently correct the number before audio review."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2490.688
     },
     {
       "video_id": "e7IuSxcDxZE",
@@ -39023,13 +39150,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 153,
+    "partially_reviewed": 154,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1127,
+    "pending": 1126,
     "source_changed": 0,
-    "question_occurrences": 1808
+    "question_occurrences": 1822
   }
 }

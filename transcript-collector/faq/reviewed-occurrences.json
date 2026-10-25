@@ -7170,6 +7170,60 @@
       "question": "How strongly did Arnold endorse the listener’s symbolic reading of Isaiah 1:17?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "satan-final-destruction-arnold",
+      "question": "How did Arnold explain Satan’s final destruction?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "evil-spirits-return-origin",
+      "question": "Where did Arnold say evil spirits should be sent?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "satan-confuse-god",
+      "question": "Did Arnold think Satan could confuse or possess God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "kenite-teaching-lack",
+      "question": "Why did Arnold say some listeners were only recently hearing his Kenite teaching?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "babel-tower-purpose",
+      "question": "How did Arnold explain the Tower of Babel?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "easter-greeting-arnold",
+      "question": "How did Arnold advise responding to Happy Easter greetings?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "easter-other-churches",
+      "question": "Did Arnold explain why other churches teach Easter traditions?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "egypt-biblical-role",
+      "question": "Why did Arnold say Egypt repeatedly featured in the biblical accounts named by a listener?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "weekend-work-church",
+      "question": "Did Arnold condemn a waitress who had to work weekends instead of attending church?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -36029,6 +36083,239 @@
       "recording_group": "e-XSOV0GFnQ",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "satan-final-destruction-arnold",
+      "video_id": "e4TVUtWBDak",
+      "start": 2149.38,
+      "end": 2225.989,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-satan-final-destruction-arnold",
+      "summary": "Arnold cited Ezekiel 28:17–18 and Matthew 10:28 and described final destruction as ceasing to exist rather than endless conscious torment. He also said remembrance would end. These are his interpretations.",
+      "scripture_mentions": [
+        "Ezekiel 28:17–18",
+        "Matthew 10:28"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "evil-spirits-return-origin",
+      "video_id": "e4TVUtWBDak",
+      "start": 2244.008,
+      "end": 2335.933,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-evil-spirits-return-origin",
+      "summary": "Arnold said to order them in Christ’s name to return to where they came from, describing the wrong side of the gulf. He used the swine episode as an illustration and distinguished evil spiritual influence from the Holy Spirit. This is his religious explanation, not a diagnosis of a person’s experiences.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "satan-confuse-god",
+      "video_id": "e4TVUtWBDak",
+      "start": 2346.743,
+      "end": 2382.646,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-satan-confuse-god",
+      "summary": "Arnold reassured the eight-year-old that an evil spirit could not confuse God, describing God as supreme and supernatural.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "kenite-teaching-lack",
+      "video_id": "e4TVUtWBDak",
+      "start": 2384.114,
+      "end": 2486.851,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-kenite-teaching-lack",
+      "summary": "Arnold attributed that to lack of teachers and scholars and connected it with his interpretation of Revelation’s approved churches. His accusations about ancestry and religious groups are unverified doctrinal claims and do not establish modern people’s lineage.",
+      "scripture_mentions": [
+        "Revelation 2–3"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "babel-tower-purpose",
+      "video_id": "e4TVUtWBDak",
+      "start": 2546.409,
+      "end": 2641.605,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-babel-tower-purpose",
+      "summary": "Arnold directed the listener to Genesis 11 and interpreted the tower as an attempt at self-provided protection after the flood. He extended the warning to a hypothetical attempt at immortality through cloning; that extension is his speculation, not established science.",
+      "scripture_mentions": [
+        "Genesis 11"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "easter-greeting-arnold",
+      "video_id": "e4TVUtWBDak",
+      "start": 2655.919,
+      "end": 2752.349,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-easter-greeting-arnold",
+      "summary": "Arnold recommended discernment and gently sharing a small point with someone receptive, following up if they asked more. He warned against trying to correct whole churches and said only God could make the seed grow.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "easter-other-churches",
+      "video_id": "e4TVUtWBDak",
+      "start": 2665.629,
+      "end": 2689.153,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-easter-other-churches",
+      "summary": "Arnold explicitly declined to answer for other churches. He instead discussed Easter as a translation choice in Acts and contrasted it with Passover. His reply should not be expanded into a claim about other churches’ motives.",
+      "scripture_mentions": [
+        "Acts"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "mark-hand",
+      "video_id": "e4TVUtWBDak",
+      "start": 2758.155,
+      "end": 2864.894,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-mark-hand",
+      "summary": "Arnold interpreted the forehead as belief in false Messiah and the right hand as doing his work. He connected that with supporting false teaching and used Mark 13’s childbirth imagery symbolically. These are his interpretations.",
+      "scripture_mentions": [
+        "Revelation 13:16",
+        "Mark 13",
+        "2 John"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-help-relatives-arnold",
+      "video_id": "e4TVUtWBDak",
+      "start": 2872.903,
+      "end": 2923.02,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-millennium-help-relatives-arnold",
+      "summary": "Arnold said help for relatives on the other side of the gulf must await the millennium and referred to Ezekiel 44:25. He allowed helping as many as desired but mentioned a temporary cost, which he considered worthwhile; he did not say their state could be changed immediately after death.",
+      "scripture_mentions": [
+        "Ezekiel 44:25"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-bodies-immortality",
+      "video_id": "e4TVUtWBDak",
+      "start": 2935.398,
+      "end": 3041.004,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-millennium-bodies-immortality",
+      "summary": "Arnold clarified that by no humans he meant no flesh bodies. He said all change into spiritual bodies at the final trumpet and connected millennium instruction with the spiritually dead awaiting the later resurrection. His wording does not mean the people themselves cease to exist.",
+      "scripture_mentions": [
+        "1 Corinthians 15:52",
+        "Revelation 20:5"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-teaching-discipline",
+      "video_id": "e4TVUtWBDak",
+      "start": 2940.17,
+      "end": 3041.004,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-millennium-teaching-discipline",
+      "summary": "Arnold identified the elect as teachers and the rest of the spiritually dead as learners in his millennium interpretation. He distinguished being taught and tested from a second chance for someone already given a genuine opportunity.",
+      "scripture_mentions": [
+        "Revelation 20:5"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "egypt-biblical-role",
+      "video_id": "e4TVUtWBDak",
+      "start": 3114.077,
+      "end": 3177.541,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-egypt-biblical-role",
+      "summary": "Arnold described Egypt as used in God’s purposes and as a place of safety for Jesus’ family under threat. A named servant is inaudible in the captions. His additional prediction and historical claim about Egypt’s continuous nationhood are attributed, not independently verified.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-second-chance",
+      "video_id": "e4TVUtWBDak",
+      "start": 3184.18,
+      "end": 3311.341,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-millennium-second-chance",
+      "summary": "Arnold distinguished a later opportunity to learn from a second chance, arguing that some people had not been taught truth and discussing Romans 11’s stupor language. He said spiritual bodies would remove flesh limitations, while leaving the choice to individuals. This is his doctrinal account.",
+      "scripture_mentions": [
+        "Romans 11",
+        "Revelation 20:5"
+      ],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "weekend-work-church",
+      "video_id": "e4TVUtWBDak",
+      "start": 3340.869,
+      "end": 3376.772,
+      "teacher": "Arnold Murray",
+      "variant": "e4TVUtWBDak-weekend-work-church",
+      "summary": "Arnold reassured the listener who needed to support herself and her family, using the ox-in-the-ditch illustration. He emphasized that she was still studying Scripture rather than treating necessary weekend work as an automatic sin.",
+      "scripture_mentions": [],
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "source_sha256": "548617ef9c17bde517aec1197eddea293d0cc3aa57ba68c1a253a7faca98bd90",
+      "recording_group": "e4TVUtWBDak",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -37337,6 +37624,32 @@
           "start": 3370.2,
           "end": 3399.589,
           "reason": "Listener’s exact worms phrase and concluding explanation are damaged; preserve Gehenna explanation privately rather than inventing the question."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "e4TVUtWBDak",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "97660cbee97ccc53e578b5ca2a6fdd56d64c293e6802d1144bb1aa294bc585aa",
+      "qa_start": 2149.38,
+      "qa_end": 3376.772,
+      "cursor_seconds": 2490.688,
+      "reviewed_ranges": [
+        {
+          "start": 2149.38,
+          "end": 3376.772
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2490.688,
+          "end": 2541.105,
+          "reason": "Seven-thousand question is followed by a captioned eleven-thousand claim; do not silently correct the number before audio review."
         }
       ],
       "review_status": "partially_reviewed",

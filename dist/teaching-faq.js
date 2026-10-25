@@ -12,7 +12,15 @@
  let page=0;
  const pagers=[make('nav',undefined,'faq-pager'),make('nav',undefined,'faq-pager')];
  pagers[0].setAttribute('aria-label','Question pages at top');pagers[1].setAttribute('aria-label','Question pages at bottom');
- $('questions').after(pagers[1]);
+ pagers[0].classList.add('faq-pager-top');pagers[1].classList.add('faq-pager-bottom');
+ $('questions').before(pagers[0]);$('questions').after(pagers[1]);
+ const controls=pagers.map(nav=>{
+  const prev=make('button','← Previous'),next=make('button','Next →'),label=make('span','','page-label');
+  prev.type=next.type='button';label.setAttribute('aria-live','polite');
+  prev.onclick=()=>{page--;render();window.scrollTo(0,0);};
+  next.onclick=()=>{page++;render();window.scrollTo(0,0);};
+  nav.append(prev,label,next);return {nav,prev,next,label};
+ });
  function render(reset=false){
   if(reset)page=0;
   const terms=$('query').value.toLowerCase().trim().split(/\s+/).filter(Boolean),teacher=$('teacher').value,topic=$('topic').value;
@@ -21,9 +29,9 @@
   list.sort((a,b)=>$('sort').value==='alphabetical'?a.question.localeCompare(b.question):frequency(b.shownAnswers)-frequency(a.shownAnswers)||a.question.localeCompare(b.question));
   $('questions').replaceChildren();
   page=Math.max(0,Math.min(page,list.length-1));
-  for(const nav of pagers){nav.replaceChildren();nav.hidden=!list.length;const prev=make('button','← Previous'),next=make('button','Next →'),label=make('span',list.length?`Page ${page+1} of ${list.length}`:'No results','page-label');prev.type=next.type='button';prev.disabled=page===0;next.disabled=page>=list.length-1;prev.onclick=()=>{page--;render();};next.onclick=()=>{page++;render();};nav.append(prev,label,next);}
+  for(const {nav,prev,next,label} of controls){nav.hidden=!list.length;prev.disabled=page===0;next.disabled=page>=list.length-1;label.textContent=`Page ${page+1} of ${list.length}`;}
   for(const q of list.slice(page,page+1)){
-   const card=make('article',undefined,'question');card.id=q.id;card.dataset.count=frequency(q.shownAnswers);card.append(make('h2',`#${q.rank}. ${q.question}`),pagers[0],make('p',q.topic,'topic'));
+   const card=make('article',undefined,'question');card.id=q.id;card.dataset.count=frequency(q.shownAnswers);card.append(make('h2',`#${q.rank}. ${q.question}`),make('p',q.topic,'topic'));
    const count=frequency(q.shownAnswers);card.append(make('p',`Asked in ${count} reviewed recording${count===1?'':'s'}`,'frequency'));
    const answers=[...q.shownAnswers].sort((a,b)=>(a.teacher==='Arnold Murray'?0:1)-(b.teacher==='Arnold Murray'?0:1));
    for(const [i,a] of answers.entries()){
