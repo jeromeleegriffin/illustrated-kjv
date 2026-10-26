@@ -8358,6 +8358,144 @@
       "question": "Did Arnold tell a beer drinker to stop seeking God?",
       "topic": "Christian living",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "furnace-fourth-dennis",
+      "question": "Who were the men in the fiery furnace, and who was the fourth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "memorial-medallion-dennis",
+      "question": "Is wearing a medallion to remember a parent idolatry?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "former-drug-dealer-forgiveness-dennis",
+      "question": "Can someone who formerly dealt drugs receive forgiveness?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "farmed-catfish-dennis",
+      "question": "Did Dennis regard farm-raised catfish as clean food?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "married-person-other-partner-dennis",
+      "question": "What did Dennis call intercourse with another partner while already married?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "graves-crucifixion-dennis",
+      "question": "How did Dennis explain the graves opening around Christ’s crucifixion?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "forgiveness490-reference-dennis",
+      "question": "Where did Dennis locate the teaching about forgiving seventy times seven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "laodicea314-dennis",
+      "question": "What context did Dennis give for Revelation 3:14?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "philadelphia-smyrna-dennis",
+      "question": "What did Dennis say distinguished Philadelphia and Smyrna?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "nod-location-dennis",
+      "question": "Where did Dennis locate the land of Nod?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "satan-cast-before-seventh-dennis",
+      "question": "Did Dennis place Satan’s expulsion from heaven after the seventh trumpet?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "satan-millennium-test-dennis",
+      "question": "Why did Dennis say Satan is released after the millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sabbath-rest-dennis",
+      "question": "Did Dennis choose Saturday or Sunday as the Sabbath?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "tv-church-dennis",
+      "question": "Did Dennis regard studying with Shepherd’s Chapel on television as attending church?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "mary-other-children-dennis",
+      "question": "Where did Dennis point to Mary’s other children?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sixth-seal-shame-dennis",
+      "question": "How did Dennis explain Revelation 6:15–17?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "moses-birth-egypt-dennis",
+      "question": "Was Moses born in Egypt?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "virgo-standard-zebulun-dennis",
+      "question": "Which tribe’s standard did Dennis associate with Virgo?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "rapture-taught-hope-dennis",
+      "question": "Did Dennis say people taught the rapture are automatically doomed?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "strange-fire-dennis",
+      "question": "How did Dennis explain the strange fire offered by Nadab and Abihu?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "meek-earth-dennis",
+      "question": "How did Dennis explain the meek inheriting the earth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "adam-three-seeds-dennis",
+      "question": "Did Dennis regard three seeds placed in Adam’s mouth as biblical?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "gulf-spirit-bodies-dennis",
+      "question": "Did Dennis say people on both sides of the gulf have spirit bodies?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -43199,6 +43337,407 @@
       "recording_group": "0aUiY5kK8F0",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "furnace-fourth-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2125.956,
+      "end": 2201.132,
+      "variant": "furnace-fourth-dennis-dennis-local004",
+      "summary": "Dennis points to Daniel 3, corrects the listener’s count of seven men, and identifies Shadrach, Meshach and Abednego with the Son of God as the fourth. He treats their refusal to worship the image as a pattern for resisting the antichrist.",
+      "scripture_mentions": [
+        "Daniel 3"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "memorial-medallion-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2203.4,
+      "end": 2240.771,
+      "variant": "memorial-medallion-dennis-dennis-local004",
+      "summary": "Dennis distinguishes wearing the medallion in remembrance of a mother from worshiping it. He tells this listener that wearing it is not idolatry; worshiping it would be the sin.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "former-drug-dealer-forgiveness-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2242.84,
+      "end": 2285.983,
+      "variant": "former-drug-dealer-forgiveness-dennis-dennis-local004",
+      "summary": "Dennis leaves the listener’s judgment to God. He says drug dealing is wrong but not unforgivable, and, if the listener has repented and asked forgiveness, he guesses the Lord has forgiven him. He warns against returning to drug dealing.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "farmed-catfish-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2288.218,
+      "end": 2328.259,
+      "variant": "farmed-catfish-dennis-dennis-local004",
+      "summary": "Dennis says farming does not make catfish clean under his reading of Leviticus 11:9–10. He explains that aquatic food must have fins and scales, and catfish lack scales.",
+      "scripture_mentions": [
+        "Leviticus 11:9–10"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "married-person-other-partner-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2403.867,
+      "end": 2446.877,
+      "variant": "married-person-other-partner-dennis-dennis-local004",
+      "summary": "Dennis qualifies the listener’s statement about intercourse and marriage by referring to the Old Testament expression of spreading a skirt over a woman. He calls intercourse with another person while married to someone else adultery.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "graves-crucifixion-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2449.312,
+      "end": 2487.351,
+      "variant": "graves-crucifixion-dennis-dennis-local004",
+      "summary": "Dennis points to Matthew 27:52 and describes the opened graves as a one-time event demonstrating that Jesus defeated death. He connects that purpose with Hebrews 2:14.",
+      "scripture_mentions": [
+        "Matthew 27:52",
+        "Hebrews 2:14"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "forgiveness490-reference-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2490.587,
+      "end": 2541.304,
+      "variant": "forgiveness490-reference-dennis-dennis-local004",
+      "summary": "Dennis directs the listener to Matthew 18:21–22 and Peter’s question about forgiving a brother. He gives the number as 490, applies forgiveness to repentance, and explains repentance as a true change of heart and behavior. This answer retains his wording without treating it as identical to other answers about forgiveness limits.",
+      "scripture_mentions": [
+        "Matthew 18:21–22"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "laodicea314-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2543.006,
+      "end": 2560.223,
+      "variant": "laodicea314-dennis-dennis-local004",
+      "summary": "Dennis says Jesus is addressing Laodicea, one of the seven churches. He adds that the listener has not made the specific point needing explanation clear.",
+      "scripture_mentions": [
+        "Revelation 3:14"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "philadelphia-smyrna-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2560.223,
+      "end": 2606.536,
+      "variant": "philadelphia-smyrna-dennis-dennis-local004",
+      "summary": "Dennis points to Revelation 3:7 and 2:8–9 and says Philadelphia and Smyrna were the two churches Christ did not fault. He says both taught about those claiming to be Jews while lying, whom he identifies in this answer as Kenites.",
+      "scripture_mentions": [
+        "Revelation 3:7",
+        "Revelation 2:8–9"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "nod-location-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2617.447,
+      "end": 2676.674,
+      "variant": "nod-location-dennis-dennis-local004",
+      "summary": "Dennis uses the Euphrates and Tigris rivers mentioned in Genesis 2 to give the general location of Eden. He then points to Genesis 4:16 and locates Nod east of Eden.",
+      "scripture_mentions": [
+        "Genesis 2:10–14",
+        "Genesis 4:16"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "satan-cast-before-seventh-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2679.276,
+      "end": 2720.417,
+      "variant": "satan-cast-before-seventh-dennis-dennis-local004",
+      "summary": "Dennis rejects the listener’s claim that Satan is expelled after the seventh trumpet. He says it happens before that trumpet, when Michael and his angels prevail against Satan and his angels, and directs the listener to Revelation 12:6 and following.",
+      "scripture_mentions": [
+        "Revelation 12:6 onward"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "satan-millennium-test-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2723.053,
+      "end": 2773.203,
+      "variant": "satan-millennium-test-dennis-dennis-local004",
+      "summary": "Dennis explains the release as a test of whether God’s children will follow God or the devil. He points to Revelation 20, calls Michael the binding angel as his belief, and says some will follow Satan into the lake of fire. He distinguishes Satan’s later power from his role as antichrist.",
+      "scripture_mentions": [
+        "Revelation 20",
+        "Revelation 19"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "sabbath-rest-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2905.168,
+      "end": 2936.399,
+      "variant": "sabbath-rest-dennis-dennis-local004",
+      "summary": "Dennis declines to choose either day. Referring to Hebrews 4, he says Sabbath means rest and identifies Jesus Christ as the believer’s rest every day.",
+      "scripture_mentions": [
+        "Hebrews 4"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "tv-church-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2939.269,
+      "end": 2970.3,
+      "variant": "tv-church-dennis-dennis-local004",
+      "summary": "Dennis answers yes, telling the listener that studying with the Chapel is being in church. He appeals to Jesus’ statement about gathering in his name and says the viewers are gathered in that name.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "mary-other-children-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 2971.935,
+      "end": 3003.367,
+      "variant": "mary-other-children-dennis-dennis-local004",
+      "summary": "Dennis points to Matthew 13, names James, Joses, Simon and Judas as Jesus’ half brothers, and distinguishes this Judas from Judas Iscariot. He says the following verse also mentions sisters without naming them.",
+      "scripture_mentions": [
+        "Matthew 13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "sixth-seal-shame-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3007.57,
+      "end": 3056.42,
+      "variant": "sixth-seal-shame-dennis-dennis-local004",
+      "summary": "Dennis agrees with the listener’s distinction and describes verses 15–17 as the shame of people realizing they worshiped the antichrist when the true Christ returns. He says they will ask for mountains to fall on them and connects this with weeping and gnashing of teeth.",
+      "scripture_mentions": [
+        "Revelation 6:12–17"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "moses-birth-egypt-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3057.754,
+      "end": 3106.469,
+      "variant": "moses-birth-egypt-dennis-dennis-local004",
+      "summary": "Dennis answers yes and points to Exodus 2. He describes Moses’ mother placing him in a bulrush ark in the Nile to protect him, Pharaoh’s daughter finding him, and his name meaning drawn from the water.",
+      "scripture_mentions": [
+        "Exodus 2"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "virgo-standard-zebulun-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3108.104,
+      "end": 3139.903,
+      "variant": "virgo-standard-zebulun-dennis-dennis-local004",
+      "summary": "Dennis points to Bullinger’s Companion Bible note on Numbers 2:7 and says it associates Virgo with the standard of Zebulun.",
+      "scripture_mentions": [
+        "Numbers 2:7"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "rapture-taught-hope-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3141.571,
+      "end": 3195.859,
+      "variant": "rapture-taught-hope-dennis-dennis-local004",
+      "summary": "Dennis says they are not doomed to hell simply because they believed in the rapture. He describes the millennium as a time of teaching for those who never had an opportunity to hear what he calls the truth, including people raised with rapture teaching.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "cremation",
+      "video_id": "1ECDV-oonSA",
+      "start": 3197.36,
+      "end": 3248.044,
+      "variant": "cremation-dennis-local004",
+      "summary": "Dennis says how the flesh returns to earth makes no difference to the spirit’s return to God. He cites Saul and his sons being cremated and Ecclesiastes 12:6–7, and says the flesh body will not be needed again.",
+      "scripture_mentions": [
+        "1 Samuel, final chapter",
+        "Ecclesiastes 12:6–7"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "strange-fire-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3250.246,
+      "end": 3303.599,
+      "variant": "strange-fire-dennis-dennis-local004",
+      "summary": "Dennis points to Leviticus 10 and says Nadab and Abihu let their censers go out and substituted common fire for fire originating from the altar. His suggestion about burning camel dung is explicitly speculation, not a documented detail.",
+      "scripture_mentions": [
+        "Leviticus 10:1 onward"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "meek-earth-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3305.434,
+      "end": 3324.12,
+      "variant": "meek-earth-dennis-dennis-local004",
+      "summary": "Dennis refers to Matthew 5:5, explains meek as humble, and affirms the promise that they will inherit the earth.",
+      "scripture_mentions": [
+        "Matthew 5:5"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "adam-three-seeds-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3326.556,
+      "end": 3337.166,
+      "variant": "adam-three-seeds-dennis-dennis-local004",
+      "summary": "Dennis answers that the story of three seeds being placed in Adam’s mouth when he died is not biblical.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "gulf-spirit-bodies-dennis",
+      "video_id": "1ECDV-oonSA",
+      "start": 3338.467,
+      "end": 3367.297,
+      "variant": "gulf-spirit-bodies-dennis-dennis-local004",
+      "summary": "Dennis answers yes. He cites 1 Corinthians 15:50 and says flesh and blood cannot enter God’s kingdom, so people on either side of the gulf are in spirit bodies.",
+      "scripture_mentions": [
+        "1 Corinthians 15:50"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "source_sha256": "1c5264142d1fb8be1972c3d820fb75982b108a19e339bd7d5356299ebf08a44f",
+      "recording_group": "1ECDV-oonSA",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
     }
   ],
   "duplicate_recording_aliases": {
@@ -45254,6 +45793,42 @@
       "review_status": "partially_reviewed",
       "review_basis": "Complete available Q&A captions directly read. For Dennis, Addy’s 2619.359–2698.309 letter contains commentary without an explicit listener question; excluded from FAQ counts. Arnold source ends mid-answer, so full Q&A boundary cannot be confirmed. These paraphrases are pending current-registry grouping and publication, not yet added to the public page.",
       "reviewed_at": "2026-10-26"
+    },
+    {
+      "video_id": "1ECDV-oonSA",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+      "qa_start": 2122.119,
+      "qa_end": 3367.297,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2122.119,
+          "end": 3367.297
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2331.562,
+          "end": 2402.032,
+          "reason": "Listener mixes Kings and Chronicles; early answer syntax concerning Saul and David is unclear. Retain the entire question pending clarification."
+        },
+        {
+          "start": 2776.806,
+          "end": 2840.737,
+          "reason": "Genealogy answer includes Luke chapter three verse five and mumbled material; do not silently repair the citation or lineage detail."
+        },
+        {
+          "start": 2842.171,
+          "end": 2900.864,
+          "reason": "Relative/marital qualification in the caption is unclear; preserve rather than generalize it away."
+        }
+      ],
+      "cursor_seconds": 2331.562,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Direct reading of complete available caption Q&A, including listener turns absent from prepared subset. Partial because two unresolved answers remain held."
     }
   ]
 }

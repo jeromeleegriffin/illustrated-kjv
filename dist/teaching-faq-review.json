@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T08:29:00.262972+00:00",
+  "updated": "2026-10-26T18:37:15.042530+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -5454,12 +5454,219 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 49,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "furnace-fourth-dennis",
+        "memorial-medallion-dennis",
+        "former-drug-dealer-forgiveness-dennis",
+        "farmed-catfish-dennis",
+        "married-person-other-partner-dennis",
+        "graves-crucifixion-dennis",
+        "forgiveness490-reference-dennis",
+        "laodicea314-dennis",
+        "philadelphia-smyrna-dennis",
+        "nod-location-dennis",
+        "satan-cast-before-seventh-dennis",
+        "satan-millennium-test-dennis",
+        "sabbath-rest-dennis",
+        "tv-church-dennis",
+        "mary-other-children-dennis",
+        "sixth-seal-shame-dennis",
+        "moses-birth-egypt-dennis",
+        "virgo-standard-zebulun-dennis",
+        "rapture-taught-hope-dennis",
+        "cremation",
+        "strange-fire-dennis",
+        "meek-earth-dennis",
+        "adam-three-seeds-dennis",
+        "gulf-spirit-bodies-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "furnace-fourth-dennis",
+          "start_seconds": 2125.956,
+          "end_seconds": 2201.132,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "memorial-medallion-dennis",
+          "start_seconds": 2203.4,
+          "end_seconds": 2240.771,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "former-drug-dealer-forgiveness-dennis",
+          "start_seconds": 2242.84,
+          "end_seconds": 2285.983,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "farmed-catfish-dennis",
+          "start_seconds": 2288.218,
+          "end_seconds": 2328.259,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "married-person-other-partner-dennis",
+          "start_seconds": 2403.867,
+          "end_seconds": 2446.877,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "graves-crucifixion-dennis",
+          "start_seconds": 2449.312,
+          "end_seconds": 2487.351,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness490-reference-dennis",
+          "start_seconds": 2490.587,
+          "end_seconds": 2541.304,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "laodicea314-dennis",
+          "start_seconds": 2543.006,
+          "end_seconds": 2560.223,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "philadelphia-smyrna-dennis",
+          "start_seconds": 2560.223,
+          "end_seconds": 2606.536,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nod-location-dennis",
+          "start_seconds": 2617.447,
+          "end_seconds": 2676.674,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-cast-before-seventh-dennis",
+          "start_seconds": 2679.276,
+          "end_seconds": 2720.417,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-millennium-test-dennis",
+          "start_seconds": 2723.053,
+          "end_seconds": 2773.203,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-rest-dennis",
+          "start_seconds": 2905.168,
+          "end_seconds": 2936.399,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tv-church-dennis",
+          "start_seconds": 2939.269,
+          "end_seconds": 2970.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mary-other-children-dennis",
+          "start_seconds": 2971.935,
+          "end_seconds": 3003.367,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-seal-shame-dennis",
+          "start_seconds": 3007.57,
+          "end_seconds": 3056.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "moses-birth-egypt-dennis",
+          "start_seconds": 3057.754,
+          "end_seconds": 3106.469,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "virgo-standard-zebulun-dennis",
+          "start_seconds": 3108.104,
+          "end_seconds": 3139.903,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rapture-taught-hope-dennis",
+          "start_seconds": 3141.571,
+          "end_seconds": 3195.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 3197.36,
+          "end_seconds": 3248.044,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "strange-fire-dennis",
+          "start_seconds": 3250.246,
+          "end_seconds": 3303.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "meek-earth-dennis",
+          "start_seconds": 3305.434,
+          "end_seconds": 3324.12,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adam-three-seeds-dennis",
+          "start_seconds": 3326.556,
+          "end_seconds": 3337.166,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-spirit-bodies-dennis",
+          "start_seconds": 3338.467,
+          "end_seconds": 3367.297,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "1ECDV-oonSA",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "df49e1af1ce72f1886af38d00bf6794f186f8bd9404c922a149d95e8d2bd96df",
+        "qa_start": 2122.119,
+        "qa_end": 3367.297,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2122.119,
+            "end": 3367.297
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2331.562,
+            "end": 2402.032,
+            "reason": "Listener mixes Kings and Chronicles; early answer syntax concerning Saul and David is unclear. Retain the entire question pending clarification."
+          },
+          {
+            "start": 2776.806,
+            "end": 2840.737,
+            "reason": "Genealogy answer includes Luke chapter three verse five and mumbled material; do not silently repair the citation or lineage detail."
+          },
+          {
+            "start": 2842.171,
+            "end": 2900.864,
+            "reason": "Relative/marital qualification in the caption is unclear; preserve rather than generalize it away."
+          }
+        ],
+        "cursor_seconds": 2331.562,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Direct reading of complete available caption Q&A, including listener turns absent from prepared subset. Partial because two unresolved answers remain held."
+      },
+      "cursor_seconds": 2331.562
     },
     {
       "video_id": "1HPYqWElfKM",
@@ -42403,13 +42610,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 175,
+    "partially_reviewed": 176,
     "fully_reviewed": 16,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1104,
+    "pending": 1103,
     "source_changed": 0,
-    "question_occurrences": 2169
+    "question_occurrences": 2193
   }
 }
