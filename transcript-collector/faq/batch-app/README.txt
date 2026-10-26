@@ -11,7 +11,7 @@ WINDOWS INSTALLATION
 3. Your browser opens the private app on this computer. Keep the console open.
 4. Select Griffin_Private_Teaching_Library_Batch_001.zip and click Import ZIP.
 5. Click Set up free AI. The official Ollama Windows runtime downloads if needed
-   (1.59 GB) and the local Qwen2.5 3B model downloads (about 1.9 GB).
+   (1.59 GB) and the local Qwen3 4B model downloads (about 2.5 GB).
    No payment or account is required. Read the linked model license before use.
 6. Click Start / Resume. Leave Windows on and awake. CPU-only is supported.
 7. Download private results ZIP when desired. Return it for FAQ reconciliation.
