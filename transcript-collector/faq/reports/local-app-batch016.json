@@ -1,0 +1,11 @@
+{
+  "batch": "local016",
+  "new_linked_answers": 56,
+  "new_question_groups": 44,
+  "total_question_groups": 2103,
+  "total_linked_answers": 3011,
+  "caption_qa_sections_reviewed": 4,
+  "held_ranges": 17,
+  "audio_verified": false,
+  "tests": "4 Python tests; navigation hold and resume tests; source hash matching"
+}

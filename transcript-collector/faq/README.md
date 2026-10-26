@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,059 question groups and 2,955 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 2,103 question groups and 3,011 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 221 remain partially reviewed, 1,056 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 225 remain partially reviewed, 1,052 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -121,3 +121,8 @@ Reviewed twelve complete saved caption Q&A sections, adding 203 source-linked an
 ## Local app batch 015
 
 Reconciles the eleven pending Dennis drafts without duplication and adds 55 source-linked answers after reading four complete saved caption Q&A sections. Four recordings remain partial with 17 unanswered or uncertain ranges. Original source hashes and private evidence are retained; audio remains unverified. Prior progress and navigation are preserved.
+
+
+## Local app batch 016
+
+Adds 56 caption-reviewed linked answers and 44 question entries from four saved recordings. All four remain partially reviewed with 17 unresolved ranges; the explicitly deferred Matthew 25 question is not counted as answered. Testimony without a question is excluded. Speaker handoffs identify Dennis despite older Arnold program introductions on two recordings. Original captions and source evidence remain private, and audio verification is pending.
