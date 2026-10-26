@@ -1,0 +1,37 @@
+{
+  "version": "1.1.0",
+  "source_commit": "7e747ac40ad7ee0d16eb360c09b3c09092aac43b",
+  "windows_run_id": 40369121947,
+  "windows_result": "success",
+  "regression_tests": 46,
+  "windows_collection_stress": {
+    "recordings": 1360,
+    "imports": 3,
+    "jobs": 24480,
+    "integrity": "ok"
+  },
+  "uploaded_export_migration": {
+    "recordings": 191,
+    "candidates": 3455,
+    "repeated_sync_new_candidates": 0,
+    "saved_extraction_preserved": true
+  },
+  "real_caption_check_controls": {
+    "supported_answer": "accepted_for_final_review",
+    "rhetorical_teaching": "held",
+    "deliberately_unsupported_answer": "held",
+    "pause_reopen_resume_attempts": 1
+  },
+  "changes": [
+    "Persistent second-pass source/answer checks",
+    "Conservative listener and named-presenter gates",
+    "Hash-bound review recovery and check-rule invalidation",
+    "Potential duplicate clusters with retained variants",
+    "Existing question-group suggestions without automatic semantic merging",
+    "Self-contained source transcripts and private publication-review export"
+  ],
+  "limits": "Automated agreement does not approve publication, establish full Q&A recall or independently verify audio. Uncertain cases stay held. Small real checks are not a broad accuracy benchmark.",
+  "public_faq_changes": 0,
+  "approved_question_groups": 1393,
+  "approved_linked_answers": 2208
+}
