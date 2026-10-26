@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T01:56:16.787096+00:00",
+  "updated": "2026-10-26T02:37:52.988716+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -30734,12 +30734,139 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "forgiven-sins-judgment",
+        "seventh-trump-change",
+        "antichrist-physical-harm",
+        "millennium-duration",
+        "pearly-gates-gulf-question",
+        "silver-cord-ecclesiastes",
+        "holy-spirit-twelve-tribes",
+        "rebellious-spirit-thoughts",
+        "eighth-day-genesis",
+        "angels-wings",
+        "john5-graves-arnold",
+        "god-motto-us-money",
+        "michael-archangel-identity",
+        "spirit-slumber"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "forgiven-sins-judgment",
+          "start_seconds": 2165.68,
+          "end_seconds": 2235.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seventh-trump-change",
+          "start_seconds": 2238.88,
+          "end_seconds": 2325.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-physical-harm",
+          "start_seconds": 2328.04,
+          "end_seconds": 2430.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-duration",
+          "start_seconds": 2436.92,
+          "end_seconds": 2461.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pearly-gates-gulf-question",
+          "start_seconds": 2466.68,
+          "end_seconds": 2529.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "silver-cord-ecclesiastes",
+          "start_seconds": 2538.8,
+          "end_seconds": 2632.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "holy-spirit-twelve-tribes",
+          "start_seconds": 2635.52,
+          "end_seconds": 2748.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebellious-spirit-thoughts",
+          "start_seconds": 2752.76,
+          "end_seconds": 2804.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "eighth-day-genesis",
+          "start_seconds": 2806.64,
+          "end_seconds": 2933.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-wings",
+          "start_seconds": 2937.4,
+          "end_seconds": 3020.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john5-graves-arnold",
+          "start_seconds": 3024.16,
+          "end_seconds": 3114.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-motto-us-money",
+          "start_seconds": 3117.599,
+          "end_seconds": 3186.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-archangel-identity",
+          "start_seconds": 3190.96,
+          "end_seconds": 3269.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-slumber",
+          "start_seconds": 3270.0,
+          "end_seconds": 3368.839,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eT3p198HLmA",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "4092f2995d3c72744bda1768ad3e426d79c170c5b602d11b55d051b38cbbea7c",
+        "qa_start": 2165.68,
+        "qa_end": 3368.839,
+        "cursor_seconds": 3024.16,
+        "reviewed_ranges": [
+          {
+            "start": 2165.68,
+            "end": 3368.839
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3024.16,
+            "end": 3114.04,
+            "reason": "Question cites John 5:28–29; reply discusses appearances at Christ’s death without explaining the textual connection. Preserve as Arnold’s interpretation, pending further review."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 3024.16
     },
     {
       "video_id": "eUKTiANZhlY",
@@ -30770,12 +30897,165 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "addiction-prayer-help",
+        "daily-repeat-prayer",
+        "meek-inherit-earth",
+        "katabole",
+        "gulf-torment",
+        "illness-hope-gods-will",
+        "isaiah24-jeremiah4-shaking",
+        "murder-final-judgment",
+        "jesus-slavery-law",
+        "witness-prepare-admit-unknown",
+        "matthew24-flesh-saved",
+        "stone-scone-us-visit",
+        "nephilim-recognition",
+        "fig-tree-last-generation",
+        "forgiveness",
+        "soldier-family-support",
+        "fly-away-scripture"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "addiction-prayer-help",
+          "start_seconds": 2069.633,
+          "end_seconds": 2154.652,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "daily-repeat-prayer",
+          "start_seconds": 2090.721,
+          "end_seconds": 2105.469,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "meek-inherit-earth",
+          "start_seconds": 2159.856,
+          "end_seconds": 2247.444,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "katabole",
+          "start_seconds": 2249.713,
+          "end_seconds": 2338.002,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-torment",
+          "start_seconds": 2370.434,
+          "end_seconds": 2473.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "illness-hope-gods-will",
+          "start_seconds": 2476.272,
+          "end_seconds": 2511.574,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah24-jeremiah4-shaking",
+          "start_seconds": 2516.446,
+          "end_seconds": 2570.601,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "murder-final-judgment",
+          "start_seconds": 2573.403,
+          "end_seconds": 2679.143,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-slavery-law",
+          "start_seconds": 2680.577,
+          "end_seconds": 2741.705,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witness-prepare-admit-unknown",
+          "start_seconds": 2744.507,
+          "end_seconds": 2830.894,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "matthew24-flesh-saved",
+          "start_seconds": 2846.376,
+          "end_seconds": 2942.005,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "stone-scone-us-visit",
+          "start_seconds": 2947.377,
+          "end_seconds": 2984.915,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "nephilim-recognition",
+          "start_seconds": 2990.186,
+          "end_seconds": 3053.916,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fig-tree-last-generation",
+          "start_seconds": 3057.386,
+          "end_seconds": 3129.292,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3136.199,
+          "end_seconds": 3244.207,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "soldier-family-support",
+          "start_seconds": 3253.349,
+          "end_seconds": 3292.856,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fly-away-scripture",
+          "start_seconds": 3299.495,
+          "end_seconds": 3356.353,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eV35FK3Wa4o",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "e641d21a8f56aca12b94a5e7dfef4f043be00ff1e21327edb548ca63bad8d869",
+        "qa_start": 2062.993,
+        "qa_end": 3363.66,
+        "cursor_seconds": 2338.002,
+        "reviewed_ranges": [
+          {
+            "start": 2062.993,
+            "end": 3363.66
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2338.002,
+            "end": 2368.666,
+            "reason": "Stock-dividend listener’s actual question is not stated; do not invent its intent or turn the reply into current financial guidance."
+          },
+          {
+            "start": 2478.075,
+            "end": 2484.014,
+            "reason": "Medical sentence stops after except to get a; external extraction supplied transplant without caption evidence. Preserve pastoral response only."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2338.002
     },
     {
       "video_id": "e_S9wfQZ3SE",
@@ -39749,13 +40029,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 158,
+    "partially_reviewed": 160,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1122,
+    "pending": 1120,
     "source_changed": 0,
-    "question_occurrences": 1883
+    "question_occurrences": 1914
   }
 }
