@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T03:17:02.694088+00:00",
+  "updated": "2026-10-26T03:23:06.638168+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -31557,12 +31557,175 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 47,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "noah-covenant-rainbow",
+        "colossians-enticing-words",
+        "kenites-third-followers",
+        "kenite-salvation",
+        "family-birth-first-age-arnold",
+        "adopted-family-millennium-help",
+        "return-seventh-trump",
+        "diet-health-law-passages",
+        "hell-blotted-existence",
+        "recognize-family",
+        "baptize-without-membership",
+        "church-tribulation",
+        "restitution-impossible-repentance",
+        "souls-await-birth",
+        "past-sins-salvation",
+        "occult-relative-gentle-witness",
+        "antichrist-history-future-confusion"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "noah-covenant-rainbow",
+          "start_seconds": 2131.528,
+          "end_seconds": 2225.389,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "colossians-enticing-words",
+          "start_seconds": 2231.761,
+          "end_seconds": 2288.719,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenites-third-followers",
+          "start_seconds": 2290.855,
+          "end_seconds": 2353.884,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-salvation",
+          "start_seconds": 2353.884,
+          "end_seconds": 2384.148,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-birth-first-age-arnold",
+          "start_seconds": 2388.519,
+          "end_seconds": 2419.083,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adopted-family-millennium-help",
+          "start_seconds": 2429.493,
+          "end_seconds": 2482.846,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "return-seventh-trump",
+          "start_seconds": 2484.314,
+          "end_seconds": 2551.247,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "diet-health-law-passages",
+          "start_seconds": 2498.561,
+          "end_seconds": 2513.043,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-blotted-existence",
+          "start_seconds": 2563.026,
+          "end_seconds": 2763.827,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 2575.972,
+          "end_seconds": 2633.797,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptize-without-membership",
+          "start_seconds": 2773.87,
+          "end_seconds": 2852.482,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2853.783,
+          "end_seconds": 2991.922,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "restitution-impossible-repentance",
+          "start_seconds": 3015.411,
+          "end_seconds": 3108.772,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-await-birth",
+          "start_seconds": 3113.209,
+          "end_seconds": 3143.406,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "past-sins-salvation",
+          "start_seconds": 3152.282,
+          "end_seconds": 3188.351,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "occult-relative-gentle-witness",
+          "start_seconds": 3205.601,
+          "end_seconds": 3286.983,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-history-future-confusion",
+          "start_seconds": 3294.223,
+          "end_seconds": 3371.167,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "esaS22IyyLM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8c91c41c7a3b9c65b20e3527cfe2b569b1b54233d655ecca4baefddccbacad37",
+        "qa_start": 2122.653,
+        "qa_end": 3373.803,
+        "cursor_seconds": 2309.573,
+        "reviewed_ranges": [
+          {
+            "start": 2122.653,
+            "end": 3373.803
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2309.573,
+            "end": 2344.341,
+            "reason": "Population estimate and one-third/three-fourths arithmetic are inconsistent; do not reconstruct intended numbers."
+          },
+          {
+            "start": 2473.47,
+            "end": 2482.846,
+            "reason": "Adoption answer ends with incomplete cannot qualification; do not infer a restriction on which parents count."
+          },
+          {
+            "start": 2636.866,
+            "end": 2644.874,
+            "reason": "Blotted-out wording placed in Revelation 22 without a verse; verify before treating it as precise documentation."
+          },
+          {
+            "start": 2994.357,
+            "end": 3010.774,
+            "reason": "Deborah’s question is not read; do not invent what conduct she asked about."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2309.573
     },
     {
       "video_id": "etXX5Kj57zM",
@@ -31575,12 +31738,157 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 66,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "mark13-rooftop-winter",
+        "son-of-man-flesh",
+        "gulf-before-final-judgment",
+        "silver-cord-instant-inference",
+        "elect-flesh-purpose",
+        "communion-frequency",
+        "communion-home",
+        "silver-cord-ecclesiastes",
+        "souls-await-birth",
+        "baptism-name",
+        "song-moses",
+        "elect-recognition",
+        "lazarus-christ-power-death",
+        "end-date-may2011",
+        "death-consciousness-silver-cord"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "mark13-rooftop-winter",
+          "start_seconds": 2144.742,
+          "end_seconds": 2214.244,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "son-of-man-flesh",
+          "start_seconds": 2220.117,
+          "end_seconds": 2249.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-before-final-judgment",
+          "start_seconds": 2257.621,
+          "end_seconds": 2323.453,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "silver-cord-instant-inference",
+          "start_seconds": 2327.191,
+          "end_seconds": 2418.615,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-flesh-purpose",
+          "start_seconds": 2426.557,
+          "end_seconds": 2591.888,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "communion-frequency",
+          "start_seconds": 2597.394,
+          "end_seconds": 2665.061,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "communion-home",
+          "start_seconds": 2609.506,
+          "end_seconds": 2665.061,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "silver-cord-ecclesiastes",
+          "start_seconds": 2673.403,
+          "end_seconds": 2771.535,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-await-birth",
+          "start_seconds": 2777.64,
+          "end_seconds": 2803.166,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-name",
+          "start_seconds": 2805.202,
+          "end_seconds": 2884.547,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "song-moses",
+          "start_seconds": 2886.082,
+          "end_seconds": 2947.744,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition",
+          "start_seconds": 2959.156,
+          "end_seconds": 3033.429,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lazarus-christ-power-death",
+          "start_seconds": 3047.61,
+          "end_seconds": 3117.914,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "end-date-may2011",
+          "start_seconds": 3125.788,
+          "end_seconds": 3256.152,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-before-final-judgment",
+          "start_seconds": 3259.388,
+          "end_seconds": 3329.992,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "death-consciousness-silver-cord",
+          "start_seconds": 3336.299,
+          "end_seconds": 3364.827,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "etXX5Kj57zM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8e625b14aa622dade9e1219db5cd62ec910079e2ad6d01c1b89b14484be179b9",
+        "qa_start": 2137.868,
+        "qa_end": 3367.029,
+        "cursor_seconds": 2808.738,
+        "reviewed_ranges": [
+          {
+            "start": 2137.868,
+            "end": 3367.029
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2808.738,
+            "end": 2874.938,
+            "reason": "Matthew reference captioned 28:9 and several sacred-name words missing; preserve answer’s general equivalence without reconstructing verse or pronunciation."
+          },
+          {
+            "start": 3102.698,
+            "end": 3111.04,
+            "reason": "Victory-over-death words linked to 1 Corinthians 15:53–54 in captions; do not substitute exact verse numbers without checking."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2808.738
     },
     {
       "video_id": "euTxqceUlR4",
@@ -31593,12 +31901,151 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 55,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "god-appearance-christ",
+        "home-anointing",
+        "healing-prayer-special-words",
+        "women-aware-fallen-angels",
+        "bible-geology-carbon-dating",
+        "rebaptism-understanding",
+        "christmas-tree",
+        "christ-birth-study-resources",
+        "return-seventh-trump",
+        "false-prophet",
+        "companion-bible-source",
+        "strongs-greens-comparison",
+        "john14-mansions",
+        "disabled-witness-service",
+        "second-death-final-followers"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "god-appearance-christ",
+          "start_seconds": 2169.4,
+          "end_seconds": 2213.411,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 2217.615,
+          "end_seconds": 2272.503,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "healing-prayer-special-words",
+          "start_seconds": 2276.674,
+          "end_seconds": 2371.702,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-aware-fallen-angels",
+          "start_seconds": 2375.473,
+          "end_seconds": 2449.146,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-geology-carbon-dating",
+          "start_seconds": 2452.483,
+          "end_seconds": 2586.85,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebaptism-understanding",
+          "start_seconds": 2594.592,
+          "end_seconds": 2632.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christmas-tree",
+          "start_seconds": 2635.299,
+          "end_seconds": 2797.094,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-birth-study-resources",
+          "start_seconds": 2803.5,
+          "end_seconds": 2845.976,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "return-seventh-trump",
+          "start_seconds": 2848.879,
+          "end_seconds": 2906.904,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "false-prophet",
+          "start_seconds": 2915.946,
+          "end_seconds": 3003.633,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "companion-bible-source",
+          "start_seconds": 3009.74,
+          "end_seconds": 3020.784,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "strongs-greens-comparison",
+          "start_seconds": 3030.66,
+          "end_seconds": 3128.291,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john14-mansions",
+          "start_seconds": 3134.331,
+          "end_seconds": 3250.146,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "disabled-witness-service",
+          "start_seconds": 3273.436,
+          "end_seconds": 3345.408,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "second-death-final-followers",
+          "start_seconds": 3363.393,
+          "end_seconds": 3386.483,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "euTxqceUlR4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "af8a016f56981d8cbda3bf282df8615707ba557cb4fb14df7ce68acb75bc3d9d",
+        "qa_start": 2164.061,
+        "qa_end": 3387.584,
+        "cursor_seconds": 2803.5,
+        "reviewed_ranges": [
+          {
+            "start": 2164.061,
+            "end": 3387.584
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2803.5,
+            "end": 2845.976,
+            "reason": "Listener’s June 13th and 19th dates are unclear; resource referral approved without validating the dates."
+          },
+          {
+            "start": 3030.66,
+            "end": 3077.207,
+            "reason": "Ephesians lexical dispute not resolved by evidence in reply; 2 Thessalonians 11:1–3 is an impossible captioned reference and Greek word is missing. Do not repair from memory."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2803.5
     },
     {
       "video_id": "euVTJpX7BTQ",
@@ -40410,13 +40857,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 162,
+    "partially_reviewed": 165,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1118,
+    "pending": 1115,
     "source_changed": 0,
-    "question_occurrences": 1957
+    "question_occurrences": 2004
   }
 }
