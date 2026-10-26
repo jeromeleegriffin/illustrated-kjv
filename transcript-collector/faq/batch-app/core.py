@@ -4,7 +4,7 @@ import hashlib, json, math, re, sqlite3, time, urllib.request, zipfile
 from contextlib import contextmanager
 from pathlib import Path, PurePosixPath
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 MODEL = 'qwen3:8b'
 ALLOWED_TEACHERS = {'Arnold Murray', 'Dennis Murray'}
 TRANSCRIPT_DIRS = ('search-library/transcripts/', 'recovery006/supplement-search/transcripts/')
@@ -80,9 +80,9 @@ class Ollama:
                 progress(item)
     def extract(self, window, teacher):
         prompt = f'Catalog teacher (not independently confirmed): {teacher}. Each line begins with its ORIGINAL cue index. Use these indices exactly.\n' + '\n'.join(f"[{c['i']}] {c['text']}" for c in window['cues'])
-        result = self.request('generate', {'model':self.model,'system':SYSTEM,'prompt':prompt,'format':SCHEMA,'stream':False,'think':False,'keep_alive':'10m','options':{'temperature':0,'seed':42,'num_ctx':8192,'num_predict':3000, **({'num_gpu':0} if getattr(self,'hardware','auto')=='cpu' else {})}})
+        result = self.request('generate', {'model':self.model,'system':SYSTEM,'prompt':prompt,'format':SCHEMA,'stream':False,'think':False,'keep_alive':0,'options':{'temperature':0,'seed':42,'num_ctx':4096,'num_predict':2000, **({'num_gpu':0} if getattr(self,'hardware','auto')=='cpu' else {})}})
         if not result.get('done') or result.get('done_reason') == 'length': raise ValueError('Model output incomplete; window requires retry/review')
-        return json.loads(result['response']), {k:result.get(k) for k in ('total_duration','eval_count','eval_duration','prompt_eval_count')}
+        return json.loads(result['response']), {**{k:result.get(k) for k in ('total_duration','eval_count','eval_duration','prompt_eval_count')},'processor_version':VERSION,'model':self.model,'num_ctx':4096,'num_predict':2000,'keep_alive':0}
 
 def validate_result(d, window, result):
     if not isinstance(result,dict) or not isinstance(result.get('questions'),list): raise ValueError('Invalid model JSON')
@@ -229,6 +229,7 @@ CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT);
             item=grouped.setdefault(row['video_id'],{'video_id':row['video_id'],'transcript_sha256':row['source_hash'],'catalog_teacher':row['teacher'],'teacher_independently_confirmed':False,'machine_windows':[],'questions':[],'fully_reviewed':False,'review_status':'machine_candidates_require_semantic_and_teacher_review'})
             item['machine_windows'].append({'start':row['start'],'end':row['end']})
             for q in json.loads(row['result']):
+                q={**q,'machine_provenance':json.loads(row['metrics'] or '{}')}
                 # Adjacent overlapping windows can rediscover the same question. Retain distinct variants if text differs.
                 duplicate=next((p for p in item['questions'] if abs(p['start']-q['start'])<12 and p['question'].casefold()==q['question'].casefold()),None)
                 if duplicate:

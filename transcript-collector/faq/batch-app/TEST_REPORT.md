@@ -38,3 +38,9 @@ The whole recording is scanned in overlapping windows. This removes the old minu
 - Full semantic review, speaker confirmation, question grouping, ranking and public publication remain required. Current Grok reservations are held rather than duplicated. This build does not reconcile the external Grok result files automatically.
 
 Original captions, private evidence and the approved public FAQ registry remain unchanged. No production Bible, topical studies, Cloudflare pins or main branch were modified.
+
+## Patch 1.0.1 — extended batch finding
+
+A larger local CPU run saved six windows and 23 candidate questions, then the model server returned HTTP 500 / runner EOF while saving its prompt cache. Progress remained intact and the app paused. This is an extended-run failure that the original short pilot did not expose.
+
+The resumed run uses a 4,096-token context and unloads the model after every window to bound retained model/cache memory. Patch 1.0.1 makes those settings the application default and records per-window processing settings in exports. This may add reload time. Do not describe the original short pilot as proof of indefinite unattended reliability. The current three-recording batch and its precise saved/failed windows are retained privately; only caption-reviewed paraphrases can enter the approved FAQ registry.
