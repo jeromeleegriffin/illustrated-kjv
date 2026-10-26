@@ -96,6 +96,22 @@ class Persistence(unittest.TestCase):
  def test_malformed_segment_reported_not_crash(self):
   self.d['segments']=[None];archive(self.z,self.d)
   self.assertEqual(self.store.import_zip(self.z)['invalid'],1)
+ def test_export_snapshot_during_worker_commit(self):
+  from contextlib import contextmanager
+  self.store.import_zip(self.z);job=self.store.next_job();original=self.store.connect;committed=False
+  @contextmanager
+  def tracked():
+   with original() as db:
+    def trace(sql):
+     nonlocal committed
+     if "FROM jobs WHERE state<>" in sql and not committed:
+      committed=True
+      with original() as writer:writer.execute("UPDATE jobs SET state='saved',result='[]',metrics='{}' WHERE id=?",(job['id'],))
+    db.set_trace_callback(trace);yield db
+  with patch.object(self.store,'connect',tracked):
+   result=self.store.export(self.root/'during.zip')
+  self.assertTrue(committed);self.assertEqual(result['unfinished_windows'],3)
+  self.assertEqual(self.store.status()['windows']['saved'],1)
  def test_fail_retry(self):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.fail(j,'engine offline');self.store.retry()
   self.assertEqual(self.store.next_job()['id'],j['id'])

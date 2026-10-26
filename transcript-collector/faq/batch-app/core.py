@@ -242,6 +242,7 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
     def export(self,path):
         """Private candidate artifact only; never changes approved FAQ registry."""
         with self.connect() as db:
+            db.execute('BEGIN')  # One snapshot even if a worker saves mid-export.
             rows=db.execute("SELECT j.*,r.teacher FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE j.state='saved'").fetchall()
             failures=[dict(r) for r in db.execute("SELECT video_id,source_hash,start,end,error,state FROM jobs WHERE state<>'saved'")]
             events=[dict(r) for r in db.execute('SELECT video_id,source_hash,event,details,created FROM processing_events ORDER BY id')]

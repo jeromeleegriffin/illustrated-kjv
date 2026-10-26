@@ -58,4 +58,6 @@ Version 1.0.4: real saved-caption testing found a model converting a listener st
 
 ## Version 1.0.5 readiness check
 
-Thirty focused tests now cover queue holds/releases, large-result paging, malformed segments, concurrent downloads and pause/reopen/resume. The release is rebuilt and executed on Windows, checked in Edge, and exercised with the official local AI. Separate private real-ministry excerpt tests verify pause and reopen without duplicate attempts; they are engineering checks, not new published FAQ approvals.
+Thirty-one focused tests now cover queue holds/releases, large-result paging, malformed segments, concurrent downloads and pause/reopen/resume. The release is rebuilt and executed on Windows, checked in Edge, and exercised with the official local AI. Separate private real-ministry excerpt tests verify pause and reopen without duplicate attempts; they are engineering checks, not new published FAQ approvals.
+
+An export snapshot regression commits a worker result between the export’s SQL reads and verifies that no window disappears from the saved/unfinished accounting. Concurrent downloads are isolated and temporary files are removed.
