@@ -73,7 +73,7 @@ function applyReaderLocation(){
  const ref=new URLSearchParams(location.search).get('ref');
  let target=ReadingProgress.position()||ReadingProgress.bookmark();
  if(ref){const result=BibleSearch.search(state.data,BOOKS,ref);if(result.kind==='reference')target=result.target;}
- if(target){state.book=target.book;state.chapter=target.chapter;ReadingProgress.restore(target);setTimeout(()=>BibleTeaching.setLocation(target.book,target.chapter,target.verse),0);setTimeout(()=>document.querySelector(`.verse[data-verse="${target.verse}"]`)?.scrollIntoView({block:'center'}),200);}
+ if(target){state.book=target.book;state.chapter=target.chapter;ReadingProgress.restore(target);setTimeout(()=>BibleTeaching.setLocation(target.book,target.chapter,target.verse),0);setTimeout(()=>{const el=document.querySelector(`.verse[data-verse="${target.verse}"]`);if(el)window.scrollTo({top:Math.max(0,window.scrollY+el.getBoundingClientRect().top-Math.min(180,window.innerHeight*.25))});},200);}
 }
 
 fetch('./bible.json').then(r=>r.json()).then(data=>{window.__bible=data;init()}).catch(showLoadError);
