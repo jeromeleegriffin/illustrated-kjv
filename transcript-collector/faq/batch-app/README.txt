@@ -1,4 +1,4 @@
-GRIFFIN SHEPHERD'S CHAPEL FAQ BATCH PROCESSOR — BUILD 001 / PATCH 1.0.1
+GRIFFIN SHEPHERD'S CHAPEL FAQ BATCH PROCESSOR — BUILD 001 / PATCH 1.0.2
 
 This companion app processes the saved private caption library into timestamped FAQ
 candidates. It preserves the existing approved FAQs and the Bible application.
@@ -58,6 +58,12 @@ Packaging is performed on Windows with PyInstaller 6.16.0. The official Ollama
 runtime ZIP is pinned to v0.40.11 and checked against its release SHA-256 before
 execution. Model download is performed by Ollama's verified model pull.
 
-PATCH 1.0.1: Local AI is unloaded after each window, with a bounded 4096-token
+PATCH 1.0.2: Local AI is unloaded after each window, with a bounded 4096-token
 context. This avoids accumulating prompt caches during long CPU batches. Each
 window retains its processing settings in private export metadata.
+
+PATCH 1.0.2: If model output is truncated or has invalid cue anchors, the app
+automatically retries smaller overlapping windows, down to a bounded minimum.
+Each split is recorded privately in processing-events.json. It does not turn
+missing or uncertain answers into approvals. No recording-by-recording babysitting
+is needed for these recoverable window failures.

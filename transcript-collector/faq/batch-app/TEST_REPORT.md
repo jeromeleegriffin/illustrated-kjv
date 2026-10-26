@@ -44,3 +44,7 @@ Original captions, private evidence and the approved public FAQ registry remain 
 A larger local CPU run saved six windows and 23 candidate questions, then the model server returned HTTP 500 / runner EOF while saving its prompt cache. Progress remained intact and the app paused. This is an extended-run failure that the original short pilot did not expose.
 
 The resumed run uses a 4,096-token context and unloads the model after every window to bound retained model/cache memory. Patch 1.0.1 makes those settings the application default and records per-window processing settings in exports. This may add reload time. Do not describe the original short pilot as proof of indefinite unattended reliability. The current three-recording batch and its precise saved/failed windows are retained privately; only caption-reviewed paraphrases can enter the approved FAQ registry.
+
+## Patch 1.0.2 — bounded quality-window recovery
+
+The extended batch also exposed a dense Q&A window that exhausted the model output limit. Such output remains rejected. The processor now splits recoverable output/anchor failures into smaller overlapping windows automatically, records the split privately, preserves coverage through restart and stops subdivision at a bounded minimum. Eighteen focused tests include coverage-preserving split recovery and bounded retries. Failed or withheld content never becomes an approved public answer solely because a retry ran.

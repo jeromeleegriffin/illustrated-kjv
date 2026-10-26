@@ -2,7 +2,7 @@
 import argparse, json, os, secrets, shutil, socket, subprocess, sys, threading, time, traceback, urllib.request, webbrowser, zipfile
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from core import Store, Ollama, MODEL, VERSION, read_document, windows, validate_result, sha
+from core import Store, Ollama, MODEL, VERSION, read_document, windows, validate_result, sha, cues
 
 RUNTIME_URL='https://github.com/ollama/ollama/releases/download/v0.40.11/ollama-windows-amd64.zip'
 RUNTIME_SHA='bda4a493ba8a7c24d57263cd843cd68cee84f44aed4299eeed532acad7eda12a'
@@ -106,11 +106,17 @@ class Controller:
                 self.message=f"{job['teacher']} · {job['video_id']} · {job['start']:.0f}–{job['end']:.0f} seconds"
                 raw=Path(job['source_path']).read_bytes()
                 if sha(raw)!=job['source_hash']:raise ValueError('Transcript changed on disk. Reimport the archive; old results will not be reused.')
-                d=read_document(raw);window=next(w for w in windows(d) if w['start']==job['start'])
+                d=read_document(raw)
+                if not 0<=job['start']<job['end']<=d['duration']+.1:raise ValueError('Invalid saved window range')
+                window={'start':job['start'],'end':job['end'],'cues':[c for c in cues(d) if c['end']>=job['start'] and c['start']<job['end']]}
                 engine=Ollama(self.model);engine.hardware=self.hardware
                 response,metrics=engine.extract(window,job['teacher']);result=validate_result(d,window,response)
                 self.store.finish(job,result,metrics)
             except Exception as e:
+                quality_error=isinstance(e,ValueError) and str(e).startswith(('Model output incomplete','Model invented a cue index','Invalid question/answer cue order','Invalid model JSON','Empty/oversized paraphrase'))
+                if 'job' in locals() and job and quality_error and self.store.split_job(job,e):
+                    self.message='Retrying a quality-failed window in smaller overlapping pieces.'
+                    continue
                 if 'job' in locals() and job:self.store.fail(job,e)
                 self.log(e);self.message=str(e)
                 # Stop a systemic engine error instead of failing the entire library.

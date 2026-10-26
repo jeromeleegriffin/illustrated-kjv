@@ -46,6 +46,26 @@ class Persistence(unittest.TestCase):
  def test_start_only_captions_preserved(self):
   self.d['segments'][0]['end']=0;self.d['segments'][0]['timing']='start_only';archive(self.z,self.d)
   self.assertEqual(self.store.import_zip(self.z)['invalid'],0)
+ def test_split_window_recovery_preserves_coverage(self):
+  self.store.import_zip(self.z);job=self.store.next_job();self.assertTrue(self.store.split_job(job,'Model output incomplete'))
+  reopened=Store(self.root/'data');spans=[]
+  while True:
+   j=reopened.next_job()
+   if not j:break
+   spans.append((j['start'],j['end']));reopened.finish(j,[],{})
+  covered=0
+  for start,end in sorted(spans):self.assertLessEqual(start,covered);covered=max(covered,end)
+  self.assertEqual(covered,600);self.assertEqual(reopened.status()['machine_pass_finished_recordings'],1)
+  with reopened.connect() as db:self.assertEqual(db.execute('SELECT count(*) FROM processing_events').fetchone()[0],1)
+ def test_split_retry_is_bounded(self):
+  self.store.import_zip(self.z);attempts=0
+  while True:
+   j=self.store.next_job()
+   if not j:break
+   attempts+=1;self.assertLess(attempts,60)
+   if not self.store.split_job(j,'Model output incomplete'):self.store.fail(j,'minimum window reached')
+  with self.store.connect() as db:
+   self.assertTrue(all(row[0]<=90 for row in db.execute("SELECT end-start FROM jobs WHERE state='failed'")))
  def test_fail_retry(self):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.fail(j,'engine offline');self.store.retry()
   self.assertEqual(self.store.next_job()['id'],j['id'])
