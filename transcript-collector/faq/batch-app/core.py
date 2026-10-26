@@ -95,10 +95,13 @@ def validate_result(d, window, result):
         if any(not isinstance(q.get(k),str) or not 1<=len(q[k])<=5000 for k in ('question','answer')): raise ValueError('Empty/oversized paraphrase')
         if not isinstance(q.get('uncertainty'),list) or any(not isinstance(x,str) for x in q['uncertainty']): raise ValueError('Invalid uncertainty flags')
         flags=list(q['uncertainty'])
+        notes=result.get('notes',[])
+        if not isinstance(notes,list) or any(not isinstance(n,str) for n in notes):raise ValueError('Invalid model notes')
+        if notes:flags.append('model_window_notes_require_review')
         if any(s.get('timing')=='start_only' or s['end']==s['start'] for s in d['segments'][q0:a1+1]): flags.append('source_has_start_only_timestamps_no_verified_end')
         if d['segments'][q0]['start'] <= window['start']+8 or d['segments'][a1]['end'] >= window['end']-8: flags.append('window_edge_needs_review')
         evidence={'question':d['segments'][q0:q1+1], 'answer':d['segments'][a0:a1+1]}
-        output.append({**q,'uncertainty':sorted(set(flags)), 'start':d['segments'][q0]['start'],'end':d['segments'][a1]['end'],'evidence':evidence,'review_status':'machine_candidate_unapproved','audio_verified':False})
+        output.append({**q,'uncertainty':sorted(set(flags)), 'start':d['segments'][q0]['start'],'end':d['segments'][a1]['end'],'evidence':evidence,'window_notes':notes,'review_status':'machine_candidate_unapproved','audio_verified':False})
     return output
 
 class Store:
@@ -201,6 +204,13 @@ CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT);
             current=[dict(r) for r in db.execute("SELECT video_id,start,end,error,state FROM jobs WHERE state IN ('processing','failed') ORDER BY id DESC LIMIT 10")]
             saved=db.execute("SELECT count(*) FROM recordings r WHERE r.state='ready' AND NOT EXISTS (SELECT 1 FROM jobs j WHERE j.video_id=r.id AND j.source_hash=r.hash AND j.state<>'saved')").fetchone()[0]
         return {'windows':counts,'recordings':len(records),'machine_pass_finished_recordings':saved,'records':records,'current':current,'baseline':self.setting('imported_registry_counts'),'version':VERSION}
+    def candidates(self, page=0):
+        items=[]
+        with self.connect() as db:
+            rows=db.execute("SELECT j.video_id,j.source_hash,j.result,r.teacher FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE j.state='saved' ORDER BY j.video_id,j.start").fetchall()
+        for row in rows:
+            items.extend({**q,'video_id':row['video_id'],'teacher':row['teacher'],'transcript_sha256':row['source_hash']} for q in json.loads(row['result']))
+        return {'total':len(items),'page':page,'items':items[page*10:(page+1)*10]}
     def export(self,path):
         """Private candidate artifact only; never changes approved FAQ registry."""
         with self.connect() as db:

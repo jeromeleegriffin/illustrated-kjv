@@ -39,6 +39,13 @@ class Persistence(unittest.TestCase):
  def test_zip_path_and_duplicate_rejected(self):
   with zipfile.ZipFile(self.z,'w') as z:z.writestr('../escape.json','{}')
   with self.assertRaises(ValueError):self.store.import_zip(self.z)
+ def test_reservation_changes_on_unchanged_source(self):
+  self.store.import_zip(self.z)
+  archive(self.z,self.d,{'faq-review/external-review-assignments.json':{'assignments':[{'status':'pending','recordings':[{'video_id':self.d['id']}]}]}})
+  self.store.import_zip(self.z);self.assertIsNone(self.store.next_job())
+ def test_start_only_captions_preserved(self):
+  self.d['segments'][0]['end']=0;self.d['segments'][0]['timing']='start_only';archive(self.z,self.d)
+  self.assertEqual(self.store.import_zip(self.z)['invalid'],0)
  def test_fail_retry(self):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.fail(j,'engine offline');self.store.retry()
   self.assertEqual(self.store.next_job()['id'],j['id'])
