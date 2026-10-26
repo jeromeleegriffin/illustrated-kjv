@@ -150,9 +150,11 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
             if not db.execute('SELECT count(*) FROM recordings').fetchone()[0]:return
             partial=self.root/'last-good.sqlite.partial'
             partial.unlink(missing_ok=True)
-            with sqlite3.connect(partial) as backup:
+            backup=sqlite3.connect(partial)
+            try:
                 db.backup(backup)
                 if backup.execute('PRAGMA integrity_check').fetchone()[0]!='ok':raise RuntimeError('Import backup integrity check failed')
+            finally:backup.close()
         partial.replace(self.root/'last-good.sqlite')
     def import_zip(self,path,progress=lambda x:None):
         self.backup_before_import()
