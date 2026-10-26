@@ -9300,6 +9300,66 @@
       "question": "Would you explain the Scripture where He says, 'If you forgive not those that have wronged you, neither can God forgive you your trespasses,' in Mark 11:25-26.",
       "topic": "Prayer",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sin-unto-death-james-dennis",
+      "question": "How did Dennis explain sin leading to death in James 1?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jesus-hears-thoughts-dennis",
+      "question": "Did Dennis say Jesus knows our thoughts?",
+      "topic": "God and Christ",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "inheritance-hastily-dennis",
+      "question": "How did Dennis explain an inheritance obtained hastily in Proverbs 20:21?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jabez-prayer-dennis",
+      "question": "Did Dennis consider it wrong to pray the prayer of Jabez?",
+      "topic": "Prayer",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "acrostic-meaning-dennis",
+      "question": "How did Dennis explain a biblical acrostic?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "gulf-placement-dennis",
+      "question": "How did Dennis answer what determines which side of the gulf a person enters?",
+      "topic": "Life after death",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "noah-eight-souls-dennis",
+      "question": "How did Dennis reconcile eight souls in 1 Peter 3:20 with Noah taking two of every flesh?",
+      "topic": "Genesis and creation",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "god-origin-dennis",
+      "question": "How did Dennis answer where God came from?",
+      "topic": "God and Christ",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "witness-agnostic-dennis",
+      "question": "How did Dennis advise a listener who wanted to help an agnostic understand the Word?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "government-rift-dennis",
+      "question": "How did Dennis respond to a listener asking whether government divisions would create a rift?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -44922,7 +44982,7 @@
       "question_id": "forgiveness",
       "video_id": "-atyYXhtw4I",
       "start": 3171.902,
-      "end": 3191.888,
+      "end": 3237.567,
       "variant": "local005-34",
       "summary": "Dennis says the unforgivable sin is not merely failing to ask forgiveness. He identifies it as one of God’s elect refusing the Holy Spirit when delivered before the antichrist, refers to Luke 12:10 onward, and says it could not yet have occurred at the time of this recording.",
       "scripture_mentions": [],
@@ -45312,7 +45372,7 @@
       "question_id": "local005-8d4ffb948ab9d8",
       "video_id": "-p2BC68Wbyc",
       "start": 3257.053,
-      "end": 3300.73,
+      "end": 3364.627,
       "variant": "local005-64",
       "summary": "Dennis says Jethro is a title meaning his excellency and identifies Reuel as the given name. He says several people in the Bible bear the name Reuel and recommends a Bible dictionary to distinguish them.",
       "scripture_mentions": [],
@@ -45372,7 +45432,7 @@
       "question_id": "local005-2490ddefdb1da8",
       "video_id": "-p2BC68Wbyc",
       "start": 3065.629,
-      "end": 3077.741,
+      "end": 3109.106,
       "variant": "local005-68",
       "summary": "Dennis Murray says no, but discourages making vows to God that one cannot keep.",
       "scripture_mentions": [],
@@ -45447,7 +45507,7 @@
       "question_id": "local005-50ebe065d2c4d7",
       "video_id": "-p2BC68Wbyc",
       "start": 2791.855,
-      "end": 2823.854,
+      "end": 2837.734,
       "variant": "local005-74",
       "summary": "Pastor Dennis Murray answered that Beulah is mentioned in Isaiah chapter 62 verse four, referring to God's election and those who are not deceived by the anti-Christ, also linked to the over comers in Revelation chapter 15. Beulah means married and is connected to Hepzibah, meaning my delight is in her.",
       "scripture_mentions": [],
@@ -45957,7 +46017,7 @@
       "question_id": "local005-74bc269989206c",
       "video_id": "-atyYXhtw4I",
       "start": 2786.45,
-      "end": 2838.268,
+      "end": 2847.611,
       "variant": "local005-124",
       "summary": "Dennis explains: pastor Murray stated he doesn't have a clue what the caller is talking about, explaining there's no plaque on their pulpit and they use hotel-provided lecterns which may have promotional material on them.",
       "scripture_mentions": [],
@@ -46797,9 +46857,9 @@
       "question_id": "local005-79f59cc1cf9725",
       "video_id": "-atyYXhtw4I",
       "start": 2327.091,
-      "end": 2346.477,
+      "end": 2478.309,
       "variant": "local005-194",
-      "summary": "Dennis says he thinks Abraham would have completed the sacrifice, citing Abraham’s faith in Hebrews 11:8 onward. He treats the episode as a type of the sacrifice of God’s Son. His answer is stated as his judgment, not certainty about an unobserved event.",
+      "summary": "Dennis says he thinks Abraham would have completed the sacrifice and points to Abraham’s faith in Hebrews 11. He treats the episode as a type of the sacrifice of God’s Son and emphasizes that the Lord provided the ram.",
       "scripture_mentions": [],
       "teacher": "Dennis Murray",
       "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
@@ -46835,6 +46895,245 @@
       "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
       "source_sha256": "b1b187303486bd4e1f9890da37b2e12ec27d9cda062901968fc7a3559d091ecc",
       "recording_group": "1HPYqWElfKM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "sin-unto-death-james-dennis",
+      "video_id": "-Se_hLyShno",
+      "start": 2212.343,
+      "end": 2264.495,
+      "variant": "local006-sin-unto-death-james-dennis",
+      "summary": "Dennis understood the death in the listener’s James 1 question as spiritual death, the death of the soul, rather than physical death.",
+      "scripture_mentions": [
+        "James 1:14–15"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "6189249c8c68b800bf3ed22c5f72e321340539c9b1fb4e5efbf6df85ec23d7a3",
+      "source_sha256": "2876cd10cda684af195cb57c2d9d0343a848c374df5edf6e8e3d292c3ca3f43e",
+      "recording_group": "-Se_hLyShno",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "jesus-hears-thoughts-dennis",
+      "video_id": "-Se_hLyShno",
+      "start": 2885.482,
+      "end": 2945.609,
+      "variant": "local006-jesus-hears-thoughts-dennis",
+      "summary": "Dennis answered yes, identifying Jesus and God as one. He appealed to John’s presentation of Christ and Jesus’ statement in John 14 that seeing him is seeing the Father.",
+      "scripture_mentions": [
+        "John 14"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "6189249c8c68b800bf3ed22c5f72e321340539c9b1fb4e5efbf6df85ec23d7a3",
+      "source_sha256": "2876cd10cda684af195cb57c2d9d0343a848c374df5edf6e8e3d292c3ca3f43e",
+      "recording_group": "-Se_hLyShno",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "inheritance-hastily-dennis",
+      "video_id": "-atyYXhtw4I",
+      "start": 2711.308,
+      "end": 2784.915,
+      "variant": "local006-inheritance-hastily-dennis",
+      "summary": "Dennis interprets the warning as applying to someone who obtains an inheritance by trickery or theft. He tells the listener that an inheritance obtained crookedly will not be blessed.",
+      "scripture_mentions": [
+        "Proverbs 20:21"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+      "source_sha256": "baff550952092addf437aeb8259010dd71a685da8c5c4c81ffbf68a4bee3a924",
+      "recording_group": "-atyYXhtw4I",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "pray-financial-help",
+      "video_id": "-atyYXhtw4I",
+      "start": 2847.611,
+      "end": 2878.575,
+      "variant": "local006-pray-financial-help",
+      "summary": "Dennis says there is nothing wrong with asking God for a financial blessing, responding to a listener who describes medical bills and financial hardship.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+      "source_sha256": "baff550952092addf437aeb8259010dd71a685da8c5c4c81ffbf68a4bee3a924",
+      "recording_group": "-atyYXhtw4I",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "jabez-prayer-dennis",
+      "video_id": "-atyYXhtw4I",
+      "start": 2878.575,
+      "end": 2934.097,
+      "variant": "local006-jabez-prayer-dennis",
+      "summary": "Dennis says there is nothing wrong with asking God for blessings and treats Jabez’s prayer as an example. He emphasizes living a life God can bless and both studying and doing what is pleasing to Him.",
+      "scripture_mentions": [
+        "1 Chronicles 4:10"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+      "source_sha256": "baff550952092addf437aeb8259010dd71a685da8c5c4c81ffbf68a4bee3a924",
+      "recording_group": "-atyYXhtw4I",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "acrostic-meaning-dennis",
+      "video_id": "-atyYXhtw4I",
+      "start": 2934.097,
+      "end": 3083.213,
+      "variant": "local006-acrostic-meaning-dennis",
+      "summary": "Dennis describes acrostics using the sequence of Hebrew letters, pointing to Psalms 37 and 119. He also says sacred names can be found in letter patterns and credits Bullinger’s Companion Bible notes for identifying acrostics.",
+      "scripture_mentions": [
+        "Psalm 37",
+        "Psalm 119"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+      "source_sha256": "baff550952092addf437aeb8259010dd71a685da8c5c4c81ffbf68a4bee3a924",
+      "recording_group": "-atyYXhtw4I",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "gulf-placement-dennis",
+      "video_id": "-atyYXhtw4I",
+      "start": 3083.213,
+      "end": 3171.902,
+      "variant": "local006-gulf-placement-dennis",
+      "summary": "Dennis refers to the rich man in Luke 16 and describes a judgment at death that places people on one side of the gulf or the other. He says the divide cannot be crossed during this dispensation and refers to 2 Esdras for the condition of the unpleasant side.",
+      "scripture_mentions": [
+        "Luke 16",
+        "2 Esdras 7:77 onward"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+      "source_sha256": "baff550952092addf437aeb8259010dd71a685da8c5c4c81ffbf68a4bee3a924",
+      "recording_group": "-atyYXhtw4I",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "cremation",
+      "video_id": "-p2BC68Wbyc",
+      "start": 2440.805,
+      "end": 2544.208,
+      "variant": "local006-cremation",
+      "summary": "Dennis says cremation is not sinful. He cites Saul and his sons in 1 Samuel 31 and Ecclesiastes 12:7, saying the flesh returns to earth and the spiritual body remains.",
+      "scripture_mentions": [
+        "1 Samuel 31:12",
+        "Ecclesiastes 12:7"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "noah-eight-souls-dennis",
+      "video_id": "-p2BC68Wbyc",
+      "start": 2571.435,
+      "end": 2670.0,
+      "variant": "local006-noah-eight-souls-dennis",
+      "summary": "Dennis calls the eight people named in 1 Peter 3:20 Noah’s immediate Adamic family. He proposes either additional people aboard the ark or a flood that did not cover the entire earth, relating these possibilities to his interpretation of the survival of different peoples.",
+      "scripture_mentions": [
+        "1 Peter 3:20",
+        "Genesis 7:13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "god-origin-dennis",
+      "video_id": "-p2BC68Wbyc",
+      "start": 2721.985,
+      "end": 2779.009,
+      "variant": "local006-god-origin-dennis",
+      "summary": "Dennis refers to Exodus 3:13–14 and explains God’s name as I will be what I will be. He says God has existed from the beginning and did not need anyone to create Him.",
+      "scripture_mentions": [
+        "Exodus 3:13–14"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "jesus-crucifixion-place",
+      "video_id": "-p2BC68Wbyc",
+      "start": 2908.238,
+      "end": 3016.346,
+      "variant": "local006-jesus-crucifixion-place",
+      "summary": "Dennis says Jesus was not crucified on the Mount of Olives. He associates Golgotha and Calvary with Mount Moriah, describing that connection as his belief, and distinguishes it from Christ’s ascension and return on the Mount of Olives.",
+      "scripture_mentions": [
+        "Acts 1",
+        "Zechariah 14"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "-p2BC68Wbyc",
+      "start": 3016.346,
+      "end": 3063.76,
+      "variant": "local006-forgiveness",
+      "summary": "Dennis identifies the unpardonable sin as one of God’s elect refusing to let the Holy Spirit speak when delivered before the antichrist. Referring to Luke 12:10–12, he says at the time of this recording that the situation had not yet occurred.",
+      "scripture_mentions": [
+        "Luke 12:10–12"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "witness-agnostic-dennis",
+      "video_id": "-p2BC68Wbyc",
+      "start": 3109.106,
+      "end": 3194.391,
+      "variant": "local006-witness-agnostic-dennis",
+      "summary": "Dennis says the listener can plant a seed and points to Elijah’s challenge in 1 Kings 18:21. He interprets that challenge as choosing whether to follow God rather than trying to remain between two opinions.",
+      "scripture_mentions": [
+        "1 Kings 18:21"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "government-rift-dennis",
+      "video_id": "-p2BC68Wbyc",
+      "start": 3194.391,
+      "end": 3211.074,
+      "variant": "local006-government-rift-dennis",
+      "summary": "Dennis says there was already a significant rift and encourages listeners to watch developments. His short comment does not identify a specific predicted event.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
+      "recording_group": "-p2BC68Wbyc",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
     }
@@ -48928,6 +49227,99 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-26",
       "basis": "Direct reading of complete available caption Q&A, including listener turns absent from prepared subset. Partial because three unresolved answers remain held."
+    },
+    {
+      "video_id": "-atyYXhtw4I",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+      "qa_start": 2322.553,
+      "qa_end": 3386.75,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2322.553,
+          "end": 3386.75
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2503.434,
+          "end": 2518.382,
+          "reason": "Listener asks whether the pastor agrees with her characterization of people; no distinct response was found before her Hebrews question."
+        }
+      ],
+      "cursor_seconds": 2503.434,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Direct complete saved-caption Q&A read from transition to closing. Reconciled prior 12 linked passages; two closely related Abraham subquestions counted once, five previously missed listener questions added."
+    },
+    {
+      "video_id": "-Se_hLyShno",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "6189249c8c68b800bf3ed22c5f72e321340539c9b1fb4e5efbf6df85ec23d7a3",
+      "qa_start": 2208.539,
+      "qa_end": 3370.433,
+      "reviewed_ranges": [
+        {
+          "start": 2208.539,
+          "end": 3370.433
+        }
+      ],
+      "cursor_seconds": 2336.867,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [
+        {
+          "start": 2336.867,
+          "end": 2392.69,
+          "reason": "Captioned 1 Peter 3:17–18 citation and Noah-forward wording require source/audio clarification; no silent correction."
+        },
+        {
+          "start": 2600.164,
+          "end": 2676.473,
+          "reason": "Listener daughter versus answer sister inconsistency; do not silently reconcile."
+        },
+        {
+          "start": 3090.987,
+          "end": 3159.589,
+          "reason": "Genesis verse-one/verse-two narrative inconsistency in captions; preserve interpretation without correcting citation."
+        },
+        {
+          "start": 3336.166,
+          "end": 3369.699,
+          "reason": "Captioned Leviticus 18:21 reference requires checking; not normalized from memory."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "Direct complete saved-caption Q&A read; 10 overlapping answers previously published, two additional answers reconciled, four unresolved ranges preserved; audio pending.",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "video_id": "-p2BC68Wbyc",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+      "qa_start": 2175.373,
+      "qa_end": 3364.627,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2175.373,
+          "end": 3364.627
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2259.69,
+          "end": 2264.528,
+          "reason": "Listener asks how not to judge; pastor does not separately answer that request before discussing the crucifixion."
+        }
+      ],
+      "cursor_seconds": 2259.69,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Direct read of entire available Q&A; preserved one listener request without a distinct answer."
     }
   ]
 }

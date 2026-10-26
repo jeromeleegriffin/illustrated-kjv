@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T18:49:00.571983+00:00",
+  "updated": "2026-10-26T20:45:35.445658+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -1235,7 +1235,9 @@
         "local005-a3b41fead04666",
         "local005-d1ea81ec6106c4",
         "local005-shortened-tribulation-dennis",
-        "local005-9debaede3628ed"
+        "local005-9debaede3628ed",
+        "sin-unto-death-james-dennis",
+        "jesus-hears-thoughts-dennis"
       ],
       "reviewed_ranges": [
         {
@@ -1297,11 +1299,65 @@
           "start_seconds": 3280.377,
           "end_seconds": 3302.666,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sin-unto-death-james-dennis",
+          "start_seconds": 2212.343,
+          "end_seconds": 2264.495,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-hears-thoughts-dennis",
+          "start_seconds": 2885.482,
+          "end_seconds": 2945.609,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "-Se_hLyShno",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "6189249c8c68b800bf3ed22c5f72e321340539c9b1fb4e5efbf6df85ec23d7a3",
+        "qa_start": 2208.539,
+        "qa_end": 3370.433,
+        "reviewed_ranges": [
+          {
+            "start": 2208.539,
+            "end": 3370.433
+          }
+        ],
+        "cursor_seconds": 2336.867,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [
+          {
+            "start": 2336.867,
+            "end": 2392.69,
+            "reason": "Captioned 1 Peter 3:17–18 citation and Noah-forward wording require source/audio clarification; no silent correction."
+          },
+          {
+            "start": 2600.164,
+            "end": 2676.473,
+            "reason": "Listener daughter versus answer sister inconsistency; do not silently reconcile."
+          },
+          {
+            "start": 3090.987,
+            "end": 3159.589,
+            "reason": "Genesis verse-one/verse-two narrative inconsistency in captions; preserve interpretation without correcting citation."
+          },
+          {
+            "start": 3336.166,
+            "end": 3369.699,
+            "reason": "Captioned Leviticus 18:21 reference requires checking; not normalized from memory."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "Direct complete saved-caption Q&A read; 10 overlapping answers previously published, two additional answers reconciled, four unresolved ranges preserved; audio pending.",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2336.867
     },
     {
       "video_id": "-SpmN7ZxK7k",
@@ -2362,7 +2418,12 @@
         "local005-1074b289b5cdb7",
         "local005-104d8dd6868a1f",
         "local005-2ea9cbb4da8449",
-        "local005-79f59cc1cf9725"
+        "local005-79f59cc1cf9725",
+        "inheritance-hastily-dennis",
+        "pray-financial-help",
+        "jabez-prayer-dennis",
+        "acrostic-meaning-dennis",
+        "gulf-placement-dennis"
       ],
       "reviewed_ranges": [
         {
@@ -2374,7 +2435,7 @@
         {
           "question_id": "forgiveness",
           "start_seconds": 3171.902,
-          "end_seconds": 3191.888,
+          "end_seconds": 3237.567,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2398,7 +2459,7 @@
         {
           "question_id": "local005-74bc269989206c",
           "start_seconds": 2786.45,
-          "end_seconds": 2838.268,
+          "end_seconds": 2847.611,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2434,13 +2495,70 @@
         {
           "question_id": "local005-79f59cc1cf9725",
           "start_seconds": 2327.091,
-          "end_seconds": 2346.477,
+          "end_seconds": 2478.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "inheritance-hastily-dennis",
+          "start_seconds": 2711.308,
+          "end_seconds": 2784.915,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pray-financial-help",
+          "start_seconds": 2847.611,
+          "end_seconds": 2878.575,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jabez-prayer-dennis",
+          "start_seconds": 2878.575,
+          "end_seconds": 2934.097,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "acrostic-meaning-dennis",
+          "start_seconds": 2934.097,
+          "end_seconds": 3083.213,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-placement-dennis",
+          "start_seconds": 3083.213,
+          "end_seconds": 3171.902,
           "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "-atyYXhtw4I",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "600f887574fb50b72efedf01b66d36098d4db9dbed828a7fe2d655aff41001b5",
+        "qa_start": 2322.553,
+        "qa_end": 3386.75,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2322.553,
+            "end": 3386.75
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2503.434,
+            "end": 2518.382,
+            "reason": "Listener asks whether the pastor agrees with her characterization of people; no distinct response was found before her Hebrews question."
+          }
+        ],
+        "cursor_seconds": 2503.434,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Direct complete saved-caption Q&A read from transition to closing. Reconciled prior 12 linked passages; two closely related Abraham subquestions counted once, five previously missed listener questions added."
+      },
+      "cursor_seconds": 2503.434
     },
     {
       "video_id": "-d_naipUhXo",
@@ -2931,7 +3049,14 @@
         "local005-90a037ad2164cd",
         "local005-b30bda35f59bd8",
         "recognize-family",
-        "sabbath-rest-dennis"
+        "sabbath-rest-dennis",
+        "cremation",
+        "noah-eight-souls-dennis",
+        "god-origin-dennis",
+        "jesus-crucifixion-place",
+        "forgiveness",
+        "witness-agnostic-dennis",
+        "government-rift-dennis"
       ],
       "reviewed_ranges": [
         {
@@ -2943,13 +3068,13 @@
         {
           "question_id": "local005-8d4ffb948ab9d8",
           "start_seconds": 3257.053,
-          "end_seconds": 3300.73,
+          "end_seconds": 3364.627,
           "review": "caption_passage_checked_audio_pending"
         },
         {
           "question_id": "local005-2490ddefdb1da8",
           "start_seconds": 3065.629,
-          "end_seconds": 3077.741,
+          "end_seconds": 3109.106,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2961,7 +3086,7 @@
         {
           "question_id": "local005-50ebe065d2c4d7",
           "start_seconds": 2791.855,
-          "end_seconds": 2823.854,
+          "end_seconds": 2837.734,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2999,11 +3124,80 @@
           "start_seconds": 2546.744,
           "end_seconds": 2569.066,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 2440.805,
+          "end_seconds": 2544.208,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noah-eight-souls-dennis",
+          "start_seconds": 2571.435,
+          "end_seconds": 2670.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-origin-dennis",
+          "start_seconds": 2721.985,
+          "end_seconds": 2779.009,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-crucifixion-place",
+          "start_seconds": 2908.238,
+          "end_seconds": 3016.346,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3016.346,
+          "end_seconds": 3063.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witness-agnostic-dennis",
+          "start_seconds": 3109.106,
+          "end_seconds": 3194.391,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "government-rift-dennis",
+          "start_seconds": 3194.391,
+          "end_seconds": 3211.074,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "-p2BC68Wbyc",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
+        "qa_start": 2175.373,
+        "qa_end": 3364.627,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2175.373,
+            "end": 3364.627
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2259.69,
+            "end": 2264.528,
+            "reason": "Listener asks how not to judge; pastor does not separately answer that request before discussing the crucifixion."
+          }
+        ],
+        "cursor_seconds": 2259.69,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Direct read of entire available Q&A; preserved one listener request without a distinct answer."
+      },
+      "cursor_seconds": 2259.69
     },
     {
       "video_id": "-q7gKpnCcxE",
@@ -43720,6 +43914,6 @@
     "teacher_pending": 65,
     "pending": 1087,
     "source_changed": 0,
-    "question_occurrences": 2346
+    "question_occurrences": 2360
   }
 }

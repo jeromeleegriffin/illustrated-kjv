@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,550 question groups and 2,385 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,560 question groups and 2,399 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
 All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 192 remain partially reviewed, 1,087 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
@@ -67,3 +67,7 @@ Local app batch 003 adds twenty-one caption-reviewed linked answers and fourteen
 
 
 Local app batches 004 and 005 reconcile all 197 prepared proposals from the 1.1.1 user export: twenty were covered by batch 004; batch 005 approves 153 additional source-bound paraphrases after direct caption-passage review; twenty-four are held, excluded or duplicate drafts. Batch 004 also recovered four answers outside the prepared subset. The overall totals are 1,550 groups and 2,385 linked answers. No additional full-recording completion or audio verification is claimed. Partial review ranges, attribution checks, corrections, duplicates and unresolved items are retained privately. The rest of the uploaded extraction/checking backlog is not approved by these batches. Prior pending Dennis review must be reconciled against these new links before reuse.
+
+
+
+Local app batch 006 adds fourteen caption-reviewed Dennis answers after reconciling the earlier private review of -Se_hLyShno and reading the full Q&A sections of -atyYXhtw4I and -p2BC68Wbyc. All three recordings remain partial: one unanswered listener comment in -atyYXhtw4I, one unanswered request in -p2BC68Wbyc, and four previously documented unresolved ranges in -Se_hLyShno. Three earlier answer timestamp spans were extended to include their explanation. Audio remains unverified.
