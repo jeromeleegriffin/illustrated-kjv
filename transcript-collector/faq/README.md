@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,356 question groups and 2,141 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,379 question groups and 2,187 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 170 remain partially reviewed, 1,109 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 173 remain partially reviewed, 1,106 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -59,3 +59,6 @@ Pass047 adds forty-eight linked answers from full caption Q&A reads of esaS22Iyy
 Pass048 adds thirty-seven linked answers after complete caption Q&A reads of ewz9wZQjCQg and ezPMqVOO8SU. Five source-specific ambiguities remain held, including divine-knowledge wording, a glory-term lexical identification, and a prophetic army’s route. Both recordings remain partial and audio-pending.
 
 Pass049 adds sixty-four linked answers from four complete caption Q&A reads. fAT6qDIM_r8 qualifies as a full caption-section review; f3_aywKN6Lk, fBPvp86RN9w and fDdaF11Yo00 retain seven unresolved ranges, including two unread listener questions. Audio verification remains pending. Existing page behavior is preserved.
+
+
+Local app batch 002 adds forty-six caption-reviewed linked answers and twenty-three question groups after direct reads of the complete Q&A sections in WaqJ4p4NLFY (Arnold), -DI3jbEdDpM (Dennis) and F1e-_aBWB4c (Dennis). All three remain partial because source-specific reference, unread-letter, unanswered or incomplete-answer holds are preserved. Question variants remain separate and counted once per question per recording group. A difference in Dennis’s prayer-address qualifications is flagged for further review. Machine extraction is separate from these caption approvals; model candidates never approve themselves. Private checkpoint: libfile_fa436b11a950819199b084328523b67c. Audio remains unverified.

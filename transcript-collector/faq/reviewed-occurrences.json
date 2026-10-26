@@ -597,7 +597,7 @@
     },
     {
       "id": "kenite-salvation",
-      "question": "Did Arnold say salvation is available to people he calls Kenites?",
+      "question": "Did the Murrays say salvation is available to people they called Kenites?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -999,7 +999,7 @@
     },
     {
       "id": "satan-covering-cherub",
-      "question": "Where did Arnold locate Satan’s former role as the protecting cherub?",
+      "question": "Where did the Murrays describe Satan’s protecting-cherub role and ambition?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -2031,7 +2031,7 @@
     },
     {
       "id": "ministry-money-pressure",
-      "question": "How did Arnold answer concerns about ministries pressuring people for money?",
+      "question": "How did the Murrays answer concerns about ministries pressuring people for money?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -2115,7 +2115,7 @@
     },
     {
       "id": "spouses-heaven",
-      "question": "How did Arnold answer whether spouses can remain close in heaven?",
+      "question": "How did the Murrays answer whether spouses can remain close in heaven?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -2493,7 +2493,7 @@
     },
     {
       "id": "apocrypha",
-      "question": "How did Arnold discuss the Apocrypha and its absence from some KJV printings?",
+      "question": "How did the Murrays discuss the Apocrypha and its absence from some KJV printings?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -2685,7 +2685,7 @@
     },
     {
       "id": "bless-anointing-oil",
-      "question": "Did Arnold say anointing oil must be blessed before every use?",
+      "question": "Did the Murrays require anointing oil to be blessed again before each use?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -3057,9 +3057,9 @@
     },
     {
       "id": "pray-father-name",
-      "question": "To whom did Arnold teach Christians should pray?",
+      "question": "To whom did the Murrays teach Christians should pray?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "review_needed_difference_in_recorded_Dennis_prayer_address_qualifications"
     },
     {
       "id": "military-evil-orders",
@@ -5789,7 +5789,7 @@
       "id": "prayer-three-offices-dennis",
       "question": "Did Dennis object to addressing Father, Son and Holy Spirit individually?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "review_needed_difference_in_recorded_Dennis_prayer_address_qualifications"
     },
     {
       "id": "cross-stake-dennis",
@@ -6957,7 +6957,7 @@
     },
     {
       "id": "fallen-angels-spirits-difference",
-      "question": "How did Arnold distinguish a fallen angel from an evil spirit?",
+      "question": "How did the Murrays distinguish fallen angels from evil spirits?",
       "topic": "Listener questions",
       "conflict_status": "review_needed_difference_between_recorded_answers_on_restrained_angels_spirits"
     },
@@ -6987,7 +6987,7 @@
     },
     {
       "id": "high-places-worship",
-      "question": "How did Arnold explain high places built in cities?",
+      "question": "How did the Murrays explain biblical high places of worship?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     },
@@ -8135,6 +8135,144 @@
       "id": "admonish-hateful-teachers",
       "question": "How did Arnold answer about admonishing teachers who spread hate?",
       "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "matthew24-many-claimants-dennis",
+      "question": "How did Dennis explain Matthew 24:5’s many coming in Christ’s name?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jonah-fish-nineveh-dennis",
+      "question": "Did Dennis say Jonah’s fish delivered him directly to Nineveh?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "pharaoh-magicians-rods-dennis",
+      "question": "Did Dennis think God transformed the Egyptian magicians’ rods?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "dan-ephraim-omission-dennis",
+      "question": "Why did Dennis say Dan and Ephraim were omitted from Revelation 7’s list?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "blood-sacrifice-reason-dennis",
+      "question": "How did Dennis respond when asked why God required blood sacrifice?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "witch-endor-apparition-dennis",
+      "question": "Did Dennis interpret the Witch of Endor’s apparition as Samuel or an evil spirit?",
+      "topic": "Life after death",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "job-dinosaurs-contemporary-dennis",
+      "question": "Did Dennis believe Job lived alongside dinosaurs?",
+      "topic": "Genesis and creation",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "all-bow-christ-return-arnold",
+      "question": "Why did Arnold say people of different religions would bow when Christ returns?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "others-overcome-antichrist-arnold",
+      "question": "Who besides the very elect did Arnold expect to overcome Antichrist?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "sue-injurer-claiming-christian",
+      "question": "Did Arnold allow suing someone claiming to be Christian who physically injured a person?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "michael-satan-expulsion-passages",
+      "question": "Where did Arnold direct listeners about Michael, Satan’s restraint and his expulsion?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "plant-root-crops-moon",
+      "question": "Did Arnold favor planting root crops by the moon?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "demon-evil-spirit-equivalence",
+      "question": "Did Arnold equate a demon with an evil spirit?",
+      "topic": "Spiritual discernment",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "clean-fish-scales-arnold",
+      "question": "Which fish did Arnold call clean to eat?",
+      "topic": "Food laws",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "reach-unbelieving-family-example",
+      "question": "What did Arnold advise someone wanting to reach unbelieving family members?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "cancer-god-presence-arnold",
+      "question": "Did Arnold say having cancer meant God’s Spirit could not be in a person?",
+      "topic": "Prayer",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "single-father-jailed-wife-dennis",
+      "question": "How did Dennis encourage a father raising children while his wife was in jail?",
+      "topic": "Christian living",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "cain-satan-passages-dennis",
+      "question": "Which verses did Dennis use when linking Cain with Satan?",
+      "topic": "Genesis and creation",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "patriarchs-twelve-sons-dennis",
+      "question": "Who did Dennis identify as Israel’s twelve patriarchs?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "gay-clergy-ordination-dennis",
+      "question": "What position did Dennis take on ordaining openly gay clergy?",
+      "topic": "Ministry",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "healing-leaves-revelation22-dennis",
+      "question": "How did Dennis explain healing leaves in Revelation 22 when spiritual bodies have no sickness?",
+      "topic": "Life after death",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "god-personally-eden-dennis",
+      "question": "Did Dennis believe God personally walked and talked with Adam and Eve?",
+      "topic": "Genesis and creation",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "obadiah-overview-dennis",
+      "question": "What brief explanation of Obadiah did Dennis give during question time?",
+      "topic": "Scripture questions",
       "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
@@ -41972,6 +42110,696 @@
       "recording_group": "fDdaF11Yo00",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "spouses-heaven",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2234.065,
+      "end": 2356.954,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-01",
+      "summary": "Dennis said people who reach heaven would be together and recognize a spouse, but would not retain the same earthly marital relationship. He cited Matthew 22:29–30 and thought the relationship would be more special.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "single-father-jailed-wife-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2359.19,
+      "end": 2482.713,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-02",
+      "summary": "Dennis encouraged the listener to continue caring for his children, cited 1 Corinthians 10:13 about trials common to people, and recommended relying on Christ through Matthew 11:29–30 to share the burden.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "cain-satan-passages-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2482.713,
+      "end": 2527.157,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-03",
+      "summary": "Dennis cited John 8:44 and 1 John 3:12. He interpreted the people addressed in John 8 as descendants of Cain and identified the wicked one with Satan. These are his interpretive claims, not an independently established ancestry finding.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "patriarchs-twelve-sons-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2528.759,
+      "end": 2577.174,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-04",
+      "summary": "Dennis identified the patriarchs as Jacob’s twelve sons and the fathers of Israel’s tribes, directing the listener to the blessings in Genesis 49.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "gay-clergy-ordination-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2580.878,
+      "end": 2655.686,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-05",
+      "summary": "Dennis opposed it on his interpretation of Leviticus 18:22, Leviticus 20:13 and Romans 1:23–28. He presented this as his reading of Scripture rather than offering an unrelated personal policy opinion.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "apocrypha",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2657.154,
+      "end": 2764.128,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-06",
+      "summary": "Dennis said these books had appeared in the 1611 King James Bible and were later removed by church authorities. He advised assessing their contents against Scripture, particularly favored 2 Esdras, and recommended the Goodspeed translation offered by the ministry. His historical explanation is preserved as his account.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "healing-leaves-revelation22-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2771.201,
+      "end": 2894.558,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-07",
+      "summary": "Dennis located Revelation 22 after the millennium and final judgment. He identified the Tree of Life with Christ and tentatively suggested the leaves relieved anxiety and boredom, while maintaining that spiritual bodies also had needs. He repeatedly framed this explanation as what he thought.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "judas-death-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2896.493,
+      "end": 2971.368,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-08",
+      "summary": "Dennis argued that Acts 1:18 indicated Judas had been killed rather than having acted entirely alone. He linked this with Judas returning the betrayal money and alleged those implicated would not want him alive to tell the story. This is Dennis’s interpretation, not an independently verified account.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "ministry-money-pressure",
+      "video_id": "-DI3jbEdDpM",
+      "start": 2973.77,
+      "end": 3059.923,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-09",
+      "summary": "Dennis urged listeners to avoid ministries whose message continually revolved around demands for money. He said genuine spiritual teaching would inspire voluntary support and explained tithes and offerings as support for continued teaching and outreach.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "god-personally-eden-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 3061.091,
+      "end": 3077.107,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-10",
+      "summary": "Dennis answered yes and compared it with God appearing and speaking to Moses.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "kenite-salvation",
+      "video_id": "-DI3jbEdDpM",
+      "start": 3078.775,
+      "end": 3117.247,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-11",
+      "summary": "Dennis did not supply a genealogy test. He reassured the listener that belief in and love for Christ made a person God’s child regardless of ancestry, while explaining his understanding of Kenites as descendants of Cain.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "bless-anointing-oil",
+      "video_id": "-DI3jbEdDpM",
+      "start": 3124.454,
+      "end": 3207.304,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-12",
+      "summary": "Dennis said oil previously dedicated through prayer remained blessed unless it had spoiled. He advised discarding rancid or moldy oil, cleaning a reused container, replacing the oil and asking God to bless the replacement.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "obadiah-overview-dennis",
+      "video_id": "-DI3jbEdDpM",
+      "start": 3209.372,
+      "end": 3275.972,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-13",
+      "summary": "Dennis declined to explain the entire book during question time. He described its subject as Jacob or Israel’s victories over Edom and referred the listener to the ministry’s fuller Obadiah lessons.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "pork-new-testament",
+      "video_id": "-DI3jbEdDpM",
+      "start": 3277.707,
+      "end": 3381.378,
+      "teacher": "Dennis Murray",
+      "variant": "-DI3jbEdDpM-14",
+      "summary": "Dennis answered no. He read 1 Timothy 4:3–4 through the foods created to be received in Leviticus 11, and understood Acts 10 as teaching Peter not to treat Gentile people as unclean rather than authorizing unclean meats.",
+      "scripture_mentions": [],
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "source_sha256": "27fcb2d485ab31d73d63caeab3caae4a2259efdc95e042a927cbad82d6673f57",
+      "recording_group": "-DI3jbEdDpM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "matthew24-many-claimants-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2266.597,
+      "end": 2360.124,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-01",
+      "summary": "Dennis understood this as people claiming to be Christian while teaching falsehoods, including through church pulpits. He connected religious deception with what he called four hidden dynasties: religion, economics, politics and education.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "millennium-deception",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2363.194,
+      "end": 2429.193,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-02",
+      "summary": "Dennis said those who died believing in Christ and were on the good side were secure for eternity rather than subject to another opportunity to follow Satan. He distinguished them from those on the wrong side and people alive at Christ’s return, and separately identified the elect with the first resurrection in Revelation 20:5–6.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "jonah-fish-nineveh-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2431.529,
+      "end": 2487.218,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-03",
+      "summary": "Dennis said Jonah 2:10 described the fish depositing Jonah on dry land, not at Nineveh. He distinguished that event from the later command in Jonah 3:1–2 to go to Nineveh.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "satan-covering-cherub",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2489.153,
+      "end": 2562.393,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-04",
+      "summary": "Dennis pointed to Ezekiel 28:14 and following verses, interpreting the king of Tyrus as a type of Satan. He described pride and a desire to replace his protective role with occupying the seat, and connected the eventual judgment with Ezekiel 28:18 and Revelation 20. He did not identify a specific being from whom the seat was protected.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "pharaoh-magicians-rods-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2570.734,
+      "end": 2676.173,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-05",
+      "summary": "Dennis answered no. He described the magicians’ acts as illusion or trickery, named them from 2 Timothy 3:8, and used the account as a warning to prepare against deceptive displays. He also distinguished Antichrist as supernatural.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "fallen-angels-spirits-difference",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2699.129,
+      "end": 2724.988,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-06",
+      "summary": "Dennis answered no. He described fallen angels as those who refused birth through woman and came to earth in Genesis 6, and said Jude 1:6 placed them in chains of darkness awaiting judgment. He did not give a complete origin account for every other evil spirit in this answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "dan-ephraim-omission-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2729.893,
+      "end": 2768.632,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-07",
+      "summary": "Dennis attributed the omission to idolatry, described Levi and Joseph as their replacements in that list, and said Dan and Ephraim were reinstated in Ezekiel 48.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "spirit-after-death",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2807.738,
+      "end": 2893.357,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-08",
+      "summary": "Dennis cited Ecclesiastes 12:6–7 for the body returning to earth and the spirit returning to God, and 2 Corinthians 5:7–8 for being absent from the body and present with the Lord. He also recommended the ministry’s Where Are the Dead study.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "high-places-worship",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2897.294,
+      "end": 2934.865,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-09",
+      "summary": "Dennis described them as unauthorized places of worship. He said even worship directed toward Yahweh there violated the instruction to worship at the temple in Jerusalem, including the burning of incense and animal sacrifices.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "blood-sacrifice-reason-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2940.938,
+      "end": 2974.271,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-10",
+      "summary": "Dennis did not explain the historical reason in detail. He stressed that blood sacrifices were no longer required, saying Christ became the final sacrifice and the blood ordinances ended with the cross.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "witch-endor-apparition-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 2977.074,
+      "end": 3089.519,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-11",
+      "summary": "Dennis described an evil spirit masquerading as Samuel and warned against attempts to communicate with the dead or familiar spirits. He also referred to the witch’s surprise in 1 Samuel 28:12 without fully explaining his phrase that she got more than she bargained for.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "job-dinosaurs-contemporary-dennis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 3090.854,
+      "end": 3150.58,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-12",
+      "summary": "Dennis corrected the listener: he placed Job as a flesh man after the dinosaurs and understood God’s reference to behemoth in Job 40 as looking back to a first earth age. He said that age contained spiritual beings rather than flesh humans. He did not give a date or duration for it.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "serpent-role-genesis",
+      "video_id": "F1e-_aBWB4c",
+      "start": 3155.318,
+      "end": 3229.526,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-13",
+      "summary": "Dennis regarded serpent as a name for Satan rather than the form in which he appeared. He invoked Ezekiel 28’s description of beauty and wisdom and interpreted beguiled in 2 Corinthians 11:3 as wholly seduced. Part of the listener’s written question was unreadable and is not reconstructed here.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "pray-father-name",
+      "video_id": "F1e-_aBWB4c",
+      "start": 3231.328,
+      "end": 3330.727,
+      "teacher": "Dennis Murray",
+      "variant": "F1e-_aBWB4c-14",
+      "summary": "Dennis advised praying to the Father from the heart, using Christ’s pattern in Matthew 6 rather than endlessly repeating a memorized prayer. He distinguished praying to the Father from praying to Jesus, while affirming prayer in Jesus Christ’s name.",
+      "scripture_mentions": [],
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "source_sha256": "70fbe3b20cb469576bc3b5f79b7e1652d067278e83e413a17c23aa2b37838734",
+      "recording_group": "F1e-_aBWB4c",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "antichrist-present-now",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2116.747,
+      "end": 2187.451,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-01",
+      "summary": "Arnold distinguished Satan’s evil spiritual influence, which he said was already active, from his future personal role as the false Christ. He placed that appearance at the sixth trumpet, seal and vial.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "all-bow-christ-return-arnold",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2191.688,
+      "end": 2333.897,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-02",
+      "summary": "Arnold said all would bow to the true Christ, with some ashamed because they had worshipped the false Christ first. He stressed studying the sequence of end-time events and described a subsequent millennium of teaching.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "antichrist-recognition-protection",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2335.9,
+      "end": 2431.095,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-03",
+      "summary": "Arnold said Antichrist comes first while people remain in flesh bodies, whereas the true Christ’s arrival brings the change into spiritual bodies. He warned that miraculous displays alone do not establish a claimant’s identity.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2435.932,
+      "end": 2522.286,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-04",
+      "summary": "Arnold identified it as an informed member of God’s elect refusing to let the Holy Spirit speak when delivered before the false Christ. He corrected his citation to Luke 12:10, also invoked Mark 13, and said he did not expect the elect to refuse.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "others-overcome-antichrist-arnold",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2525.556,
+      "end": 2599.43,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-05",
+      "summary": "Arnold said the listener had omitted the 144,000, whom he expected to recognize fulfilled prophecy after hearing the elect’s testimony. He also included kings and queens of the ethnic peoples who would overcome.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "sue-injurer-claiming-christian",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2602.132,
+      "end": 2681.178,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-06",
+      "summary": "Arnold first recommended church arbitration between Christians, then said an injurer exploiting Christ’s name was not acting as a Christian and could be sued. He emphasized that he did not know the listener’s case and that the decision was hers.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "michael-satan-expulsion-passages",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2687.35,
+      "end": 2761.758,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-07",
+      "summary": "Arnold directed the listener to Revelation 12 and described Michael and his angels casting Satan to earth. He connected the ensuing deception with the Spirit’s testimony through believers and Mark 13’s instruction not to premeditate their response.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "plant-root-crops-moon",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2764.26,
+      "end": 2814.711,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-08",
+      "summary": "Arnold favored using common sense and linked root-crop planting to his claim that lunar effects raised water levels in the ground. He also mentioned planting potatoes around St. Patrick’s Day. These are his gardening claims, not an independently verified scientific conclusion.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "demon-evil-spirit-equivalence",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2815.946,
+      "end": 2829.092,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-09",
+      "summary": "Arnold answered yes and said the wording in the manuscripts was evil spirit rather than demon.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "clean-fish-scales-arnold",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2833.062,
+      "end": 2859.69,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-10",
+      "summary": "Arnold specified fish with scales, cited Leviticus 11:12, and contrasted them with bottom-feeding scavengers. This summary preserves his stated criterion without adding another criterion he did not mention in this answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "lose-salvation-repentance",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2862.225,
+      "end": 2924.254,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-11",
+      "summary": "Arnold emphasized sincere repentance after sin and warned against treating an earlier profession of salvation as protection while worshipping Satan as the false Christ. He urged listeners to wait for the true Lord and said persistent refusal to change would end in judgment.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "others-overcome-antichrist-arnold",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 2926.122,
+      "end": 3009.906,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-12",
+      "summary": "Arnold answered no, referring to kings and queens of the ethnic peoples and to Revelation 7’s innumerable group washed in the Lamb’s blood. He distinguished people already in heaven before Antichrist’s earthly deception.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "assurance-forgiveness",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 3012.275,
+      "end": 3100.764,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-13",
+      "summary": "Arnold reassured the listener that she remained God’s daughter and that Christ’s sacrifice made forgiveness possible. He urged her to repent sincerely, accept a new start and not remain trapped in doubt.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "unbelieving-spouse",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 3105.168,
+      "end": 3186.416,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-14",
+      "summary": "Arnold understood the concern in terms of whether children would be taught about God. He advised a believer to remain with an unbelieving spouse who did not obstruct Bible study or the children’s instruction, while allowing departure if that instruction was prevented.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "reach-unbelieving-family-example",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 3111.574,
+      "end": 3186.416,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-15",
+      "summary": "Arnold began with setting an example and then stressed preserving the opportunity to teach children God’s word. His answer linked this advice to the listener’s accompanying question about 1 Corinthians 7.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "cancer-god-presence-arnold",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 3189.452,
+      "end": 3276.94,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-16",
+      "summary": "Arnold rejected that conclusion. He said God’s Spirit could reach everywhere, urged prayer and anointing, and used Christ’s contact with people with leprosy to argue against treating illness as proof of God’s absence.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "millennium-relative-compassion",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 3279.576,
+      "end": 3353.883,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-17",
+      "summary": "Arnold cautioned against deciding another person’s judgment. Citing Ezekiel 44:20–25, he described God’s elect assisting near relatives during the millennium and undergoing a seven-day cleansing period afterward.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "assurance-forgiveness",
+      "video_id": "WaqJ4p4NLFY",
+      "start": 3356.953,
+      "end": 3372.268,
+      "teacher": "Arnold Murray",
+      "variant": "WaqJ4p4NLFY-18",
+      "summary": "Arnold said sincere repentance brought forgiveness and a clean start. He advised remembering the mistakes to avoid repeating them, without treating them as unforgiven.",
+      "scripture_mentions": [],
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+      "source_sha256": "107449ff275ceb15fd9d429436407543b2d18860eb290810d21d93f3ca527722",
+      "recording_group": "WaqJ4p4NLFY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
     }
   ],
   "duplicate_recording_aliases": {
@@ -43871,6 +44699,104 @@
       ],
       "review_status": "partially_reviewed",
       "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "qa_start": 2226.29,
+      "qa_end": 3381.378,
+      "reviewed_ranges": [
+        {
+          "start": 2226.29,
+          "end": 3381.378
+        }
+      ],
+      "cursor_seconds": 3143.874,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [
+        {
+          "start": 3143.874,
+          "end": 3150.547,
+          "reason": "Doorframe application question is read but not specifically answered; do not invent an answer from the oil-storage response."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "Full caption Q&A read directly. Generic opening says Arnold, but named presenter introduction explicitly identifies Dennis. Audio not checked.",
+      "video_id": "-DI3jbEdDpM",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "qa_start": 2257.955,
+      "qa_end": 3372.335,
+      "reviewed_ranges": [
+        {
+          "start": 2257.955,
+          "end": 3372.335
+        }
+      ],
+      "cursor_seconds": 2897.294,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [
+        {
+          "start": 2897.294,
+          "end": 2908.272,
+          "reason": "Caption reference to high places reads 2 Kings 14:29; do not silently repair or publish that reference as independently verified."
+        },
+        {
+          "start": 3111.374,
+          "end": 3113.009,
+          "reason": "Listener asks for the time period of the first earth age; response gives a body/age distinction but no date or duration."
+        },
+        {
+          "start": 3173.236,
+          "end": 3178.842,
+          "reason": "Pastor explicitly cannot read part of the listener letter; do not invent missing wording."
+        },
+        {
+          "start": 3332.495,
+          "end": 3362.425,
+          "reason": "Isaiah 57:1 question receives only a brief opening before time expires; incomplete explanation retained pending further evidence."
+        },
+        {
+          "start": 3362.425,
+          "end": 3372.335,
+          "reason": "Rachel is deferred to the following program; no actual question wording is read."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "Entire caption Q&A section read directly; named Dennis introduction checked. Unread and deferred material preserved without reconstruction; audio not checked.",
+      "video_id": "F1e-_aBWB4c",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "qa_start": 2111.809,
+      "qa_end": 3372.268,
+      "reviewed_ranges": [
+        {
+          "start": 2111.809,
+          "end": 3372.268
+        }
+      ],
+      "cursor_seconds": 2296.56,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "unresolved_ranges": [
+        {
+          "start": 2296.56,
+          "end": 2328.025,
+          "reason": "Caption cites Revelation 9 for mountains-falling wording; preserve wording and check audio before treating reference as verified."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "Full supplied caption Q&A section read directly; named presenter introduction checked; audio not checked.",
+      "video_id": "WaqJ4p4NLFY",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
       "reviewed_at": "2026-10-26"
     }
   ]
