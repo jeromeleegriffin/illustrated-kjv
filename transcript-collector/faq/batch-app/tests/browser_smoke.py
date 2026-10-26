@@ -19,7 +19,11 @@ def main():
     page.goto(url);page.wait_for_function("document.querySelector('#counts').textContent.includes('Recordings imported: 0')")
     page.locator('#file').set_input_files(str(fixture));page.locator('#import').click()
     page.wait_for_function("document.querySelector('#counts').textContent.includes('Recordings imported: 1')")
+    page.locator('#hardware').select_option('cpu');page.locator('#settings').click()
+    page.wait_for_function("document.querySelector('#message').textContent.includes('Import finished') || document.querySelector('#hardware').value==='cpu'")
+    page.wait_for_timeout(3000)
     page.reload();page.wait_for_function("document.querySelector('#counts').textContent.includes('Recordings imported: 1')")
+    page.wait_for_function("document.querySelector('#hardware').value==='cpu'");page.wait_for_function("document.querySelector('#runtime').textContent.includes('Current section elapsed')")
     page.locator('#pause').click();page.wait_for_function("document.querySelector('#message').textContent.includes('Pausing')")
     with page.expect_download() as download:page.locator('#export').click()
     download.value.save_as(str(root/'result.zip'))
@@ -30,3 +34,4 @@ def main():
   finally:proc.terminate();proc.wait(timeout=15)
 
 if __name__=='__main__':main()
+

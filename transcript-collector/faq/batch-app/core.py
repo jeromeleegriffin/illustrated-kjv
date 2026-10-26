@@ -4,7 +4,7 @@ import hashlib, json, math, re, sqlite3, time, urllib.request, zipfile
 from contextlib import contextmanager
 from pathlib import Path, PurePosixPath
 
-VERSION = '1.0.4'
+VERSION = '1.0.5'
 MODEL = 'qwen3:8b'
 ALLOWED_TEACHERS = {'Arnold Murray', 'Dennis Murray'}
 TRANSCRIPT_DIRS = ('search-library/transcripts/', 'recovery006/supplement-search/transcripts/')
@@ -21,6 +21,7 @@ def read_document(data):
     if not isinstance(d.get('segments'), list) or not d['segments']: raise ValueError('Missing caption segments')
     last = -1
     for s in d['segments']:
+        if not isinstance(s,dict):raise ValueError('Invalid caption segment')
         if not finite(s.get('start')) or not finite(s.get('end')) or not 0 <= s['start'] <= s['end'] <= d['duration'] + .1 or s['start'] < last:
             raise ValueError('Invalid or unordered caption timestamps')
         if not isinstance(s.get('text'), str): raise ValueError('Invalid caption text')
@@ -158,16 +159,17 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
                     assignments=json.loads(z.read(name));break
             full={r['video_id']:r for r in registry.get('recording_reviews',[]) if r.get('all_listener_questions_reviewed') is True and r.get('qa_boundaries_confirmed') is True and not r.get('unresolved_ranges')}
             reserved=set()
-            for assignment in assignments.get('assignments',[]):
-                if assignment.get('status') not in ('cancelled','released','completed'):
-                    reserved.update(r['video_id'] for r in assignment.get('recordings',[]) if isinstance(r,dict) and 'video_id' in r)
             def reservations(x):
                 if isinstance(x,dict):
+                    if x.get('status') in ('cancelled','released','completed'):return
                     for k,v in x.items():
-                        if k in ('video_ids','recording_ids') and isinstance(v,list): reserved.update(a for a in v if isinstance(a,str))
-                        else: reservations(v)
+                        if k in ('video_ids','recording_ids') and isinstance(v,list):
+                            reserved.update(a for a in v if isinstance(a,str))
+                        elif k=='recordings' and isinstance(v,list):
+                            reserved.update(a['video_id'] for a in v if isinstance(a,dict) and isinstance(a.get('video_id'),str))
+                        else:reservations(v)
                 elif isinstance(x,list):
-                    for v in x: reservations(v)
+                    for v in x:reservations(v)
             reservations(assignments)
             self.setting('imported_registry_counts',{'questions':len(registry.get('questions',[])),'occurrences':len(registry.get('occurrences',[]))})
             for info in infos:
@@ -223,18 +225,20 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
         with self.connect() as db:db.execute("UPDATE jobs SET state='pending' WHERE state='failed'")
     def status(self):
         with self.connect() as db:
-            counts={r[0]:r[1] for r in db.execute('SELECT state,count(*) FROM jobs GROUP BY state')}
+            all_counts={r[0]:r[1] for r in db.execute('SELECT state,count(*) FROM jobs GROUP BY state')}
+            counts={r[0]:r[1] for r in db.execute("SELECT j.state,count(*) FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE r.state='ready' GROUP BY j.state")}
             records=[dict(r) for r in db.execute('SELECT id,teacher,state,reason FROM recordings ORDER BY id')]
-            current=[dict(r) for r in db.execute("SELECT video_id,start,end,error,state FROM jobs WHERE state IN ('processing','failed') ORDER BY id DESC LIMIT 10")]
+            current=[dict(r) for r in db.execute("SELECT j.video_id,j.start,j.end,j.error,j.state FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE r.state='ready' AND j.state IN ('processing','failed') ORDER BY j.id DESC LIMIT 10")]
             saved=db.execute("SELECT count(*) FROM recordings r WHERE r.state='ready' AND EXISTS (SELECT 1 FROM jobs j WHERE j.video_id=r.id AND j.source_hash=r.hash) AND NOT EXISTS (SELECT 1 FROM jobs j WHERE j.video_id=r.id AND j.source_hash=r.hash AND j.state<>'saved')").fetchone()[0]
-        return {'windows':counts,'recordings':len(records),'machine_pass_finished_recordings':saved,'records':records,'current':current,'baseline':self.setting('imported_registry_counts'),'version':VERSION}
+        return {'windows':counts,'all_windows':all_counts,'held_recordings':sum(r['state']=='held' for r in records),'recordings':len(records),'machine_pass_finished_recordings':saved,'records':records,'current':current,'baseline':self.setting('imported_registry_counts'),'version':VERSION}
     def candidates(self, page=0):
-        items=[]
+        # Read only one page of evidence, even after thousands of windows finish.
         with self.connect() as db:
-            rows=db.execute("SELECT j.video_id,j.source_hash,j.result,r.teacher FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE j.state='saved' ORDER BY j.video_id,j.start").fetchall()
-        for row in rows:
-            items.extend({**q,'video_id':row['video_id'],'teacher':row['teacher'],'transcript_sha256':row['source_hash']} for q in json.loads(row['result']))
-        return {'total':len(items),'page':page,'items':items[page*10:(page+1)*10]}
+            total=db.execute("SELECT coalesce(sum(json_array_length(j.result)),0) FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE j.state='saved'").fetchone()[0]
+            page=max(0,min(int(page),max(0,(total-1)//10)))
+            rows=db.execute("SELECT j.video_id,j.source_hash,r.teacher,q.value FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash JOIN json_each(j.result) q WHERE j.state='saved' ORDER BY j.video_id,j.start,cast(q.key AS integer) LIMIT 10 OFFSET ?",(page*10,)).fetchall()
+        items=[{**json.loads(row['value']),'video_id':row['video_id'],'teacher':row['teacher'],'transcript_sha256':row['source_hash']} for row in rows]
+        return {'total':total,'page':page,'items':items}
     def export(self,path):
         """Private candidate artifact only; never changes approved FAQ registry."""
         with self.connect() as db:
@@ -264,3 +268,4 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
         with zipfile.ZipFile(path) as z:
             if z.testzip():raise ValueError('Export ZIP verification failed')
         return manifest
+

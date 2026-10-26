@@ -71,6 +71,31 @@ class Persistence(unittest.TestCase):
   self.store.import_zip(self.z)
   with self.store.connect() as db:db.execute('DELETE FROM jobs')
   self.assertEqual(self.store.status()['machine_pass_finished_recordings'],0)
+ def test_hold_counter_tracks_eligible_queue(self):
+  self.store.import_zip(self.z)
+  extra={'external-review-assignments.json':{'assignments':[{'status':'pending','recordings':[{'video_id':self.d['id']}]}]}}
+  archive(self.z,self.d,extra);self.store.import_zip(self.z)
+  self.assertEqual(self.store.status()['windows'].get('pending',0),0)
+  self.assertEqual(self.store.status()['held_recordings'],1);self.assertIsNone(self.store.next_job())
+  archive(self.z,self.d);self.store.import_zip(self.z)
+  self.assertEqual(self.store.status()['windows']['pending'],3)
+ def test_completed_reservation_formats_release(self):
+  for terminal in ['completed','released','cancelled']:
+   for field in ['video_ids','recording_ids','recordings']:
+    value=[{'video_id':self.d['id']}] if field=='recordings' else [self.d['id']]
+    archive(self.z,self.d,{'external-review-assignments.json':{'assignments':[{'status':terminal,field:value}]}})
+    self.assertEqual(self.store.import_zip(self.z)['held'],0)
+ def test_large_candidate_library_reads_only_requested_page(self):
+  self.store.import_zip(self.z);job=self.store.next_job()
+  self.store.finish(job,[{'question':str(i),'start':i} for i in range(2000)],{})
+  original=json.loads
+  with patch('core.json.loads',wraps=original) as loads:
+   result=self.store.candidates(99)
+   self.assertEqual(result['total'],2000);self.assertEqual(result['items'][0]['question'],'990');self.assertEqual(loads.call_count,10)
+  clamped=self.store.candidates(9999);self.assertEqual(clamped['page'],199);self.assertEqual(len(clamped['items']),10)
+ def test_malformed_segment_reported_not_crash(self):
+  self.d['segments']=[None];archive(self.z,self.d)
+  self.assertEqual(self.store.import_zip(self.z)['invalid'],1)
  def test_fail_retry(self):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.fail(j,'engine offline');self.store.retry()
   self.assertEqual(self.store.next_job()['id'],j['id'])
@@ -134,6 +159,26 @@ class WorkerRecovery(unittest.TestCase):
     time.sleep(.05)
    c.close();self.assertEqual(c.store.status()['machine_pass_finished_recordings'],1)
    with c.store.connect() as db:self.assertGreater(db.execute('SELECT count(*) FROM processing_events').fetchone()[0],0)
+ def test_pause_restart_resume_preserves_finished_windows(self):
+  import app
+  entered=threading.Event();release=threading.Event()
+  class FakeEngine:
+   def __init__(self,*a):pass
+   def extract(self,w,t):entered.set();release.wait(5);return {'questions':[],'notes':[]},{}
+  with tempfile.TemporaryDirectory() as td,patch.object(app,'Ollama',FakeEngine):
+   z=Path(td)/'input.zip';archive(z,document());c=Controller(Path(td)/'data')
+   try:
+    c.store.import_zip(z);c.mode='running';self.assertTrue(entered.wait(3));c.command('pause',{});release.set()
+    deadline=time.time()+5
+    while c.active and time.time()<deadline:time.sleep(.02)
+    self.assertEqual(c.mode,'paused');self.assertEqual(c.store.status()['windows']['saved'],1)
+   finally:release.set();c.close()
+   c=Controller(Path(td)/'data')
+   try:
+    c.mode='running';deadline=time.time()+5
+    while (c.mode!='paused' or c.active) and time.time()<deadline:time.sleep(.02)
+    self.assertEqual(c.store.status()['windows']['saved'],3)
+   finally:c.close()
  def test_windows_awake_flags_and_release(self):
   kernel=Mock();kernel.SetThreadExecutionState.return_value=1
   with patch('ctypes.windll',Mock(kernel32=kernel),create=True),patch('app.os.name','nt'):
@@ -151,6 +196,15 @@ class HTTP(unittest.TestCase):
   with urllib.request.urlopen(req) as r:self.assertEqual(json.load(r)['recordings'],0)
   req=urllib.request.Request(self.base+'/api/pause',data=b'{}',headers={'X-Griffin-Token':self.server.token,'Origin':'https://evil.example'})
   with self.assertRaises(urllib.error.HTTPError):urllib.request.urlopen(req)
+ def test_concurrent_downloads_have_isolated_exports(self):
+  from concurrent.futures import ThreadPoolExecutor
+  paths=[];barrier=threading.Barrier(2);original=self.c.store.export
+  def coordinated(path):paths.append(path);barrier.wait(3);return original(path)
+  def download(_):
+   with urllib.request.urlopen(self.base+'/export?token='+self.server.token,timeout=5) as r:
+    with zipfile.ZipFile(io.BytesIO(r.read())) as z:self.assertIsNone(z.testzip())
+  with patch.object(self.c.store,'export',coordinated),ThreadPoolExecutor(max_workers=2) as pool:list(pool.map(download,range(2)))
+  self.assertEqual(len(set(paths)),2);self.assertTrue(all(not p.exists() for p in paths))
  def test_pause_and_export_http(self):
   req=urllib.request.Request(self.base+'/api/pause',data=b'{}',headers={'X-Griffin-Token':self.server.token})
   with urllib.request.urlopen(req) as r:self.assertTrue(json.load(r)['ok'])
@@ -158,3 +212,4 @@ class HTTP(unittest.TestCase):
    with zipfile.ZipFile(io.BytesIO(r.read())) as z:self.assertIsNone(z.testzip());self.assertIn('index.html',z.namelist())
 
 if __name__=='__main__':unittest.main()
+
