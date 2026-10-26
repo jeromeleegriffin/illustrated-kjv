@@ -50,3 +50,22 @@
 @media(max-width:480px){.chapter-bottom-controls{flex-wrap:wrap;gap:10px}.bottom-chapter-reference{order:-1;flex-basis:100%}.chapter-bottom-controls button{flex:1;padding:10px 8px;font-size:12px}}
 
 .study-panel.is-dismissed{display:none!important}
+
+/* Revision 016: responsive width-first layouts, including phone landscape. */
+@media (min-width:681px){
+ .app-shell{width:100%;max-width:none;grid-template-columns:minmax(0,1fr) clamp(260px,23vw,345px);gap:clamp(16px,2.2vw,32px);padding-inline:clamp(16px,3vw,54px);justify-content:stretch}
+ .app-shell main{width:100%;min-width:0}
+ .reader-menu{max-width:none;width:100%}
+}
+@media (orientation:landscape) and (max-height:700px){
+ .app-shell{display:grid;grid-template-columns:minmax(0,1fr);width:100%;max-width:none;padding:12px clamp(12px,2.5vw,36px) 32px;gap:12px}
+ .app-shell main{min-width:0;width:100%;padding:0}
+ .reader-menu{max-width:none;padding:8px clamp(12px,2.5vw,36px)}
+ .reader-menu .rail{display:grid;grid-template-columns:45px minmax(0,1fr) 65px minmax(0,1fr);gap:8px}
+ .study-panel{position:fixed;z-index:10;left:auto;right:0;top:0;bottom:0;width:min(380px,48vw);max-height:100dvh;border-radius:8px 0 0 8px;overflow:auto;margin:0;transform:translateX(calc(100% + 25px));transition:transform .22s ease}
+ .study-panel.open{transform:translateX(0)}
+ .scripture{width:100%;max-width:none;line-height:1.78}
+ .illustration{height:clamp(110px,26vh,175px)}
+ .reader-topline{padding-bottom:12px}
+ .chapter-bottom-nav{margin-top:18px}
+}
