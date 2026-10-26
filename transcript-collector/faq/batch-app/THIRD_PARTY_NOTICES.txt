@@ -1,0 +1,11 @@
+This package contains a Python application frozen with PyInstaller.
+Python: Python Software Foundation License. The Windows build includes Python's
+LICENSE.txt as PYTHON_LICENSE.txt. https://docs.python.org/3/license.html
+PyInstaller bootloader: GPL with the PyInstaller distribution exception, permitting
+bundled applications. https://pyinstaller.org/en/stable/license.html
+
+The free AI runtime/model are separate optional first-run downloads, not inside
+this application ZIP. Official Ollama runtime: https://github.com/ollama/ollama
+Qwen3 8B model (Apache 2.0): https://ollama.com/library/qwen3:8b
+Runtime archives retain their original bundled licenses. Model terms are shown
+before setup in the application. No paid API or subscription is used.

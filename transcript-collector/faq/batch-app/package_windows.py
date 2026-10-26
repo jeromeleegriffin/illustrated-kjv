@@ -13,8 +13,10 @@ def main():
  landing=out/'GriffinFAQProcessor'/'index.html'
  landing.write_text('<!doctype html><meta charset="utf-8"><title>Start Griffin FAQ Processor</title><h1>Griffin Shepherd’s Chapel FAQ Batch Processor</h1><p>Extract this entire ZIP first. Double-click START_HERE.bat or GriffinFAQProcessor.exe. Keep the program window open.</p><p>Import your private teaching library ZIP. Click Set up free AI (one-time downloads), then Start. No Python installation is needed.</p><p>Windows 10 22H2 or later, 64-bit; 16 GB RAM recommended and 14 GB free disk space. Keep Windows awake while processing. Results are private AI candidates requiring review before public publication.</p><p>Read README.txt and TEST_REPORT.md for current validation and limits.</p>',encoding='utf-8')
  (landing.parent/'START_HERE.bat').write_text('@echo off\r\ncd /d "%~dp0"\r\nGriffinFAQProcessor.exe\r\nif errorlevel 1 pause\r\n')
- for name in ('README.txt','TEST_REPORT.md'):
+ for name in ('README.txt','TEST_REPORT.md','THIRD_PARTY_NOTICES.txt'):
   if (ROOT/name).exists():shutil.copyfile(ROOT/name,landing.parent/name)
+ python_license=Path(sys.base_prefix)/'LICENSE.txt'
+ if python_license.exists():shutil.copyfile(python_license,landing.parent/'PYTHON_LICENSE.txt')
  for src in ROOT.glob('*.py'):shutil.copyfile(src,landing.parent/('source-'+src.name))
  zip_path=out/'Griffin_FAQ_Processor_Windows_001.zip'
  with zipfile.ZipFile(zip_path,'w',zipfile.ZIP_DEFLATED) as z:

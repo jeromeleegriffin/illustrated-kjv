@@ -102,7 +102,14 @@ def validate_result(d, window, result):
         if any(s.get('timing')=='start_only' or s['end']==s['start'] for s in d['segments'][q0:a1+1]): flags.append('source_has_start_only_timestamps_no_verified_end')
         if d['segments'][q0]['start'] <= window['start']+8 or d['segments'][a1]['end'] >= window['end']-8: flags.append('window_edge_needs_review')
         evidence={'question':d['segments'][q0:q1+1], 'answer':d['segments'][a0:a1+1]}
-        output.append({**q,'question_last_cue':q1,'uncertainty':sorted(set(flags)), 'start':d['segments'][q0]['start'],'end':d['segments'][a1]['end'],'evidence':evidence,'window_notes':notes,'review_status':'machine_candidate_unapproved','audio_verified':False})
+        # A cut answer is not an answer. Keep the proposal privately for repair,
+        # but never present it as usable candidate teaching.
+        if len(' '.join(s['text'] for s in evidence['answer']).split()) < 6 and len(q['answer'].split()) > 15:
+            flags.append('summary_exceeds_thin_selected_evidence')
+        hold=bool(set(flags)&{'window_edge_needs_review','source_has_start_only_timestamps_no_verified_end','summary_exceeds_thin_selected_evidence'})
+        item={**q,'question_last_cue':q1,'uncertainty':sorted(set(flags)), 'start':d['segments'][q0]['start'],'end':d['segments'][a1]['end'],'evidence':evidence,'window_notes':notes,'review_status':'held_machine_proposal' if hold else 'machine_candidate_unapproved','audio_verified':False}
+        if hold:item['proposed_answer_unverified']=item['answer'];item['answer']=''
+        output.append(item)
     return output
 
 class Store:
@@ -225,7 +232,9 @@ CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT);
                 # Adjacent overlapping windows can rediscover the same question. Retain distinct variants if text differs.
                 duplicate=next((p for p in item['questions'] if abs(p['start']-q['start'])<12 and p['question'].casefold()==q['question'].casefold()),None)
                 if duplicate:
-                    if q['answer']!=duplicate['answer']: duplicate.setdefault('alternate_machine_variants',[]).append(q)
+                    if duplicate['review_status']=='held_machine_proposal' and q['review_status']!='held_machine_proposal':
+                        previous=dict(duplicate);duplicate.update(q);duplicate.setdefault('alternate_machine_variants',[]).append(previous)
+                    elif q['answer']!=duplicate['answer']: duplicate.setdefault('alternate_machine_variants',[]).append(q)
                 else:item['questions'].append(q)
         manifest={'schema':'griffin-private-faq-machine-v1','created':stamp(),'model':self.setting('model') or MODEL,'processor_version':VERSION,'public_approved':False,'recordings':len(grouped),'candidate_questions':sum(len(x['questions']) for x in grouped.values()),'unfinished_windows':len(failures),'warning':'Private captions and AI candidates. Machine completion is not full FAQ review or audio verification.'}
         with zipfile.ZipFile(path,'w',zipfile.ZIP_DEFLATED) as z:

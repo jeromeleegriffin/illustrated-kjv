@@ -64,6 +64,11 @@ class Extraction(unittest.TestCase):
   q=dict(question_first_cue=25,question_last_cue=25,answer_first_cue=26,answer_last_cue=26,question='What is rest?',answer='The pastor replies.',uncertainty=[])
   r=validate_result(d,w,{'questions':[q]})[0]
   self.assertEqual(r['start'],250);self.assertEqual(r['end'],269);self.assertFalse(r['audio_verified']);self.assertEqual(r['evidence']['question'][0],d['segments'][25])
+ def test_cut_or_thin_answers_withheld(self):
+  d=document();w=windows(d)[1]
+  q=dict(question_first_cue=25,answer_first_cue=26,answer_last_cue=26,question='What is rest?',answer='The pastor explains an elaborate unsupported teaching with many more claims than the few source words can establish at all.',uncertainty=[])
+  r=validate_result(d,w,{'questions':[q]})[0]
+  self.assertEqual(r['answer'],'');self.assertEqual(r['review_status'],'held_machine_proposal');self.assertIn('proposed_answer_unverified',r)
  def test_malformed_timestamps(self):
   d=document();d['segments'][0]['start']=float('nan')
   with self.assertRaises(ValueError):read_document(json.dumps(d))

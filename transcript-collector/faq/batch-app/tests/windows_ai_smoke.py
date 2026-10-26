@@ -25,6 +25,7 @@ def main():
    assert 'rest' in rows[0]['question'].lower() and 'work' in rows[0]['answer'].lower(),raw
    assert rows[0]['question_first_cue']==2 and rows[0]['answer_first_cue']==3,raw
    assert not rows[0]['audio_verified']
+   assert rows[0]['review_status']=='machine_candidate_unapproved',rows
    print(json.dumps({'test':'Windows official runtime + real local CPU AI','passed':True,'elapsed_seconds':round(time.time()-start,1),'model':engine.model,'eval_count':metrics.get('eval_count')}))
   finally:
    c.close()

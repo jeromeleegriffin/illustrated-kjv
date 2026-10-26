@@ -35,7 +35,8 @@ Every recording is scanned in overlapping windows from its beginning to its end.
 This avoids assuming Q&A always starts after minute 30. The AI may still miss a
 question, mistake a rhetorical question for a listener, or paraphrase incorrectly.
 Exact cue indices, timestamps, hashes and original caption evidence are retained.
-Machine completion is NOT fully-reviewed status or audio verification. Teacher
+Machine completion is NOT fully-reviewed status or audio verification. Cut answers
+and paraphrases exceeding very thin selected evidence are withheld for repair. Teacher
 identity from the catalog is not independent verification. Unconfirmed topical
 teachers, known attribution holds and external reservations are held automatically.
 Question-group merging, ranking and publication remain the existing review step.
