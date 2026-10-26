@@ -1,0 +1,11 @@
+{
+  "batch": "local008",
+  "new_linked_answers": 43,
+  "new_question_groups": 43,
+  "total_question_groups": 1610,
+  "total_linked_answers": 2449,
+  "caption_qa_sections_reviewed": 2,
+  "held_ranges": 4,
+  "audio_verified": false,
+  "tests": "FAQ checkpoint, hash invalidation and duplicate tests; source hashes verified"
+}

@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T20:48:22.878011+00:00",
+  "updated": "2026-10-26T20:56:43.573730+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -18337,12 +18337,188 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local008-sabbath",
+        "local008-dinosaurs",
+        "local008-outside-gates",
+        "local008-half-hour",
+        "local008-baptism-water",
+        "local008-tongues-understanding",
+        "local008-no-more-sea",
+        "local008-blue-tassels",
+        "local008-city-gates",
+        "local008-married-unbeliever",
+        "local008-satan-before-christ",
+        "local008-funeral-choice",
+        "local008-noah-animals",
+        "local008-bible-dictionary-cain",
+        "local008-divorce",
+        "local008-love-enemies",
+        "local008-enoch",
+        "local008-tribulation-shortened",
+        "local008-millennium-length",
+        "local008-kjv-explanation",
+        "local008-key-david"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local008-sabbath",
+          "start_seconds": 2155.386,
+          "end_seconds": 2186.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-dinosaurs",
+          "start_seconds": 2186.65,
+          "end_seconds": 2255.218,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-outside-gates",
+          "start_seconds": 2255.218,
+          "end_seconds": 2311.475,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-half-hour",
+          "start_seconds": 2311.475,
+          "end_seconds": 2365.962,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-baptism-water",
+          "start_seconds": 2365.962,
+          "end_seconds": 2430.861,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-tongues-understanding",
+          "start_seconds": 2430.861,
+          "end_seconds": 2544.34,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-no-more-sea",
+          "start_seconds": 2544.34,
+          "end_seconds": 2602.733,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-blue-tassels",
+          "start_seconds": 2602.733,
+          "end_seconds": 2670.9,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-city-gates",
+          "start_seconds": 2670.9,
+          "end_seconds": 2695.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-married-unbeliever",
+          "start_seconds": 2695.859,
+          "end_seconds": 2721.885,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-satan-before-christ",
+          "start_seconds": 2721.885,
+          "end_seconds": 2812.575,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-funeral-choice",
+          "start_seconds": 2812.575,
+          "end_seconds": 2843.607,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-noah-animals",
+          "start_seconds": 2843.607,
+          "end_seconds": 2918.081,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-bible-dictionary-cain",
+          "start_seconds": 2918.081,
+          "end_seconds": 3047.176,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-divorce",
+          "start_seconds": 3047.176,
+          "end_seconds": 3096.892,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-love-enemies",
+          "start_seconds": 3096.892,
+          "end_seconds": 3140.937,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-enoch",
+          "start_seconds": 3174.904,
+          "end_seconds": 3215.678,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-tribulation-shortened",
+          "start_seconds": 3215.678,
+          "end_seconds": 3266.095,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-millennium-length",
+          "start_seconds": 3266.095,
+          "end_seconds": 3306.002,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-kjv-explanation",
+          "start_seconds": 3306.002,
+          "end_seconds": 3352.448,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-key-david",
+          "start_seconds": 3352.448,
+          "end_seconds": 3382.278,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "B9BQaj07GTE",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "4fe498c4a20efd5fa49f9d226fda4b954f035e23fed6cf75bfc9923088df86f0",
+        "qa_start": 2155.386,
+        "qa_end": 3382.278,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2155.386,
+            "end": 3382.278
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3140.937,
+            "end": 3174.904,
+            "reason": "Question about Cain and giants did not receive a clear direct answer."
+          }
+        ],
+        "cursor_seconds": 3140.937,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Direct saved-caption Q&A review; uncertain or unanswered material held; audio pending."
+      },
+      "cursor_seconds": 3140.937
     },
     {
       "video_id": "BAnXQhKaZwA",
@@ -18382,12 +18558,205 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 42,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local008-why-preacher",
+        "local008-five-months-political",
+        "local008-who-elect",
+        "local008-christian-word",
+        "local008-olive-oil",
+        "local008-church-trouble",
+        "local008-elect-flesh",
+        "local008-healing-leaves",
+        "local008-guardian-angels",
+        "local008-marriage-license",
+        "local008-faith-afterlife",
+        "local008-ark-duration",
+        "local008-mary-mother",
+        "local008-consuming-fire",
+        "local008-devil-defeated",
+        "local008-meditate-all-day",
+        "local008-tree-knowledge",
+        "local008-rebaptism",
+        "local008-need-teacher",
+        "local008-favorite-verse",
+        "local008-poison-symbolic",
+        "local008-steps-salvation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local008-why-preacher",
+          "start_seconds": 2191.455,
+          "end_seconds": 2217.781,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-five-months-political",
+          "start_seconds": 2217.781,
+          "end_seconds": 2255.052,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-who-elect",
+          "start_seconds": 2255.052,
+          "end_seconds": 2305.335,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-christian-word",
+          "start_seconds": 2305.335,
+          "end_seconds": 2322.386,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-olive-oil",
+          "start_seconds": 2322.386,
+          "end_seconds": 2360.157,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-church-trouble",
+          "start_seconds": 2421.685,
+          "end_seconds": 2463.293,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-elect-flesh",
+          "start_seconds": 2510.874,
+          "end_seconds": 2562.192,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-healing-leaves",
+          "start_seconds": 2562.192,
+          "end_seconds": 2590.921,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-guardian-angels",
+          "start_seconds": 2590.921,
+          "end_seconds": 2626.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-marriage-license",
+          "start_seconds": 2626.79,
+          "end_seconds": 2682.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-faith-afterlife",
+          "start_seconds": 2682.079,
+          "end_seconds": 2730.227,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-ark-duration",
+          "start_seconds": 2730.227,
+          "end_seconds": 2749.012,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-mary-mother",
+          "start_seconds": 2749.012,
+          "end_seconds": 2806.736,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-consuming-fire",
+          "start_seconds": 2806.736,
+          "end_seconds": 2838.634,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-devil-defeated",
+          "start_seconds": 2838.634,
+          "end_seconds": 2880.076,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-meditate-all-day",
+          "start_seconds": 2880.076,
+          "end_seconds": 2970.1,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-tree-knowledge",
+          "start_seconds": 2970.1,
+          "end_seconds": 3018.681,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-rebaptism",
+          "start_seconds": 3018.681,
+          "end_seconds": 3064.828,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-need-teacher",
+          "start_seconds": 3064.828,
+          "end_seconds": 3114.844,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-favorite-verse",
+          "start_seconds": 3114.844,
+          "end_seconds": 3139.369,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-poison-symbolic",
+          "start_seconds": 3139.369,
+          "end_seconds": 3184.981,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-steps-salvation",
+          "start_seconds": 3362.057,
+          "end_seconds": 3376.973,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "BEOF84Xy1ks",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "315b6cf275ddd0a8d763614a140f4fea9ed77003527bd52863e455aba1ee5043",
+        "qa_start": 2172.069,
+        "qa_end": 3376.973,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2172.069,
+            "end": 3376.973
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2360.157,
+            "end": 2421.685,
+            "reason": "Captioned Scripture citation needs confirmation."
+          },
+          {
+            "start": 2463.293,
+            "end": 2510.874,
+            "reason": "Medical and language details require confirmation."
+          },
+          {
+            "start": 3184.981,
+            "end": 3362.057,
+            "reason": "Government, end-of-life and citation questions need further source review."
+          }
+        ],
+        "cursor_seconds": 2360.157,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Direct saved-caption Q&A review; uncertain or unanswered material held; audio pending."
+      },
+      "cursor_seconds": 2360.157
     },
     {
       "video_id": "BG6bh8eL9L8",
@@ -44015,13 +44384,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 192,
+    "partially_reviewed": 194,
     "fully_reviewed": 16,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1087,
+    "pending": 1085,
     "source_changed": 0,
-    "question_occurrences": 2367
+    "question_occurrences": 2410
   }
 }

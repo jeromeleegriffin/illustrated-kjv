@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,567 question groups and 2,406 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,610 question groups and 2,449 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 192 remain partially reviewed, 1,087 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 194 remain partially reviewed, 1,085 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -75,3 +75,9 @@ Local app batch 006 adds fourteen caption-reviewed Dennis answers after reconcil
 
 
 Local app batch 007 adds twenty-one caption-reviewed Dennis answers. It reconciles the earlier pending private review of -Se_hLyShno and directly reads full caption Q&A sections of -atyYXhtw4I, -p2BC68Wbyc, -ZOPXfruXiQ and 1HPYqWElfKM. All five sources stay partial with nine unresolved or unanswered ranges. Earlier source link spans were extended to include their supporting explanations. No audio verification or full recording completion is claimed.
+
+
+## Local app batch 008
+
+Reviewed saved caption Q&A sections from BEOF84Xy1ks and B9BQaj07GTE, adding 43 source-linked answer paraphrases. Four uncertain or unanswered ranges remain held; audio verification is pending. Counts are provisional while other recordings remain unreviewed.
+
