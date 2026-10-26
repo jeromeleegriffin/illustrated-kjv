@@ -7782,6 +7782,126 @@
       "question": "How did Arnold describe the fate of people following Satan after the millennium?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "psalms-new-music",
+      "question": "Did Arnold approve setting Psalms to new music?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "pray-removal-evil",
+      "question": "Did Arnold allow praying for God to remove evil from the earth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "144000-sealing-timing",
+      "question": "When did Arnold think the 144,000 would receive their sealing?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "serve-lord-study-testimony",
+      "question": "How did Arnold describe serving the Lord?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "antichrist-arrival-mounts",
+      "question": "Where did Arnold expect antichrist to appear and establish his claim?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "caesar-government-duty",
+      "question": "Did Arnold identify Caesar with the devil in render unto Caesar?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "god-creator-all-peoples",
+      "question": "How did Arnold answer who was the father of Black people?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "healers-credit-god",
+      "question": "Did Arnold credit human healers themselves with the power to heal?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "revelation22-outside-timing",
+      "question": "How did Arnold explain dogs and sorcerers outside in Revelation 22?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "stone-scone-end-date",
+      "question": "Did Arnold endorse an end date based on the Stone of Scone and Queen Elizabeth’s lifetime?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "xmas-christ-name",
+      "question": "How did Arnold answer a child asking about Xmas?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jacob-esau-father-correction",
+      "question": "Did Arnold say Jacob and Esau had different fathers?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "god-bodyguards-fear",
+      "question": "Did Arnold think God needed bodyguards because he was afraid?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "hosea-israel-house-nation",
+      "question": "How did Arnold distinguish house of Israel from nation Israel in this Hosea question?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "titus-heretic-schism",
+      "question": "How did Arnold explain heretic in Titus 3:10?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ezekiel23-two-sisters",
+      "question": "How did Arnold identify Aholah and Aholibah in Ezekiel 23?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "human-race-ethnicity-question",
+      "question": "How did Arnold answer a listener distinguishing one human race from ethnicities?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "bible-oath-truth",
+      "question": "Did Arnold object to placing a hand on a Bible when promising to tell the truth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ezekiel39-army-against-god",
+      "question": "How did Arnold answer whether people would take up arms against God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "messiah-anointed-definition",
+      "question": "How did Arnold define Messiah?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -39956,6 +40076,614 @@
       "recording_group": "euTxqceUlR4",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "psalms-new-music",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2114.312,
+      "end": 2138.769,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-psalms-new-music",
+      "summary": "Arnold approved using a musical gift to set Psalms to music and mentioned people composing music for the Song of Moses in Deuteronomy 32. His opening joke about singing ability did not reverse that approval.",
+      "scripture_mentions": [
+        "Deuteronomy 32"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "mark13-rooftop-winter",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2145.376,
+      "end": 2206.737,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-mark13-rooftop-winter",
+      "summary": "Arnold distinguished the watchman on the housetop from the two-person examples in the listener’s question. He connected the destination with the elect being delivered up to testify through the Holy Spirit in Mark 13. The captioned phrase about choosing the time is unclear and is not turned into travel instructions.",
+      "scripture_mentions": [
+        "Mark 13"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "return-seventh-trump",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2209.941,
+      "end": 2279.844,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-return-seventh-trump",
+      "summary": "Arnold limited this answer to the sixth and seventh trumpets rather than explaining all seven. He placed false Christ at the sixth and true Christ at the seventh, referring to 2 Thessalonians 2:4–6 and Mark 13. This is his prophetic sequence.",
+      "scripture_mentions": [
+        "2 Thessalonians 2:4–6",
+        "Mark 13"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "pray-removal-evil",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2287.084,
+      "end": 2324.722,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-pray-removal-evil",
+      "summary": "Arnold said the listener could express that desire to God and ask for its fulfillment sooner. He encouraged honest prayer about what was in the heart. His answer did not authorize taking personal action against people regarded as evil.",
+      "scripture_mentions": [],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "dead-know-nothing",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2332.33,
+      "end": 2387.618,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-dead-know-nothing",
+      "summary": "Arnold read Ecclesiastes 9’s dead language as concerning the flesh body returning to dust, while the person continues in a spiritual body with the Father under his reading of Ecclesiastes 12:6–7. He did not separately establish that the deceased watch everything on earth.",
+      "scripture_mentions": [
+        "Ecclesiastes 9",
+        "Ecclesiastes 12:6–7"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "144000-sealing-timing",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2393.29,
+      "end": 2436.467,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-144000-sealing-timing",
+      "summary": "Arnold said most likely during the tribulation, after hearing the Holy Spirit’s testimony through the elect. He connected Revelation 7 with his reading of Ezekiel 44’s priests going astray. His tentative timing and doctrinal interpretation are retained.",
+      "scripture_mentions": [
+        "Ezekiel 44",
+        "Revelation 7"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "disabled-witness-service",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2443.34,
+      "end": 2506.203,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-disabled-witness-service",
+      "summary": "Arnold said disability did not exclude someone from election or service. He described continuing faith under disability as a powerful witness and emphasized that, in his expected testimony before false Christ, the Holy Spirit would do the speaking.",
+      "scripture_mentions": [],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "cain-wife",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2514.044,
+      "end": 2549.98,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-cain-wife",
+      "summary": "Arnold said Cain married someone from what he called the sixth-day creation, distinguishing it from his proposed eighth-day formation of Adam. This is his Genesis interpretation, not independently established human ancestry.",
+      "scripture_mentions": [],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "cherub-protecting-from",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2510.508,
+      "end": 2614.278,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-cherub-protecting-from",
+      "summary": "Asked why the mercy seat needed protection, Arnold emphasized freely given love, free will and Satan’s pride in his reading of Ezekiel 28. A damaged sentence about what God knows remains held; it is not rewritten into a definitive claim about divine foreknowledge.",
+      "scripture_mentions": [
+        "Ezekiel 28"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "serve-lord-study-testimony",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2618.549,
+      "end": 2690.654,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-serve-lord-study-testimony",
+      "summary": "Arnold said serving involved opening oneself to God, studying Scripture and finding one’s place in God’s plan. He also connected the elect’s service with allowing the Holy Spirit to testify before false messiah and referred to Luke 21. These are his practical and prophetic teachings.",
+      "scripture_mentions": [
+        "Luke 21"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "antichrist-arrival-mounts",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2698.662,
+      "end": 2775.005,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-antichrist-arrival-mounts",
+      "summary": "Arnold said from the Mount of Olives and described a claim to divinity at Mount Zion, referring to 2 Thessalonians 2. He warned against neglecting Revelation or depending on assurances that believers would already be gone. These are his prophetic interpretations.",
+      "scripture_mentions": [
+        "2 Thessalonians 2"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "spirit-after-death",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2784.381,
+      "end": 2827.825,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-spirit-after-death",
+      "summary": "Arnold directed the listener to Ecclesiastes 12:6–7 and described soul and spirit leaving the flesh, returning to God in a spiritual body. He said even Satan continued to exist until judgment. This is his explanation of the passage.",
+      "scripture_mentions": [
+        "Ecclesiastes 12:6–7"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "caesar-government-duty",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2833.13,
+      "end": 2893.357,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-caesar-government-duty",
+      "summary": "Arnold said Caesar meant government and distinguished obligations to government from obligations to God. He referred to Romans 13 and spoke of religious freedom in America. This records his broadcast explanation, not a determination of present legal rights in a particular case.",
+      "scripture_mentions": [
+        "Romans 13"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "satan-bound-now",
+      "video_id": "ewz9wZQjCQg",
+      "start": 2900.697,
+      "end": 2999.429,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-satan-bound-now",
+      "summary": "Arnold said Satan’s future expulsion from heaven had not yet occurred. He distinguished the freedom described in Job 1 from a coming expulsion by Michael in Revelation 12 and from the evil influence he allowed before Satan’s personal appearance. This is his prophetic chronology.",
+      "scripture_mentions": [
+        "Job 1:6–7",
+        "Revelation 12:6–7, as stated"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "god-creator-all-peoples",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3002.933,
+      "end": 3024.421,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-god-creator-all-peoples",
+      "summary": "Arnold answered God, saying the heavenly Father created all peoples and was pleased with them. He referred to the closing verse of Genesis 1 through his creation interpretation. The answer does not assign a modern population to a curse or an evil ancestry.",
+      "scripture_mentions": [
+        "Genesis 1, final verse"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "healers-credit-god",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3028.158,
+      "end": 3102.532,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-healers-credit-god",
+      "summary": "Arnold denied that a person independently performs divine healing. He allowed prayer and anointing under James 5 but insisted that Christ receives the credit, while also acknowledging physicians. This is his religious explanation, not evidence that a particular claimed healing occurred.",
+      "scripture_mentions": [
+        "James 5"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "hell-blotted-existence",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3108.004,
+      "end": 3146.743,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-hell-blotted-existence",
+      "summary": "Arnold described the final fate of the unsaved as ceasing to exist, including being absent from the saved person’s memory, rather than continuing in torment. He connected this with God as consuming fire. This is his doctrinal interpretation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "shekinah",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3162.859,
+      "end": 3200.564,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-shekinah",
+      "summary": "Arnold spelled the captioned term S-H-E-C-A-N-I-A-H and explained it as God dwelling there, giving Strong’s 7935 and 31. That stated spelling and lexical identification remain flagged instead of silently replacing them with a different word or entry.",
+      "scripture_mentions": [],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "revelation22-outside-timing",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3214.144,
+      "end": 3279.776,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-revelation22-outside-timing",
+      "summary": "Arnold said Revelation 22:8 returned John to the time of writing, which he dated AD 90, and treated verses 14–15 as addressing that setting rather than wicked people surviving forever outside the final city. These are his chronological interpretations.",
+      "scripture_mentions": [
+        "Revelation 22:8",
+        "Revelation 22:14–15"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "recognize-family",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3309.572,
+      "end": 3324.054,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-recognize-family",
+      "summary": "Arnold recommended Ezekiel 44:20–25 as his documentation for recognizing close family in heaven. He named parents and siblings but did not work through the passage in this short response.",
+      "scripture_mentions": [
+        "Ezekiel 44:20–25"
+      ],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "stone-scone-end-date",
+      "video_id": "ewz9wZQjCQg",
+      "start": 3329.492,
+      "end": 3376.339,
+      "teacher": "Arnold Murray",
+      "variant": "ewz9wZQjCQg-stone-scone-end-date",
+      "summary": "Arnold accepted the listener’s three-overturnings premise in his interpretation, but explicitly said it did not say when Christ would return. He did not confirm that the end must fall within Queen Elizabeth’s lifetime or answer the future-coronation question.",
+      "scripture_mentions": [],
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "source_sha256": "9fdb52b7efef419c1003b605bbf8aa28cfe0a90b2ac11f02deab9a4339e3954c",
+      "recording_group": "ewz9wZQjCQg",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "xmas-christ-name",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2164.262,
+      "end": 2223.12,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-xmas-christ-name",
+      "summary": "Arnold explained the Greek chi-rho symbol as referring to Christ, while preferring the full name Christmas so Christ was not left out. He also repeated his interpretation of Christmas as marking conception. These are his explanation and preference.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "family-birth-first-age-arnold",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2229.06,
+      "end": 2297.161,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-family-birth-first-age-arnold",
+      "summary": "Arnold said he taught that people were born into what they deserved from his proposed first earth age, but emphasized repentance and the opportunity to improve one’s circumstances. This is his theological assertion, not evidence that a person deserves poverty, abuse, disability or other hardship.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "jacob-esau-father-correction",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2301.465,
+      "end": 2333.597,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-jacob-esau-father-correction",
+      "summary": "Arnold expressly denied saying Jacob and Esau had different fathers. He said the listener had confused them with his separate Cain-and-Abel interpretation. The listener cited Romans 9:10; Arnold accepted that Jacob and Esau shared a father.",
+      "scripture_mentions": [
+        "Romans 9:10"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "god-bodyguards-fear",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2339.103,
+      "end": 2456.754,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-god-bodyguards-fear",
+      "summary": "Arnold denied that God was afraid and described Michael and Gabriel as trusted servants maintaining order and discipline. He said they had not needed flesh birth and connected God’s power with his interpretation of Ezekiel 39. These are his doctrinal claims.",
+      "scripture_mentions": [
+        "Ezekiel 39"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "trumpets-recognized",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2460.491,
+      "end": 2557.421,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-trumpets-recognized",
+      "summary": "Arnold said the trumpets could be recognized through their effects without hearing a physical sound: false Christ’s appearance at the sixth and the change into spiritual bodies at the seventh. He also said the fifth trumpet was current in that broadcast. These are his prophetic interpretations, not a fresh determination of present events.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "hosea-israel-house-nation",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2561.125,
+      "end": 2626.824,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-hosea-israel-house-nation",
+      "summary": "Arnold initially mixed the labels, then explicitly corrected himself: in his usage house of Israel meant ten tribes, house of Judah two, and nation Israel or Jacob all twelve. He did not conduct a verse-by-verse comparison with Bullinger in this reply.",
+      "scripture_mentions": [
+        "Hosea 3",
+        "Hosea 4:1"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "titus-heretic-schism",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2633.03,
+      "end": 2706.003,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-titus-heretic-schism",
+      "summary": "Arnold described a divisive person who splits a church and opposes its teaching, and interpreted the verse as removal after repeated warning. This records his explanation of church discipline rather than a license to punish someone for disagreement.",
+      "scripture_mentions": [
+        "Titus 3:10"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "hardship-punishment",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2710.04,
+      "end": 2762.292,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-hardship-punishment",
+      "summary": "Arnold warned that not everything going wrong was God’s correction, since people also cause troubles through their own actions. He urged responsibility and openness to correction, while adding his belief that God directs the elect’s lives.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "ezekiel23-two-sisters",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2766.697,
+      "end": 2812.309,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-ezekiel23-two-sisters",
+      "summary": "Arnold identified Aholah with the house of Israel and Aholibah with Judah, interpreting their unfaithfulness as idolatry. He also referred to Jeremiah 3:8’s divorce language. The listener named verse 1, but Arnold discussed the broader chapter’s imagery.",
+      "scripture_mentions": [
+        "Ezekiel 23",
+        "Jeremiah 3:8"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "human-race-ethnicity-question",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2818.415,
+      "end": 2920.817,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-human-race-ethnicity-question",
+      "summary": "Arnold maintained his use of different races and connected it with his sixth-day creation teaching, while explicitly saying all people were human, had souls and should receive dignity and respect. These are his terminology and creation claims, not a scientific taxonomy of humanity.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "bible-oath-truth",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2925.188,
+      "end": 2991.922,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-bible-oath-truth",
+      "summary": "Arnold said he saw nothing wrong with it and hoped it encouraged truthfulness and engagement with Scripture. He also respected a listener’s personal conviction against it. He did not provide a detailed reconciliation with other passages about oaths.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "ezPMqVOO8SU",
+      "start": 2996.893,
+      "end": 3065.462,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-forgiveness",
+      "summary": "Arnold reassured the listener that childhood mockery was not the unpardonable sin in his interpretation. He reserved that sin for an informed elect person after antichrist appeared and emphasized God’s forgiveness. He finished by qualifying his reassurance with continuing to follow God.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "ezekiel39-army-against-god",
+      "video_id": "ezPMqVOO8SU",
+      "start": 3072.402,
+      "end": 3154.451,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-ezekiel39-army-against-god",
+      "summary": "Arnold referred to Ezekiel 39 and predicted an army attacking the peoples he identified with America and Canada, with God defeating it. He connected it with Russia and heavy hailstones. These are his geopolitical and prophetic interpretations, not a report of an actual attack or established national identities.",
+      "scripture_mentions": [
+        "Ezekiel 39"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "messiah-anointed-definition",
+      "video_id": "ezPMqVOO8SU",
+      "start": 3159.222,
+      "end": 3218.682,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-messiah-anointed-definition",
+      "summary": "Arnold defined Messiah as the anointed one and connected that with anointing oil and obedience in prayer. His additional claim about the Hebrew name of the olive tree is uncertain and held; no lexical correction is supplied from memory.",
+      "scripture_mentions": [],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "john-birth-course-abijah",
+      "video_id": "ezPMqVOO8SU",
+      "start": 3226.69,
+      "end": 3292.455,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-john-birth-course-abijah",
+      "summary": "Arnold corrected the listener: there were twenty-four courses, with Abia the eighth, rather than twenty-four courses of Abia. He directed the listener to 1 Chronicles 24:10. This answer identifies the course but does not calculate a complete birth calendar.",
+      "scripture_mentions": [
+        "1 Chronicles 24:10"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "authority-satan-luke10",
+      "video_id": "ezPMqVOO8SU",
+      "start": 3296.059,
+      "end": 3364.461,
+      "teacher": "Arnold Murray",
+      "variant": "ezPMqVOO8SU-authority-satan-luke10",
+      "summary": "Arnold interpreted Luke 10:19 as authority in Christ’s name over evil spirits, explaining tread as putting opposition beneath one’s feet. His forceful language is recorded in that spiritual context, not as permission to attack people.",
+      "scripture_mentions": [
+        "Luke 10:19"
+      ],
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "source_sha256": "ca6ba3922e8244070bb81615ab1ed747a4d10213fc886ad6f382ec705a2173a9",
+      "recording_group": "ezPMqVOO8SU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
     }
   ],
   "duplicate_recording_aliases": {
@@ -41666,6 +42394,73 @@
           "start": 3030.66,
           "end": 3077.207,
           "reason": "Ephesians lexical dispute not resolved by evidence in reply; 2 Thessalonians 11:1–3 is an impossible captioned reference and Greek word is missing. Do not repair from memory."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "video_id": "ewz9wZQjCQg",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+      "qa_start": 2109.006,
+      "qa_end": 3379.476,
+      "cursor_seconds": 2179.31,
+      "reviewed_ranges": [
+        {
+          "start": 2109.006,
+          "end": 3379.476
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2179.31,
+          "end": 2195.793,
+          "reason": "Phrase about picking the time of delivery is unclear; do not infer that listeners should arrange their own transport or timing."
+        },
+        {
+          "start": 2604.335,
+          "end": 2611.442,
+          "reason": "Caption repeats love him or love him in the divine-knowledge sentence; do not invent its missing contrast."
+        },
+        {
+          "start": 3162.859,
+          "end": 3200.564,
+          "reason": "Asked about glory term; stated Shecaniah spelling and Strong’s 7935/31 require checking rather than automatic replacement with Shekinah."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "video_id": "ezPMqVOO8SU",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+      "qa_start": 2148.012,
+      "qa_end": 3367.23,
+      "cursor_seconds": 3083.447,
+      "reviewed_ranges": [
+        {
+          "start": 2148.012,
+          "end": 3367.23
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 3191.221,
+          "end": 3200.73,
+          "reason": "Olive-tree Hebrew name and sacred-name identification are unclear; approve basic Messiah/anointed definition but not unverified lexical claim."
+        },
+        {
+          "start": 3083.447,
+          "end": 3100.063,
+          "reason": "Army’s destination wording shifts between America/Canada and land of Russia in captions; preserve general attribution without inventing a corrected route."
         }
       ],
       "review_status": "partially_reviewed",

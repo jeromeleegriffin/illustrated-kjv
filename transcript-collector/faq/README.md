@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,297 question groups and 2,040 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,317 question groups and 2,077 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Fifteen recordings have complete caption Q&A reviews, 165 remain partially reviewed, 1,115 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Fifteen recordings have complete caption Q&A reviews, 167 remain partially reviewed, 1,113 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -18,7 +18,7 @@ Publish only the six FAQ assets using the separate FAQ release pin on the existi
 
 ## External extraction assignments
 
-Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A has returned 300 result files with 4,641 question candidates in checkpoint 042. All hashes and caption anchors passed independent structural checks. Twenty-eight result recordings have been semantically reviewed here (479 approved (including one locally recovered question) linked answers; twenty-six candidates held; one rhetorical extension and one listener thanks excluded), one additional incomplete export is blocked, and 271 result recordings await semantic review. These results are reserved for reconciliation, not blanket-approved. External completion claims never replace current reviewed statuses. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
+Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A has returned 300 result files with 4,641 question candidates in checkpoint 042. All hashes and caption anchors passed independent structural checks. Thirty result recordings have been semantically reviewed here (516 approved (including one locally recovered question) linked answers; twenty-six candidates held; one rhetorical extension and one listener thanks excluded), one additional incomplete export is blocked, and 269 result recordings await semantic review. These results are reserved for reconciliation, not blanket-approved. External completion claims never replace current reviewed statuses. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
 
 ## Attribution hold
 
@@ -54,3 +54,6 @@ Pass045 reviews the full caption Q&A sections in eT3p198HLmA and eV35FK3Wa4o, ad
 Pass046 adds forty-five linked answers after complete caption Q&A reads of eqRKIYbtKTU and eruuV5NuxoQ. It records an additional deferred Revelation 2:17 question without inventing an answer, preserves four unresolved ranges and retains source-specific qualifications. Both recordings remain partial, audio pending.
 
 Pass047 adds forty-eight linked answers from full caption Q&A reads of esaS22IyyLM, etXX5Kj57zM and euTxqceUlR4. Deborah’s unread question remains held, and eight unresolved ranges retain arithmetic, damaged references, incomplete qualifications and calendar ambiguities. All three recordings remain partial, audio pending. Previous page controls and reading-position memory are unchanged.
+
+
+Pass048 adds thirty-seven linked answers after complete caption Q&A reads of ewz9wZQjCQg and ezPMqVOO8SU. Five source-specific ambiguities remain held, including divine-knowledge wording, a glory-term lexical identification, and a prophetic army’s route. Both recordings remain partial and audio-pending.

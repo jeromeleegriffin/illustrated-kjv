@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T03:23:06.638168+00:00",
+  "updated": "2026-10-26T05:49:18.380512+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -32094,12 +32094,198 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 48,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "psalms-new-music",
+        "mark13-rooftop-winter",
+        "return-seventh-trump",
+        "pray-removal-evil",
+        "dead-know-nothing",
+        "144000-sealing-timing",
+        "disabled-witness-service",
+        "cain-wife",
+        "cherub-protecting-from",
+        "serve-lord-study-testimony",
+        "antichrist-arrival-mounts",
+        "spirit-after-death",
+        "caesar-government-duty",
+        "satan-bound-now",
+        "god-creator-all-peoples",
+        "healers-credit-god",
+        "hell-blotted-existence",
+        "shekinah",
+        "revelation22-outside-timing",
+        "recognize-family",
+        "stone-scone-end-date"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "psalms-new-music",
+          "start_seconds": 2114.312,
+          "end_seconds": 2138.769,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark13-rooftop-winter",
+          "start_seconds": 2145.376,
+          "end_seconds": 2206.737,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "return-seventh-trump",
+          "start_seconds": 2209.941,
+          "end_seconds": 2279.844,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pray-removal-evil",
+          "start_seconds": 2287.084,
+          "end_seconds": 2324.722,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dead-know-nothing",
+          "start_seconds": 2332.33,
+          "end_seconds": 2387.618,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "144000-sealing-timing",
+          "start_seconds": 2393.29,
+          "end_seconds": 2436.467,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "disabled-witness-service",
+          "start_seconds": 2443.34,
+          "end_seconds": 2506.203,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-wife",
+          "start_seconds": 2514.044,
+          "end_seconds": 2549.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cherub-protecting-from",
+          "start_seconds": 2510.508,
+          "end_seconds": 2614.278,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "serve-lord-study-testimony",
+          "start_seconds": 2618.549,
+          "end_seconds": 2690.654,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-arrival-mounts",
+          "start_seconds": 2698.662,
+          "end_seconds": 2775.005,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2784.381,
+          "end_seconds": 2827.825,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "caesar-government-duty",
+          "start_seconds": 2833.13,
+          "end_seconds": 2893.357,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-bound-now",
+          "start_seconds": 2900.697,
+          "end_seconds": 2999.429,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-creator-all-peoples",
+          "start_seconds": 3002.933,
+          "end_seconds": 3024.421,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "healers-credit-god",
+          "start_seconds": 3028.158,
+          "end_seconds": 3102.532,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-blotted-existence",
+          "start_seconds": 3108.004,
+          "end_seconds": 3146.743,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "shekinah",
+          "start_seconds": 3162.859,
+          "end_seconds": 3200.564,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "revelation22-outside-timing",
+          "start_seconds": 3214.144,
+          "end_seconds": 3279.776,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 3309.572,
+          "end_seconds": 3324.054,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "stone-scone-end-date",
+          "start_seconds": 3329.492,
+          "end_seconds": 3376.339,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "ewz9wZQjCQg",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "bc3a399ee7e4fa28f6c607084564ed34443a2ae51ebea42ce2ea20b34facd0be",
+        "qa_start": 2109.006,
+        "qa_end": 3379.476,
+        "cursor_seconds": 2179.31,
+        "reviewed_ranges": [
+          {
+            "start": 2109.006,
+            "end": 3379.476
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2179.31,
+            "end": 2195.793,
+            "reason": "Phrase about picking the time of delivery is unclear; do not infer that listeners should arrange their own transport or timing."
+          },
+          {
+            "start": 2604.335,
+            "end": 2611.442,
+            "reason": "Caption repeats love him or love him in the divine-knowledge sentence; do not invent its missing contrast."
+          },
+          {
+            "start": 3162.859,
+            "end": 3200.564,
+            "reason": "Asked about glory term; stated Shecaniah spelling and Strong’s 7935/31 require checking rather than automatic replacement with Shekinah."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2179.31
     },
     {
       "video_id": "ezPMqVOO8SU",
@@ -32112,12 +32298,158 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 47,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "xmas-christ-name",
+        "family-birth-first-age-arnold",
+        "jacob-esau-father-correction",
+        "god-bodyguards-fear",
+        "trumpets-recognized",
+        "hosea-israel-house-nation",
+        "titus-heretic-schism",
+        "hardship-punishment",
+        "ezekiel23-two-sisters",
+        "human-race-ethnicity-question",
+        "bible-oath-truth",
+        "forgiveness",
+        "ezekiel39-army-against-god",
+        "messiah-anointed-definition",
+        "john-birth-course-abijah",
+        "authority-satan-luke10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "xmas-christ-name",
+          "start_seconds": 2164.262,
+          "end_seconds": 2223.12,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-birth-first-age-arnold",
+          "start_seconds": 2229.06,
+          "end_seconds": 2297.161,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jacob-esau-father-correction",
+          "start_seconds": 2301.465,
+          "end_seconds": 2333.597,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-bodyguards-fear",
+          "start_seconds": 2339.103,
+          "end_seconds": 2456.754,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "trumpets-recognized",
+          "start_seconds": 2460.491,
+          "end_seconds": 2557.421,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hosea-israel-house-nation",
+          "start_seconds": 2561.125,
+          "end_seconds": 2626.824,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "titus-heretic-schism",
+          "start_seconds": 2633.03,
+          "end_seconds": 2706.003,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hardship-punishment",
+          "start_seconds": 2710.04,
+          "end_seconds": 2762.292,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel23-two-sisters",
+          "start_seconds": 2766.697,
+          "end_seconds": 2812.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "human-race-ethnicity-question",
+          "start_seconds": 2818.415,
+          "end_seconds": 2920.817,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-oath-truth",
+          "start_seconds": 2925.188,
+          "end_seconds": 2991.922,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2996.893,
+          "end_seconds": 3065.462,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel39-army-against-god",
+          "start_seconds": 3072.402,
+          "end_seconds": 3154.451,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "messiah-anointed-definition",
+          "start_seconds": 3159.222,
+          "end_seconds": 3218.682,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john-birth-course-abijah",
+          "start_seconds": 3226.69,
+          "end_seconds": 3292.455,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "authority-satan-luke10",
+          "start_seconds": 3296.059,
+          "end_seconds": 3364.461,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "ezPMqVOO8SU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "046839b157cc5fad8697e1415cc48f56140ae8b01e14f9724fba24c7a8f7e005",
+        "qa_start": 2148.012,
+        "qa_end": 3367.23,
+        "cursor_seconds": 3083.447,
+        "reviewed_ranges": [
+          {
+            "start": 2148.012,
+            "end": 3367.23
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 3191.221,
+            "end": 3200.73,
+            "reason": "Olive-tree Hebrew name and sacred-name identification are unclear; approve basic Messiah/anointed definition but not unverified lexical claim."
+          },
+          {
+            "start": 3083.447,
+            "end": 3100.063,
+            "reason": "Army’s destination wording shifts between America/Canada and land of Russia in captions; preserve general attribution without inventing a corrected route."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 3083.447
     },
     {
       "video_id": "f3X-ykoPcyQ",
@@ -40857,13 +41189,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 165,
+    "partially_reviewed": 167,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1115,
+    "pending": 1113,
     "source_changed": 0,
-    "question_occurrences": 2004
+    "question_occurrences": 2041
   }
 }
