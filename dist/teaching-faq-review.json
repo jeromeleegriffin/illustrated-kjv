@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T02:37:52.988716+00:00",
+  "updated": "2026-10-26T03:17:02.694088+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -31140,12 +31140,212 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 60,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "morning-star",
+        "isaiah14-lucifer-identity",
+        "john-identities",
+        "child-fear-possession",
+        "us-borrowing-deuteronomy",
+        "satan-bound-now",
+        "church-chatter-chant",
+        "god-judge-knows-thoughts",
+        "angels-wings",
+        "church-tribulation",
+        "authority-satan-luke10",
+        "small-children-antichrist",
+        "spiritual-clothing-righteous-acts",
+        "spirit-age-gender",
+        "prayers-vial-reference",
+        "honor-parent-mental-illness",
+        "repentance-name-every-sin",
+        "witnesses-recognition",
+        "witnesses-language-names",
+        "souls-created-old-souls",
+        "infant-heaven-age",
+        "animals-heaven"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "morning-star",
+          "start_seconds": 2089.82,
+          "end_seconds": 2136.834,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah14-lucifer-identity",
+          "start_seconds": 2140.938,
+          "end_seconds": 2158.322,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john-identities",
+          "start_seconds": 2173.737,
+          "end_seconds": 2221.185,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-fear-possession",
+          "start_seconds": 2224.021,
+          "end_seconds": 2257.988,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "us-borrowing-deuteronomy",
+          "start_seconds": 2262.392,
+          "end_seconds": 2346.11,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-bound-now",
+          "start_seconds": 2350.681,
+          "end_seconds": 2400.764,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-chatter-chant",
+          "start_seconds": 2355.986,
+          "end_seconds": 2448.945,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-judge-knows-thoughts",
+          "start_seconds": 2461.358,
+          "end_seconds": 2501.698,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-wings",
+          "start_seconds": 2503.0,
+          "end_seconds": 2579.709,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 2583.046,
+          "end_seconds": 2680.11,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "authority-satan-luke10",
+          "start_seconds": 2684.114,
+          "end_seconds": 2730.994,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "small-children-antichrist",
+          "start_seconds": 2741.271,
+          "end_seconds": 2765.629,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spiritual-clothing-righteous-acts",
+          "start_seconds": 2767.931,
+          "end_seconds": 2792.955,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-age-gender",
+          "start_seconds": 2792.955,
+          "end_seconds": 2828.592,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prayers-vial-reference",
+          "start_seconds": 2835.665,
+          "end_seconds": 2859.188,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "honor-parent-mental-illness",
+          "start_seconds": 2873.002,
+          "end_seconds": 2936.166,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "repentance-name-every-sin",
+          "start_seconds": 2939.235,
+          "end_seconds": 2955.619,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-recognition",
+          "start_seconds": 2964.26,
+          "end_seconds": 2972.569,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-language-names",
+          "start_seconds": 2975.172,
+          "end_seconds": 3006.569,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-age-gender",
+          "start_seconds": 3019.749,
+          "end_seconds": 3059.455,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-created-old-souls",
+          "start_seconds": 3071.334,
+          "end_seconds": 3157.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "infant-heaven-age",
+          "start_seconds": 3168.764,
+          "end_seconds": 3213.276,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-heaven",
+          "start_seconds": 3215.945,
+          "end_seconds": 3268.898,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-tribulation",
+          "start_seconds": 3273.803,
+          "end_seconds": 3354.484,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eqRKIYbtKTU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "d3c275a4569f58a5491e840ff461368694c57b8c9b22ab3e0658abd02fe33f6b",
+        "qa_start": 2080.811,
+        "qa_end": 3371.667,
+        "cursor_seconds": 2687.917,
+        "reviewed_ranges": [
+          {
+            "start": 2080.811,
+            "end": 3371.667
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2687.917,
+            "end": 2704.935,
+            "reason": "Luke 10:18 is stated while power is explained as dunamis; retain stated citation and lexical claim pending checking."
+          },
+          {
+            "start": 3355.318,
+            "end": 3371.667,
+            "reason": "Louise asks for Revelation 2:17; Arnold explicitly defers the explanation to the next lecture. No answer approved in this recording."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2687.917
     },
     {
       "video_id": "eruuV5NuxoQ",
@@ -31158,12 +31358,193 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "righteous-acts-meaning",
+        "jesus-socialism-claim",
+        "benefits-antichrist-worship",
+        "banking-mark-barter",
+        "resurrection-meaning",
+        "ark-peoples",
+        "revelation2-delivered-up",
+        "church-assembly-broadcast",
+        "delivered-up-transport",
+        "false-christ-public-arrival",
+        "gulf-millennium",
+        "elect-past-wrongdoing",
+        "dying-loved-one-visitation",
+        "prisoner-repentance-forgiveness",
+        "provide-family-infidel",
+        "satan-cast-down-sixth-trump",
+        "satan-millennium-restraint",
+        "fig-tree-scriptures",
+        "bereaved-unbelieving-brother",
+        "satan-hear-prayer",
+        "family-witness-gradual"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "righteous-acts-meaning",
+          "start_seconds": 2119.76,
+          "end_seconds": 2165.71,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-socialism-claim",
+          "start_seconds": 2170.319,
+          "end_seconds": 2284.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "benefits-antichrist-worship",
+          "start_seconds": 2289.52,
+          "end_seconds": 2361.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "banking-mark-barter",
+          "start_seconds": 2297.96,
+          "end_seconds": 2361.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 2372.0,
+          "end_seconds": 2421.109,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 2424.24,
+          "end_seconds": 2519.55,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "revelation2-delivered-up",
+          "start_seconds": 2526.48,
+          "end_seconds": 2590.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "church-assembly-broadcast",
+          "start_seconds": 2532.88,
+          "end_seconds": 2553.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "delivered-up-transport",
+          "start_seconds": 2598.92,
+          "end_seconds": 2617.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "false-christ-public-arrival",
+          "start_seconds": 2622.079,
+          "end_seconds": 2680.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-millennium",
+          "start_seconds": 2684.04,
+          "end_seconds": 2768.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-past-wrongdoing",
+          "start_seconds": 2792.119,
+          "end_seconds": 2887.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dying-loved-one-visitation",
+          "start_seconds": 2894.599,
+          "end_seconds": 2951.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prisoner-repentance-forgiveness",
+          "start_seconds": 2962.96,
+          "end_seconds": 3014.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "provide-family-infidel",
+          "start_seconds": 3026.76,
+          "end_seconds": 3059.549,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-cast-down-sixth-trump",
+          "start_seconds": 3063.52,
+          "end_seconds": 3073.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-millennium-restraint",
+          "start_seconds": 3073.76,
+          "end_seconds": 3100.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fig-tree-scriptures",
+          "start_seconds": 3106.0,
+          "end_seconds": 3168.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bereaved-unbelieving-brother",
+          "start_seconds": 3179.4,
+          "end_seconds": 3212.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-hear-prayer",
+          "start_seconds": 3214.88,
+          "end_seconds": 3284.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-witness-gradual",
+          "start_seconds": 3304.64,
+          "end_seconds": 3373.87,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eruuV5NuxoQ",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "fa44e904a3b95cdc2225c031853238046a0d2821b0ecbee2a325fc6a0f017413",
+        "qa_start": 2113.72,
+        "qa_end": 3373.88,
+        "cursor_seconds": 2399.839,
+        "reviewed_ranges": [
+          {
+            "start": 2113.72,
+            "end": 3373.88
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2399.839,
+            "end": 2418.48,
+            "reason": "God of the living language linked to closing John 8 in captions; preserve stated reference without silently substituting a Gospel passage."
+          },
+          {
+            "start": 2894.599,
+            "end": 2938.559,
+            "reason": "Visitation letter’s name, medication and timing are damaged; approve only qualified reply, not a diagnosis or confirmation of visitation."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2399.839
     },
     {
       "video_id": "esaS22IyyLM",
@@ -40029,13 +40410,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 160,
+    "partially_reviewed": 162,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1120,
+    "pending": 1118,
     "source_changed": 0,
-    "question_occurrences": 1914
+    "question_occurrences": 1957
   }
 }
