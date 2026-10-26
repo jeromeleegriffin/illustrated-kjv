@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T07:32:53.161740+00:00",
+  "updated": "2026-10-26T08:29:00.262972+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -14,12 +14,174 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 23,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "multitude-144000",
+        "lot-daughters-judges-distinction",
+        "israel-judah-split",
+        "spiritual-names-dennis",
+        "noah-wife-name",
+        "god-rock-paradox-response",
+        "satan-tempt-jesus-victory-dennis",
+        "dancing-conduct",
+        "unemployed-not-eat",
+        "outer-darkness-space",
+        "hebrews6-repent-dennis",
+        "millennium-definition-dennis",
+        "smyrna-philadelphia-teaching",
+        "judas-satan-son-dennis",
+        "revelation1-christ-description-dennis",
+        "bible-soaked-anointing-oil",
+        "suicide-depressed-nephew-dennis",
+        "ark-covenant-location-arnold",
+        "caiaphas-name-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "multitude-144000",
+          "start_seconds": 2118.56,
+          "end_seconds": 2172.01,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lot-daughters-judges-distinction",
+          "start_seconds": 2172.02,
+          "end_seconds": 2250.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "israel-judah-split",
+          "start_seconds": 2286.06,
+          "end_seconds": 2347.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spiritual-names-dennis",
+          "start_seconds": 2350.56,
+          "end_seconds": 2400.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noah-wife-name",
+          "start_seconds": 2405.359,
+          "end_seconds": 2425.75,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-rock-paradox-response",
+          "start_seconds": 2425.76,
+          "end_seconds": 2484.109,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-tempt-jesus-victory-dennis",
+          "start_seconds": 2503.56,
+          "end_seconds": 2619.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dancing-conduct",
+          "start_seconds": 2705.94,
+          "end_seconds": 2749.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "unemployed-not-eat",
+          "start_seconds": 2753.16,
+          "end_seconds": 2839.55,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "outer-darkness-space",
+          "start_seconds": 2839.56,
+          "end_seconds": 2896.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrews6-repent-dennis",
+          "start_seconds": 2896.98,
+          "end_seconds": 2970.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-definition-dennis",
+          "start_seconds": 2977.079,
+          "end_seconds": 2998.609,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "smyrna-philadelphia-teaching",
+          "start_seconds": 2998.619,
+          "end_seconds": 3045.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "judas-satan-son-dennis",
+          "start_seconds": 3059.54,
+          "end_seconds": 3124.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "revelation1-christ-description-dennis",
+          "start_seconds": 3124.859,
+          "end_seconds": 3152.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-soaked-anointing-oil",
+          "start_seconds": 3159.599,
+          "end_seconds": 3239.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "suicide-depressed-nephew-dennis",
+          "start_seconds": 3242.7,
+          "end_seconds": 3325.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-covenant-location-arnold",
+          "start_seconds": 3325.98,
+          "end_seconds": 3342.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "caiaphas-name-dennis",
+          "start_seconds": 3342.599,
+          "end_seconds": 3366.23,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "-4I5t3EgO9o",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "c20a2836203e947a5f39dccc1141b04fdc43d1541c5002af50e47df0a41a3fc8",
+        "qa_start": 2110.56,
+        "qa_end": 3366.23,
+        "reviewed_ranges": [
+          {
+            "start": 2110.56,
+            "end": 3366.23
+          }
+        ],
+        "cursor_seconds": 2250.9,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "unresolved_ranges": [
+          {
+            "start": 2250.9,
+            "end": 2283.65,
+            "reason": "Pork answer caption says Revelation 11:7; preserve it and require audio/reference review rather than silently correcting it."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "Complete available Q&A captions directly read. For Dennis, Addy’s 2619.359–2698.309 letter contains commentary without an explicit listener question; excluded from FAQ counts. Arnold source ends mid-answer, so full Q&A boundary cannot be confirmed. These paraphrases are pending current-registry grouping and publication, not yet added to the public page.",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2250.9
     },
     {
       "video_id": "-CU4AfH2Nkc",
@@ -3973,12 +4135,60 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "fly-away-scripture",
+        "beer-stop-seeking-god"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "fly-away-scripture",
+          "start_seconds": 2368.56,
+          "end_seconds": 2479.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "beer-stop-seeking-god",
+          "start_seconds": 2479.079,
+          "end_seconds": 2533.79,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "0aUiY5kK8F0",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "06247f1263e984b67757d43139529c8b520d594720557e8d7b2ff6996ef256fc",
+        "qa_start": 2291.9,
+        "qa_end": 2555.839,
+        "reviewed_ranges": [
+          {
+            "start": 2291.9,
+            "end": 2555.839
+          }
+        ],
+        "cursor_seconds": 2301.42,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2301.42,
+            "end": 2368.55,
+            "reason": "Mary father name is garbled in captions (Gila / he lie); do not normalize from memory."
+          },
+          {
+            "start": 2533.8,
+            "end": 2555.839,
+            "reason": "Song of Moses answer is cut off at source end; remaining recording unavailable in this export."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "Complete available Q&A captions directly read. For Dennis, Addy’s 2619.359–2698.309 letter contains commentary without an explicit listener question; excluded from FAQ counts. Arnold source ends mid-answer, so full Q&A boundary cannot be confirmed. These paraphrases are pending current-registry grouping and publication, not yet added to the public page.",
+        "reviewed_at": "2026-10-26"
+      },
+      "cursor_seconds": 2301.42
     },
     {
       "video_id": "0gC79IDiX2I",
@@ -42193,13 +42403,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 173,
+    "partially_reviewed": 175,
     "fully_reviewed": 16,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1106,
+    "pending": 1104,
     "source_changed": 0,
-    "question_occurrences": 2148
+    "question_occurrences": 2169
   }
 }

@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,379 question groups and 2,187 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,393 question groups and 2,208 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 173 remain partially reviewed, 1,106 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 175 remain partially reviewed, 1,104 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -62,3 +62,5 @@ Pass049 adds sixty-four linked answers from four complete caption Q&A reads. fAT
 
 
 Local app batch 002 adds forty-six caption-reviewed linked answers and twenty-three question groups after direct reads of the complete Q&A sections in WaqJ4p4NLFY (Arnold), -DI3jbEdDpM (Dennis) and F1e-_aBWB4c (Dennis). All three remain partial because source-specific reference, unread-letter, unanswered or incomplete-answer holds are preserved. Question variants remain separate and counted once per question per recording group. A difference in Dennis’s prayer-address qualifications is flagged for further review. Machine extraction is separate from these caption approvals; model candidates never approve themselves. Private checkpoint: libfile_fa436b11a950819199b084328523b67c. Audio remains unverified.
+
+Local app batch 003 adds twenty-one caption-reviewed linked answers and fourteen question groups from -4I5t3EgO9o (Dennis) and 0aUiY5kK8F0 (Arnold). Both remain partial: a garbled pork-reference cue, the name of Mary’s father and the Arnold export’s mid-answer ending are held. The complete available Q&A captions were read directly; one commentary-only listener letter was excluded. Machine output remains separately unapproved. Version 1.0.3 improves incomplete-answer holds, malformed-JSON recovery, empty-queue counts and automatic Windows sleep handling. Audio remains pending.
