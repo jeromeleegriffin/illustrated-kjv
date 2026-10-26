@@ -117,7 +117,8 @@ class Persistence(unittest.TestCase):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.finish(j,[],{})
   self.store.import_zip(self.z)
   import sqlite3
-  with sqlite3.connect(self.store.root/'last-good.sqlite') as db:
+  from contextlib import closing
+  with closing(sqlite3.connect(self.store.root/'last-good.sqlite')) as db:
    self.assertEqual(db.execute('PRAGMA integrity_check').fetchone()[0],'ok')
    self.assertEqual(db.execute("SELECT count(*) FROM jobs WHERE state='saved'").fetchone()[0],1)
  def test_fail_retry(self):
