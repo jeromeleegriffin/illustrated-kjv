@@ -1,0 +1,22 @@
+{
+  "version": "1.1.1",
+  "source_commit": "fd104fa932b6244b2b64e6903c1d793f965fa770",
+  "windows_run_id": 40374494108,
+  "regression_tests": 62,
+  "features": [
+    "Private publication preflight on export",
+    "Source hash, presenter, exact caption and timestamp checks",
+    "Reconciliation against approved-source overlap index",
+    "Ambiguous groups and distinct answer variants held",
+    "Offline page-by-page preview with fixed top/bottom navigation"
+  ],
+  "approved_reference_questions": 1393,
+  "approved_reference_occurrences": 2208,
+  "reference_validation_errors": 0,
+  "prior_source_review_v3_checks_preserved": true,
+  "actual_source_export_preparation_passed": true,
+  "public_FAQ_changes": 0,
+  "limits": "Preparation and lexical grouping do not grant semantic approval. Final accuracy review and reconciliation against the current registry remain necessary; no new audio or full-QA verification claimed.",
+  "windows_status": "success",
+  "windows_application_zip_sha256": "312ea43242153a2df850885bc088afa011c008f878ad87bd60f19c75bc215947"
+}
