@@ -16,9 +16,9 @@ window.ReadingProgress=(()=>{
   if(['readerMenu','searchModal','aboutModal','readingModal'].some(id=>$(id)&&!$(id).hidden))return;
   const verses=[...document.querySelectorAll('#scripture .verse')];if(!verses.length)return;
   const target=Math.min(180,window.innerHeight*.25);
-  const visible=verses.filter(el=>{const r=el.getBoundingClientRect();return r.bottom>0&&r.top<window.innerHeight;});
+  const visible=verses.filter(el=>{const r=el.getBoundingClientRect();return r.bottom>0&&r.top<=target+1;});
   if(!visible.length)return;
-  const el=visible.reduce((a,b)=>Math.abs(a.getBoundingClientRect().top-target)<=Math.abs(b.getBoundingClientRect().top-target)?a:b);
+  const el=visible.reduce((a,b)=>a.getBoundingClientRect().top>=b.getBoundingClientRect().top?a:b);
   rememberPosition({...current,verse:+el.dataset.verse});
  }
  function reference(x){return `${names[x.book]} ${x.chapter}:${x.verse}`}
