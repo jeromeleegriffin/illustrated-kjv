@@ -74,7 +74,7 @@
     if(i===0)card.append(v);else{const variant=make('details',undefined,'answer-variant');variant.append(make('summary',`Additional answer · Pastor ${a.teacher}`),v);card.append(variant);}
    }
    if(q.source_upload_count>q.asked_count)card.append(make('p','Alternate uploads are linked but counted once.','status'));
-   if(q.conflict_status==='conflict_needs_review')card.append(make('p','Different answers require review. Both are preserved.','status'));
+   if((q.conflict_status==='conflict_needs_review'||String(q.conflict_status||'').startsWith('review_needed_')))card.append(make('p','Different answers require review. Both are preserved.','status'));
    $('questions').append(card);
   }
   $('results-count').textContent=`${list.length} matching questions · one question per page. Numbers show the overall frequency ranking; counts grow as review continues.`;$('empty').hidden=list.length!==0;
