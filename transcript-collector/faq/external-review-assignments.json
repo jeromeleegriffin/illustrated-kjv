@@ -3336,6 +3336,36 @@
           "recording_group": "Yte1Ibe70Ug"
         }
       ]
+    },
+    {
+      "assignment_id": "griffin-local-faq-20261026-002",
+      "status": "machine_processing",
+      "owner": "Griffin local FAQ batch app",
+      "assigned_count": 3,
+      "publication_policy": "Private machine candidates only. Existing review required before publication. Avoid duplicate processing while this batch is active.",
+      "recordings": [
+        {
+          "video_id": "WaqJ4p4NLFY",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "882c0eef67e1d01ac0d0c3d09f9f012f988ff36376ac003bda71b38f5b8cede8",
+          "qa_start": 2111.81,
+          "qa_end": 3372.27
+        },
+        {
+          "video_id": "-DI3jbEdDpM",
+          "teacher": "Dennis Murray",
+          "transcript_sha256": "ca7be52ba95a1cecfd608aec81031bfebbf236f5ddd670bc8859b46729c74066",
+          "qa_start": 2226.29,
+          "qa_end": 3381.38
+        },
+        {
+          "video_id": "F1e-_aBWB4c",
+          "teacher": "Dennis Murray",
+          "transcript_sha256": "d02a30df30e49a01c464cf34524c960c61944346133f13bb1766d38f8cd35e30",
+          "qa_start": 2257.95,
+          "qa_end": 3372.34
+        }
+      ]
     }
   ]
 }
