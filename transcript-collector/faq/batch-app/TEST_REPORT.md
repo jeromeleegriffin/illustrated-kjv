@@ -48,3 +48,7 @@ The resumed run uses a 4,096-token context and unloads the model after every win
 ## Patch 1.0.2 — bounded quality-window recovery
 
 The extended batch also exposed a dense Q&A window that exhausted the model output limit. Such output remains rejected. The processor now splits recoverable output/anchor failures into smaller overlapping windows automatically, records the split privately, preserves coverage through restart and stops subdivision at a bounded minimum. Eighteen focused tests include coverage-preserving split recovery and bounded retries. Failed or withheld content never becomes an approved public answer solely because a retry ran.
+
+## Version 1.0.3
+
+Added regression coverage for model-declared truncated/missing answers, empty-record completion, actual Controller recovery from malformed JSON using a controlled fake engine, and Windows sleep-request/release flags. Existing tests continue to cover source hashes, duplicate imports, interruptions, reservations, evidence and exports. Real model batch 003 is recorded separately as private evidence; machine outputs are not approved FAQs.

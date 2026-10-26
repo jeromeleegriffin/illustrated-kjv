@@ -4,7 +4,7 @@ import hashlib, json, math, re, sqlite3, time, urllib.request, zipfile
 from contextlib import contextmanager
 from pathlib import Path, PurePosixPath
 
-VERSION = '1.0.2'
+VERSION = '1.0.3'
 MODEL = 'qwen3:8b'
 ALLOWED_TEACHERS = {'Arnold Murray', 'Dennis Murray'}
 TRANSCRIPT_DIRS = ('search-library/transcripts/', 'recovery006/supplement-search/transcripts/')
@@ -106,7 +106,7 @@ def validate_result(d, window, result):
         # but never present it as usable candidate teaching.
         if len(' '.join(s['text'] for s in evidence['answer']).split()) < 6 and len(q['answer'].split()) > 15:
             flags.append('summary_exceeds_thin_selected_evidence')
-        hold=bool(set(flags)&{'window_edge_needs_review','source_has_start_only_timestamps_no_verified_end','summary_exceeds_thin_selected_evidence'})
+        hold=bool(set(flags)&{'window_edge_needs_review','source_has_start_only_timestamps_no_verified_end','summary_exceeds_thin_selected_evidence'}) or any(re.search(r'truncat|cut.?off|missing.?answer|incomplete.?answer', flag, re.I) for flag in flags)
         item={**q,'question_last_cue':q1,'uncertainty':sorted(set(flags)), 'start':d['segments'][q0]['start'],'end':d['segments'][a1]['end'],'evidence':evidence,'window_notes':notes,'review_status':'held_machine_proposal' if hold else 'machine_candidate_unapproved','audio_verified':False}
         if hold:item['proposed_answer_unverified']=item['answer'];item['answer']=''
         output.append(item)
@@ -223,7 +223,7 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
             counts={r[0]:r[1] for r in db.execute('SELECT state,count(*) FROM jobs GROUP BY state')}
             records=[dict(r) for r in db.execute('SELECT id,teacher,state,reason FROM recordings ORDER BY id')]
             current=[dict(r) for r in db.execute("SELECT video_id,start,end,error,state FROM jobs WHERE state IN ('processing','failed') ORDER BY id DESC LIMIT 10")]
-            saved=db.execute("SELECT count(*) FROM recordings r WHERE r.state='ready' AND NOT EXISTS (SELECT 1 FROM jobs j WHERE j.video_id=r.id AND j.source_hash=r.hash AND j.state<>'saved')").fetchone()[0]
+            saved=db.execute("SELECT count(*) FROM recordings r WHERE r.state='ready' AND EXISTS (SELECT 1 FROM jobs j WHERE j.video_id=r.id AND j.source_hash=r.hash) AND NOT EXISTS (SELECT 1 FROM jobs j WHERE j.video_id=r.id AND j.source_hash=r.hash AND j.state<>'saved')").fetchone()[0]
         return {'windows':counts,'recordings':len(records),'machine_pass_finished_recordings':saved,'records':records,'current':current,'baseline':self.setting('imported_registry_counts'),'version':VERSION}
     def candidates(self, page=0):
         items=[]

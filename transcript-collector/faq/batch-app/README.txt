@@ -67,3 +67,5 @@ automatically retries smaller overlapping windows, down to a bounded minimum.
 Each split is recorded privately in processing-events.json. It does not turn
 missing or uncertain answers into approvals. No recording-by-recording babysitting
 is needed for these recoverable window failures.
+
+Version 1.0.3 reliability refinements: incomplete-answer flags withhold teaching summaries; malformed model JSON is retried in bounded smaller windows; empty queues never count as completed recordings. Windows automatic sleep is prevented only while processing and released on pause. Closing the laptop lid or choosing Sleep still interrupts processing; progress resumes from committed windows.

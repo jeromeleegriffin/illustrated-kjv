@@ -11,6 +11,14 @@ ASSETS=Path(getattr(sys,'_MEIPASS',Path(__file__).resolve().parent))
 
 def data_root(): return Path(os.environ.get('LOCALAPPDATA',str(Path.home())))/'GriffinFAQProcessor'
 
+def keep_windows_awake(active):
+    """Prevent automatic sleep only while the worker is processing; display may sleep."""
+    if os.name!='nt':return
+    import ctypes
+    flags=0x80000000 | (0x00000001 if active else 0)
+    if not ctypes.windll.kernel32.SetThreadExecutionState(flags):
+        raise OSError('Windows could not set the processing sleep preference')
+
 class Controller:
     def __init__(self,root):
         self.store=Store(root);self.lock=threading.Lock();self.mode='paused';self.message='Import your private teaching library ZIP, then set up the free AI.';self.busy=False;self.active=False;self.child=None;self.exit=False
@@ -97,8 +105,17 @@ class Controller:
         self.message='Import finished: '+json.dumps(result)
         Path(path).unlink(missing_ok=True)
     def run(self):
+        awake=False
         while not self.exit:
-            if self.mode!='running':time.sleep(.25);continue
+            if self.mode!='running':
+                if awake:
+                    try:keep_windows_awake(False)
+                    except OSError as e:self.log(e)
+                    awake=False
+                time.sleep(.25);continue
+            if not awake:
+                try:keep_windows_awake(True);awake=True
+                except OSError as e:self.log(e)
             try:
                 job=self.store.next_job()
                 if not job:self.mode='paused';self.message='No pending eligible windows. Export results; inspect failures and holds.';continue
@@ -113,7 +130,7 @@ class Controller:
                 response,metrics=engine.extract(window,job['teacher']);result=validate_result(d,window,response)
                 self.store.finish(job,result,metrics)
             except Exception as e:
-                quality_error=isinstance(e,ValueError) and str(e).startswith(('Model output incomplete','Model invented a cue index','Invalid question/answer cue order','Invalid model JSON','Empty/oversized paraphrase'))
+                quality_error=isinstance(e,json.JSONDecodeError) or isinstance(e,ValueError) and str(e).startswith(('Model output incomplete','Model invented a cue index','Invalid question/answer cue order','Invalid model JSON','Empty/oversized paraphrase'))
                 if 'job' in locals() and job and quality_error and self.store.split_job(job,e):
                     self.message='Retrying a quality-failed window in smaller overlapping pieces.'
                     continue
@@ -122,6 +139,9 @@ class Controller:
                 # Stop a systemic engine error instead of failing the entire library.
                 if not isinstance(e,ValueError):self.mode='paused'
             finally: self.active=False
+        if awake:
+            try:keep_windows_awake(False)
+            except OSError as e:self.log(e)
     def command(self,cmd,body):
         if cmd=='setup':self.background(self.setup)
         elif cmd=='start':
@@ -143,7 +163,7 @@ HTML=r'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewpo
 <style>body{font:18px system-ui;max-width:1000px;margin:30px auto;padding:0 20px;color:#172735;background:#f5f7fa}h1{font-size:28px}button,select,input{font:inherit;margin:5px;padding:10px}button{cursor:pointer;background:white;border:1px solid #678;border-radius:6px}button:disabled{opacity:.5}section{background:white;padding:18px;margin:18px 0;border-radius:10px;border:1px solid #ddd}#message{font-weight:600;white-space:pre-wrap}small{display:block;line-height:1.6}table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:8px;border-bottom:1px solid #ddd}#error{color:#9b1515}a{color:#065aa0}</style>
 <h1>Griffin Shepherd’s Chapel FAQ Batch Processor</h1><p>Process saved transcripts automatically on this computer. Your existing approved FAQs stay intact.</p>
 <section><h2>1. Import your saved library</h2><input type="file" id="file" accept=".zip"><button id="import">Import ZIP</button><p>Choose Griffin_Private_Teaching_Library_Batch_001.zip. Importing it again skips unchanged recordings.</p><small>Private files stay on this computer. Topical recordings with unconfirmed teachers, completed reviews and external assignments are held. This app does not download YouTube videos.</small></section>
-<section><h2>2. Set up free local AI</h2><button id="setup">Set up free AI</button><select id="hardware"><option value="auto">Automatic hardware</option><option value="cpu">CPU only</option></select><button id="settings">Save setting</button><p>One-time internet download: up to 1.59 GB runtime + about 5.2 GB model. Allow 14 GB free disk space. No subscription or transcription API fee.</p><small>Uses the official Ollama runtime and Qwen3 8B model. Model license: <a href="https://ollama.com/library/qwen3:8b" target="_blank" rel="noreferrer">Qwen model terms</a>. Once downloaded, caption processing works offline. Recommended: 16 GB RAM. Windows must remain on and awake.</small></section>
+<section><h2>2. Set up free local AI</h2><button id="setup">Set up free AI</button><select id="hardware"><option value="auto">Automatic hardware</option><option value="cpu">CPU only</option></select><button id="settings">Save setting</button><p>One-time internet download: up to 1.59 GB runtime + about 5.2 GB model. Allow 14 GB free disk space. No subscription or transcription API fee.</p><small>Uses the official Ollama runtime and Qwen3 8B model. Model license: <a href="https://ollama.com/library/qwen3:8b" target="_blank" rel="noreferrer">Qwen model terms</a>. Once downloaded, caption processing works offline. Recommended: 16 GB RAM. Keep Windows on. During processing the app prevents automatic sleep; you may turn off the display. Closing the laptop lid or choosing Sleep can still interrupt it.</small></section>
 <section><h2>3. Run automatic batches</h2><button id="start">Start / Resume</button><button id="pause">Pause</button><button id="stop">Stop</button><button id="retry">Retry failed</button><a href="/export" id="export">Download private results ZIP</a><p id="message">Loading…</p><p id="error" role="alert"></p><div id="counts"></div><h3>Recent activity / errors</h3><pre id="current" style="white-space:pre-wrap"></pre><small id="folder"></small></section>
 <section><h2>Private candidate viewer</h2><button id="prev">Previous</button><button id="next">Next</button><span id="page"></span><div id="candidates"></div></section>
 <section><h2>What the results mean</h2><p>These are AI-generated FAQ candidates with timestamped caption evidence. They require semantic and teacher review before being added to the public Bible app. “Machine pass finished” does not mean every question was found or verified. No automatic publishing occurs.</p><p>Pause saves the current window, then stops. After a power loss, reopen this app and click Resume. Overlapping windows can produce duplicates; variants and uncertainty flags are retained for review.</p></section>

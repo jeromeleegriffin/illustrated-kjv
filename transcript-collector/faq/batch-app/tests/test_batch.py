@@ -2,7 +2,8 @@ import io,json,sys,tempfile,threading,time,unittest,urllib.request,urllib.error,
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 from core import Store,read_document,windows,validate_result,sha,cues
-from app import Controller,Server
+from app import Controller,Server,keep_windows_awake
+from unittest.mock import patch,Mock
 
 def document(id='abcdefghijk',teacher='Arnold Murray'):
  return {'id':id,'teacher':teacher,'duration':600,'segments':[{'start':i*10,'end':i*10+9,'text':('Question time. Mary asks: What is rest?' if i==25 else 'The pastor answers this listener.' if i==26 else 'Ordinary teaching.')} for i in range(60)]}
@@ -66,6 +67,10 @@ class Persistence(unittest.TestCase):
    if not self.store.split_job(j,'Model output incomplete'):self.store.fail(j,'minimum window reached')
   with self.store.connect() as db:
    self.assertTrue(all(row[0]<=90 for row in db.execute("SELECT end-start FROM jobs WHERE state='failed'")))
+ def test_no_jobs_not_finished(self):
+  self.store.import_zip(self.z)
+  with self.store.connect() as db:db.execute('DELETE FROM jobs')
+  self.assertEqual(self.store.status()['machine_pass_finished_recordings'],0)
  def test_fail_retry(self):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.fail(j,'engine offline');self.store.retry()
   self.assertEqual(self.store.next_job()['id'],j['id'])
@@ -89,12 +94,41 @@ class Extraction(unittest.TestCase):
   q=dict(question_first_cue=25,answer_first_cue=26,answer_last_cue=26,question='What is rest?',answer='The pastor explains an elaborate unsupported teaching with many more claims than the few source words can establish at all.',uncertainty=[])
   r=validate_result(d,w,{'questions':[q]})[0]
   self.assertEqual(r['answer'],'');self.assertEqual(r['review_status'],'held_machine_proposal');self.assertIn('proposed_answer_unverified',r)
+ def test_model_truncation_flag_withholds_answer(self):
+  d=document();w=windows(d)[1]
+  for flag in ['truncated','answer_cut_off','incomplete_answer','missing answer']:
+   q=dict(question_first_cue=25,answer_first_cue=26,answer_last_cue=26,question='What is rest?',answer='The pastor replies.',uncertainty=[flag])
+   r=validate_result(d,w,{'questions':[q]})[0]
+   self.assertEqual(r['answer'],'');self.assertEqual(r['review_status'],'held_machine_proposal')
  def test_malformed_timestamps(self):
   d=document();d['segments'][0]['start']=float('nan')
   with self.assertRaises(ValueError):read_document(json.dumps(d))
  def test_rolling_overlap(self):
   d=document();d['segments']=[{'start':0,'end':1,'text':'The living word'},{'start':1,'end':2,'text':'living word is true'}]
   self.assertEqual(cues(d)[1]['text'],'is true')
+
+class WorkerRecovery(unittest.TestCase):
+ def test_malformed_model_output_auto_splits(self):
+  import app
+  class FakeEngine:
+   def __init__(self,*a):pass
+   def extract(self,w,teacher):
+    if w['end']-w['start']>150:raise json.JSONDecodeError('truncated JSON','{',1)
+    return {'questions':[],'notes':[]},{}
+  with tempfile.TemporaryDirectory() as td,patch.object(app,'Ollama',FakeEngine):
+   root=Path(td);z=root/'input.zip';archive(z,document());c=Controller(root/'data');c.store.import_zip(z);c.mode='running'
+   deadline=time.time()+10
+   while time.time()<deadline:
+    status=c.store.status()
+    if not status['windows'].get('pending') and not c.active and c.mode=='paused':break
+    time.sleep(.05)
+   c.close();self.assertEqual(c.store.status()['machine_pass_finished_recordings'],1)
+   with c.store.connect() as db:self.assertGreater(db.execute('SELECT count(*) FROM processing_events').fetchone()[0],0)
+ def test_windows_awake_flags_and_release(self):
+  kernel=Mock();kernel.SetThreadExecutionState.return_value=1
+  with patch('ctypes.windll',Mock(kernel32=kernel),create=True),patch('app.os.name','nt'):
+   keep_windows_awake(True);keep_windows_awake(False)
+  self.assertEqual([c.args[0] for c in kernel.SetThreadExecutionState.call_args_list],[0x80000001,0x80000000])
 
 class HTTP(unittest.TestCase):
  def setUp(self):
