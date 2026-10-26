@@ -3,6 +3,7 @@ import argparse, json, os, tempfile, secrets, shutil, socket, subprocess, sys, t
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from core import Store, Ollama, MODEL, VERSION, read_document, windows, validate_result, sha, cues
+from review import ReviewQueue, check_candidate
 
 RUNTIME_URL='https://github.com/ollama/ollama/releases/download/v0.40.11/ollama-windows-amd64.zip'
 RUNTIME_SHA='bda4a493ba8a7c24d57263cd843cd68cee84f44aed4299eeed532acad7eda12a'
@@ -22,6 +23,7 @@ def keep_windows_awake(active):
 class Controller:
     def __init__(self,root):
         self.store=Store(root);self.lock=threading.Lock();self.mode='paused';self.message='Import your private teaching library ZIP, then set up the free AI.';self.busy=False;self.active=False;self.child=None;self.exit=False;self.current_started=None
+        self.review=ReviewQueue(self.store);self.review.sync()
         self.model=self.store.setting('model') or MODEL
         self.hardware=self.store.setting('hardware') or 'auto'
         self.worker=threading.Thread(target=self.run,daemon=True);self.worker.start()
@@ -39,7 +41,7 @@ class Controller:
         # newer 'import finished' message and busy=False.
         operation={'mode':self.mode,'message':self.message,'busy':self.busy,'active':self.active}
         started=self.current_started
-        return {**self.store.status(),**operation,'model':self.model,'hardware':self.hardware,'data_directory':str(self.store.root.resolve()),'free_disk_gb':round(shutil.disk_usage(self.store.root).free/1024**3,1),'cpu_threads':os.cpu_count(),'current_window_elapsed_seconds':max(0,int(time.monotonic()-started)) if operation['active'] and started is not None else 0}
+        return {**self.store.status(),**operation,'automated_review':self.review.status(),'model':self.model,'hardware':self.hardware,'data_directory':str(self.store.root.resolve()),'free_disk_gb':round(shutil.disk_usage(self.store.root).free/1024**3,1),'cpu_threads':os.cpu_count(),'current_window_elapsed_seconds':max(0,int(time.monotonic()-started)) if operation['active'] and started is not None else 0}
     def background(self,func):
         with self.lock:
             if self.busy or self.active or self.mode=='running': raise ValueError('Pause processing before this operation')
@@ -120,9 +122,21 @@ class Controller:
             if not awake:
                 try:keep_windows_awake(True);awake=True
                 except OSError as e:self.log(e)
+            job=None;reviewjob=None
             try:
+                self.review.sync()
+                reviewjob=self.review.next()
+                if reviewjob:
+                    self.active=True;self.current_started=time.monotonic()
+                    self.message=f"Checking saved answer · {reviewjob['teacher']} · {reviewjob['video_id']}"
+                    raw=Path(reviewjob['source_path']).read_bytes()
+                    if sha(raw)!=reviewjob['source_hash']:raise ValueError('Transcript changed before second-pass check. Reimport the archive.')
+                    d=read_document(raw);engine=Ollama(self.model);engine.hardware=self.hardware
+                    result=check_candidate(engine,d,json.loads(reviewjob['payload']))
+                    self.review.finish(reviewjob,result)
+                    continue
                 job=self.store.next_job()
-                if not job:self.mode='paused';self.message='No pending eligible windows. Export results; inspect failures and holds.';continue
+                if not job:self.mode='paused';self.message='Extraction and automatic checks finished for the eligible queue. Download the results ZIP for final publication review; held answers remain private.';continue
                 self.active=True;self.current_started=time.monotonic()
                 self.message=f"{job['teacher']} · {job['video_id']} · {job['start']:.0f}–{job['end']:.0f} seconds"
                 raw=Path(job['source_path']).read_bytes()
@@ -134,6 +148,10 @@ class Controller:
                 response,metrics=engine.extract(window,job['teacher']);result=validate_result(d,window,response)
                 self.store.finish(job,result,metrics)
             except Exception as e:
+                if reviewjob:
+                    self.review.fail(reviewjob,e);self.log(e);self.message='Answer check failed and was held: '+str(e)
+                    if not isinstance(e,ValueError):self.mode='paused'
+                    continue
                 quality_error=isinstance(e,json.JSONDecodeError) or isinstance(e,ValueError) and str(e).startswith(('Model output incomplete','Model invented a cue index','Invalid question/answer cue order','Invalid model JSON','Empty/oversized paraphrase'))
                 if 'job' in locals() and job and quality_error and self.store.split_job(job,e):
                     self.message='Retrying a quality-failed window in smaller overlapping pieces.'
@@ -156,7 +174,7 @@ class Controller:
         elif cmd in ('pause','stop'):self.mode='paused';self.message='Pausing after the current window is safely saved. You can resume later.'
         elif cmd=='retry':
             if self.mode=='running' or self.active:raise ValueError('Pause and wait for the current window before retrying')
-            self.store.retry();self.message='Failed windows queued for retry. Click Start.'
+            self.store.retry();self.review.retry();self.message='Failed extraction windows and answer checks queued for retry. Click Start.'
         elif cmd=='settings':
             if self.mode=='running' or self.busy or self.active:raise ValueError('Pause and wait before changing settings')
             if body.get('hardware') not in ('auto','cpu'):raise ValueError('Invalid hardware mode')
@@ -168,14 +186,14 @@ HTML=r'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewpo
 <h1>Griffin Shepherd’s Chapel FAQ Batch Processor</h1><p>Process saved transcripts automatically on this computer. Your existing approved FAQs stay intact.</p>
 <section><h2>1. Import your saved library</h2><input type="file" id="file" accept=".zip"><button id="import">Import ZIP</button><p>Choose Griffin_Private_Teaching_Library_Batch_001.zip. Importing it again skips unchanged recordings.</p><small>Private files stay on this computer. Topical recordings with unconfirmed teachers, completed reviews and external assignments are held. This app does not download YouTube videos.</small></section>
 <section><h2>2. Set up free local AI</h2><button id="setup">Set up free AI</button><select id="hardware"><option value="auto">Automatic hardware</option><option value="cpu">CPU only</option></select><button id="settings">Save setting</button><p>One-time internet download: up to 1.59 GB runtime + about 5.2 GB model. Allow 14 GB free disk space. No subscription or transcription API fee.</p><small>Uses the official Ollama runtime and Qwen3 8B model. Model license: <a href="https://ollama.com/library/qwen3:8b" target="_blank" rel="noreferrer">Qwen model terms</a>. Once downloaded, caption processing works offline. Recommended: 16 GB RAM. Keep Windows on. During processing the app prevents automatic sleep; you may turn off the display. Closing the laptop lid or choosing Sleep can still interrupt it.</small></section>
-<section><h2>3. Run automatic batches</h2><button id="start">Start / Resume</button><button id="pause">Pause</button><button id="stop">Stop</button><button id="retry">Retry failed</button><a href="/export" id="export">Download private results ZIP</a><p id="message">Loading…</p><p id="error" role="alert"></p><div id="counts"></div><p id="runtime" aria-live="polite"></p><h3>Recent activity / errors</h3><pre id="current" style="white-space:pre-wrap"></pre><small id="folder"></small></section>
+<section><h2>3. Extract, check and prepare results automatically</h2><button id="start">Start / Resume</button><button id="pause">Pause</button><button id="stop">Stop</button><button id="retry">Retry failed</button><a href="/export" id="export">Download private results ZIP</a><p id="message">Loading…</p><p id="error" role="alert"></p><div id="counts"></div><p id="checks" aria-live="polite"></p><p id="runtime" aria-live="polite"></p><h3>Recent activity / errors</h3><pre id="current" style="white-space:pre-wrap"></pre><small id="folder"></small></section>
 <section><h2>Private candidate viewer</h2><button id="prev">Previous</button><button id="next">Next</button><span id="page"></span><div id="candidates"></div></section>
-<section><h2>What the results mean</h2><p>These are AI-generated FAQ candidates with timestamped caption evidence. They require semantic and teacher review before being added to the public Bible app. “Machine pass finished” does not mean every question was found or verified. No automatic publishing occurs.</p><p>Pause saves the current window, then stops. After a power loss, reopen this app and click Resume. Overlapping windows can produce duplicates; variants and uncertainty flags are retained for review.</p></section>
+<section><h2>What the results mean</h2><p>The app extracts questions, checks source evidence, checks the named presenter when captions identify one, and runs a second AI pass on eligible answers. It suggests existing FAQ groups and clusters repeated question anchors without discarding answer variants. The results ZIP includes original sources, checks and held items for final publication review. “Machine pass finished” does not mean every question was found or verified. Automated checks can still be wrong. Public approval remains a separate final step; no automatic publishing occurs.</p><p>Pause saves the current window, then stops. After a power loss, reopen this app and click Resume. Overlapping windows can produce duplicates; variants and uncertainty flags are retained for review.</p></section>
 <script>const token=location.hash.slice(1)||sessionStorage.getItem('griffin-session')||'';if(token)sessionStorage.setItem('griffin-session',token);history.replaceState(null,'',location.pathname);let busy=false;async function command(cmd,body={}){try{document.getElementById('error').textContent='';let r=await fetch('/api/'+cmd,{method:'POST',headers:{'Content-Type':'application/json','X-Griffin-Token':token},body:JSON.stringify(body)});let d=await r.json();if(!r.ok)throw Error(d.error);await refresh()}catch(e){document.getElementById('error').textContent=e.message}}
 for(let cmd of ['setup','start','pause','stop','retry'])document.getElementById(cmd).onclick=()=>command(cmd);
 document.getElementById('settings').onclick=()=>command('settings',{hardware:document.getElementById('hardware').value});
 document.getElementById('import').onclick=async()=>{let file=document.getElementById('file').files[0];if(!file)return;try{document.getElementById('message').textContent='Uploading private ZIP to this computer…';let r=await fetch('/api/import',{method:'POST',headers:{'X-Griffin-Token':token},body:file});let d=await r.json();if(!r.ok)throw Error(d.error)}catch(e){document.getElementById('error').textContent=e.message}};
-async function refresh(){try{let r=await fetch('/api/status',{headers:{'X-Griffin-Token':token}});if(!r.ok)throw Error('Session expired. Reopen the app to open its private page.');let s=await r.json();document.getElementById('message').textContent=s.message;document.getElementById('counts').textContent=`Recordings imported: ${s.recordings} | Machine pass finished: ${s.machine_pass_finished_recordings} | Windows saved: ${s.windows.saved||0} | Remaining: ${s.windows.pending||0} | Failed: ${s.windows.failed||0} | Held recordings: ${s.held_recordings||0}`;document.getElementById('runtime').textContent=`Version ${s.version} · ${s.mode} · Current section elapsed: ${s.current_window_elapsed_seconds}s. Long AI sections can take several minutes.`;if(document.activeElement!==document.getElementById('hardware'))document.getElementById('hardware').value=s.hardware;document.getElementById('current').textContent=s.current.map(x=>`${x.video_id} ${Math.round(x.start)}–${Math.round(x.end)}s ${x.state}: ${x.error||''}`).join('\n');document.getElementById('folder').textContent=`CPU threads: ${s.cpu_threads} | Free storage: ${s.free_disk_gb} GB | Private data folder: ${s.data_directory}`;document.getElementById('export').href='/export?token='+encodeURIComponent(token);for(let id of ['import','setup','start','retry','settings'])document.getElementById(id).disabled=s.busy||s.active||s.mode==='running';}catch(e){document.getElementById('error').textContent=e.message}}refresh();setInterval(refresh,2500);
+async function refresh(){try{let r=await fetch('/api/status',{headers:{'X-Griffin-Token':token}});if(!r.ok)throw Error('Session expired. Reopen the app to open its private page.');let s=await r.json();document.getElementById('message').textContent=s.message;document.getElementById('counts').textContent=`Recordings imported: ${s.recordings} | Machine pass finished: ${s.machine_pass_finished_recordings} | Windows saved: ${s.windows.saved||0} | Remaining: ${s.windows.pending||0} | Failed: ${s.windows.failed||0} | Held recordings: ${s.held_recordings||0}`;let checks=s.automated_review||{};document.getElementById('checks').textContent=`Automatic answer checks: ${checks.machine_checked_for_final_review||0} passed for final review | ${checks.held_for_review||0} held | ${(checks.pending||0)+(checks.checking||0)} remaining | ${checks.failed||0} failed. No machine result is public-approved.`;document.getElementById('runtime').textContent=`Version ${s.version} · ${s.mode} · Current section elapsed: ${s.current_window_elapsed_seconds}s. Long AI sections can take several minutes.`;if(document.activeElement!==document.getElementById('hardware'))document.getElementById('hardware').value=s.hardware;document.getElementById('current').textContent=s.current.map(x=>`${x.video_id} ${Math.round(x.start)}–${Math.round(x.end)}s ${x.state}: ${x.error||''}`).join('\n');document.getElementById('folder').textContent=`CPU threads: ${s.cpu_threads} | Free storage: ${s.free_disk_gb} GB | Private data folder: ${s.data_directory}`;document.getElementById('export').href='/export?token='+encodeURIComponent(token);for(let id of ['import','setup','start','retry','settings'])document.getElementById(id).disabled=s.busy||s.active||s.mode==='running';}catch(e){document.getElementById('error').textContent=e.message}}refresh();setInterval(refresh,2500);
 let candidatePage=0;async function showCandidates(){try{let r=await fetch('/api/candidates?page='+candidatePage,{headers:{'X-Griffin-Token':token}});let data=await r.json();if(!r.ok)throw Error(data.error);candidatePage=data.page;let box=document.getElementById('candidates');box.replaceChildren();document.getElementById('page').textContent=`Page ${candidatePage+1} · ${data.total} raw candidates`;document.getElementById('prev').disabled=candidatePage===0;document.getElementById('next').disabled=(candidatePage+1)*10>=data.total;for(let q of data.items){let article=document.createElement('article'),h=document.createElement('h3'),a=document.createElement('a'),p=document.createElement('p'),flags=document.createElement('small'),detail=document.createElement('details'),summary=document.createElement('summary'),evidence=document.createElement('pre');h.textContent=q.question;a.textContent=q.teacher+' · '+q.video_id+' · '+Math.floor(q.start)+'s';a.href='https://www.youtube.com/watch?v='+q.video_id+'&t='+Math.floor(q.start)+'s';a.target='_blank';a.rel='noreferrer';p.textContent=q.answer||'Answer withheld: incomplete or insufficient caption evidence. It remains in the private repair queue.';flags.textContent='UNAPPROVED · '+q.uncertainty.join('; ');summary.textContent='Original caption evidence and model notes';evidence.style.whiteSpace='pre-wrap';evidence.textContent=JSON.stringify({evidence:q.evidence,notes:q.window_notes||[],withheld_proposal:q.proposed_answer_unverified||null},null,2);detail.append(summary,evidence);article.append(h,a,p,flags,detail);box.append(article)}}catch(e){document.getElementById('error').textContent=e.message}}document.getElementById('prev').onclick=()=>{candidatePage--;showCandidates()};document.getElementById('next').onclick=()=>{candidatePage++;showCandidates()};showCandidates();setInterval(showCandidates,15000);</script></html>'''
 
 class Server(ThreadingHTTPServer):
@@ -272,4 +290,5 @@ def main():
         controller.close()
 
 if __name__=='__main__':main()
+
 

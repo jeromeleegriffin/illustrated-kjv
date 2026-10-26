@@ -65,3 +65,11 @@ An export snapshot regression commits a worker result between the export’s SQL
 Database hardening: use SQLite rollback journaling for this single-worker app, avoiding dependence on concurrent WAL checkpoints in older bundled SQLite versions. Every import checks integrity before and after, and reimports retain a verified last-good.sqlite backup without deleting saved work. One disposable cloud workspace WAL test database failed an integrity check; clean OS-temporary storage passed repeated real-library and synthetic stress tests. Windows also runs a 1,360-recording, three-import synthetic integrity stress test. The scratch failure is retained in the private test report; no claim is made about its underlying filesystem cause. SQLite background: https://www.sqlite.org/wal.html#the_wal_reset_bug .
 
 The packaged Windows HTTP test also exposed a status-response timing race: an old zero-record snapshot could be paired with a newer import-finished message. Operation state is captured before the consistent database snapshot; the regression test prevents false-finished responses.
+
+
+
+## Version 1.1.0 automated-review upgrade
+
+Added a hash-bound, resumable second-pass check queue, conservative named-presenter checks, evidence-integrity gates, local semantic checks, duplicate-anchor clusters, existing-topic suggestions and self-contained private source exports. These checks are not public approval and do not establish full Q&A recall or audio verification. Existing 1.0.5 extraction jobs and models remain reusable. No Bible reader or public FAQ assets changed.
+
+Local regression suite: 45 tests passed, including legacy-job migration, interrupted check recovery, changed-source invalidation, altered-evidence rejection, typed model response validation, rhetorical/unsupported-answer holds, preserved variants, suggested grouping and self-contained exports. Real-caption model-check results and Windows build verification are recorded separately after execution; do not infer passing results from these tests.

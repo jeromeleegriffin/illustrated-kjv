@@ -1,4 +1,4 @@
-GRIFFIN SHEPHERD'S CHAPEL FAQ BATCH PROCESSOR — BUILD 001 / PATCH 1.0.2
+GRIFFIN SHEPHERD'S CHAPEL FAQ BATCH PROCESSOR — VERSION 1.1.0
 
 This companion app processes the saved private caption library into timestamped FAQ
 candidates. It preserves the existing approved FAQs and the Bible application.
@@ -76,3 +76,32 @@ Version 1.0.4: real saved-caption testing found a model converting a listener st
 Version 1.0.5 readiness fixes: remaining counts show only the eligible current-source queue; held recordings are listed separately. Completed/released/cancelled assignments release all supported reservation formats. Candidate viewing reads only one page into Python memory, independent downloads use separate temporary ZIPs, and malformed caption segments are reported. The page shows version, saved hardware preference and elapsed seconds during long AI sections. Existing data and saved results remain compatible.
 
 Database hardening: use SQLite rollback journaling for this single-worker app, avoiding dependence on concurrent WAL checkpoints in older bundled SQLite versions. Every import checks integrity before and after, and reimports retain a verified last-good.sqlite backup without deleting saved work. One disposable cloud workspace WAL test database failed an integrity check; clean OS-temporary storage passed repeated real-library and synthetic stress tests. Windows also runs a 1,360-recording, three-import synthetic integrity stress test. The scratch failure is retained in the private test report; no claim is made about its underlying filesystem cause. SQLite background: https://www.sqlite.org/wal.html#the_wal_reset_bug .
+
+
+VERSION 1.1.0 — AUTOMATIC SECOND-PASS REVIEW
+Start / Resume now checks existing saved proposals first, then continues extraction
+and checking automatically. No old extraction is thrown away or repeated solely
+for this update. Second-pass progress is stored in the same local data folder.
+A second AI pass checks whether the question came from a listener, whether the
+question and EVERY answer claim match captions, whether the answer is complete,
+and whether qualifications were preserved. Named presenter captions are compared
+with catalog attribution. Any uncertainty is held, never silently corrected.
+
+The export now includes publication-review.json, grouped possible duplicates,
+suggestions for existing FAQ topics, checked/held decisions, and untouched source
+transcripts. Upload ONE results ZIP for final publication review. The app does not
+need publishing credentials. Cross-recording topic suggestions are NOT approved
+merges; different answers remain separate. Machine agreement is not independent
+human or audio verification and does not prove exhaustive question recall.
+
+UPDATING WITHOUT LOSING WORK
+1. In the old app click Pause, wait for the current section to finish, and export
+   a results ZIP as a backup.
+2. Close the old program's console window. Extract the new application ZIP into
+   its own folder and launch its START_HERE.bat.
+3. The same LocalAppData progress and downloaded model are reused automatically.
+   No library reimport, Python installation or model redownload is normally needed.
+4. Click Start / Resume. Existing saved proposals enter the new automatic checks.
+   This adds processing time; it is actual checking work, not lost progress.
+5. Keep uncertain cases held. Upload the results ZIP for the final publish step.
+

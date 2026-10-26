@@ -6,6 +6,7 @@ from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 from app import Controller
 from core import Ollama,validate_result
+from review import check_candidate
 
 def main():
  with tempfile.TemporaryDirectory() as tmp:
@@ -13,7 +14,7 @@ def main():
   try:
    start=time.time();c.setup();assert 'ready' in c.message.lower()
    d={'id':'abcdefghijk','teacher':'Arnold Murray','duration':65,'segments':[
-    {'start':0,'end':5,'text':'SYNTHETIC SOFTWARE TEST ONLY. This is not an actual pastor recording.'},
+    {'start':0,'end':5,'text':'SYNTHETIC SOFTWARE TEST ONLY. Fictional introduction: And now here is Pastor Arnold Murray.'},
     {'start':5,'end':10,'text':'Let us move to listener question time.'},
     {'start':10,'end':20,'text':'Mary from Texas asks: What does the word rest mean?'},
     {'start':20,'end':35,'text':'The answer is that rest means stopping work and taking a break.'},
@@ -26,8 +27,16 @@ def main():
    assert rows[0]['question_first_cue']==2 and rows[0]['answer_first_cue']==3,raw
    assert not rows[0]['audio_verified']
    assert rows[0]['review_status']=='machine_candidate_unapproved',rows
+   checked=check_candidate(engine,d,rows[0])
+   assert checked['model_called'],checked
+   assert checked['status'] in ('machine_checked_for_final_review','held_for_review'),checked
+   assert not checked.get('public_approved',False)
+   bad={**rows[0],'answer':'The answer says rest means robbing a bank and buying a spaceship.'}
+   rejected=check_candidate(engine,d,bad)
+   assert rejected['status']=='held_for_review',rejected
    print(json.dumps({'test':'Windows official runtime + real local CPU AI','passed':True,'elapsed_seconds':round(time.time()-start,1),'model':engine.model,'eval_count':metrics.get('eval_count')}))
   finally:
    c.close()
 
 if __name__=='__main__':main()
+

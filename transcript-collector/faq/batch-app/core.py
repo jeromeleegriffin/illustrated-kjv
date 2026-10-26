@@ -4,7 +4,7 @@ import hashlib, json, math, re, sqlite3, time, urllib.request, zipfile
 from contextlib import contextmanager
 from pathlib import Path, PurePosixPath
 
-VERSION = '1.0.5'
+VERSION = '1.1.0'
 MODEL = 'qwen3:8b'
 ALLOWED_TEACHERS = {'Arnold Murray', 'Dennis Murray'}
 TRANSCRIPT_DIRS = ('search-library/transcripts/', 'recovery006/supplement-search/transcripts/')
@@ -189,6 +189,12 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
                     for v in x:reservations(v)
             reservations(assignments)
             self.setting('imported_registry_counts',{'questions':len(registry.get('questions',[])),'occurrences':len(registry.get('occurrences',[]))})
+            # Keep public grouping metadata only. Existing saved extraction jobs
+            # and private progress are never replaced by this reference snapshot.
+            reference=self.root/'reference-questions.json'
+            partial=reference.with_suffix('.partial')
+            partial.write_text(json.dumps({'questions':registry.get('questions',[])},ensure_ascii=False),encoding='utf-8')
+            partial.replace(reference)
             for info in infos:
                 name=info.filename
                 if not name.endswith('.json') or not any(name.startswith(prefix) for prefix in TRANSCRIPT_DIRS+('topical-library/search-library/transcripts/',)): continue
@@ -265,11 +271,19 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
             rows=db.execute("SELECT j.*,r.teacher FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE j.state='saved'").fetchall()
             failures=[dict(r) for r in db.execute("SELECT video_id,source_hash,start,end,error,state FROM jobs WHERE state<>'saved'")]
             events=[dict(r) for r in db.execute('SELECT video_id,source_hash,event,details,created FROM processing_events ORDER BY id')]
+            sources=[dict(r) for r in db.execute("SELECT DISTINCT r.id,r.hash,r.source_path FROM recordings r JOIN jobs j ON j.video_id=r.id AND j.source_hash=r.hash WHERE j.state='saved'")]
+            from review import ReviewQueue,build_review_package,fingerprint
+            checked=ReviewQueue.export_snapshot(None,db) if db.execute("SELECT 1 FROM sqlite_master WHERE name='candidate_checks'").fetchone() else []
         grouped={}
+        checked_keys={c['candidate_key'] for c in checked}
         for row in rows:
             item=grouped.setdefault(row['video_id'],{'video_id':row['video_id'],'transcript_sha256':row['source_hash'],'catalog_teacher':row['teacher'],'teacher_independently_confirmed':False,'machine_windows':[],'questions':[],'fully_reviewed':False,'review_status':'machine_candidates_require_semantic_and_teacher_review'})
             item['machine_windows'].append({'start':row['start'],'end':row['end']})
             for q in json.loads(row['result']):
+                key=fingerprint(row['video_id'],row['source_hash'],q)
+                if key not in checked_keys:
+                    checked.append({'candidate_key':key,'video_id':row['video_id'],'transcript_sha256':row['source_hash'],'state':'pending','proposal':q,'check':None,'error':None,'attempts':0,'checked_at':None})
+                    checked_keys.add(key)
                 q={**q,'machine_provenance':json.loads(row['metrics'] or '{}')}
                 # Adjacent overlapping windows can rediscover the same question. Retain distinct variants if text differs.
                 duplicate=next((p for p in item['questions'] if abs(p['start']-q['start'])<12 and p['question'].casefold()==q['question'].casefold()),None)
@@ -279,13 +293,27 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
                     elif q['answer']!=duplicate['answer']: duplicate.setdefault('alternate_machine_variants',[]).append(q)
                 else:item['questions'].append(q)
         manifest={'schema':'griffin-private-faq-machine-v1','created':stamp(),'model':self.setting('model') or MODEL,'processor_version':VERSION,'public_approved':False,'recordings':len(grouped),'candidate_questions':sum(len(x['questions']) for x in grouped.values()),'unfinished_windows':len(failures),'warning':'Private captions and AI candidates. Machine completion is not full FAQ review or audio verification.'}
+        reference=self.root/'reference-questions.json'
+        if not reference.exists():reference=Path(__file__).with_name('reference-questions.json')
+        registry=json.loads(reference.read_text(encoding='utf-8')) if reference.exists() else {'questions':[]}
+        review=build_review_package(checked,registry)
+        manifest['automated_review']=review['counts']
+        manifest['self_contained_sources']=len(sources)
+        manifest['check_policy']='Automated second pass; final publication review required. No blanket approval.'
         with zipfile.ZipFile(path,'w',zipfile.ZIP_DEFLATED) as z:
             z.writestr('index.html','<!doctype html><meta charset="utf-8"><title>Private FAQ results</title><h1>Private FAQ batch results</h1><p>Machine candidates, not approved public answers. Keep this ZIP private. Review source-bound evidence and teacher attribution before publication.</p>')
             z.writestr('manifest.json',json.dumps(manifest,indent=2))
             z.writestr('unfinished-windows.json',json.dumps(failures,indent=2))
             z.writestr('processing-events.json',json.dumps(events,indent=2))
+            z.writestr('publication-review.json',json.dumps(review,indent=2,ensure_ascii=False))
+            z.writestr('reference-questions.json',json.dumps(registry,ensure_ascii=False))
+            for source in sources:
+                raw=Path(source['source_path']).read_bytes()
+                if sha(raw)!=source['hash']:raise ValueError('Source changed during export; no usable ZIP was produced')
+                z.writestr('sources/'+source['id']+'.json',raw)
             for id,item in grouped.items():z.writestr('results/'+id+'.json',json.dumps(item,indent=2,ensure_ascii=False))
         with zipfile.ZipFile(path) as z:
             if z.testzip():raise ValueError('Export ZIP verification failed')
         return manifest
+
 
