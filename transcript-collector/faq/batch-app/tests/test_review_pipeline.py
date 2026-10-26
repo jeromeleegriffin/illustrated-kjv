@@ -5,7 +5,7 @@ from core import Store,windows,validate_result,sha
 from review import ReviewQueue,check_candidate,build_review_package,fingerprint,named_teacher
 from test_batch import document,archive
 
-GOOD={'kind':'listener_question','question_supported':True,'answer_supported':True,'answer_complete':True,'qualification_preserved':True,'issues':[]}
+GOOD={'kind':'listener_question','question_supported':True,'answer_supported':True,'answer_complete':True,'qualification_preserved':True}
 class Engine:
  model='test-only';hardware='cpu'
  def __init__(self,verdict=None):self.verdict=GOOD.copy() if verdict is None else verdict;self.calls=0
@@ -57,6 +57,11 @@ class ReviewTests(unittest.TestCase):
    proposal={**q,'answer':q['answer']+str(i)};rows.append({'candidate_key':str(i),'video_id':d['id'],'transcript_sha256':'a'*64,'proposal':proposal,'state':'machine_checked_for_final_review'})
   r=build_review_package(rows,{'questions':[{'id':'rest','question':'What is rest?'}]})
   self.assertEqual(r['question_start_clusters'],1);g=r['groups'][0];self.assertEqual(len(g['variants']),2);self.assertFalse(g['public_approved']);self.assertEqual(g['likely_existing_groups'][0]['status'],'suggestion_not_approved_merge')
+ def test_new_check_rules_invalidate_previous_automatic_decision(self):
+  with tempfile.TemporaryDirectory() as td:
+   root=Path(td);d,q=sample();z=root/'in.zip';archive(z,d);s=Store(root/'data');s.import_zip(z);j=s.next_job();s.finish(j,[q],{});v=ReviewQueue(s);v.sync();job=v.next();v.finish(job,{'status':'machine_checked_for_final_review'})
+   with s.connect() as db:db.execute("UPDATE candidate_checks SET version='older-check-rules'")
+   v=ReviewQueue(s);self.assertEqual(v.status()['pending'],1);self.assertIsNone(v.next()['result'])
  def test_self_contained_export_and_hash_guard(self):
   with tempfile.TemporaryDirectory() as td:
    root=Path(td);d,q=sample();z=root/'in.zip';archive(z,d);s=Store(root/'data');s.import_zip(z);j=s.next_job();s.finish(j,[q],{});v=ReviewQueue(s);v.sync();job=v.next();v.finish(job,check_candidate(Engine(),d,q))
