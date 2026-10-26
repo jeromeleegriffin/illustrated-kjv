@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T22:36:50.055726+00:00",
+  "updated": "2026-10-26T23:07:52.282673+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -7625,12 +7625,175 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 36,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "local011-us-image",
+        "local011-evening-morning",
+        "local011-tares-now",
+        "local011-birds-flesh",
+        "local011-eve-spirit",
+        "local011-bride-christ",
+        "local011-satan-angels-now",
+        "local011-biblical-cruelty",
+        "local011-earthquake-labor",
+        "local011-cain-stepfather",
+        "local011-last-supper-knots",
+        "local011-jesus-john-cousins",
+        "local011-witnesses-gentiles",
+        "local011-memory-after-death",
+        "local011-deuteronomy-sex",
+        "local011-revelation9",
+        "local011-excessive-study",
+        "local011-jude-witness",
+        "local011-philadelphia-church",
+        "local011-communion-disability"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local011-us-image",
+          "start_seconds": 2182.98,
+          "end_seconds": 2239.77,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-evening-morning",
+          "start_seconds": 2239.77,
+          "end_seconds": 2300.464,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-tares-now",
+          "start_seconds": 2300.464,
+          "end_seconds": 2399.964,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-birds-flesh",
+          "start_seconds": 2399.964,
+          "end_seconds": 2443.474,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-eve-spirit",
+          "start_seconds": 2443.474,
+          "end_seconds": 2492.423,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-bride-christ",
+          "start_seconds": 2492.423,
+          "end_seconds": 2542.206,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-satan-angels-now",
+          "start_seconds": 2542.206,
+          "end_seconds": 2638.102,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-biblical-cruelty",
+          "start_seconds": 2638.102,
+          "end_seconds": 2763.861,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-earthquake-labor",
+          "start_seconds": 2763.861,
+          "end_seconds": 2791.455,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-cain-stepfather",
+          "start_seconds": 2816.88,
+          "end_seconds": 2826.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-last-supper-knots",
+          "start_seconds": 2826.19,
+          "end_seconds": 2833.931,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-jesus-john-cousins",
+          "start_seconds": 2833.931,
+          "end_seconds": 2857.988,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-witnesses-gentiles",
+          "start_seconds": 2857.988,
+          "end_seconds": 2932.396,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-memory-after-death",
+          "start_seconds": 2932.396,
+          "end_seconds": 3007.304,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-deuteronomy-sex",
+          "start_seconds": 3007.304,
+          "end_seconds": 3069.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-revelation9",
+          "start_seconds": 3069.599,
+          "end_seconds": 3107.337,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-excessive-study",
+          "start_seconds": 3107.337,
+          "end_seconds": 3215.512,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-jude-witness",
+          "start_seconds": 3215.512,
+          "end_seconds": 3262.259,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-philadelphia-church",
+          "start_seconds": 3262.259,
+          "end_seconds": 3302.065,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-communion-disability",
+          "start_seconds": 3302.065,
+          "end_seconds": 3375.805,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "1tbXpRlZbS0",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "06f59375aa222a1b71c0dc62cdcabe404d321a1fea397c9323fc278c6ac62626",
+        "qa_start": 2178.609,
+        "qa_end": 3375.805,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2178.609,
+            "end": 3375.805
+          }
+        ],
+        "unresolved_ranges": [],
+        "cursor_seconds": 3375.805,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete saved-caption Q&A read; source-specific uncertainties held; audio pending."
+      },
+      "cursor_seconds": 3375.805
     },
     {
       "video_id": "1upVxha_ISM",
@@ -9344,12 +9507,156 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 40,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local011-baptism-infant",
+        "local011-law-after-christ",
+        "local011-anointing-vial",
+        "local011-jesus-hair-feet",
+        "local011-donation-letters",
+        "local011-ill-gotten-gains",
+        "local008-enoch",
+        "local011-remarriage-abuse",
+        "local011-passover-celebrate",
+        "local011-pork-medication",
+        "local011-god-satan-difference",
+        "local011-animals-eternity",
+        "local011-dogs-eternity",
+        "local011-how-pray",
+        "local011-fallen-angels-follow"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local011-baptism-infant",
+          "start_seconds": 2245.876,
+          "end_seconds": 2352.049,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-law-after-christ",
+          "start_seconds": 2352.049,
+          "end_seconds": 2430.661,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-anointing-vial",
+          "start_seconds": 2430.661,
+          "end_seconds": 2475.739,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-jesus-hair-feet",
+          "start_seconds": 2475.739,
+          "end_seconds": 2553.517,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-donation-letters",
+          "start_seconds": 2553.517,
+          "end_seconds": 2604.034,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-ill-gotten-gains",
+          "start_seconds": 2604.034,
+          "end_seconds": 2687.051,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-enoch",
+          "start_seconds": 2687.051,
+          "end_seconds": 2753.05,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-remarriage-abuse",
+          "start_seconds": 2753.05,
+          "end_seconds": 2843.106,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-passover-celebrate",
+          "start_seconds": 2843.106,
+          "end_seconds": 2935.198,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-pork-medication",
+          "start_seconds": 2975.872,
+          "end_seconds": 3044.341,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-god-satan-difference",
+          "start_seconds": 3044.341,
+          "end_seconds": 3076.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-animals-eternity",
+          "start_seconds": 3076.64,
+          "end_seconds": 3110.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-dogs-eternity",
+          "start_seconds": 3197.36,
+          "end_seconds": 3236.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-how-pray",
+          "start_seconds": 3236.7,
+          "end_seconds": 3310.006,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-fallen-angels-follow",
+          "start_seconds": 3324.788,
+          "end_seconds": 3363.626,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "2jk52OkZGC0",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "c1bb088ddd7c112388decfc3ee34422397fb8b6aa78ac6cd46919bb77fae3c16",
+        "qa_start": 2242.44,
+        "qa_end": 3366.83,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2242.44,
+            "end": 3366.83
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2935.198,
+            "end": 2975.872,
+            "reason": "Dennis says he does not know whether krill qualifies; identification needs external confirmation."
+          },
+          {
+            "start": 3110.64,
+            "end": 3197.36,
+            "reason": "Conflicting caption about Abel’s father needs audio verification."
+          },
+          {
+            "start": 3310.006,
+            "end": 3324.788,
+            "reason": "David question referred back to lecture, requires review of earlier teaching."
+          }
+        ],
+        "cursor_seconds": 2935.198,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete saved-caption Q&A read; source-specific uncertainties held; audio pending."
+      },
+      "cursor_seconds": 2935.198
     },
     {
       "video_id": "2k06jo0VD30",
@@ -9938,12 +10245,200 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 35,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local011-wailing-wall",
+        "local011-babies-heaven",
+        "local011-remarry-divorce",
+        "local011-deuteronomy28",
+        "local011-first-last",
+        "local011-john-care-mary",
+        "local011-mary-other-children",
+        "cremation",
+        "local011-early-latter-rain",
+        "local011-two-witnesses-timing",
+        "local011-spiritual-blindness",
+        "local009-paul-death",
+        "local011-adam-races",
+        "local011-church-attendance",
+        "local011-saved-again",
+        "local008-marriage-license",
+        "local011-horses-hamstrung",
+        "local011-family-responsibility",
+        "local011-lost-tribes-ancestry",
+        "local008-millennium-length",
+        "local011-end-time-fear",
+        "local011-cain-reproduction"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local011-wailing-wall",
+          "start_seconds": 2152.35,
+          "end_seconds": 2165.495,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-babies-heaven",
+          "start_seconds": 2165.495,
+          "end_seconds": 2214.411,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-remarry-divorce",
+          "start_seconds": 2214.411,
+          "end_seconds": 2322.286,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-deuteronomy28",
+          "start_seconds": 2322.286,
+          "end_seconds": 2345.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-first-last",
+          "start_seconds": 2345.91,
+          "end_seconds": 2401.398,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-john-care-mary",
+          "start_seconds": 2401.398,
+          "end_seconds": 2451.314,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-mary-other-children",
+          "start_seconds": 2451.314,
+          "end_seconds": 2485.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 2485.95,
+          "end_seconds": 2547.477,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-early-latter-rain",
+          "start_seconds": 2547.477,
+          "end_seconds": 2639.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-two-witnesses-timing",
+          "start_seconds": 2557.988,
+          "end_seconds": 2597.795,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-spiritual-blindness",
+          "start_seconds": 2642.572,
+          "end_seconds": 2702.065,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local009-paul-death",
+          "start_seconds": 2702.065,
+          "end_seconds": 2719.149,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-adam-races",
+          "start_seconds": 2719.149,
+          "end_seconds": 2764.328,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-church-attendance",
+          "start_seconds": 2764.328,
+          "end_seconds": 2819.182,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-saved-again",
+          "start_seconds": 2819.182,
+          "end_seconds": 2892.155,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-marriage-license",
+          "start_seconds": 2892.155,
+          "end_seconds": 2943.306,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-horses-hamstrung",
+          "start_seconds": 3003.433,
+          "end_seconds": 3055.185,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-family-responsibility",
+          "start_seconds": 3055.185,
+          "end_seconds": 3083.547,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-lost-tribes-ancestry",
+          "start_seconds": 3083.547,
+          "end_seconds": 3111.541,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-millennium-length",
+          "start_seconds": 3204.834,
+          "end_seconds": 3242.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-end-time-fear",
+          "start_seconds": 3242.839,
+          "end_seconds": 3338.134,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-cain-reproduction",
+          "start_seconds": 3338.134,
+          "end_seconds": 3361.324,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "32qk2GyzKhQ",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "bb1533b8aa29d773681ff700604045e6523b2d14bfc3e58010f1d492e53ee830",
+        "qa_start": 2150.046,
+        "qa_end": 3369.265,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2150.046,
+            "end": 3369.265
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2943.306,
+            "end": 3003.433,
+            "reason": "Hebrew wording and translation require verification."
+          },
+          {
+            "start": 3111.541,
+            "end": 3204.834,
+            "reason": "Physical decomposition details need separate confirmation; repeated reading of question is not a second occurrence."
+          }
+        ],
+        "cursor_seconds": 2943.306,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete saved-caption Q&A read; source-specific uncertainties held; audio pending."
+      },
+      "cursor_seconds": 2943.306
     },
     {
       "video_id": "32tnNqefRvo",
@@ -9956,12 +10451,177 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 30,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local011-key-david",
+        "local011-tongues-spirit",
+        "local011-massorah",
+        "local011-judgment-house",
+        "local011-mary-sin",
+        "local011-canaanites",
+        "local011-spiritual-death",
+        "local011-trouble-home",
+        "local011-delivered-up",
+        "local011-church-hell",
+        "local011-adam-garden",
+        "local011-female-angels",
+        "local010-dont-teach-fly",
+        "local011-forgive-false-oath",
+        "local011-bible-written-god",
+        "local011-friend-different-faith",
+        "local011-casino-tithe",
+        "local011-satan-ashes"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local011-key-david",
+          "start_seconds": 2173.404,
+          "end_seconds": 2255.652,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-tongues-spirit",
+          "start_seconds": 2255.652,
+          "end_seconds": 2337.635,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-massorah",
+          "start_seconds": 2337.635,
+          "end_seconds": 2398.762,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-judgment-house",
+          "start_seconds": 2398.762,
+          "end_seconds": 2416.981,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-mary-sin",
+          "start_seconds": 2416.981,
+          "end_seconds": 2455.252,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-canaanites",
+          "start_seconds": 2455.252,
+          "end_seconds": 2546.944,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-spiritual-death",
+          "start_seconds": 2546.944,
+          "end_seconds": 2617.548,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-trouble-home",
+          "start_seconds": 2617.548,
+          "end_seconds": 2756.886,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-delivered-up",
+          "start_seconds": 2756.886,
+          "end_seconds": 2859.323,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-church-hell",
+          "start_seconds": 2917.547,
+          "end_seconds": 2928.691,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-adam-garden",
+          "start_seconds": 2928.691,
+          "end_seconds": 2960.957,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-female-angels",
+          "start_seconds": 2960.957,
+          "end_seconds": 2997.794,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-dont-teach-fly",
+          "start_seconds": 2997.794,
+          "end_seconds": 3052.649,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-forgive-false-oath",
+          "start_seconds": 3052.649,
+          "end_seconds": 3084.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-bible-written-god",
+          "start_seconds": 3084.38,
+          "end_seconds": 3184.013,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-friend-different-faith",
+          "start_seconds": 3184.013,
+          "end_seconds": 3240.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-casino-tithe",
+          "start_seconds": 3240.87,
+          "end_seconds": 3332.628,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-satan-ashes",
+          "start_seconds": 3332.628,
+          "end_seconds": 3381.244,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "32tnNqefRvo",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "80c638b0a779571af02221010acabd1eff87b6fa6e15f713e4d74d416bbe1fd2",
+        "qa_start": 2168.632,
+        "qa_end": 3381.244,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2168.632,
+            "end": 3381.244
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2255.652,
+            "end": 2337.635,
+            "reason": "Listener requests a specific scripture but Dennis does not identify it."
+          },
+          {
+            "start": 2859.323,
+            "end": 2917.547,
+            "reason": "Sensitive suicide question requires careful review before inclusion."
+          },
+          {
+            "start": 3084.38,
+            "end": 3184.013,
+            "reason": "The caption gives conflicting dates for Psalm 22; exact chronology requires checking."
+          }
+        ],
+        "cursor_seconds": 2255.652,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete saved-caption Q&A read; source-specific uncertainties held; audio pending."
+      },
+      "cursor_seconds": 2255.652
     },
     {
       "video_id": "35sEKNP4z68",
@@ -10085,12 +10745,167 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 36,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local011-preacher-drugs",
+        "local011-confess-clergy",
+        "local011-fig-baskets",
+        "local011-jury-duty",
+        "local011-dead-rise-first",
+        "local011-power-antichrist",
+        "local009-women-preachers",
+        "local011-longing-home",
+        "local011-disciples-tribes",
+        "local011-noah-father",
+        "local011-second-chance",
+        "local011-companion-edition",
+        "local011-church-rapture",
+        "local011-hearers-doers",
+        "local011-speak-tongues",
+        "local011-two-judgments",
+        "local011-ghosts-familiar",
+        "local011-once-saved"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local011-preacher-drugs",
+          "start_seconds": 2216.747,
+          "end_seconds": 2245.81,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-confess-clergy",
+          "start_seconds": 2245.81,
+          "end_seconds": 2298.462,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-fig-baskets",
+          "start_seconds": 2298.462,
+          "end_seconds": 2381.479,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-jury-duty",
+          "start_seconds": 2381.479,
+          "end_seconds": 2462.326,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-dead-rise-first",
+          "start_seconds": 2462.326,
+          "end_seconds": 2547.811,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-power-antichrist",
+          "start_seconds": 2547.811,
+          "end_seconds": 2598.729,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local009-women-preachers",
+          "start_seconds": 2598.729,
+          "end_seconds": 2655.819,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-longing-home",
+          "start_seconds": 2655.819,
+          "end_seconds": 2700.998,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-disciples-tribes",
+          "start_seconds": 2700.998,
+          "end_seconds": 2761.592,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-noah-father",
+          "start_seconds": 2761.592,
+          "end_seconds": 2816.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-second-chance",
+          "start_seconds": 2816.98,
+          "end_seconds": 2875.272,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-companion-edition",
+          "start_seconds": 2875.272,
+          "end_seconds": 2940.37,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-church-rapture",
+          "start_seconds": 2940.37,
+          "end_seconds": 3062.159,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-hearers-doers",
+          "start_seconds": 3062.159,
+          "end_seconds": 3113.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-speak-tongues",
+          "start_seconds": 3113.21,
+          "end_seconds": 3200.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-two-judgments",
+          "start_seconds": 3200.63,
+          "end_seconds": 3261.524,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-ghosts-familiar",
+          "start_seconds": 3261.524,
+          "end_seconds": 3342.806,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-once-saved",
+          "start_seconds": 3342.806,
+          "end_seconds": 3382.645,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "3CyXwiPxF9Y",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "0f2742a0ad395b6f0da0ae1cf2c7bd7c002c07e1067fa81ddc64d817c4c384da",
+        "qa_start": 2212.51,
+        "qa_end": 3382.645,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2212.51,
+            "end": 3382.645
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2245.81,
+            "end": 2298.462,
+            "reason": "Caption scripture citation requires verification; published answer uses chapter only."
+          }
+        ],
+        "cursor_seconds": 2245.81,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete saved-caption Q&A read; source-specific uncertainties held; audio pending."
+      },
+      "cursor_seconds": 2245.81
     },
     {
       "video_id": "3IOM9H9tPO0",
@@ -44928,13 +45743,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 196,
-    "fully_reviewed": 16,
+    "partially_reviewed": 200,
+    "fully_reviewed": 17,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1083,
+    "pending": 1078,
     "source_changed": 0,
-    "question_occurrences": 2472
+    "question_occurrences": 2565
   }
 }
