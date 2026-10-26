@@ -48,7 +48,7 @@
   const prev=make('button','← Previous'),next=make('button','Next →'),label=make('span','','page-label');
   prev.type=next.type='button';label.setAttribute('aria-live','polite');
   holdToPage(prev,-1);holdToPage(next,1);
-  nav.append(prev,label,next);return {nav,prev,next,label};
+  const center=make('span',undefined,'pager-center'),back=make('a','← Bible','reader-return');back.href='./index.html';back.setAttribute('aria-label','Return to your place in the Bible');center.append(label,back);nav.append(prev,center,next);return {nav,prev,next,label};
  });
  function render(reset=false){
   if(reset){stopPagingHold();page=0;resumeQuestionId=null;}

@@ -70,10 +70,14 @@ function openBullinger(verse=null){
  const sources=document.createElement('div');sources.className='bullinger-sources';sources.innerHTML='<a href="./appendices.html">Read Bullinger’s appendices</a> · <a href="https://www.sermonindex.net/commentary/cbnotes/" target="_blank" rel="noopener">Compare the source transcription ↗</a>';body.append(sources);
 }
 function applyReaderLocation(){
- const saved=ReadingProgress.bookmark();if(saved&&!new URLSearchParams(location.search).has('ref')){state.book=saved.book;state.chapter=saved.chapter;setTimeout(()=>BibleTeaching.setLocation(saved.book,saved.chapter,saved.verse),0);setTimeout(()=>document.querySelector(`.verse[data-verse="${saved.verse}"]`)?.scrollIntoView({block:'center'}),200);}const params=new URLSearchParams(location.search),ref=params.get('ref');if(ref){const result=BibleSearch.search(state.data,BOOKS,ref);if(result.kind==='reference'){state.book=result.target.book;state.chapter=result.target.chapter;setTimeout(()=>BibleTeaching.setLocation(result.target.book,result.target.chapter,result.target.verse),0);setTimeout(()=>document.querySelector(`.verse[data-verse="${result.target.verse}"]`)?.scrollIntoView({block:'center'}),180)}}
+ const ref=new URLSearchParams(location.search).get('ref');
+ let target=ReadingProgress.position()||ReadingProgress.bookmark();
+ if(ref){const result=BibleSearch.search(state.data,BOOKS,ref);if(result.kind==='reference')target=result.target;}
+ if(target){state.book=target.book;state.chapter=target.chapter;ReadingProgress.restore(target);setTimeout(()=>BibleTeaching.setLocation(target.book,target.chapter,target.verse),0);setTimeout(()=>document.querySelector(`.verse[data-verse="${target.verse}"]`)?.scrollIntoView({block:'center'}),200);}
 }
 
 fetch('./bible.json').then(r=>r.json()).then(data=>{window.__bible=data;init()}).catch(showLoadError);
 
 // Search is a user action, never an entry screen, including restored tabs.
 window.addEventListener('pageshow',()=>hideModal('searchModal'));
+
