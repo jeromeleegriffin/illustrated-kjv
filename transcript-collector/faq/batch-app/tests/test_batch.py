@@ -100,6 +100,16 @@ class Extraction(unittest.TestCase):
    q=dict(question_first_cue=25,answer_first_cue=26,answer_last_cue=26,question='What is rest?',answer='The pastor replies.',uncertainty=[flag])
    r=validate_result(d,w,{'questions':[q]})[0]
    self.assertEqual(r['answer'],'');self.assertEqual(r['review_status'],'held_machine_proposal')
+ def test_listener_comment_not_presented_as_question(self):
+  d=document();d['segments'][25]['text']='A friend died. I feel people need to pay attention.';w=windows(d)[1]
+  q=dict(question_first_cue=25,answer_first_cue=26,answer_last_cue=26,question='Why are people dying?',answer='The pastor gives a reason.',uncertainty=[])
+  r=validate_result(d,w,{'questions':[q]})[0]
+  self.assertEqual(r['answer'],'');self.assertIn('no_explicit_question_in_selected_evidence',r['uncertainty'])
+ def test_yes_no_question_has_evidence_signal(self):
+  d=document();d['segments'][25]['text']='Is this teaching correct';w=windows(d)[1]
+  q=dict(question_first_cue=25,answer_first_cue=26,answer_last_cue=26,question='Is this correct?',answer='The pastor replies.',uncertainty=[])
+  r=validate_result(d,w,{'questions':[q]})[0]
+  self.assertEqual(r['review_status'],'machine_candidate_unapproved')
  def test_malformed_timestamps(self):
   d=document();d['segments'][0]['start']=float('nan')
   with self.assertRaises(ValueError):read_document(json.dumps(d))

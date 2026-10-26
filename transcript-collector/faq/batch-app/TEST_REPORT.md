@@ -52,3 +52,5 @@ The extended batch also exposed a dense Q&A window that exhausted the model outp
 ## Version 1.0.3
 
 Added regression coverage for model-declared truncated/missing answers, empty-record completion, actual Controller recovery from malformed JSON using a controlled fake engine, and Windows sleep-request/release flags. Existing tests continue to cover source hashes, duplicate imports, interruptions, reservations, evidence and exports. Real model batch 003 is recorded separately as private evidence; machine outputs are not approved FAQs.
+
+Version 1.0.4: real saved-caption testing found a model converting a listener statement into an invented why-question. Proposals with no explicit question/request signal in their selected question evidence are now withheld, with the original proposal retained privately. This is a conservative review guard, not proof that every other candidate is semantically valid; it can also hold legitimate questions requiring a wider source range. Added comment-vs-question and yes/no evidence regressions.

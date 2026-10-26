@@ -69,3 +69,5 @@ missing or uncertain answers into approvals. No recording-by-recording babysitti
 is needed for these recoverable window failures.
 
 Version 1.0.3 reliability refinements: incomplete-answer flags withhold teaching summaries; malformed model JSON is retried in bounded smaller windows; empty queues never count as completed recordings. Windows automatic sleep is prevented only while processing and released on pause. Closing the laptop lid or choosing Sleep still interrupts processing; progress resumes from committed windows.
+
+Version 1.0.4: real saved-caption testing found a model converting a listener statement into an invented why-question. Proposals with no explicit question/request signal in their selected question evidence are now withheld, with the original proposal retained privately. This is a conservative review guard, not proof that every other candidate is semantically valid; it can also hold legitimate questions requiring a wider source range. Added comment-vs-question and yes/no evidence regressions.
