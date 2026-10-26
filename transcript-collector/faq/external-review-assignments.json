@@ -3339,7 +3339,7 @@
     },
     {
       "assignment_id": "griffin-local-faq-20261026-002",
-      "status": "machine_processing",
+      "status": "caption_review_integrated_holds_pending",
       "owner": "Griffin local FAQ batch app",
       "assigned_count": 3,
       "publication_policy": "Private machine candidates only. Existing review required before publication. Avoid duplicate processing while this batch is active.",
@@ -3365,7 +3365,13 @@
           "qa_start": 2257.95,
           "qa_end": 3372.34
         }
-      ]
+      ],
+      "machine_windows_saved": 23,
+      "machine_candidates": 69,
+      "caption_reviewed_answers_integrated": 46,
+      "integration_commit": "fac8288ff10f3c9d2894f6fd33c9ce14257a72c2",
+      "private_checkpoint_library_file_id": "libfile_fa436b11a950819199b084328523b67c",
+      "audio_verified": false
     }
   ]
 }

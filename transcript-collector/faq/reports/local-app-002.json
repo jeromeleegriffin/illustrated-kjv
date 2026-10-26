@@ -25,7 +25,14 @@
     "F1e-_aBWB4c"
   ],
   "private_checkpoint": "libfile_fa436b11a950819199b084328523b67c",
-  "machine_processing_status": "Separate candidate batch in progress; not a public approval source",
+  "machine_processing_status": "Selected Q&A window coverage completed; machine candidates remain unapproved",
   "audio_verified": false,
-  "uncertainty": "Preserve reference, unanswered-doorframe, incomplete Isaiah response, unread letter and deferred question holds; do not fabricate missing content."
+  "uncertainty": "Preserve reference, unanswered-doorframe, incomplete Isaiah response, unread letter and deferred question holds; do not fabricate missing content.",
+  "machine_windows_saved": 23,
+  "machine_candidates": 69,
+  "machine_proposals_withheld": 25,
+  "machine_candidates_awaiting_semantic_review": 44,
+  "processor_patch": "1.0.2",
+  "windows_ci_run": 40288770610,
+  "faq_release": "65b40a765b830548fa42531324e6e96be84fa62b"
 }
