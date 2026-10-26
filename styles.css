@@ -48,3 +48,5 @@
 .bottom-chapter-reference{color:var(--muted);text-align:center}
 .chapter-swipe-help{font-size:11px;color:var(--muted);text-align:center;margin:12px 0 0}
 @media(max-width:480px){.chapter-bottom-controls{flex-wrap:wrap;gap:10px}.bottom-chapter-reference{order:-1;flex-basis:100%}.chapter-bottom-controls button{flex:1;padding:10px 8px;font-size:12px}}
+
+.study-panel.is-dismissed{display:none!important}
