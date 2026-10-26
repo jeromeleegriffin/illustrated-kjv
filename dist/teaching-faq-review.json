@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T01:36:04.130645+00:00",
+  "updated": "2026-10-26T01:56:16.787096+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -30376,12 +30376,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 53,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "lost-tribes-documentation",
+        "angels-gender-earth-ages",
+        "first-age-destruction",
+        "first-age-human-flesh",
+        "three-days-tomb-calendar",
+        "spouse-exaggeration-lies",
+        "hair-covering-angels",
+        "women-prophets-passages",
+        "soul-spirit-distinction",
+        "sin-first-age",
+        "witnesses-shortened-time",
+        "jesus-vegetarian-claim",
+        "ministry-donation-address"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "lost-tribes-documentation",
+          "start_seconds": 2476.607,
+          "end_seconds": 2575.773,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-gender-earth-ages",
+          "start_seconds": 2585.049,
+          "end_seconds": 2678.909,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-age-destruction",
+          "start_seconds": 2680.31,
+          "end_seconds": 2745.442,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "first-age-human-flesh",
+          "start_seconds": 2689.353,
+          "end_seconds": 2720.751,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-days-tomb-calendar",
+          "start_seconds": 2746.777,
+          "end_seconds": 2854.318,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spouse-exaggeration-lies",
+          "start_seconds": 2862.125,
+          "end_seconds": 2968.398,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hair-covering-angels",
+          "start_seconds": 2990.22,
+          "end_seconds": 3061.224,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-prophets-passages",
+          "start_seconds": 3067.03,
+          "end_seconds": 3128.391,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "soul-spirit-distinction",
+          "start_seconds": 3130.36,
+          "end_seconds": 3219.783,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sin-first-age",
+          "start_seconds": 3251.514,
+          "end_seconds": 3284.748,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-shortened-time",
+          "start_seconds": 3293.556,
+          "end_seconds": 3332.495,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-vegetarian-claim",
+          "start_seconds": 3335.932,
+          "end_seconds": 3389.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ministry-donation-address",
+          "start_seconds": 3226.656,
+          "end_seconds": 3249.412,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eD_yKo--7XQ",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+        "qa_start": 2472.369,
+        "qa_end": 3389.319,
+        "cursor_seconds": 2832.93,
+        "reviewed_ranges": [
+          {
+            "start": 2472.369,
+            "end": 3389.319
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2832.93,
+            "end": 2845.209,
+            "reason": "Caption repeats second day in the burial count; retain broad explanation without reconstructing full timetable."
+          },
+          {
+            "start": 3113.009,
+            "end": 3121.918,
+            "reason": "Father of four prophetess daughters captioned Nathan or Nathaniel; do not silently substitute a name."
+          },
+          {
+            "start": 3202.699,
+            "end": 3209.072,
+            "reason": "Eternal soul wording appears beside a warning that the soul can perish; preserve tension."
+          },
+          {
+            "start": 3318.148,
+            "end": 3326.222,
+            "reason": "Solar days longer than lunar months comparison needs audio; do not invent intended units."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2832.93
     },
     {
       "video_id": "eEhYBjbEtng",
@@ -30430,12 +30565,163 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 57,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "earthly-penalty-final-judgment",
+        "children-study-book",
+        "drug-relapse-spiritual-strength",
+        "faith-doing-right",
+        "millennium-universal-salvation",
+        "five-months",
+        "elect-chosen",
+        "divine-humor",
+        "child-innocence",
+        "satan-names-arnold",
+        "consuming-fire",
+        "chapter-verse-study-method",
+        "ashes-dust-phrase",
+        "recognize-true-christ",
+        "marriage-judging-passage",
+        "ham-nakedness"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "earthly-penalty-final-judgment",
+          "start_seconds": 2098.963,
+          "end_seconds": 2142.406,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "children-study-book",
+          "start_seconds": 2146.444,
+          "end_seconds": 2217.515,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "drug-relapse-spiritual-strength",
+          "start_seconds": 2225.122,
+          "end_seconds": 2353.217,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "faith-doing-right",
+          "start_seconds": 2362.093,
+          "end_seconds": 2423.821,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-universal-salvation",
+          "start_seconds": 2430.027,
+          "end_seconds": 2532.963,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-months",
+          "start_seconds": 2556.987,
+          "end_seconds": 2634.264,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-chosen",
+          "start_seconds": 2641.472,
+          "end_seconds": 2727.091,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "divine-humor",
+          "start_seconds": 2739.203,
+          "end_seconds": 2821.985,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-innocence",
+          "start_seconds": 2823.387,
+          "end_seconds": 2852.816,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-names-arnold",
+          "start_seconds": 2856.386,
+          "end_seconds": 2903.467,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "consuming-fire",
+          "start_seconds": 2906.436,
+          "end_seconds": 3017.047,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapter-verse-study-method",
+          "start_seconds": 3023.553,
+          "end_seconds": 3144.608,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ashes-dust-phrase",
+          "start_seconds": 3145.675,
+          "end_seconds": 3194.024,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-true-christ",
+          "start_seconds": 3195.959,
+          "end_seconds": 3270.967,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-judging-passage",
+          "start_seconds": 3275.272,
+          "end_seconds": 3313.276,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ham-nakedness",
+          "start_seconds": 3316.479,
+          "end_seconds": 3366.396,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eOmt2RLaHUQ",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+        "qa_start": 2094.325,
+        "qa_end": 3366.396,
+        "cursor_seconds": 2430.027,
+        "reviewed_ranges": [
+          {
+            "start": 2094.325,
+            "end": 3366.396
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2430.027,
+            "end": 2450.548,
+            "reason": "Listener mixes five-month release with having seen Christ; reply rejects universal salvation but does not clearly resolve that timeline premise."
+          },
+          {
+            "start": 2992.589,
+            "end": 3000.63,
+            "reason": "Priests for a thousand years captioned Revelation 20:5; do not replace exact verse without audio."
+          },
+          {
+            "start": 3299.429,
+            "end": 3313.276,
+            "reason": "Created to be received marriage qualification lacks a precise explanation; do not infer an unstated restriction."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2430.027
     },
     {
       "video_id": "eT3p198HLmA",
@@ -39463,13 +39749,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 156,
+    "partially_reviewed": 158,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1124,
+    "pending": 1122,
     "source_changed": 0,
-    "question_occurrences": 1854
+    "question_occurrences": 1883
   }
 }

@@ -7332,6 +7332,96 @@
       "question": "How did Arnold apply 1 Corinthians 8 to food offered to an idol?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "lost-tribes-documentation",
+      "question": "Which passages did Arnold give for the continued existence of Israel’s scattered tribes?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "angels-gender-earth-ages",
+      "question": "How did Arnold answer a listener’s questions about angels, gender and marriage?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "first-age-human-flesh",
+      "question": "Did Arnold place human flesh bodies in his proposed first earth age?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "three-days-tomb-calendar",
+      "question": "How did Arnold reconcile three days and nights with the crucifixion and resurrection calendar?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "spouse-exaggeration-lies",
+      "question": "How did Arnold advise a wife whose husband exaggerated and lied?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "women-prophets-passages",
+      "question": "Which women prophets did Arnold recommend studying?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jesus-vegetarian-claim",
+      "question": "Did Arnold teach that Jesus was a vegetarian?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ministry-donation-address",
+      "question": "How did Arnold answer where to send a donation to support the broadcast?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "earthly-penalty-final-judgment",
+      "question": "Did Arnold say earthly punishment automatically replaces God’s later judgment?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "drug-relapse-spiritual-strength",
+      "question": "How did Arnold encourage a listener resisting a return to drug use?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "faith-doing-right",
+      "question": "Did Arnold say faith removes all temptation to do wrong?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "millennium-universal-salvation",
+      "question": "Did Arnold teach that every soul will be saved during the millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "chapter-verse-study-method",
+      "question": "Which passage did Arnold use to explain chapter-by-chapter Bible study?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "ashes-dust-phrase",
+      "question": "Did Arnold locate ashes to ashes in the Bible?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "marriage-judging-passage",
+      "question": "Which passage did Arnold suggest about people judging a marriage?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -36974,6 +37064,490 @@
       "recording_group": "e8gesclhsXI",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "lost-tribes-documentation",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2476.607,
+      "end": 2575.773,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-lost-tribes-documentation",
+      "summary": "Arnold rejected the reported claim that the people disappeared after AD 70. He cited Matthew 10:6 and James’s opening address to scattered tribes. This response supplied biblical references, not independent proof of the identity of modern nations.",
+      "scripture_mentions": [
+        "Matthew 10:6",
+        "James 1:1"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "angels-gender-earth-ages",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2585.049,
+      "end": 2678.909,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-angels-gender-earth-ages",
+      "summary": "Arnold distinguished his proposed third earth age from the present age and said angels in the latter could have gender. He connected fallen angels with his Genesis seduction interpretation and treated resurrection marriage language separately. These are his doctrinal claims, not established accounts of human reproduction.",
+      "scripture_mentions": [
+        "Genesis 6",
+        "1 Corinthians 11:10"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "first-age-destruction",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2680.31,
+      "end": 2745.442,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-first-age-destruction",
+      "summary": "Arnold attributed the destruction of his proposed first earth age to Satan’s pride and drawing a third of God’s children away. He referred to Ezekiel 28:18–19. This is his interpretation of an earlier age.",
+      "scripture_mentions": [
+        "Ezekiel 28:18–19"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "first-age-human-flesh",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2689.353,
+      "end": 2720.751,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-first-age-human-flesh",
+      "summary": "Arnold said there were animal bodies but no human flesh bodies in that earlier age. He gave approximate dates and claimed mammoth carbon dating supported his chronology. Those dating and scientific claims are his assertions, not independently established evidence.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "three-days-tomb-calendar",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2746.777,
+      "end": 2854.318,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-three-days-tomb-calendar",
+      "summary": "Arnold distinguished a Passover high Sabbath from the weekly Sabbath and placed the crucifixion and burial before Wednesday sunset. He referred to a Companion Bible appendix for a detailed count. The captioned sequence repeats a day number, so the full hour-by-hour calculation remains unresolved rather than silently repaired.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "spouse-exaggeration-lies",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2862.125,
+      "end": 2968.398,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-spouse-exaggeration-lies",
+      "summary": "Arnold said he could not tell how serious the reported lying was and did not approve it. He suggested setting a good example, referred to 1 Corinthians 7 and qualified his reassurance with the behavior not involving very serious matters. His answer was based on limited details.",
+      "scripture_mentions": [
+        "1 Corinthians 7"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "hair-covering-angels",
+      "video_id": "eD_yKo--7XQ",
+      "start": 2990.22,
+      "end": 3061.224,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-hair-covering-angels",
+      "summary": "Arnold allowed long hair and interpreted the covering principally as Christ’s protection. He connected 1 Corinthians 11:6 and 10 with his reading of returning fallen angels and Noah’s days in Matthew 24. He explicitly identified part of that connection as his own wording.",
+      "scripture_mentions": [
+        "1 Corinthians 11:6",
+        "1 Corinthians 11:10",
+        "Matthew 24"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "women-prophets-passages",
+      "video_id": "eD_yKo--7XQ",
+      "start": 3067.03,
+      "end": 3128.391,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-women-prophets-passages",
+      "summary": "Arnold named Huldah and Deborah and suggested looking up prophetess in Strong’s Concordance. He cited 2 Kings 22:14. His later identification of the father of four prophesying daughters is uncertain in the captions and is not corrected or endorsed here.",
+      "scripture_mentions": [
+        "2 Kings 22:14"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "soul-spirit-distinction",
+      "video_id": "eD_yKo--7XQ",
+      "start": 3130.36,
+      "end": 3219.783,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-soul-spirit-distinction",
+      "summary": "Arnold described the soul as the person’s self or being, retaining identity through a change of body. He appealed to Matthew’s warning about the soul perishing, while also calling it eternal. That tension remains flagged; his answer is not rewritten as an unqualified claim that a soul cannot perish.",
+      "scripture_mentions": [
+        "Matthew, warning about body and soul"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "sin-first-age",
+      "video_id": "eD_yKo--7XQ",
+      "start": 3251.514,
+      "end": 3284.748,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-sin-first-age",
+      "summary": "Arnold answered the two-creation question by saying Satan deceived people generally and that no person was perfect. He did not trace a genetic transmission of Adam and Eve’s wrongdoing or provide a detailed mechanism in this reply.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "witnesses-shortened-time",
+      "video_id": "eD_yKo--7XQ",
+      "start": 3293.556,
+      "end": 3332.495,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-witnesses-shortened-time",
+      "summary": "Arnold explicitly said shortening the witnesses’ time was not written, then inferred a balanced relationship with the shortened opposing period from God’s fairness. His solar-day/lunar-month comparison is unclear and remains held. The inference is not presented as an explicit biblical timetable.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "jesus-vegetarian-claim",
+      "video_id": "eD_yKo--7XQ",
+      "start": 3335.932,
+      "end": 3389.319,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-jesus-vegetarian-claim",
+      "summary": "Arnold rejected that claim, referred to the fish account in John 21 and distinguished someone choosing vegetarianism from claiming Jesus practiced it. He qualified his approval of meat with his clean-food interpretation.",
+      "scripture_mentions": [
+        "John 21"
+      ],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ministry-donation-address",
+      "video_id": "eD_yKo--7XQ",
+      "start": 3226.656,
+      "end": 3249.412,
+      "teacher": "Arnold Murray",
+      "variant": "eD_yKo--7XQ-ministry-donation-address",
+      "summary": "Arnold referred the listener to the address announced at the program’s end and thanked her for supporting the teaching. This records the broadcast’s contact response; it does not independently verify current contact details.",
+      "scripture_mentions": [],
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "source_sha256": "d907888beadbdcb42e333ab146437236a77bf60a6f59389f13b6b06f8fb450c5",
+      "recording_group": "eD_yKo--7XQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "earthly-penalty-final-judgment",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2098.963,
+      "end": 2142.406,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-earthly-penalty-final-judgment",
+      "summary": "Arnold tentatively suggested 1 Corinthians 6:2 as the passage the listener might mean, but explicitly said it did not quite say what she had described. He did not affirm the proposed automatic exemption from later judgment.",
+      "scripture_mentions": [
+        "1 Corinthians 6:2"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "children-study-book",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2146.444,
+      "end": 2217.515,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-children-study-book",
+      "summary": "Arnold advised telling the three-year-old truth at a level suited to her understanding, keeping it simple and avoiding invented stories. He recommended the children’s study book as help in approaching difficult subjects, while noting that children develop differently.",
+      "scripture_mentions": [],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "drug-relapse-spiritual-strength",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2225.122,
+      "end": 2353.217,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-drug-relapse-spiritual-strength",
+      "summary": "Arnold praised the family’s abstinence, urged resisting temptation and framed their purpose through Mark 13 and his teaching about spiritual opposition. He suggested prayer and anointing. This records pastoral encouragement rather than a clinical addiction-treatment plan.",
+      "scripture_mentions": [
+        "Mark 13"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "faith-doing-right",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2362.093,
+      "end": 2423.821,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-faith-doing-right",
+      "summary": "Arnold said fleshly weakness could still tempt believers and emphasized following the inward spiritual person. He added that no one was perfect and that people sometimes fell short and needed forgiveness. He did not promise automatic freedom from temptation.",
+      "scripture_mentions": [],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "millennium-universal-salvation",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2430.027,
+      "end": 2532.963,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-millennium-universal-salvation",
+      "summary": "Arnold rejected universal salvation, distinguished spiritual bodies from mortal or immortal souls in his interpretation, and referred to Revelation 20’s final judgment. He also said listeners must not decide individual destinies. The question’s five-month premise after seeing Christ was not clearly resolved in this response.",
+      "scripture_mentions": [
+        "Revelation 20"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "five-months",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2556.987,
+      "end": 2634.264,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-five-months",
+      "summary": "Arnold referred to Revelation 9 and especially verse 4 for his teaching that the period was five months and those sealed were protected. He denied that believers were helpless and connected their testimony with Mark 13, Matthew 24 and Luke 21.",
+      "scripture_mentions": [
+        "Revelation 9:4",
+        "Mark 13",
+        "Matthew 24",
+        "Luke 21"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "elect-chosen",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2641.472,
+      "end": 2727.091,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-elect-chosen",
+      "summary": "Arnold connected election with Ephesians 1:4, his proposed first-age stand against Satan and divine intercession in Romans 8:26 onward. He described recognizing false Christ’s prior appearance and intending to witness against him as an indication of election. These are his doctrinal interpretations.",
+      "scripture_mentions": [
+        "Ephesians 1:4",
+        "Romans 8:26 onward"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "divine-humor",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2739.203,
+      "end": 2821.985,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-divine-humor",
+      "summary": "Arnold used Daniel 5’s writing on the wall as an example he found humorous, describing the ruler’s fear after misusing the sacred vessels. His added description of the reaction is his interpretation rather than a verified literal translation.",
+      "scripture_mentions": [
+        "Daniel 5"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "child-innocence",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2823.387,
+      "end": 2852.816,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-child-innocence",
+      "summary": "Arnold denied that an unbaptized infant would go to hell. He distinguished blessing or christening a baby from baptism chosen by someone able to understand and accept responsibility.",
+      "scripture_mentions": [],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "satan-names-arnold",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2856.386,
+      "end": 2903.467,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-satan-names-arnold",
+      "summary": "Arnold pointed to the Companion Bible commentary alongside Daniel 7:8 for names and roles he associated with Satan, including the little horn, antichrist and the serpent. This records his proposed identifications.",
+      "scripture_mentions": [
+        "Daniel 7:8"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "consuming-fire",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 2906.436,
+      "end": 3017.047,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-consuming-fire",
+      "summary": "Arnold distinguished Christ’s arrival at the millennium’s beginning and cleansing of Zion from the consuming fire and second death at its end. He described the intervening period as teaching with Satan restrained. His precise captioned priesthood verse reference needs checking.",
+      "scripture_mentions": [
+        "Revelation 20"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "chapter-verse-study-method",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 3023.553,
+      "end": 3144.608,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-chapter-verse-study-method",
+      "summary": "Arnold recommended 2 Timothy 2:15 and explained rightly dividing as attending to speaker or audience, subject, context and time period. He preferred sustained chapter-and-verse study to building an entire message around an isolated verse.",
+      "scripture_mentions": [
+        "2 Timothy 2:15"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ashes-dust-phrase",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 3145.675,
+      "end": 3194.024,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-ashes-dust-phrase",
+      "summary": "Arnold said ashes to ashes was not a biblical phrase and referred to Ecclesiastes 12:6–7 for the return to dust and spirit. He explicitly said his point did not forbid cremation.",
+      "scripture_mentions": [
+        "Ecclesiastes 12:6–7"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "recognize-true-christ",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 3195.959,
+      "end": 3270.967,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-recognize-true-christ",
+      "summary": "Arnold distinguished false from true Christ by his sixth-then-seventh-trumpet sequence. He said false Christ deceives people who expect to be taken away, whereas Christ returns at the seventh trumpet. These are his prophetic interpretations.",
+      "scripture_mentions": [],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "marriage-judging-passage",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 3275.272,
+      "end": 3313.276,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-marriage-judging-passage",
+      "summary": "Arnold tentatively suggested 1 Timothy 4:3 and opposed others judging marriage or food. He added an unclear qualification about marrying someone God created to be received. That limitation remains unresolved rather than expanded into a rule he did not explicitly explain.",
+      "scripture_mentions": [
+        "1 Timothy 4:3"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "ham-nakedness",
+      "video_id": "eOmt2RLaHUQ",
+      "start": 3316.479,
+      "end": 3366.396,
+      "teacher": "Arnold Murray",
+      "variant": "eOmt2RLaHUQ-ham-nakedness",
+      "summary": "Arnold cited Leviticus 20:11 and 18:8 and interpreted Ham’s offense as intercourse with his father’s wife, rather than merely seeing Noah unclothed. This is his interpretation of the Genesis account; the legal passages are the references he supplied.",
+      "scripture_mentions": [
+        "Leviticus 20:11",
+        "Leviticus 18:8"
+      ],
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "source_sha256": "005f378877d4605496ed84bd786f0944ad711577f14e2567e9e674e4003d19b2",
+      "recording_group": "eOmt2RLaHUQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -38385,6 +38959,83 @@
           "start": 3286.799,
           "end": 3318.16,
           "reason": "Calendar answer has damaged month name and incomplete clarification; keep whole answer pending."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "eD_yKo--7XQ",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "a9fb451bc7af611421604b5ec3e6e398c191d0c1bca0e66d0d07bd57590fb344",
+      "qa_start": 2472.369,
+      "qa_end": 3389.319,
+      "cursor_seconds": 2832.93,
+      "reviewed_ranges": [
+        {
+          "start": 2472.369,
+          "end": 3389.319
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2832.93,
+          "end": 2845.209,
+          "reason": "Caption repeats second day in the burial count; retain broad explanation without reconstructing full timetable."
+        },
+        {
+          "start": 3113.009,
+          "end": 3121.918,
+          "reason": "Father of four prophetess daughters captioned Nathan or Nathaniel; do not silently substitute a name."
+        },
+        {
+          "start": 3202.699,
+          "end": 3209.072,
+          "reason": "Eternal soul wording appears beside a warning that the soul can perish; preserve tension."
+        },
+        {
+          "start": 3318.148,
+          "end": 3326.222,
+          "reason": "Solar days longer than lunar months comparison needs audio; do not invent intended units."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "eOmt2RLaHUQ",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "99a36746059cbd370482295cca0eb0db3c935f42617d3f7e8965e488853d9ef4",
+      "qa_start": 2094.325,
+      "qa_end": 3366.396,
+      "cursor_seconds": 2430.027,
+      "reviewed_ranges": [
+        {
+          "start": 2094.325,
+          "end": 3366.396
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2430.027,
+          "end": 2450.548,
+          "reason": "Listener mixes five-month release with having seen Christ; reply rejects universal salvation but does not clearly resolve that timeline premise."
+        },
+        {
+          "start": 2992.589,
+          "end": 3000.63,
+          "reason": "Priests for a thousand years captioned Revelation 20:5; do not replace exact verse without audio."
+        },
+        {
+          "start": 3299.429,
+          "end": 3313.276,
+          "reason": "Created to be received marriage qualification lacks a precise explanation; do not infer an unstated restriction."
         }
       ],
       "review_status": "partially_reviewed",

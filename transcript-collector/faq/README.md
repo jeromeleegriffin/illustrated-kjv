@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,222 question groups and 1,887 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,237 question groups and 1,916 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Fifteen recordings have complete caption Q&A reviews, 156 remain partially reviewed, 1,124 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Fifteen recordings have complete caption Q&A reviews, 158 remain partially reviewed, 1,122 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -18,7 +18,7 @@ Publish only the six FAQ assets using the separate FAQ release pin on the existi
 
 ## External extraction assignments
 
-Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A has returned 300 result files with 4,641 question candidates in checkpoint 042. All hashes and caption anchors passed independent structural checks. Nineteen result recordings have been semantically reviewed here (326 approved linked answers; twenty-four candidates held; one rhetorical extension and one listener thanks excluded), one additional incomplete export is blocked, and 280 result recordings await semantic review. These results are reserved for reconciliation, not blanket-approved. External completion claims never replace current reviewed statuses. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
+Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A has returned 300 result files with 4,641 question candidates in checkpoint 042. All hashes and caption anchors passed independent structural checks. Twenty-one result recordings have been semantically reviewed here (355 approved (including one locally recovered question) linked answers; twenty-four candidates held; one rhetorical extension and one listener thanks excluded), one additional incomplete export is blocked, and 278 result recordings await semantic review. These results are reserved for reconciliation, not blanket-approved. External completion claims never replace current reviewed statuses. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
 
 ## Attribution hold
 
@@ -46,3 +46,5 @@ Pass042 adds seventeen caption-reviewed Arnold answers from e7IuSxcDxZE, retains
 
 
 Pass043 adds sixteen linked Arnold answers from e8gesclhsXI after reading the full caption Q&A section. Five unresolved ranges remain held, including two candidate answers. Audio is pending. Existing FAQ and topical navigation remain unchanged.
+
+Pass044 reviews complete caption Q&A sections in eD_yKo--7XQ and eOmt2RLaHUQ, adds twenty-nine linked answers including an omitted listener contact question, and retains seven unresolved ranges. Both recordings remain partial and audio-pending. FAQ resume and top/bottom Bible-return links are preserved.
