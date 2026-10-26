@@ -9888,6 +9888,114 @@
       "question": "How did Dennis distinguish killing from murder when asked about war?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-jesus-birth-date",
+      "question": "How did Dennis explain the dates of Jesus’s conception and birth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-satan-expelled",
+      "question": "Did Dennis say Satan had already been cast out of heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-clouds-witnesses",
+      "question": "How did Dennis explain Christ coming in clouds and the cloud of witnesses?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-soul-burning",
+      "question": "Did Dennis teach that a soul undergoes a cleansing fire when it returns to God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-trump-heard",
+      "question": "How did Dennis answer whether the sixth and seventh trumpets will be heard?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-tragic-death",
+      "question": "How did Dennis answer why some people die tragically?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-marry-divorced",
+      "question": "Did Dennis say marrying a previously married person automatically condemns someone?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-spirit-delivered",
+      "question": "When did Dennis say the Holy Spirit would speak through the elect when delivered up?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-jerusalem-altars",
+      "question": "How did Dennis respond to a question about rebuilt altars in Jerusalem?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-shroud",
+      "question": "How did Dennis respond to a question about the cloth in Jesus’s tomb?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-dont-teach-fly",
+      "question": "Where did Dennis point a listener asking about teaching people to fly?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-leah-rachel-twins",
+      "question": "Did Dennis believe Leah and Rachel were twins?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-seek-kingdom",
+      "question": "How did Dennis explain seeking the kingdom of God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-study-bible",
+      "question": "What Bible did Dennis say he used for teaching?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-forgiveness-how-many",
+      "question": "How did Dennis answer how many times a person can repent?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-tongues",
+      "question": "How did Dennis compare a tongue the listener could not understand with Acts 2?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-cain-descendants-flood",
+      "question": "How did Dennis answer a question about Cain and the flood?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local010-perdition",
+      "question": "How did Dennis explain the word perdition?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -10080,7 +10188,7 @@
       "question_id": "recognize-family",
       "video_id": "CQZ7KZ7oLaI",
       "start": 2506.637,
-      "end": 2626.156,
+      "end": 2572.469,
       "teacher": "Dennis Murray",
       "variant": "recognize-family-dennis-reviewed",
       "summary": "He teaches that people can recognize their loved ones in spiritual bodies. In these answers he points to the family relationships described in Ezekiel 44 during the millennium.",
@@ -49225,6 +49333,324 @@
       "recording_group": "Be8R9plq548",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-jesus-birth-date",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2173.371,
+      "end": 2246.377,
+      "variant": "local010-jesus-birth-date",
+      "summary": "Dennis agrees with a December conception and September birth and relates his explanation to the priestly course of Abijah and John the Baptist.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-satan-expelled",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2246.377,
+      "end": 2296.694,
+      "variant": "local010-satan-expelled",
+      "summary": "Dennis says not yet, while distinguishing Satan from evil spirits. He points to Revelation 12 and describes Satan’s future appearance as the false Christ.",
+      "scripture_mentions": [
+        "Revelation 12:6"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-clouds-witnesses",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2296.694,
+      "end": 2371.402,
+      "variant": "local010-clouds-witnesses",
+      "summary": "Dennis describes a cloud as a figure of speech for a large number and connects his explanation to the witnesses in Hebrews 12.",
+      "scripture_mentions": [
+        "Mark 14:62",
+        "Hebrews 12:1",
+        "1 Thessalonians 4:17"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-soul-burning",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2371.402,
+      "end": 2390.287,
+      "variant": "local010-soul-burning",
+      "summary": "Dennis says the described burning or cleansing baptism is not biblical.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-trump-heard",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2390.287,
+      "end": 2409.573,
+      "variant": "local010-trump-heard",
+      "summary": "Dennis describes the trumpets as events before Christ returns and points to Matthew 24 and Mark 13. He does not directly resolve whether a sound will be heard.",
+      "scripture_mentions": [
+        "Matthew 24",
+        "Mark 13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-tragic-death",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2409.573,
+      "end": 2444.108,
+      "variant": "local010-tragic-death",
+      "summary": "Dennis says the letter does not explain why some die tragically and refers the listener to 1 Corinthians 10:13.",
+      "scripture_mentions": [
+        "1 Corinthians 10:13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-marry-divorced",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2444.108,
+      "end": 2506.637,
+      "variant": "local010-marry-divorced",
+      "summary": "Dennis says there are biblically valid reasons for divorce and emphasizes repentance and forgiveness, pointing to the woman in John 8.",
+      "scripture_mentions": [
+        "John 8:1 onward"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-spirit-delivered",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2572.469,
+      "end": 2659.757,
+      "variant": "local010-spirit-delivered",
+      "summary": "Dennis connects that witness to the antichrist’s appearance and the elect being delivered up, distinguishing it from the listener’s question about ISIS.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-jerusalem-altars",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2659.757,
+      "end": 2698.762,
+      "variant": "local010-jerusalem-altars",
+      "summary": "Dennis says Christians do not need an altar for sacrifice because Christ was the sacrifice, and points to Hebrews 9.",
+      "scripture_mentions": [
+        "Hebrews 9"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-shroud",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2698.762,
+      "end": 2733.43,
+      "variant": "local010-shroud",
+      "summary": "Dennis discusses the Shroud of Turin as a tradition and says it is not biblical. His answer does not identify a biblical passage about the burial cloth.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-dont-teach-fly",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2733.43,
+      "end": 2763.994,
+      "variant": "local010-dont-teach-fly",
+      "summary": "Dennis directs the listener to Ezekiel 13:18 and following and recommends the King James Version.",
+      "scripture_mentions": [
+        "Ezekiel 13:18"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-leah-rachel-twins",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2763.994,
+      "end": 2829.86,
+      "variant": "local010-leah-rachel-twins",
+      "summary": "Dennis says he does not think so, while acknowledging that the description of elder and younger does not exclude twins.",
+      "scripture_mentions": [
+        "Genesis 29:16–17"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-seek-kingdom",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2829.86,
+      "end": 2906.403,
+      "variant": "local010-seek-kingdom",
+      "summary": "Dennis relates seeking the kingdom to following God’s commandments and living in a way that prepares one to enter it.",
+      "scripture_mentions": [
+        "Matthew 6:33"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-study-bible",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2906.403,
+      "end": 2972.903,
+      "variant": "local010-study-bible",
+      "summary": "Dennis says he teaches from the same Bible each day and uses other Bibles and reference works in preparation, including Strong’s Concordance.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-forgiveness-how-many",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 2972.903,
+      "end": 3024.554,
+      "variant": "local010-forgiveness-how-many",
+      "summary": "Dennis points to Jesus’s answer to Peter about forgiving seventy times seven and reasons that God will forgive at least that many times.",
+      "scripture_mentions": [
+        "Matthew 18:21–22"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-tongues",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 3098.728,
+      "end": 3231.261,
+      "variant": "local010-tongues",
+      "summary": "Dennis says the speakers in Acts 2 were understood by people in their own languages and contrasts that with speech neither the listener nor the speaker understood.",
+      "scripture_mentions": [
+        "Acts 2:4 onward"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-cain-descendants-flood",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 3231.261,
+      "end": 3280.01,
+      "variant": "local010-cain-descendants-flood",
+      "summary": "Dennis clarifies that he was speaking about descendants of Cain rather than Cain himself and points to 1 Chronicles 2:55 in support of his interpretation.",
+      "scripture_mentions": [
+        "1 Chronicles 2:55"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local008-five-months-political",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 3280.01,
+      "end": 3330.493,
+      "variant": "local010-five-month-division",
+      "summary": "Dennis describes two and a half months under a political beast system followed by two and a half months with the antichrist, then Christ’s return.",
+      "scripture_mentions": [
+        "Revelation 9",
+        "Revelation 13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local010-perdition",
+      "video_id": "CQZ7KZ7oLaI",
+      "start": 3330.493,
+      "end": 3375.672,
+      "variant": "local010-perdition",
+      "summary": "Dennis says the Greek word means destruction or perishing and identifies the son of perdition with Satan.",
+      "scripture_mentions": [
+        "2 Thessalonians 2",
+        "Ezekiel 28:18–19"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "source_sha256": "0351f10af75dced7fe9b87ab447a62966f914babd7f39e2d4a37be3b7af7f665",
+      "recording_group": "CQZ7KZ7oLaI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
     }
   ],
   "duplicate_recording_aliases": {
@@ -51590,6 +52016,47 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-26",
       "basis": "Direct full saved-caption Q&A read; unclear and unanswered subquestions held; audio pending."
+    },
+    {
+      "video_id": "CQZ7KZ7oLaI",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+      "qa_start": 2169.167,
+      "qa_end": 3375.672,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2169.167,
+          "end": 3375.672
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2390.287,
+          "end": 2409.573,
+          "reason": "Whether a sound will be heard was not directly answered."
+        },
+        {
+          "start": 2698.762,
+          "end": 2733.43,
+          "reason": "Listener asked for Scripture about tomb cloth; reply discusses the Shroud of Turin without supplying a passage."
+        },
+        {
+          "start": 3024.554,
+          "end": 3063.593,
+          "reason": "Dates assigned to biblical prophets need verification and captions may be inaccurate."
+        },
+        {
+          "start": 3063.593,
+          "end": 3098.728,
+          "reason": "Hebrew and Greek words require source/audio verification."
+        }
+      ],
+      "cursor_seconds": 2390.287,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Complete caption Q&A read; held unanswered questions and uncertain dates and language. Audio pending."
     }
   ]
 }

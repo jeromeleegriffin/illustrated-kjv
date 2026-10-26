@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T21:26:15.307741+00:00",
+  "updated": "2026-10-26T22:36:50.055726+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -19635,19 +19635,194 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "recognize-family"
+        "recognize-family",
+        "local010-jesus-birth-date",
+        "local010-satan-expelled",
+        "local010-clouds-witnesses",
+        "local010-soul-burning",
+        "local010-trump-heard",
+        "local010-tragic-death",
+        "local010-marry-divorced",
+        "local010-spirit-delivered",
+        "local010-jerusalem-altars",
+        "local010-shroud",
+        "local010-dont-teach-fly",
+        "local010-leah-rachel-twins",
+        "local010-seek-kingdom",
+        "local010-study-bible",
+        "local010-forgiveness-how-many",
+        "local010-tongues",
+        "local010-cain-descendants-flood",
+        "local008-five-months-political",
+        "local010-perdition"
       ],
       "reviewed_ranges": [
         {
           "question_id": "recognize-family",
           "start_seconds": 2506.637,
-          "end_seconds": 2626.156,
+          "end_seconds": 2572.469,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-jesus-birth-date",
+          "start_seconds": 2173.371,
+          "end_seconds": 2246.377,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-satan-expelled",
+          "start_seconds": 2246.377,
+          "end_seconds": 2296.694,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-clouds-witnesses",
+          "start_seconds": 2296.694,
+          "end_seconds": 2371.402,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-soul-burning",
+          "start_seconds": 2371.402,
+          "end_seconds": 2390.287,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-trump-heard",
+          "start_seconds": 2390.287,
+          "end_seconds": 2409.573,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-tragic-death",
+          "start_seconds": 2409.573,
+          "end_seconds": 2444.108,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-marry-divorced",
+          "start_seconds": 2444.108,
+          "end_seconds": 2506.637,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-spirit-delivered",
+          "start_seconds": 2572.469,
+          "end_seconds": 2659.757,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-jerusalem-altars",
+          "start_seconds": 2659.757,
+          "end_seconds": 2698.762,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-shroud",
+          "start_seconds": 2698.762,
+          "end_seconds": 2733.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-dont-teach-fly",
+          "start_seconds": 2733.43,
+          "end_seconds": 2763.994,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-leah-rachel-twins",
+          "start_seconds": 2763.994,
+          "end_seconds": 2829.86,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-seek-kingdom",
+          "start_seconds": 2829.86,
+          "end_seconds": 2906.403,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-study-bible",
+          "start_seconds": 2906.403,
+          "end_seconds": 2972.903,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-forgiveness-how-many",
+          "start_seconds": 2972.903,
+          "end_seconds": 3024.554,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-tongues",
+          "start_seconds": 3098.728,
+          "end_seconds": 3231.261,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-cain-descendants-flood",
+          "start_seconds": 3231.261,
+          "end_seconds": 3280.01,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-five-months-political",
+          "start_seconds": 3280.01,
+          "end_seconds": 3330.493,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-perdition",
+          "start_seconds": 3330.493,
+          "end_seconds": 3375.672,
           "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "CQZ7KZ7oLaI",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "16949ed8f12c965ed34d2dca65afeb5793fb19e911fc0e6e257245fb503ff5e3",
+        "qa_start": 2169.167,
+        "qa_end": 3375.672,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2169.167,
+            "end": 3375.672
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2390.287,
+            "end": 2409.573,
+            "reason": "Whether a sound will be heard was not directly answered."
+          },
+          {
+            "start": 2698.762,
+            "end": 2733.43,
+            "reason": "Listener asked for Scripture about tomb cloth; reply discusses the Shroud of Turin without supplying a passage."
+          },
+          {
+            "start": 3024.554,
+            "end": 3063.593,
+            "reason": "Dates assigned to biblical prophets need verification and captions may be inaccurate."
+          },
+          {
+            "start": 3063.593,
+            "end": 3098.728,
+            "reason": "Hebrew and Greek words require source/audio verification."
+          }
+        ],
+        "cursor_seconds": 2390.287,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete caption Q&A read; held unanswered questions and uncertain dates and language. Audio pending."
+      },
+      "cursor_seconds": 2390.287
     },
     {
       "video_id": "CVZC89MpDl4",
@@ -44760,6 +44935,6 @@
     "teacher_pending": 65,
     "pending": 1083,
     "source_changed": 0,
-    "question_occurrences": 2453
+    "question_occurrences": 2472
   }
 }
