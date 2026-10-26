@@ -13,6 +13,7 @@ window.ReadingProgress=(()=>{
  }
  function capturePosition(){
   if(!current)return;
+  if(['readerMenu','searchModal','aboutModal','readingModal'].some(id=>$(id)&&!$(id).hidden))return;
   const verses=[...document.querySelectorAll('#scripture .verse')];if(!verses.length)return;
   const target=Math.min(180,window.innerHeight*.25);
   const visible=verses.filter(el=>{const r=el.getBoundingClientRect();return r.bottom>0&&r.top<window.innerHeight;});
