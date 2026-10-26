@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-25T22:40:00.495799+00:00",
+  "updated": "2026-10-26T01:36:04.130645+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -30143,12 +30143,173 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 15,
       "scanned_at": "2026-10-24T18:50:11.134543+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "horsemen-bound-angels",
+        "horse-meat-unclean",
+        "euphrates-four-angels",
+        "fallen-angels-before-witnesses",
+        "naomi-bitter-loss",
+        "mark-hand",
+        "kill-flesh-spiritual",
+        "backslider-first-belief",
+        "children-purpose-mark13",
+        "hebrew-required-salvation",
+        "jesus-marriage-spiritual",
+        "satan-cherub-earned-role",
+        "kjv-italic-words",
+        "anointing-repentance-judgment",
+        "christ-birth-study-resources",
+        "idol-meat-weaker-believer"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "horsemen-bound-angels",
+          "start_seconds": 2107.56,
+          "end_seconds": 2159.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "horse-meat-unclean",
+          "start_seconds": 2160.0,
+          "end_seconds": 2201.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "euphrates-four-angels",
+          "start_seconds": 2207.48,
+          "end_seconds": 2259.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angels-before-witnesses",
+          "start_seconds": 2209.96,
+          "end_seconds": 2275.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "naomi-bitter-loss",
+          "start_seconds": 2278.76,
+          "end_seconds": 2355.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark-hand",
+          "start_seconds": 2395.52,
+          "end_seconds": 2457.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kill-flesh-spiritual",
+          "start_seconds": 2480.079,
+          "end_seconds": 2602.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "backslider-first-belief",
+          "start_seconds": 2602.079,
+          "end_seconds": 2703.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "children-purpose-mark13",
+          "start_seconds": 2719.52,
+          "end_seconds": 2778.23,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrew-required-salvation",
+          "start_seconds": 2809.079,
+          "end_seconds": 2856.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-marriage-spiritual",
+          "start_seconds": 2914.48,
+          "end_seconds": 3055.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-cherub-earned-role",
+          "start_seconds": 3059.359,
+          "end_seconds": 3099.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kjv-italic-words",
+          "start_seconds": 3109.079,
+          "end_seconds": 3185.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-repentance-judgment",
+          "start_seconds": 3191.44,
+          "end_seconds": 3231.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-birth-study-resources",
+          "start_seconds": 3239.359,
+          "end_seconds": 3286.789,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "idol-meat-weaker-believer",
+          "start_seconds": 3324.48,
+          "end_seconds": 3383.069,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "e8gesclhsXI",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+        "qa_start": 2102.28,
+        "qa_end": 3383.079,
+        "cursor_seconds": 2515.92,
+        "reviewed_ranges": [
+          {
+            "start": 2102.28,
+            "end": 3383.079
+          }
+        ],
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": false,
+        "unresolved_ranges": [
+          {
+            "start": 2515.92,
+            "end": 2522.24,
+            "reason": "Caption says flesh body goes back to Father while surrounding teaching distinguishes bodies; do not silently rewrite."
+          },
+          {
+            "start": 2652.48,
+            "end": 2661.119,
+            "reason": "Chosen-vessel citation captioned Romans 9:15; audio needed before substituting Acts."
+          },
+          {
+            "start": 2778.24,
+            "end": 2809.079,
+            "reason": "First-earth-age listener question opening is damaged; do not infer complete question from brief answer."
+          },
+          {
+            "start": 3250.319,
+            "end": 3282.0,
+            "reason": "Date and Hebrew month/course terminology corrupted; study-resource recommendation retained without reconstructing chronology."
+          },
+          {
+            "start": 3286.799,
+            "end": 3318.16,
+            "reason": "Calendar answer has damaged month name and incomplete clarification; keep whole answer pending."
+          }
+        ],
+        "review_status": "partially_reviewed",
+        "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+        "reviewed_at": "2026-10-25"
+      },
+      "cursor_seconds": 2515.92
     },
     {
       "video_id": "eC0B_Rg56lo",
@@ -39302,13 +39463,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 155,
+    "partially_reviewed": 156,
     "fully_reviewed": 15,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1125,
+    "pending": 1124,
     "source_changed": 0,
-    "question_occurrences": 1838
+    "question_occurrences": 1854
   }
 }

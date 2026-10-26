@@ -7260,6 +7260,78 @@
       "question": "Did Arnold fault a disabled listener for attending church through television?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "horsemen-bound-angels",
+      "question": "Did Arnold equate the four horsemen with the four bound angels?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "horse-meat-unclean",
+      "question": "Did Arnold consider horse meat biblically clean?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "fallen-angels-before-witnesses",
+      "question": "Did Arnold allow fallen angels to act before the two witnesses appear?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "naomi-bitter-loss",
+      "question": "How did Arnold answer criticism of Naomi blaming God for her losses?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "kill-flesh-spiritual",
+      "question": "What did Arnold mean by killing the flesh?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "children-purpose-mark13",
+      "question": "Which passage did Arnold recommend to help children see a purpose in studying Scripture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "hebrew-required-salvation",
+      "question": "Did Arnold require knowing Hebrew to inherit eternal life?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "jesus-marriage-spiritual",
+      "question": "Did Arnold teach that Jesus was physically married?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "kjv-italic-words",
+      "question": "How did Arnold explain italic words in the KJV?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "anointing-repentance-judgment",
+      "question": "Did Arnold equate a sick person’s anointing with repentance?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "christ-birth-study-resources",
+      "question": "Where did Arnold recommend researching his proposed dates for Christ’s birth and conception?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "idol-meat-weaker-believer",
+      "question": "How did Arnold apply 1 Corinthians 8 to food offered to an idol?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -36635,6 +36707,273 @@
       "recording_group": "e7IuSxcDxZE",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "horsemen-bound-angels",
+      "video_id": "e8gesclhsXI",
+      "start": 2107.56,
+      "end": 2159.99,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-horsemen-bound-angels",
+      "summary": "Arnold distinguished the horsemen as conditions, identifying the first white-horse rider with antichrist, from the four bound angels whom he called fallen angels. He said the latter had a future task; he did not identify the two groups as the same.",
+      "scripture_mentions": [
+        "Revelation 6"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "horse-meat-unclean",
+      "video_id": "e8gesclhsXI",
+      "start": 2160.0,
+      "end": 2201.63,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-horse-meat-unclean",
+      "summary": "Arnold said horses were unclean in his dietary-law teaching because their hooves were not divided. He also expressed his personal reluctance as a rancher to eat a horse. This is his religious dietary answer.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "euphrates-four-angels",
+      "video_id": "e8gesclhsXI",
+      "start": 2207.48,
+      "end": 2259.349,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-euphrates-four-angels",
+      "summary": "Arnold described the bound angels as fallen angels restrained after departing from God’s plan. He connected their restraint with Jude’s opening verses and repeated his interpretation linking angelic seduction with Noah’s flood.",
+      "scripture_mentions": [
+        "Jude 1–6"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "fallen-angels-before-witnesses",
+      "video_id": "e8gesclhsXI",
+      "start": 2209.96,
+      "end": 2275.589,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-fallen-angels-before-witnesses",
+      "summary": "Arnold said it was possible they would begin their activity before the two witnesses appeared. He urged watchfulness, without stating a certain date or treating that possibility as a confirmed sequence.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "naomi-bitter-loss",
+      "video_id": "e8gesclhsXI",
+      "start": 2278.76,
+      "end": 2355.15,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-naomi-bitter-loss",
+      "summary": "Arnold emphasized that Naomi did not yet fully recognize the blessing of Ruth remaining with her. He connected Ruth and Boaz with Christ’s lineage and said Naomi eventually recognized her blessing. He did not endorse the listener’s threat of punishment for Naomi.",
+      "scripture_mentions": [
+        "Ruth"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "mark-hand",
+      "video_id": "e8gesclhsXI",
+      "start": 2395.52,
+      "end": 2457.91,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-mark-hand",
+      "summary": "Arnold interpreted the forehead as belief in false Messiah and the hand as helping his work. He connected that with his reading of the first person taken in Matthew 24 and Mark 13 as deceived by false Christ. These are his interpretations.",
+      "scripture_mentions": [
+        "Revelation 13:16",
+        "Matthew 24",
+        "Mark 13"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "kill-flesh-spiritual",
+      "video_id": "e8gesclhsXI",
+      "start": 2480.079,
+      "end": 2602.069,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-kill-flesh-spiritual",
+      "summary": "Arnold explicitly treated the phrase spiritually: resisting fleshly appetites and following the inward spiritual person. He used Christ’s temptation as an example and referred to two bodies in 1 Corinthians 15. He was not instructing bodily injury. A conflicting flesh-return clause in the captions remains held.",
+      "scripture_mentions": [
+        "1 Corinthians 15:35 onward"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "backslider-first-belief",
+      "video_id": "e8gesclhsXI",
+      "start": 2602.079,
+      "end": 2703.91,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-backslider-first-belief",
+      "summary": "Arnold urged repentance, a change of heart and asking forgiveness after backsliding. He used Paul’s earlier persecution of Christians to reassure the listener that serious wrongdoing need not prevent repentance. His captioned chosen-vessel citation needs checking; it is not silently corrected.",
+      "scripture_mentions": [
+        "Acts 7",
+        "Hebrews 5"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "children-purpose-mark13",
+      "video_id": "e8gesclhsXI",
+      "start": 2719.52,
+      "end": 2778.23,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-children-purpose-mark13",
+      "summary": "Arnold recommended Mark 13, emphasizing purpose, a role in God’s plan and the Holy Spirit’s testimony. He suggested that seeing themselves addressed by Scripture would encourage the children to study. This is his pastoral application.",
+      "scripture_mentions": [
+        "Mark 13"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "hebrew-required-salvation",
+      "video_id": "e8gesclhsXI",
+      "start": 2809.079,
+      "end": 2856.67,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-hebrew-required-salvation",
+      "summary": "Arnold said no. He described English translations as usable and Strong’s Concordance as an optional way to investigate Hebrew, Greek and Aramaic meanings. He distinguished deeper language study from loving Christ and trusting the price he paid.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "jesus-marriage-spiritual",
+      "video_id": "e8gesclhsXI",
+      "start": 2914.48,
+      "end": 3055.51,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-jesus-marriage-spiritual",
+      "summary": "Arnold denied a physical marriage and interpreted betrothal and marriage language spiritually. He also treated God’s divorce imagery for Israel as analogy, referring tentatively to Jeremiah 3:7 or 8. His account of unnamed writings and translators is attributed rather than independently verified.",
+      "scripture_mentions": [
+        "Jeremiah 3:7–8, tentative",
+        "Mark 13"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "satan-cherub-earned-role",
+      "video_id": "e8gesclhsXI",
+      "start": 3059.359,
+      "end": 3099.589,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-satan-cherub-earned-role",
+      "summary": "Arnold located his explanation in Ezekiel 28, interpreted Tyrus as the false rock and said Satan had earned the former protecting-cherub role. These are his lexical and doctrinal interpretations.",
+      "scripture_mentions": [
+        "Ezekiel 28"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "kjv-italic-words",
+      "video_id": "e8gesclhsXI",
+      "start": 3109.079,
+      "end": 3185.63,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-kjv-italic-words",
+      "summary": "Arnold described italics as marking words supplied by translators to carry the sense into English. He urged care with such additions and recommended reading the translators’ prefatory letter and consulting the Companion Bible.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "anointing-repentance-judgment",
+      "video_id": "e8gesclhsXI",
+      "start": 3191.44,
+      "end": 3231.67,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-anointing-repentance-judgment",
+      "summary": "Arnold assumed the conscious father had probably requested anointing and gave reassurance on that basis. He also said listeners must not judge the man and that God knew his thoughts. His pastoral inference should not be turned into a guarantee that anointing automatically proves repentance.",
+      "scripture_mentions": [],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "christ-birth-study-resources",
+      "video_id": "e8gesclhsXI",
+      "start": 3239.359,
+      "end": 3286.789,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-christ-birth-study-resources",
+      "summary": "Arnold recommended Companion Bible Appendix 179, his Christmas study and Luke 1’s priestly-course material. The captioned calendar terminology is damaged, so its date calculation is not reconstructed or presented as established chronology.",
+      "scripture_mentions": [
+        "Companion Bible Appendix 179",
+        "Luke 1"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "question_id": "idol-meat-weaker-believer",
+      "video_id": "e8gesclhsXI",
+      "start": 3324.48,
+      "end": 3383.069,
+      "teacher": "Arnold Murray",
+      "variant": "e8gesclhsXI-idol-meat-weaker-believer",
+      "summary": "Arnold said a mature Christian could regard clean meat as unaffected by an idol, but should abstain when eating it would offend or mislead a less mature believer. His emphasis was care for the weaker believer rather than unrestricted permission to ignore others.",
+      "scripture_mentions": [
+        "1 Corinthians 8"
+      ],
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "source_sha256": "3a53809143f26f0dda75c5d8fad32f9a94338ec38d013537cab36be6ec7f55c1",
+      "recording_group": "e8gesclhsXI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-25"
     }
   ],
   "duplicate_recording_aliases": {
@@ -38000,6 +38339,52 @@
           "start": 2926.689,
           "end": 2938.802,
           "reason": "Tentative Genesis 6:3 reference and quotation wording need audio; broad ark interpretation retained without silently repairing the citation."
+        }
+      ],
+      "review_status": "partially_reviewed",
+      "review_basis": "external_candidates_reconciled_by_complete_caption_section_review_audio_pending",
+      "reviewed_at": "2026-10-25"
+    },
+    {
+      "video_id": "e8gesclhsXI",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1d25aefcace5fb5a148152ac5ac71adf39542c26beb4d078ae465118442fb9d5",
+      "qa_start": 2102.28,
+      "qa_end": 3383.079,
+      "cursor_seconds": 2515.92,
+      "reviewed_ranges": [
+        {
+          "start": 2102.28,
+          "end": 3383.079
+        }
+      ],
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": false,
+      "unresolved_ranges": [
+        {
+          "start": 2515.92,
+          "end": 2522.24,
+          "reason": "Caption says flesh body goes back to Father while surrounding teaching distinguishes bodies; do not silently rewrite."
+        },
+        {
+          "start": 2652.48,
+          "end": 2661.119,
+          "reason": "Chosen-vessel citation captioned Romans 9:15; audio needed before substituting Acts."
+        },
+        {
+          "start": 2778.24,
+          "end": 2809.079,
+          "reason": "First-earth-age listener question opening is damaged; do not infer complete question from brief answer."
+        },
+        {
+          "start": 3250.319,
+          "end": 3282.0,
+          "reason": "Date and Hebrew month/course terminology corrupted; study-resource recommendation retained without reconstructing chronology."
+        },
+        {
+          "start": 3286.799,
+          "end": 3318.16,
+          "reason": "Calendar answer has damaged month name and incomplete clarification; keep whole answer pending."
         }
       ],
       "review_status": "partially_reviewed",
