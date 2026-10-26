@@ -58,8 +58,10 @@ Version 1.0.4: real saved-caption testing found a model converting a listener st
 
 ## Version 1.0.5 readiness check
 
-Thirty-two focused tests now cover queue holds/releases, large-result paging, malformed segments, concurrent downloads and pause/reopen/resume. The release is rebuilt and executed on Windows, checked in Edge, and exercised with the official local AI. Separate private real-ministry excerpt tests verify pause and reopen without duplicate attempts; they are engineering checks, not new published FAQ approvals.
+Thirty-three focused tests now cover queue holds/releases, large-result paging, malformed segments, concurrent downloads and pause/reopen/resume. The release is rebuilt and executed on Windows, checked in Edge, and exercised with the official local AI. Separate private real-ministry excerpt tests verify pause and reopen without duplicate attempts; they are engineering checks, not new published FAQ approvals.
 
 An export snapshot regression commits a worker result between the export’s SQL reads and verifies that no window disappears from the saved/unfinished accounting. Concurrent downloads are isolated and temporary files are removed.
 
 Database hardening: use SQLite rollback journaling for this single-worker app, avoiding dependence on concurrent WAL checkpoints in older bundled SQLite versions. Every import checks integrity before and after, and reimports retain a verified last-good.sqlite backup without deleting saved work. One disposable cloud workspace WAL test database failed an integrity check; clean OS-temporary storage passed repeated real-library and synthetic stress tests. Windows also runs a 1,360-recording, three-import synthetic integrity stress test. The scratch failure is retained in the private test report; no claim is made about its underlying filesystem cause. SQLite background: https://www.sqlite.org/wal.html#the_wal_reset_bug .
+
+The packaged Windows HTTP test also exposed a status-response timing race: an old zero-record snapshot could be paired with a newer import-finished message. Operation state is captured before the consistent database snapshot; the regression test prevents false-finished responses.

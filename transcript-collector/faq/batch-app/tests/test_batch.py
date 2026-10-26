@@ -204,6 +204,17 @@ class WorkerRecovery(unittest.TestCase):
     while (c.mode!='paused' or c.active) and time.time()<deadline:time.sleep(.02)
     self.assertEqual(c.store.status()['windows']['saved'],3)
    finally:c.close()
+ def test_status_cannot_report_finished_with_older_import_snapshot(self):
+  with tempfile.TemporaryDirectory() as td:
+   c=Controller(td)
+   try:
+    c.busy=True;c.message='Checking and importing the private archive'
+    original=c.store.status
+    def snapshot():
+     result=original();c.message='Import finished';c.busy=False;return result
+    with patch.object(c.store,'status',snapshot):status=c.status()
+    self.assertTrue(status['busy']);self.assertIn('Checking',status['message'])
+   finally:c.close()
  def test_windows_awake_flags_and_release(self):
   kernel=Mock();kernel.SetThreadExecutionState.return_value=1
   with patch('ctypes.windll',Mock(kernel32=kernel),create=True),patch('app.os.name','nt'):

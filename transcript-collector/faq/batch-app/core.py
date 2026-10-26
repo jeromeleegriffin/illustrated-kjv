@@ -243,6 +243,7 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
         with self.connect() as db:db.execute("UPDATE jobs SET state='pending' WHERE state='failed'")
     def status(self):
         with self.connect() as db:
+            db.execute('BEGIN')
             all_counts={r[0]:r[1] for r in db.execute('SELECT state,count(*) FROM jobs GROUP BY state')}
             counts={r[0]:r[1] for r in db.execute("SELECT j.state,count(*) FROM jobs j JOIN recordings r ON r.id=j.video_id AND r.hash=j.source_hash WHERE r.state='ready' GROUP BY j.state")}
             records=[dict(r) for r in db.execute('SELECT id,teacher,state,reason FROM recordings ORDER BY id')]

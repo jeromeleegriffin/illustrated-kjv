@@ -35,7 +35,10 @@ class Controller:
             except subprocess.TimeoutExpired:self.child.kill()
         self.worker.join(timeout=5)
     def status(self):
-        return {**self.store.status(),'mode':self.mode,'message':self.message,'busy':self.busy,'active':self.active,'model':self.model,'hardware':self.hardware,'data_directory':str(self.store.root.resolve()),'free_disk_gb':round(shutil.disk_usage(self.store.root).free/1024**3,1),'cpu_threads':os.cpu_count(),'current_window_elapsed_seconds':max(0,int(time.monotonic()-self.current_started)) if self.active and self.current_started is not None else 0}
+        # Capture operation state first: never pair an older DB snapshot with a
+        # newer 'import finished' message and busy=False.
+        operation={'mode':self.mode,'message':self.message,'busy':self.busy,'active':self.active}
+        return {**self.store.status(),**operation,'model':self.model,'hardware':self.hardware,'data_directory':str(self.store.root.resolve()),'free_disk_gb':round(shutil.disk_usage(self.store.root).free/1024**3,1),'cpu_threads':os.cpu_count(),'current_window_elapsed_seconds':max(0,int(time.monotonic()-self.current_started)) if self.active and self.current_started is not None else 0}
     def background(self,func):
         with self.lock:
             if self.busy or self.active or self.mode=='running': raise ValueError('Pause processing before this operation')
