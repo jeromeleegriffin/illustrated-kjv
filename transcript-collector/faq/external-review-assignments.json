@@ -3372,6 +3372,29 @@
       "integration_commit": "fac8288ff10f3c9d2894f6fd33c9ce14257a72c2",
       "private_checkpoint_library_file_id": "libfile_fa436b11a950819199b084328523b67c",
       "audio_verified": false
+    },
+    {
+      "assignment_id": "griffin-local-faq-20261026-003",
+      "status": "machine_processing",
+      "owner": "Griffin local FAQ batch app",
+      "assigned_count": 2,
+      "recordings": [
+        {
+          "video_id": "-4I5t3EgO9o",
+          "teacher": "Dennis Murray",
+          "transcript_sha256": "c20a2836203e947a5f39dccc1141b04fdc43d1541c5002af50e47df0a41a3fc8",
+          "qa_start": 2110.56,
+          "qa_end": 3366.23
+        },
+        {
+          "video_id": "0aUiY5kK8F0",
+          "teacher": "Arnold Murray",
+          "transcript_sha256": "06247f1263e984b67757d43139529c8b520d594720557e8d7b2ff6996ef256fc",
+          "qa_start": 2291.9,
+          "qa_end": 2555.839
+        }
+      ],
+      "publication_policy": "Private machine candidates only; no public approval without caption and teacher review."
     }
   ]
 }
