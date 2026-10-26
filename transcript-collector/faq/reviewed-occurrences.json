@@ -9360,6 +9360,48 @@
       "question": "How did Dennis respond to a listener asking whether government divisions would create a rift?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "baptism-dead-dennis",
+      "question": "Did Dennis recommend being baptized on behalf of the dead?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "satan-bow-dennis",
+      "question": "Did Dennis think Satan would bow to Christ?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "mark-chip-dennis",
+      "question": "Did Dennis identify the mark of the beast as an implanted chip?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "144000-shortening-dennis",
+      "question": "How did Dennis answer whether the 144,000 were the elect for whose sake the tribulation was shortened?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "recognize-elect-truth-dennis",
+      "question": "How did Dennis respond to a listener asking whether Christians who know the truth are elect?",
+      "topic": "End times",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "spirit-body-present-dennis",
+      "question": "Did Dennis describe a spiritual body as already present within the flesh?",
+      "topic": "Life after death",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "isaiah28-line-upon-line-dennis",
+      "question": "How did Dennis explain Isaiah 28:10–13?",
+      "topic": "Scripture questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -44862,7 +44904,7 @@
       "question_id": "local005-7d68a686c87660",
       "video_id": "-ZOPXfruXiQ",
       "start": 3164.794,
-      "end": 3220.417,
+      "end": 3252.482,
       "variant": "local005-26",
       "summary": "Dennis appreciates the listener’s compassion and says he cannot decide whether she should attend that church; God may have a reason for her being there. Citing Matthew 7:6, he cautions against continuing to offer teaching to people who only mock it.",
       "scripture_mentions": [],
@@ -45147,7 +45189,7 @@
       "question_id": "local005-5f85e9b2729fed",
       "video_id": "1HPYqWElfKM",
       "start": 2760.824,
-      "end": 2792.523,
+      "end": 2806.436,
       "variant": "local005-47",
       "summary": "Dennis explains: the pastor advised always comparing what is being taught with God's Word. If it doesn't stack up with the Bible, it's false. God's Word is truth and should be the basis for all teaching. The pastor also emphasized keeping the teaching interesting for second graders and considering the audience when teaching.",
       "scripture_mentions": [],
@@ -45222,7 +45264,7 @@
       "question_id": "local005-e029068858a16c",
       "video_id": "-ZOPXfruXiQ",
       "start": 2492.79,
-      "end": 2560.157,
+      "end": 2631.562,
       "variant": "local005-52",
       "summary": "Dennis tells the listener she cannot take responsibility for her brother’s suicide or answer to God for his action. He acknowledges her guilt and offers his own interpretation of the family and rehabilitation circumstances; that interpretation is not an independently established account.",
       "scripture_mentions": [],
@@ -45237,7 +45279,7 @@
       "question_id": "local005-32fca65e5738e2",
       "video_id": "1HPYqWElfKM",
       "start": 2806.436,
-      "end": 2860.958,
+      "end": 2905.969,
       "variant": "local005-53",
       "summary": "Dennis explains: the pastor stated that Solomon had 700 wives and 300 concubines, as written in 1 Kings 11:3. While having multiple wives wasn't prohibited, God warned against multiplying wives, which Solomon overdid, leading to his downfall.",
       "scripture_mentions": [],
@@ -46077,7 +46119,7 @@
       "question_id": "local005-b2a1e3a1ba50ae",
       "video_id": "-ZOPXfruXiQ",
       "start": 3254.851,
-      "end": 3294.324,
+      "end": 3320.083,
       "variant": "local005-128",
       "summary": "Dennis says Jesus entrusted Mary’s care to John. He then expressly distinguishes a nonbiblical historical claim that Mary went with Joseph of Arimathea to Britain and recommends a book about it. That later claim is not presented as Scripture or independently verified history.",
       "scripture_mentions": [],
@@ -47134,6 +47176,124 @@
       "transcript_sha256": "fa7293bace36ebaf820b60162e4782d4af0d0a3d6ed0ec235ab1edd2e2e3b9e5",
       "source_sha256": "f55c2508e74b5b1e79eeb835a4d98a7b4645aaeccda39b7d5ff0c3676f4ca667",
       "recording_group": "-p2BC68Wbyc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "baptism-dead-dennis",
+      "video_id": "-ZOPXfruXiQ",
+      "start": 3007.137,
+      "end": 3125.489,
+      "variant": "local006-baptism-dead-dennis",
+      "summary": "Dennis says a living person cannot be baptized or repent as a proxy for someone who has died. He interprets 1 Corinthians 15:29 in relation to belief in Christ, saying each person is accountable for their own conduct.",
+      "scripture_mentions": [
+        "1 Corinthians 15:29"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "7637a5f1956c38848781ecc2cc374ec07611128ea22af98944e49e5bb356deb9",
+      "source_sha256": "f3612f6f35638f57b5fb5f01f8b5483a7672e6788734efa2ae14714bafd7eb03",
+      "recording_group": "-ZOPXfruXiQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "satan-bow-dennis",
+      "video_id": "-ZOPXfruXiQ",
+      "start": 2686.817,
+      "end": 2729.693,
+      "variant": "local006-satan-bow-dennis",
+      "summary": "Dennis says he thinks Satan is included when Philippians 2:10 says every knee will bow to Jesus. Asked whether Satan would mean it, he says he does not know and does not think so.",
+      "scripture_mentions": [
+        "Philippians 2:10"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "7637a5f1956c38848781ecc2cc374ec07611128ea22af98944e49e5bb356deb9",
+      "source_sha256": "f3612f6f35638f57b5fb5f01f8b5483a7672e6788734efa2ae14714bafd7eb03",
+      "recording_group": "-ZOPXfruXiQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "mark-chip-dennis",
+      "video_id": "-ZOPXfruXiQ",
+      "start": 3320.083,
+      "end": 3378.975,
+      "variant": "local006-mark-chip-dennis",
+      "summary": "Dennis says the mark is not an implanted chip or a tattoo. He describes it in terms of a person’s thinking and contrasts it with being sealed by the Word of God.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "7637a5f1956c38848781ecc2cc374ec07611128ea22af98944e49e5bb356deb9",
+      "source_sha256": "f3612f6f35638f57b5fb5f01f8b5483a7672e6788734efa2ae14714bafd7eb03",
+      "recording_group": "-ZOPXfruXiQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "144000-shortening-dennis",
+      "video_id": "1HPYqWElfKM",
+      "start": 2229.594,
+      "end": 2263.928,
+      "variant": "local006-144000-shortening-dennis",
+      "summary": "Dennis agrees with the listener’s description of the 144,000 and says they are the same election referred to in the question about the shortened tribulation.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
+      "source_sha256": "b1b187303486bd4e1f9890da37b2e12ec27d9cda062901968fc7a3559d091ecc",
+      "recording_group": "1HPYqWElfKM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "recognize-elect-truth-dennis",
+      "video_id": "1HPYqWElfKM",
+      "start": 2263.928,
+      "end": 2356.454,
+      "variant": "local006-recognize-elect-truth-dennis",
+      "summary": "Dennis describes understanding the antichrist’s appearance before Christ’s return and the Holy Spirit’s witness when the elect are delivered up. He emphasizes recognizing the deception and cites Revelation 2:9 and 3:9.",
+      "scripture_mentions": [
+        "Revelation 2:9",
+        "Revelation 3:9"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
+      "source_sha256": "b1b187303486bd4e1f9890da37b2e12ec27d9cda062901968fc7a3559d091ecc",
+      "recording_group": "1HPYqWElfKM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "spirit-body-present-dennis",
+      "video_id": "1HPYqWElfKM",
+      "start": 2526.824,
+      "end": 2606.704,
+      "variant": "local006-spirit-body-present-dennis",
+      "summary": "Dennis says the spiritual body is already within the flesh body rather than a different body waiting elsewhere. He refers to 1 Corinthians 15, 2 Corinthians 5:1–6 and Ecclesiastes 12:6–7 when describing death and the spirit returning to the Father.",
+      "scripture_mentions": [
+        "1 Corinthians 15",
+        "2 Corinthians 5:1–6",
+        "Ecclesiastes 12:6–7"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
+      "source_sha256": "b1b187303486bd4e1f9890da37b2e12ec27d9cda062901968fc7a3559d091ecc",
+      "recording_group": "1HPYqWElfKM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "isaiah28-line-upon-line-dennis",
+      "video_id": "1HPYqWElfKM",
+      "start": 3124.488,
+      "end": 3195.492,
+      "variant": "local006-isaiah28-line-upon-line-dennis",
+      "summary": "Dennis relates precept upon precept and line upon line to teaching the Bible chapter by chapter and verse by verse. He says a topical sermon drawing on several passages can also be appropriate.",
+      "scripture_mentions": [
+        "Isaiah 28:10–13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
+      "source_sha256": "b1b187303486bd4e1f9890da37b2e12ec27d9cda062901968fc7a3559d091ecc",
+      "recording_group": "1HPYqWElfKM",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
     }
@@ -49320,6 +49480,63 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-26",
       "basis": "Direct read of entire available Q&A; preserved one listener request without a distinct answer."
+    },
+    {
+      "video_id": "-ZOPXfruXiQ",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "7637a5f1956c38848781ecc2cc374ec07611128ea22af98944e49e5bb356deb9",
+      "qa_start": 2277.108,
+      "qa_end": 3378.975,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2277.108,
+          "end": 3378.975
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2741.205,
+          "end": 2765.729,
+          "reason": "Captioned Ezekiel chapter 27 reference for the king of Tyrus requires audio/source confirmation; the separate supported Philippians answer is preserved."
+        }
+      ],
+      "cursor_seconds": 2741.205,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Complete available caption Q&A read; preserve source-specific uncertainty."
+    },
+    {
+      "video_id": "1HPYqWElfKM",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
+      "qa_start": 2229.594,
+      "qa_end": 3389.319,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2229.594,
+          "end": 3389.319
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2606.704,
+          "end": 2752.95,
+          "reason": "Listener asks about the length of creation days; pastor discusses Bullinger without stating a clear duration in this answer."
+        },
+        {
+          "start": 3195.492,
+          "end": 3283.48,
+          "reason": "Captioned Revelation 14:13 or 13:14 reference is explicitly uncertain; do not silently repair it."
+        }
+      ],
+      "cursor_seconds": 2606.704,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Complete available caption Q&A read; hold a question without a definite answer and an uncertain citation."
     }
   ]
 }

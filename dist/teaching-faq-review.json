@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T20:45:35.445658+00:00",
+  "updated": "2026-10-26T20:48:22.878011+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -2118,7 +2118,10 @@
         "local005-b2a1e3a1ba50ae",
         "local005-0f90ddeeb84656",
         "local005-shortened-tribulation-dennis",
-        "local005-9bfdc15f15a9c6"
+        "local005-9bfdc15f15a9c6",
+        "baptism-dead-dennis",
+        "satan-bow-dennis",
+        "mark-chip-dennis"
       ],
       "reviewed_ranges": [
         {
@@ -2130,7 +2133,7 @@
         {
           "question_id": "local005-7d68a686c87660",
           "start_seconds": 3164.794,
-          "end_seconds": 3220.417,
+          "end_seconds": 3252.482,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2142,7 +2145,7 @@
         {
           "question_id": "local005-e029068858a16c",
           "start_seconds": 2492.79,
-          "end_seconds": 2560.157,
+          "end_seconds": 2631.562,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2160,7 +2163,7 @@
         {
           "question_id": "local005-b2a1e3a1ba50ae",
           "start_seconds": 3254.851,
-          "end_seconds": 3294.324,
+          "end_seconds": 3320.083,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -2180,11 +2183,56 @@
           "start_seconds": 2285.249,
           "end_seconds": 2364.795,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-dead-dennis",
+          "start_seconds": 3007.137,
+          "end_seconds": 3125.489,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-bow-dennis",
+          "start_seconds": 2686.817,
+          "end_seconds": 2729.693,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark-chip-dennis",
+          "start_seconds": 3320.083,
+          "end_seconds": 3378.975,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "-ZOPXfruXiQ",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "7637a5f1956c38848781ecc2cc374ec07611128ea22af98944e49e5bb356deb9",
+        "qa_start": 2277.108,
+        "qa_end": 3378.975,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2277.108,
+            "end": 3378.975
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2741.205,
+            "end": 2765.729,
+            "reason": "Captioned Ezekiel chapter 27 reference for the king of Tyrus requires audio/source confirmation; the separate supported Philippians answer is preserved."
+          }
+        ],
+        "cursor_seconds": 2741.205,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete available caption Q&A read; preserve source-specific uncertainty."
+      },
+      "cursor_seconds": 2741.205
     },
     {
       "video_id": "-abDNPoVeQI",
@@ -6797,7 +6845,11 @@
         "local005-47ba7466e7e3f8",
         "local005-ad2e2c09b20f84",
         "local005-ed35376ca411dc",
-        "local005-78fa2b6a36929f"
+        "local005-78fa2b6a36929f",
+        "144000-shortening-dennis",
+        "recognize-elect-truth-dennis",
+        "spirit-body-present-dennis",
+        "isaiah28-line-upon-line-dennis"
       ],
       "reviewed_ranges": [
         {
@@ -6809,13 +6861,13 @@
         {
           "question_id": "local005-5f85e9b2729fed",
           "start_seconds": 2760.824,
-          "end_seconds": 2792.523,
+          "end_seconds": 2806.436,
           "review": "caption_passage_checked_audio_pending"
         },
         {
           "question_id": "local005-32fca65e5738e2",
           "start_seconds": 2806.436,
-          "end_seconds": 2860.958,
+          "end_seconds": 2905.969,
           "review": "caption_passage_checked_audio_pending"
         },
         {
@@ -6847,11 +6899,67 @@
           "start_seconds": 2356.454,
           "end_seconds": 2472.77,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "144000-shortening-dennis",
+          "start_seconds": 2229.594,
+          "end_seconds": 2263.928,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-elect-truth-dennis",
+          "start_seconds": 2263.928,
+          "end_seconds": 2356.454,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-body-present-dennis",
+          "start_seconds": 2526.824,
+          "end_seconds": 2606.704,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah28-line-upon-line-dennis",
+          "start_seconds": 3124.488,
+          "end_seconds": 3195.492,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "1HPYqWElfKM",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "c9ae244a9c3e1f5b1b61a9efaf49421ea8dee0799b6104ed98171d9657fa8609",
+        "qa_start": 2229.594,
+        "qa_end": 3389.319,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2229.594,
+            "end": 3389.319
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2606.704,
+            "end": 2752.95,
+            "reason": "Listener asks about the length of creation days; pastor discusses Bullinger without stating a clear duration in this answer."
+          },
+          {
+            "start": 3195.492,
+            "end": 3283.48,
+            "reason": "Captioned Revelation 14:13 or 13:14 reference is explicitly uncertain; do not silently repair it."
+          }
+        ],
+        "cursor_seconds": 2606.704,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-26",
+        "basis": "Complete available caption Q&A read; hold a question without a definite answer and an uncertain citation."
+      },
+      "cursor_seconds": 2606.704
     },
     {
       "video_id": "1HgawBUJ6b4",
@@ -43914,6 +44022,6 @@
     "teacher_pending": 65,
     "pending": 1087,
     "source_changed": 0,
-    "question_occurrences": 2360
+    "question_occurrences": 2367
   }
 }
