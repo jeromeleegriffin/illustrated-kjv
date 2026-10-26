@@ -2,6 +2,8 @@
 import json,subprocess,sys,tempfile,time,zipfile
 from pathlib import Path
 from playwright.sync_api import sync_playwright
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
+from publication import render_preview
 
 def main():
  exe=Path(sys.argv[1]).resolve()
@@ -27,11 +29,26 @@ def main():
     page.locator('#pause').click();page.wait_for_function("document.querySelector('#message').textContent.includes('Pausing')")
     with page.expect_download() as download:page.locator('#export').click()
     download.value.save_as(str(root/'result.zip'))
-    with zipfile.ZipFile(root/'result.zip') as z:assert z.testzip() is None
+    with zipfile.ZipFile(root/'result.zip') as z:
+     assert z.testzip() is None
+     assert 'publication/preflight.json' in z.namelist()
+     assert 'publication/faq-preview.html' in z.namelist()
+     preview=root/'preview.html';preview.write_bytes(z.read('publication/faq-preview.html'))
+    page.goto(preview.as_uri());page.wait_for_function("document.querySelector('.position').textContent==='0 / 0'")
+    assert page.locator('main').inner_text().find('No proposals passed')>=0
+    synthetic={'proposals':[{'question':'Synthetic question '+str(i)+'?','summary':'Synthetic preview test only.','teacher':'Arnold Murray','video_id':'abcdefghijk','start':10,'source_url':'https://www.youtube.com/watch?v=abcdefghijk&t=10s','grouping_basis':'test_only'} for i in range(3)]}
+    preview.write_text(render_preview(synthetic,{}),encoding='utf-8');page.reload()
+    page.wait_for_function("document.querySelector('.position').textContent==='1 / 3'")
+    positions=[page.locator('header .next').bounding_box(),page.locator('footer .next').bounding_box()]
+    page.locator('header .next').click();assert page.locator('article:not([hidden]) h2').inner_text()=='Synthetic question 1?'
+    page.locator('footer .next').click();assert page.locator('article:not([hidden]) h2').inner_text()=='Synthetic question 2?'
+    assert page.locator('header .next').bounding_box()['y']==positions[0]['y'];assert page.locator('footer .next').bounding_box()['y']==positions[1]['y']
+    page.locator('footer .prev').click();assert page.locator('article:not([hidden]) h2').inner_text()=='Synthetic question 1?'
     assert not errors,errors
     page.screenshot(path=str(exe.parent/'UI-test.png'),full_page=True)
     browser.close();print('Frozen Windows Edge UI: startup, import, refresh/session resume, pause, export and JavaScript checks passed')
   finally:proc.terminate();proc.wait(timeout=15)
 
 if __name__=='__main__':main()
+
 

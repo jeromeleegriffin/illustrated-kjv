@@ -4,7 +4,7 @@ import hashlib, json, math, re, sqlite3, time, urllib.request, zipfile
 from contextlib import contextmanager
 from pathlib import Path, PurePosixPath
 
-VERSION = '1.1.0'
+VERSION = '1.1.1'
 MODEL = 'qwen3:8b'
 ALLOWED_TEACHERS = {'Arnold Murray', 'Dennis Murray'}
 TRANSCRIPT_DIRS = ('search-library/transcripts/', 'recovery006/supplement-search/transcripts/')
@@ -193,7 +193,8 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
             # and private progress are never replaced by this reference snapshot.
             reference=self.root/'reference-questions.json'
             partial=reference.with_suffix('.partial')
-            partial.write_text(json.dumps({'questions':registry.get('questions',[])},ensure_ascii=False),encoding='utf-8')
+            from publication import slim_registry
+            partial.write_text(json.dumps(slim_registry(registry),ensure_ascii=False),encoding='utf-8')
             partial.replace(reference)
             for info in infos:
                 name=info.filename
@@ -296,16 +297,36 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
         reference=self.root/'reference-questions.json'
         if not reference.exists():reference=Path(__file__).with_name('reference-questions.json')
         registry=json.loads(reference.read_text(encoding='utf-8')) if reference.exists() else {'questions':[]}
+        # Earlier app versions saved only question titles. Use the shipped
+        # approved-source index until an updated imported registry supplies one.
+        shipped=Path(__file__).with_name('approved-occurrence-index.json')
+        if not registry.get('occurrences') and shipped.exists():
+            snapshot=json.loads(shipped.read_text(encoding='utf-8'))
+            registry={**snapshot,'questions':registry.get('questions') or snapshot.get('questions',[])}
         review=build_review_package(checked,registry)
+        from publication import prepare_publication,render_preview
+        from functools import lru_cache
+        source_paths={s['id']:s for s in sources}
+        @lru_cache(maxsize=2)
+        def source_reader(video,expected_hash):
+            source=source_paths[video]
+            raw=Path(source['source_path']).read_bytes()
+            if source['hash']!=expected_hash or sha(raw)!=expected_hash:raise ValueError('Source hash mismatch')
+            return read_document(raw)
+        prepared,preflight=prepare_publication(review,registry,source_reader)
         manifest['automated_review']=review['counts']
+        manifest['publication_preparation']={k:preflight[k] for k in ('prepared_proposals','held_clusters','reference_snapshot_sha256')}
         manifest['self_contained_sources']=len(sources)
         manifest['check_policy']='Automated second pass; final publication review required. No blanket approval.'
         with zipfile.ZipFile(path,'w',zipfile.ZIP_DEFLATED) as z:
-            z.writestr('index.html','<!doctype html><meta charset="utf-8"><title>Private FAQ results</title><h1>Private FAQ batch results</h1><p>Machine candidates, not approved public answers. Keep this ZIP private. Review source-bound evidence and teacher attribution before publication.</p>')
+            z.writestr('index.html','<!doctype html><meta charset="utf-8"><title>Private FAQ results</title><h1>Private FAQ batch results</h1><p>Machine candidates, not approved public answers. Keep this ZIP private. Review source-bound evidence and teacher attribution before publication.</p><p><a href="publication/faq-preview.html">Open the private FAQ preview</a></p><p>After extracting this results ZIP, open the preview to page through prepared proposals. The preparation report and held queue remain in publication/. Nothing was published or automatically approved.</p>')
             z.writestr('manifest.json',json.dumps(manifest,indent=2))
             z.writestr('unfinished-windows.json',json.dumps(failures,indent=2))
             z.writestr('processing-events.json',json.dumps(events,indent=2))
             z.writestr('publication-review.json',json.dumps(review,indent=2,ensure_ascii=False))
+            z.writestr('publication/faq-proposals.json',json.dumps(prepared,indent=2,ensure_ascii=False))
+            z.writestr('publication/preflight.json',json.dumps(preflight,indent=2,ensure_ascii=False))
+            z.writestr('publication/faq-preview.html',render_preview(prepared,preflight))
             z.writestr('reference-questions.json',json.dumps(registry,ensure_ascii=False))
             for source in sources:
                 raw=Path(source['source_path']).read_bytes()

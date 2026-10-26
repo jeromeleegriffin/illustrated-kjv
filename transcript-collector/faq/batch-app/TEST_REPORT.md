@@ -73,3 +73,8 @@ The packaged Windows HTTP test also exposed a status-response timing race: an ol
 Added a hash-bound, resumable second-pass check queue, conservative named-presenter checks, evidence-integrity gates, local semantic checks, duplicate-anchor clusters, existing-topic suggestions and self-contained private source exports. These checks are not public approval and do not establish full Q&A recall or audio verification. Existing 1.0.5 extraction jobs and models remain reusable. No Bible reader or public FAQ assets changed.
 
 Local regression suite: 46 tests passed, including legacy-job migration, interrupted check recovery, changed-source invalidation, altered-evidence rejection, typed model response validation, rhetorical/unsupported-answer holds, preserved variants, suggested grouping and self-contained exports. Real-caption model-check results and Windows build verification are recorded separately after execution; do not infer passing results from these tests.
+
+
+## Version 1.1.1 publication preparation
+
+Added deterministic private staging, approved-source overlap reconciliation, named-presenter and exact-evidence preflight, preserved ambiguous variants, fixed timestamp links and an escaped offline page-by-page preview. Public approved assets are not changed by export. Tests cover idempotency, stale checks, altered evidence, alias alignment holds, ambiguous grouping, previously reviewed overlaps and HTML injection. Windows validation is recorded separately after actual execution.

@@ -1,4 +1,4 @@
-GRIFFIN SHEPHERD'S CHAPEL FAQ BATCH PROCESSOR — VERSION 1.1.0
+GRIFFIN SHEPHERD'S CHAPEL FAQ BATCH PROCESSOR — VERSION 1.1.1
 
 This companion app processes the saved private caption library into timestamped FAQ
 candidates. It preserves the existing approved FAQs and the Bible application.
@@ -105,3 +105,17 @@ UPDATING WITHOUT LOSING WORK
    This adds processing time; it is actual checking work, not lost progress.
 5. Keep uncertain cases held. Upload the results ZIP for the final publish step.
 
+
+VERSION 1.1.1 — PRIVATE PUBLICATION PREPARATION
+The results ZIP now includes publication/faq-preview.html, faq-proposals.json
+and preflight.json. Extract the results ZIP and open its index.html to preview
+one proposed answer per page, with Previous/Next at top and bottom.
+
+Preparation checks original evidence, source hashes, timestamps, named presenter,
+second-pass verdicts and overlap with the bundled approved-source snapshot.
+Previously reviewed overlaps, differing answer variants, ambiguous existing groups
+and alternate uploads needing alignment stay in reconciliation. Exact wording
+groups and preview counts are provisional; they do not approve semantic merges.
+The export is still private and requires a final review against the CURRENT
+approved registry before publishing. No hosting credentials are stored in the app.
+This adds no model download and reuses all existing progress and checks.
