@@ -1,0 +1,24 @@
+{
+  "assignment_id": "griffin-faq-grok-300-20261025-B",
+  "assigned_recordings": 300,
+  "teacher_counts": {
+    "Arnold Murray": 300
+  },
+  "prior_assignment_overlap": 0,
+  "reviewed_recording_overlap": 0,
+  "known_alias_duplicates": 0,
+  "first_video_id": "4ulMSmr1NFA",
+  "last_video_id": "Yte1Ibe70Ug",
+  "question_groups_before": 1071,
+  "linked_answers_before": 1616,
+  "approved_answers_added": 0,
+  "source_completeness": "not_yet_reviewed",
+  "purpose": "Second separate external review assignment, not publication or archive completion",
+  "package_bytes": 19000756,
+  "package_sha256": "2195516dc4874dc9151d20478ebaf8dfb5553a468fb2148594562190cd383bef",
+  "package_integrity_passed": true,
+  "source_hashes_checked": 300,
+  "landing_links_checked": 605,
+  "validator_tests_passed": 4,
+  "exact_caption_duplicates_with_reviewed_or_reserved": 0
+}

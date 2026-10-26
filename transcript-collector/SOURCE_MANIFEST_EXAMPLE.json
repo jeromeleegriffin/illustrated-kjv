@@ -1,0 +1,13 @@
+{
+  "instructions": "Template only. Replace with ministry-approved exact recording mappings. Do not set identity_verified until evidence exists. Relative paths resolve against this manifest folder.",
+  "sources": [
+    {
+      "id": "J2Ia_1jDRdc",
+      "teacher": "Arnold Murray",
+      "identity_verified": false,
+      "identity_evidence": "",
+      "permission_basis": "",
+      "path": "authorized-audio/Genesis [J2Ia_1jDRdc].mp3"
+    }
+  ]
+}

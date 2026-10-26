@@ -1,0 +1,23 @@
+{
+  "batch": "faq-pass027",
+  "recordings_fully_reviewed": 2,
+  "recordings_partially_reviewed": 1,
+  "video_ids": [
+    "4XAGRXsr74Y",
+    "4_p9SAYN_Wo",
+    "4lvVdhNtkSU"
+  ],
+  "occurrences_added": 46,
+  "questions_added": 29,
+  "question_groups": 852,
+  "linked_answers": 1285,
+  "held_answer_ranges": 1,
+  "audio_verified": false,
+  "other_source_inspections": [
+    {
+      "video_id": "4f9pKrEIqBQ",
+      "status": "not_reviewed_QA",
+      "reason": "Saved export ends after teaching and advertisement, around 1988 seconds. No Q&A section available in inspected ending; do not mark full Q&A review."
+    }
+  ]
+}

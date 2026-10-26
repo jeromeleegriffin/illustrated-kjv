@@ -1,0 +1,45 @@
+{
+  "updated": "2026-10-24T11:28:15.486498+00:00",
+  "source_id": "Nw0wcl8CnFI",
+  "raw_tracks": [
+    {
+      "file": "Nw0wcl8CnFI.en-orig.vtt",
+      "type": "automatic original English (en-orig)",
+      "language": "en",
+      "sha256": "98556a368768ba8aa1a6993a76bed04b82db47b4afba8b9d6c97c5694febce16",
+      "cue_count": 2409,
+      "first_cue": "00:00:00.799 --> 00:00:02.790",
+      "last_cue": "00:58:16.540 --> 00:58:22.909",
+      "notes": "Preferred en-orig automatic captions. Native English."
+    },
+    {
+      "file": "Nw0wcl8CnFI.en.vtt",
+      "type": "English captions",
+      "language": "en",
+      "sha256": "b834790b425a4b0bef1bc28cb6c1a44ac6b3787fa6931be384cd4342abab9de4",
+      "cue_count": 1101,
+      "first_cue": "00:00:01.134 --> 00:00:02.735",
+      "last_cue": "00:58:19.829 --> 00:58:24.000",
+      "notes": "Cleaner English track. Also native; starts with same Arnold Murray introduction."
+    }
+  ],
+  "selected_track": "Nw0wcl8CnFI.en.vtt",
+  "segments": 1100,
+  "first_start": 1.134,
+  "last_end": 3504.0,
+  "search_after_restart": "PASS",
+  "supplement_verification": {
+    "structurally_valid": 4,
+    "failures": [],
+    "database_errors": [],
+    "library_usable": true,
+    "note": "Structural validation is not audio accuracy verification. If database integrity fails, preserve it and rebuild a separate library from retained source exports."
+  },
+  "original_catalog_saved": 1291,
+  "original_catalog_total": 1294,
+  "original_source_exceptions": 3,
+  "new_original_transcripts": 0,
+  "audio_accuracy_verified": false,
+  "readme_correction": "Both supplied tracks start with Exodus22:1, not verse18. Authored-style does not independently establish human authorship.",
+  "status": "alternate_source_saved_quality_review"
+}

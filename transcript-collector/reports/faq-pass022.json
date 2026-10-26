@@ -1,0 +1,18 @@
+{
+  "batch": "faq-pass022",
+  "recordings_fully_reviewed": 1,
+  "recordings_partially_reviewed": 1,
+  "lesson_only_exports_examined": 1,
+  "video_id": "418kIe_Wgdg",
+  "questions_added": 22,
+  "occurrences_added": 33,
+  "question_groups": 750,
+  "linked_answers": 1146,
+  "partial_cursor_seconds": 3357.75,
+  "audio_verified": false,
+  "reserved_grok_recordings_excluded": 300,
+  "video_ids": [
+    "418kIe_Wgdg",
+    "4712oaWfl84"
+  ]
+}

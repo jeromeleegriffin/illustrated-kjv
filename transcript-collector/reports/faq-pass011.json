@@ -1,0 +1,45 @@
+{
+  "batch": "faq-pass011",
+  "before": {
+    "questions": 190,
+    "occurrences": 291
+  },
+  "after": {
+    "questions": 222,
+    "occurrences": 333
+  },
+  "added_occurrences": 42,
+  "new_questions": 32,
+  "recordings": [
+    {
+      "video_id": "-XQfiW4QgV4",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "9d16ffc0d29b95700fe385be041c11f3d1492c666bd9475780fd6ab9e46b4664",
+      "reviewed_range": [
+        2100.23,
+        3372.17
+      ],
+      "unresolved": [
+        "Historical and translation claims attributed, not independently validated",
+        "Audio comparison pending"
+      ]
+    },
+    {
+      "video_id": "-Y0RXFMn3xc",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "180417388b4b252ba9479165c67a61a16c263eef7bdff4fd4a85cf8d7f15a6d4",
+      "reviewed_range": [
+        2160.06,
+        3387.66
+      ],
+      "unresolved": [
+        "2032.68\u20132160.06: prayer requests and comments, not counted as listener questions",
+        "2509.44\u20132555.34: question names post-millennium period but answer discusses pre-captivity period",
+        "3147.89\u20133166.26: damaged question about margarine/unclear subject held pending",
+        "3205.32\u20133213.54: incomplete Genesis 19:32 question held pending",
+        "Opening tongues wording and baptism formula need audio review"
+      ]
+    }
+  ],
+  "fully_reviewed_recordings": 0
+}

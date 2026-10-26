@@ -1,0 +1,133 @@
+{
+  "batch": "pass019-caption-review",
+  "video_id": "3waQOMJXwpM",
+  "teacher": "Arnold Murray",
+  "transcript_sha256": "b099a340ca7d0a3a88c79734f89f046bba064113d277b67e7eb004000fb0d334",
+  "review_status": "complete_caption_QA_review_audio_pending",
+  "qa_start": 2120.22,
+  "cursor_seconds": 3369.3,
+  "remaining": null,
+  "reviewed_answers": [
+    {
+      "start": 2124.39,
+      "end": 2195.83,
+      "question": "Did Jesus know as a child that he would be crucified?",
+      "summary": "Arnold said yes, appealing to Jesus at twelve and Psalm 22. He interpreted the later request concerning the cup as about wrath rather than avoiding crucifixion; this is his interpretation."
+    },
+    {
+      "start": 2204.37,
+      "end": 2278.91,
+      "question": "How did Arnold explain Ezekiel 16:44–45?",
+      "summary": "Arnold identified Jerusalem, rather than an individual woman, as the chapter's subject. He gave a brief historical and covenant explanation and deferred fuller treatment to his coming chapter study."
+    },
+    {
+      "start": 2280.54,
+      "end": 2319.18,
+      "question": "Where did Arnold support God's knowledge of thoughts?",
+      "summary": "Arnold referred to Luke 16:15 and the day's teaching. He distinguished God's knowledge from Satan's, speculating about possession while saying Christians should exercise authority in Christ's name."
+    },
+    {
+      "start": 2327.89,
+      "end": 2351.08,
+      "question": "Pyramids before Noah’s flood",
+      "summary": "Arnold placed the pyramids in his proposed first earth age but declined to attribute their construction to fallen angels. This is his interpretation, not a verified archaeological conclusion."
+    },
+    {
+      "start": 2359.92,
+      "end": 2459.99,
+      "question": "Rapture before antichrist",
+      "summary": "Arnold rejected that sequence and referred to Mark 13, Matthew 24 and Luke 21. He placed antichrist at the sixth trumpet and Christ at the seventh, returning to join believers on earth."
+    },
+    {
+      "start": 2463.56,
+      "end": 2510.54,
+      "question": "Removing evil spirits from a home",
+      "summary": "Arnold advised anointing doorposts and giving the command in Christ’s name, citing Luke 10:19. He attributed protection to Christ rather than treating the oil as an independent power."
+    },
+    {
+      "start": 2512.48,
+      "end": 2545.38,
+      "question": "God’s divorce from Israel",
+      "summary": "Arnold gave Jeremiah 3:8 and used its imagery to argue that divorce is forgivable rather than the unpardonable sin."
+    },
+    {
+      "start": 2549.98,
+      "end": 2632.59,
+      "question": "Exodus 20:24 compared with Jeremiah 7:22",
+      "summary": "Arnold proposed distinguishing the time and circumstances of the instructions and discussed gifts of manna and quail. He concluded with Hosea 6:6 and love rather than burnt offerings. His proposed chronology is retained as his explanation, not independently established."
+    },
+    {
+      "start": 2638.77,
+      "end": 2679.88,
+      "question": "Obedience and righteous acts",
+      "summary": "Arnold said obeying God’s commandments leads to righteous acts. He urged doing right and loving God without pretending to be perfect."
+    },
+    {
+      "start": 2685.92,
+      "end": 2750.25,
+      "question": "Peoples aboard the ark",
+      "summary": "Arnold rejected the idea that the ark created different peoples. He taught that peoples were already created and included among two of every flesh on the ark. This is his disputed reading of Genesis, not verified population history."
+    },
+    {
+      "start": 2753.72,
+      "end": 2806.87,
+      "question": "Eighth-day creation",
+      "summary": "Arnold associated the later creation of Adam in his interpretation with the lineage through which Christ would come and recommended a fuller Hebrew study. His ancestry identifications are not applied here to classify present individuals."
+    },
+    {
+      "start": 2810.14,
+      "end": 2855.65,
+      "question": "Looking up again",
+      "summary": "Arnold gave a Greek Strong’s entry but suspected the listener intended the Hebrew word in Genesis 4:2. He used that Hebrew interpretation to argue that Cain and Abel were twins of different fathers; the conclusion remains his teaching rather than established genealogy."
+    },
+    {
+      "start": 2859.92,
+      "end": 2943.51,
+      "question": "Teaching on three levels",
+      "summary": "Arnold connected three audiences with Paul’s commission in Acts 9:15: Israel, Gentiles and rulers. He urged identifying audience, subject and time when interpreting a passage."
+    },
+    {
+      "start": 2944.97,
+      "end": 3037.97,
+      "question": "Believers and opponents in John 8",
+      "summary": "Arnold said the people claimed belief and read the confrontation through his Cain–Kenite interpretation. This disputed identification is attributed to him and is not asserted as ancestry of any present religious or ethnic group."
+    },
+    {
+      "start": 3047.04,
+      "end": 3133.8,
+      "question": "The woe in Isaiah 18",
+      "summary": "Arnold associated Isaiah 18 with America and interpreted the warning as requiring vigilance about national conduct and leadership. His political examples are historical broadcast commentary, not current factual findings or established prophetic mapping."
+    },
+    {
+      "start": 3136.27,
+      "end": 3170.87,
+      "question": "Christ’s age and calendar dates",
+      "summary": "Arnold maintained an age of thirty-three and suggested a birth date closer to 2 BC than 4 BC. He did not fully reconcile the listener’s calendar calculation in this answer."
+    },
+    {
+      "start": 3174.47,
+      "end": 3240.27,
+      "question": "Judgment and rewards",
+      "summary": "Arnold said the great white throne judgment includes both believers and unbelievers, describing it as reward for faithful believers and final judgment after the millennium for those refusing God. He associated fine linen with righteous acts."
+    },
+    {
+      "start": 3242.24,
+      "end": 3262.06,
+      "question": "Many ten-day testimonies within five months",
+      "summary": "Arnold proposed simultaneous courts throughout the world rather than every person testifying sequentially in one court. His briefly recalled number of princes is uncertain and is not treated as a verified citation."
+    },
+    {
+      "start": 3264.46,
+      "end": 3367.8,
+      "question": "Judgment compared with discernment",
+      "summary": "Arnold distinguished pronouncing someone’s eternal fate, which he reserved to God, from making prudent choices about associates and teachers. He described discernment as protection and urged responsibility for one’s decisions."
+    }
+  ],
+  "approved_registry_occurrences_added": 0,
+  "published": false,
+  "audio_verified": false,
+  "qa_end": 3369.3,
+  "new_answers_reviewed_this_turn": 16,
+  "total_reviewed_answers_in_recording": 19,
+  "note": "Complete caption section now reviewed; prepared answers still require registry grouping and generator validation before publication. Three earlier reviewed answers retained. Raw captions stay private."
+}

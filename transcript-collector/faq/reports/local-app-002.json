@@ -1,0 +1,38 @@
+{
+  "batch": "local-app-002",
+  "linked_answers_added": 46,
+  "new_question_groups": 23,
+  "question_groups": 1379,
+  "linked_answers": 2187,
+  "distinct_question_recording_counts": 2148,
+  "recordings_caption_read": 3,
+  "new_fully_reviewed_recordings": 0,
+  "review": {
+    "available": 1360,
+    "partially_reviewed": 173,
+    "fully_reviewed": 16,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 1106,
+    "source_changed": 0,
+    "question_occurrences": 2148
+  },
+  "authority": "Arnold Murray primary; Dennis clearly attributed",
+  "source_ids": [
+    "WaqJ4p4NLFY",
+    "-DI3jbEdDpM",
+    "F1e-_aBWB4c"
+  ],
+  "private_checkpoint": "libfile_fa436b11a950819199b084328523b67c",
+  "machine_processing_status": "Selected Q&A window coverage completed; machine candidates remain unapproved",
+  "audio_verified": false,
+  "uncertainty": "Preserve reference, unanswered-doorframe, incomplete Isaiah response, unread letter and deferred question holds; do not fabricate missing content.",
+  "machine_windows_saved": 23,
+  "machine_candidates": 69,
+  "machine_proposals_withheld": 25,
+  "machine_candidates_awaiting_semantic_review": 44,
+  "processor_patch": "1.0.2",
+  "windows_ci_run": 40288770610,
+  "faq_release": "65b40a765b830548fa42531324e6e96be84fa62b"
+}

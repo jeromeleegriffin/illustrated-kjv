@@ -1,0 +1,75 @@
+{
+  "batch": "pass015",
+  "questions_added": 63,
+  "occurrences_added": 101,
+  "totals": {
+    "questions": 550,
+    "occurrences": 837
+  },
+  "recordings": [
+    {
+      "video_id": "2EOBt9lj1Mw",
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "source_hash": "e46bdcb486b4caaf274771f37b1e7d3bb31637c2fa250d5e5bc242588a4e70c3"
+    },
+    {
+      "video_id": "2F0K2ip_82U",
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "source_hash": "2f5bbad7df261e5df75da689607b76b83210af8e5be5b35db15d1f182a16c5e2"
+    },
+    {
+      "video_id": "2J-JLzemPDo",
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "source_hash": "1f386d0b592021ef01a84f2d5f9cc769eef9f0935a6fa17d2b122794ea144021"
+    },
+    {
+      "video_id": "2MtCUdF0gmc",
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "review_start": 2108.94,
+      "review_end": 3364.76,
+      "source_hash": "56b53bce8c6a93ac8231c1b0513a20b6615e8204879a576123269804bdd6168f"
+    },
+    {
+      "video_id": "2PliRSgJelE",
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "review_start": 2173.47,
+      "review_end": 3378.47,
+      "source_hash": "407fb5f180e15a0e3fe0eb42ce7debff153a89a23f037f131294eec0d8f7a2c8"
+    },
+    {
+      "video_id": "2SlxiAJGx9k",
+      "review_status": "caption_QA_section_reviewed_audio_pending",
+      "fully_reviewed": false,
+      "review_start": 2147.64,
+      "review_end": 3371.5,
+      "source_hash": "dbbbc04e285f3358dd17bce9e1f8cf563428d8ae4847d20e14f151bdec0998b8"
+    }
+  ],
+  "gaps": [
+    {
+      "video_id": "2F0K2ip_82U",
+      "start": 3354,
+      "end": 3374,
+      "reason": "Question deferred to next lecture before recoverable wording or answer; not counted"
+    }
+  ],
+  "notes": [
+    "All listener Q&A in the inspected sections reviewed; audio not checked.",
+    "Start-only caption boundaries in Genesis are anchors, not fabricated word-level times.",
+    "Review ranges: Luke 2102.63\u20133364.93; Genesis 2115\u20133374; Philippians 2174.54\u20133380.81.",
+    "Publication not performed in this batch.",
+    "Self-forgiveness as a condition retained separately for comparison with unconditional reassurance variants. No audio accuracy claim."
+  ],
+  "validation": {
+    "unit_tests_passed": 3,
+    "invalid_approvals": 0,
+    "duplicate_occurrences": 0,
+    "rank_order_verified": true,
+    "all_837_occurrences_preserved": true
+  }
+}

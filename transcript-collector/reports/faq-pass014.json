@@ -1,0 +1,175 @@
+{
+  "batch": "faq-pass014",
+  "before": {
+    "questions": 376,
+    "occurrences": 545
+  },
+  "after": {
+    "questions": 487,
+    "occurrences": 736
+  },
+  "added_occurrences": 191,
+  "new_questions": 111,
+  "recordings": [
+    {
+      "video_id": "0X1rivl8UiI",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "7aa748ef77a02332a67b5cbba08846f260203071d6c0d2c453714cc126ab7dfb",
+      "reviewed_range": [
+        2082.48,
+        3374.9
+      ],
+      "unresolved": [
+        "Historical, archaeological and ancestry assertions remain attributed; audio pending"
+      ]
+    },
+    {
+      "video_id": "0iXsCzK9DkM",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "044ee1ae003c06335acf95bf6df197a6d25cebf1e3bbfe312404c6fc45f7b2d7",
+      "reviewed_range": [
+        2075.11,
+        3370
+      ],
+      "unresolved": [
+        "3132.73\u20133229.89: listener comment and military recollection, not a new listener question",
+        "Captioned sacred-name pronunciation and Revelation trial reference need checking"
+      ]
+    },
+    {
+      "video_id": "0n8lTiF8u3s",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "b84e132be1dc93a1e601c96648e49820507599de1e9b0b67987af99184eb8892",
+      "reviewed_range": [
+        2153.98,
+        3376.87
+      ],
+      "unresolved": [
+        "Earlier listener wording about discrimination partly damaged",
+        "Financial and remarriage comments are historical, not legal guidance"
+      ]
+    },
+    {
+      "video_id": "0uzaWnsLpmg",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "7fb7f4e37c4c592d9df78c59606f8c66d3a7b3e77967cddfab3a9be3e45efebe",
+      "reviewed_range": [
+        2112.81,
+        3372.3
+      ],
+      "unresolved": [
+        "3349.18\u20133372.3: 1 Thessalonians question not answered; Cain subquestion answered",
+        "Long practical-skills diversion retained within first-age-deception range"
+      ]
+    },
+    {
+      "video_id": "0y95cHuAtPo",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "2b747142e80886af4aaee40f710098e004efdc49b5cc9cb42cebfc6d0a3e0b3c",
+      "reviewed_range": [
+        2095.44,
+        3388.76
+      ],
+      "unresolved": [
+        "Several Greek/Hebrew terms and names are damaged by captions"
+      ]
+    },
+    {
+      "video_id": "10lwfQxko-s",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "344a416df182e94f94dd8a38320d516f8e031ef0fad9da4dbe8e040fd358cbc9",
+      "reviewed_range": [
+        2380.02,
+        3379.38
+      ],
+      "unresolved": [
+        "2136.18\u20132380.02: prayers, comments and communion announcement, not listener FAQ entries",
+        "Captioned names in Ham discussion confused; audio required"
+      ]
+    },
+    {
+      "video_id": "156CEiU4jcQ",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "bbf45ec90e9571ba3aee51b854d5a83e39520e0d591119440d441aa364796247",
+      "reviewed_range": [
+        2213.88,
+        3365.33
+      ],
+      "unresolved": [
+        "2951.31\u20132976.2: friendship answer has no saved question; held pending",
+        "Question about flood scope retains alternative interpretation"
+      ]
+    },
+    {
+      "video_id": "1CGXAWTSh9I",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "e45769b56451e2e4108a568c16b0ae3ca101616a3db5ebaa4a4cdb42b23481ee",
+      "reviewed_range": [
+        2092.19,
+        3379.71
+      ],
+      "unresolved": [
+        "2562.66\u20132614.21: listener testimony, not a question",
+        "Response to abuse-survivor concern does not resolve the troubling premise"
+      ]
+    },
+    {
+      "video_id": "1HgawBUJ6b4",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "d34a53258b62bc01828ac56e207d393eed5627bcad19d573a283425ef1fbc16c",
+      "reviewed_range": [
+        2093.69,
+        3383.01
+      ],
+      "unresolved": [
+        "Greek/Hebrew and number references require audio review"
+      ]
+    },
+    {
+      "video_id": "1hmmUCDLvvs",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "de8f7defef09c13128bdb9c9da53dcece102f454f4296a08ed80205d10d8f5ea",
+      "reviewed_range": [
+        2146.31,
+        3390.85
+      ],
+      "unresolved": [
+        "Some Greek terms and recalled Revelation verses require checking"
+      ]
+    },
+    {
+      "video_id": "1ne9KpL17OA",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "df428d101bfd969346f874c1ac4a52685f9fbe4a2ae009ebdeb8aee06b3d1530",
+      "reviewed_range": [
+        2107.77,
+        3391.89
+      ],
+      "unresolved": [
+        "2430.93\u20132458.19: study testimony, not a question",
+        "No individual medical or legal outcomes inferred"
+      ]
+    },
+    {
+      "video_id": "28q_V7icuQw",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "9acfa0de665db91f811e6b9fbbed6341f720cb243a6775937cae77203263705f",
+      "reviewed_range": [
+        2095.69,
+        3370.73
+      ],
+      "unresolved": [
+        "2095.69\u20132157.52: illness/curse answer lacks a recoverable listener question; held pending",
+        "Luke chapter reference in green-tree explanation needs checking"
+      ]
+    }
+  ],
+  "fully_reviewed_recordings": 0,
+  "validation": {
+    "automated_tests_passed": 3,
+    "all_approved_paraphrases_and_ranges_present": true,
+    "source_hash_invalidations": 0,
+    "ranking_descending": true,
+    "duplicate_occurrence_keys": 0
+  }
+}

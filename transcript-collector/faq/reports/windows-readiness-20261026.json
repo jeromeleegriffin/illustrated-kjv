@@ -1,0 +1,31 @@
+{
+  "version": "1.0.5",
+  "source_commit": "6f04f5904db2e8ae7af00ddfdd76c6bd16873015",
+  "windows_run_id": 40306765696,
+  "windows_result": "success",
+  "focused_regressions": 33,
+  "windows_synthetic_stress_recordings": 1360,
+  "windows_synthetic_import_rounds": 3,
+  "real_library_imported": 1360,
+  "real_library_invalid": 0,
+  "reimport_duplicate_jobs": 0,
+  "actual_caption_controls": "Pause, reopen, resume completed two selected excerpts once each; not full recording reviews",
+  "public_FAQs_added": 0,
+  "faq_groups_unchanged": 1393,
+  "linked_answers_unchanged": 2208,
+  "fixes": [
+    "Eligible current-source queue counts",
+    "Terminal reservation releases across formats",
+    "Bounded-memory candidate paging",
+    "Isolated concurrent downloads and consistent export snapshots",
+    "Verified reimport backup and integrity checks",
+    "Rollback journaling for the single-worker app",
+    "Malformed segment diagnostics",
+    "Elapsed-time and saved hardware-mode display",
+    "Consistent import-completion status snapshot"
+  ],
+  "complete_package": "Griffin_FAQ_Windows_Complete.zip",
+  "complete_package_layout": "Application and START_HERE.bat at root; teaching-library ZIP enclosed",
+  "model_review_limitations": "Machine proposals remain unapproved. Narrow excerpts can miss questions; normal context can still contain duplicate/rhetorical proposals. No exhaustive semantic recall claim.",
+  "scratch_incident": "A disposable cloud workspace WAL cache failed integrity; clean OS-local import tests and Windows stress passed. Root cause not established; originals and approved FAQs preserved."
+}

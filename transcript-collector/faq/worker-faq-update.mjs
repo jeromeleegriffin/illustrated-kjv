@@ -1,0 +1,32 @@
+// Illustrated KJV public assets only. Private transcripts/audio are never routed here.
+const RELEASE='320bff9c70e15333e38aaa0b0d5885d0682f6ccf';
+const FAQ_RELEASE='16e1332d0fd094387ee9f92db9123652509fa3b2';
+const FAQ_PATHS=new Set(['/teaching-faq.html','/teaching-faq.js','/teaching-faq.css','/teaching-faq.json','/teaching-faq-review.json','/teaching-faq-data.js']);
+const ORIGIN=`https://raw.githubusercontent.com/jeromeleegriffin/illustrated-kjv/${RELEASE}/dist`;
+const TYPES={html:'text/html; charset=utf-8',js:'text/javascript; charset=utf-8',css:'text/css; charset=utf-8',json:'application/json; charset=utf-8',svg:'image/svg+xml',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',webp:'image/webp',ico:'image/x-icon',txt:'text/plain; charset=utf-8',woff2:'font/woff2'};
+export default {
+ async fetch(request,env,ctx){
+  const url=new URL(request.url);
+  if(!['GET','HEAD'].includes(request.method))return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
+  if(url.pathname==='/health')return Response.json({app:'Illustrated KJV',release:RELEASE,faq:'frequency-ranked-reviewed-passages',faq_release:FAQ_RELEASE,private_transcripts_published:false});
+  let path;
+  try{path=decodeURIComponent(url.pathname);}catch{return new Response('Bad path',{status:400});}
+  if(path==='/')path='/index.html';
+  if(!/^\/[A-Za-z0-9_./-]+$/.test(path)||path.includes('..')||path.split('/').some(s=>s.startsWith('.')))return new Response('Not Found',{status:404});
+  const ext=path.split('.').pop().toLowerCase();if(!TYPES[ext])return new Response('Not Found',{status:404});
+  const assetRelease=FAQ_PATHS.has(path)?FAQ_RELEASE:RELEASE;
+  const assetOrigin=FAQ_PATHS.has(path)?`https://raw.githubusercontent.com/jeromeleegriffin/illustrated-kjv/${FAQ_RELEASE}/dist`:ORIGIN;
+  const key=new Request(url.origin+path+'?release='+assetRelease);
+  try{
+   const cache=caches.default;let response=await cache.match(key);
+   if(!response){
+    const upstream=await fetch(assetOrigin+path,{headers:{'Accept':'*/*'},redirect:'manual'});
+    if(!upstream.ok)return new Response(upstream.status===404?'Not Found':'The Bible files are temporarily unavailable. Please try again.',{status:upstream.status===404?404:503,headers:{'Cache-Control':'no-store'}});
+    const headers=new Headers({'Content-Type':TYPES[ext],'Cache-Control':ext==='html'?'no-store':'public, max-age=300, s-maxage=3600','X-Content-Type-Options':'nosniff','X-Bible-Release':assetRelease,'Referrer-Policy':'strict-origin-when-cross-origin'});
+    response=new Response(upstream.body,{status:200,headers});
+    ctx.waitUntil(cache.put(key,response.clone()));
+   }
+   return request.method==='HEAD'?new Response(null,{status:response.status,headers:response.headers}):response;
+  }catch(error){console.error(JSON.stringify({event:'bible_asset_unavailable',path,reason:error.name,message:error.message}));return new Response('The Bible is temporarily unavailable. Please try again.',{status:503,headers:{'Cache-Control':'no-store'}});}
+ }
+};

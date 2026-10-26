@@ -1,0 +1,16 @@
+{
+  "batch": "faq-pass032",
+  "recordings_fully_reviewed": 1,
+  "recordings_partially_reviewed": 1,
+  "video_ids": [
+    "5ON5KcO3TkY",
+    "5WHP2NEIwNU"
+  ],
+  "occurrences_added": 33,
+  "questions_added": 23,
+  "question_groups": 977,
+  "linked_answers": 1473,
+  "held_ranges": 1,
+  "resume_cursor_seconds": 3070.36,
+  "audio_verified": false
+}

@@ -1,0 +1,55 @@
+{
+  "batch": "faq-pass009",
+  "before": {
+    "questions": 120,
+    "occurrences": 201
+  },
+  "after": {
+    "questions": 154,
+    "occurrences": 247
+  },
+  "added_occurrences": 46,
+  "new_questions": 34,
+  "recordings": [
+    {
+      "video_id": "-Jb9UxyuKHs",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "aa24029fa747dec7c0c4b1756677c296823e1e49b50b242a75198000979e21bf",
+      "reviewed_range": [
+        2133.6,
+        3377.21
+      ],
+      "unresolved": [
+        "Canaanite/Kenite caption conflation",
+        "Recalled chapter and verse references require audio checks"
+      ]
+    },
+    {
+      "video_id": "-MJwJ_PR_6o",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "b3113cde9eafb842f07a58abf45d4e9c904d173b8a9128fbe8a5ce45d65cafac",
+      "reviewed_range": [
+        2199.43,
+        3380.81
+      ],
+      "unresolved": [
+        "2673.27\u20132693.42: damaged listener wording; clear vineyard subject retained",
+        "Some dietary-law references and names require audio confirmation"
+      ]
+    },
+    {
+      "video_id": "-RMkjXCYjfk",
+      "review_status": "qa_caption_ranges_reviewed_audio_pending",
+      "transcript_sha256": "c1f2ad2eb549507e34c1551081ba32fd0de1d152bfd47551903352f9ebee4d27",
+      "reviewed_range": [
+        2138.3,
+        3372.57
+      ],
+      "unresolved": [
+        "2543.21 question has two possible interpretations; both retained",
+        "Audio comparison remains pending"
+      ]
+    }
+  ],
+  "fully_reviewed_recordings": 0
+}

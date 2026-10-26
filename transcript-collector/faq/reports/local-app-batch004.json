@@ -1,0 +1,16 @@
+{
+  "batch": "local004",
+  "source": "Windows FAQ Processor 1.1.1 exported results",
+  "video_id": "1ECDV-oonSA",
+  "teacher": "Dennis Murray",
+  "linked_answers_added": 24,
+  "question_groups_added": 23,
+  "total_questions": 1416,
+  "total_linked_answers": 2232,
+  "recordings_full_caption_QA_read": 1,
+  "recordings_newly_fully_reviewed": 0,
+  "unresolved_ranges": 3,
+  "audio_verified": false,
+  "validation": "4 Python review/completion tests, hold and resume Node suites; generator no invalid approvals; rankings and numbering checked",
+  "not_all_197_prepared_proposals_reviewed": true
+}

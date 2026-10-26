@@ -1,0 +1,4234 @@
+{
+  "checked": "2026-10-22T05:42:51.610456+00:00",
+  "catalog_sha256": "75d4c64a4ee87e131f80ef52206da9cec70bb2714747cabb129a83b9b8b8654c",
+  "books": 66,
+  "mappings": 1304,
+  "unique_recordings": 1294,
+  "teacher_counts": {
+    "Arnold Murray": 900,
+    "Dennis Murray": 394
+  },
+  "reused_mapping_count": 10,
+  "kjv_verses": 31102,
+  "mapped_verses": 31102,
+  "missing_verses": [],
+  "mapping_errors": [],
+  "teacher_inference_records": [
+    {
+      "id": "gqrCj0-wkIM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rh7gUA4Ei_M",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ynbxDWxt6C0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sRg8yBkEpXQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tbZ0GeOu77A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_J06NKGPFFs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "X8Lurbj92Hg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pvtiwQay7YM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WHpWQOUmluc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yEtnwO0AvXQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wW_BF8RBH5o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dm2JRmyzqNI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uUEQq-9mZPo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2Q46edEZCp8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Qaq_Iqbrb6g",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "MYjhXYfAjek",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "meMJ2NEA3Uw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NAy2M6WeVF4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "e3X0cma18k8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yleRqfgHlMQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hdmdsDnpnJY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5FJ-a7O6PL8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Be8R9plq548",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZHL7K3V0BSM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GtA4Mqm8_v4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rT5dlnhnWXs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NoNHEBwJ5C8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lx-AcAsvnMs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hQA8I8IauqU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bWyn8feyKMM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KTU0VyKoAf4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yqMrDxNgt5g",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CH0fCIP6gx8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-atyYXhtw4I",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Kz1PM4iyE5Y",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PSrTf2rIZ-g",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "MYbPLC77GQg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9hHMG_bmsPQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "631ORvS7cnU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iANFfv6DKhw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1HPYqWElfKM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0pL1k5Pnbc8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "p46pS9iZ1YU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WS_DjV9cEUQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pGN-Ub2ylIc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1hU_qGbi2gA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_kW3EFHAKNA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Ax5cf5UkD2g",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "atRTVutxlkQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eDNFAjBodcM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NqLIEQatH3c",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "edDCAGBjJUs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VmPts9Am9fw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7MIm1bdEMFA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xLuzZ1-7puQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LCpD4qOnBqI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "j7N9K0jqpzU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-WMtK68OhhE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "4712oaWfl84",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Fo9CA38wSYc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nzun9tvPddw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "TpbMWPTPcog",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yhiZaCTdK8k",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "w2yRYqpjOvU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fGGSc9kCjis",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DUDwdW25494",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uWNZmII8wA4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tRD0EqGESIY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vG7UatVrvoo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IDpYT-6dDbA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ufHC0Uvetzo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "HNF6n-ESkjE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JgVkA2M5ChI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "f3_aywKN6Lk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cYKX821M-U8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3UcmGNkjSXg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nIcs2taY-YA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xszgoQIWeHs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rfTADqLqP98",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9h_0pkDg8Jg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "G9Ut6w4XrmI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Im6cb6goBH0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DIwjvUai43M",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "HygmKozf0Ok",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7A7tbOPKTwE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lzTJeI-41bw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RMrrAZHSZuI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "a1beb21qTU0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "euTxqceUlR4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8jDTVzBwH98",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9fZ0reAgymI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DkGOS95g8k0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RBIffJKIjeg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QJc8k_zBI94",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "MMg6mvm2d_E",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2kwLhPNF9y0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Oj7tBTKTsLY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Wu2Xn28yTr0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iAvjP61i7qM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Gy2snUc8JtE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iaUnnYGYrnQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "kPZ74vUhc6M",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yAJC3I_C5fA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "takwwpb39V0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_7YGSJdDOuc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lUZMluF4bUQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "opCp9V2E5_w",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZTuSUKPLQQM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sMN9TDi69Rc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tQGwTL8BcKw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "f3X-ykoPcyQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QDKvsmyif9c",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "28bha5wTRz8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "OU8esDxE0LE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uCDiC-VLB5U",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Bw1aqR3ChnY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Hz6o5dZA38I",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "F2er8j-9T6I",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZumsHD8Insk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Oot0pyne6EU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "K29AYa7KZQc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZzLvmJPHwHo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IiZctrIcMBo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tebNsT3S0T4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xplTjENYMB0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "H-rzFpNzYFs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "kzfPhHZsJsQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "UZxEMs1F-kw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KMOsi7PsOxc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yUh5w215PQc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rjVB9tyj7Ks",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_FAcnuw_hJw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Dd-_tU8C3xA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rlENGOLjk9Q",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pqu2aV6f0Ns",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XHiv_1Wkgp4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DxlqPhXh4Pg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "W-vAfTcLSws",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ONRYf_0l8lE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-p2BC68Wbyc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3cJ9B4vUDZo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uEw2Hb_xsBA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yMt01eWaa98",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "G1ayIvTGrfM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AuS09aFrCLs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "il1oVJBKQq4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "89EH3MmjIsk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mCMQpZuIOkI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "y0CBqwhQAoE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FGoPnDy7f-U",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fATX8iNlhao",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yJbOLXlJsvo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FcnKuIrSqLw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xLsS9-mt4Zk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "79KBD91WzgI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bL0F1PJXovw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bL0F1PJXovw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "4VHC6gTsC0g",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WZscMvTwvtY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "MSJb2wJvsss",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5ON5KcO3TkY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ewMVViB60P0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ur9_F0sOqhU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LUa_pPgyISw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "G9nibP6ospM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "q0HlD6Hg3oc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "b2Rg5g5CEBo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ByWgphg2xoE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "418kIe_Wgdg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ydMqPr5Pzwg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fAFgdlX3Nlc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SQttadQqdsw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QRYQaxVIlro",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-d_naipUhXo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RdXLEGsIQbw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uLg1uGxJ3Hs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "HbuhR6aidws",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0WXBBmTs4QI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7RNGEDqVUsg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_oKCvAYbx_Y",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YvJ_k9lVAuA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "UcMFJSPa2sk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JyLdUgB6vbI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "A9wc-ywSiVE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IaH4rKR0svM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dQ-UYyCnJno",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Xm_2gR0Hv7E",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jvAfiomWDlw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wUmC-8mwnfU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jSGRvMTgyXM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fShd-LOzaRo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CEZz_kdevBk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GWfLEa3CbdI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3NB2rZi6n5c",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XeK27XyWSXw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CQZ7KZ7oLaI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Q987HsiNJp0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vAVjBivwq_U",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8zMuMkIPOdg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CZSCwLXSZbM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wXQPdQW35Sk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t7oXf83P9k4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t62C7a44sV8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JVWXCW1Cvb8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JVWXCW1Cvb8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Mnwg0n6xMXo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "UG9vsUHKBtg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "e_S9wfQZ3SE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PI5xdK4mL_M",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1rIWy4IFRAI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5EOrPMZ3ZTM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VVDpiiwYR5c",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SKsKldytcQk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KoFOAbV8Cp4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "gqT35mi2WBQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BJQy8OAnIxc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "p5YBDJOGhV4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t0Y-nJYm3tE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BOvm9gtCftQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ydZZk_G5uy4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "x4C7trv6ihc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1tbXpRlZbS0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "F1e-_aBWB4c",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mSKUpqg4TeY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "z7m34MtSvXg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZNJHd1kltqk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZdAWG2oSkYA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "R7hfgjgKn10",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "icwn0PeGFu8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XoDXgmpxJQ8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "R3hqF38CU7o",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AsLV6-6H2_M",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ORC7CdSDUCA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "B9BQaj07GTE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FurkYQWnTcI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "THY0w7E4ZRo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ilq5jpV_YYY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1zXiZlhcLP0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5hm3VRFqVd0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lFdv7VNVqLM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1ECDV-oonSA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GXeCcUWF-D0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KH70N-NZXQY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mwEDh1_eiqI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "j-dgD6T3gwA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QnYo9vcNjZA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Om9KvBfQdeY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "aQRzX-VGmFg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XVwQGJ_E_60",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "itzN6de52uE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zQAqBvIAaB4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "O8_qQ02fXDA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tyNUplR7tJQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qMHbqflLkAk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xPYvR1WzNEo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "32qk2GyzKhQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "arm8MxF-vGk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RZKFUY_y93I",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BEOF84Xy1ks",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NV99i2jcIJU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7Cb2G9z75Xw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WsOcYe0Ity8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "H71gfwZFKbM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8RopcRefrxM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YtR2bdz2lJk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bp4bA8-SJ7c",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LIUcY4QSAIg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-ZOPXfruXiQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3CyXwiPxF9Y",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1Z8vTf4lHDw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jRo4OK8lBqc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "UuBGAVSmNC4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "32tnNqefRvo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WGTenhyjogc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WbsdG3hh-j4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "N1tDv0gfOdU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zA2uXgr_Tmk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NejoB1xL4mQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "z-QtM9S-WYo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "n3-lVx1fs2Q",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QkF5w4-MfKA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "r7xSTJ9zhzU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CyrJCyMboVQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pqyxRbVPf3A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VbltYf6IdfU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t8wvvj_qNG0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fKNDCKCRv5s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fAT6qDIM_r8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_YAQv8QnMM4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1ne9KpL17OA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SZnMscxvTyU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bZ5UA3td9HY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rec67qkwDfA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_tepOGwd5HY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jIZFM2HItB0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2hHlC_CUUr8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NSdi4X03rBY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vvuKBi81NNk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eD_yKo--7XQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "V0vf7Lq_Feg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iuaeT0DWiMQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "TCa-m81yw08",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eUKTiANZhlY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mbC4U70iYBs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2OvHTmleOEQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "r1mgw4OQDDE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SGd_ZL5OQh8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PgZ1gKICArs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dSTwMbZVzoU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "UGikNaug4-A",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "gDpWeLhNs5w",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "OJA0Nd97h2M",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NJybf27ewdw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zVNvKROSixI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5bkEEXKxnoQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "4UBEUY29dc0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YcJkS1-hZek",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xlomKRoVlTk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KIbf959e8f4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KoV1cY78Gsg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "z77_MvKntF4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PDAxKGNftBw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AwqCJG9Zmw8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Zbi5OuCG1x4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-q7gKpnCcxE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sCAaUJgLW-E",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ADpuq10w8H0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_0oCVmElCFs",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SJShXrdwEG8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5uktZgiYDcw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PatZvnxo2Hc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GvZhZIQC3fQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fPubgKZnwcc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RoOkOzj5qIc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2jk52OkZGC0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ND2UE7JYElI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "j4zSAPFJAm4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QeKikrdSMX8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "q8_49R1EKNE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "khHoiIcityU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AkoKdXh9Cvw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FYlxhLkC3AA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "4XAGRXsr74Y",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cThR8m6oDlU",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sl-mUl5KzMY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eEhYBjbEtng",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lnEJrBZAgxg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nKaoJOXTt7Y",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-DI3jbEdDpM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Qu-EOh_XlMo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "a2kk1a7HVVk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8-kbTJWQSrk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "aXDNvwTtpE4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2clAXvv8dB0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "h8oP6_DYcXM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zW3h350z0oo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "P1NVHa2W8A8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-Se_hLyShno",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Fu1xXSXP4nY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "85MlNOuwfZ8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eD3duFtw5DA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mccTJRtxicA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3vNXxkJoFS0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mp3GzARl2JE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "4Ou4rmjkbaQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qlFdUQb6HCw",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ofvwYv5v7Vg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xplK5lMj5z4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YrEkE2y1Juk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uY3bUUKd0EM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CFiVWwM4MqM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7c-bl5jbZu0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uVCiTNogB7M",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RuV9baEtfwo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hXVmTmRjIhk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "oIoaGB0P_b8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZH8XqUUybrc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XpPG9WRBTnI",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wvhFaPdYLX4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "j25HNiYedHA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "B0kOKqE0Eo8",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3waC1HcLoXY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "j0xRNZUVgRM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eipH8GKGQrM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1vrFS7SSx9Q",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tz2adheO4Hc",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5ujS0YiiLUo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "13fkCNaNwTo",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JbVysDrawYg",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Y8Ztw53TyF4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KhWmeVaT7JE",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "78X83oBTyGA",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "aIGLjZQMzak",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tWPD8cnKzD0",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bvJVpRG_2F4",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "euVTJpX7BTQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VMPn4nX2nYM",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qhMZ-u7aB6k",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vxVh8-N4xHY",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0FA0wExqYEk",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2dXokZMp4RQ",
+      "teacher": "Dennis Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZJWdzYVVo5Y",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "W2SNGtZ_DDY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rb1XWl1_in0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cwm36goJduU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0HmJkkP8YNo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9XtUJzGm7L0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "W2BIG2BNefQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3gYKa1D1doY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yd2f0sDHq9I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FTr_twSy4J4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jIOKzhuj41A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nk7XKKeAnG8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FJDfmHyQ7Ic",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PBDzryK_pT4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "S3Yifl7jGM4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uQ8VK_M-60I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "OoAufcQXmng",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DXd-nHz_FeY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "EANFxBN4g1w",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "m3xe-xe-z7k",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "niHiVocGL54",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ET76vZeo7YM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YJy0Qqzm74A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bVXutLuSG5A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JJMqGkrQqAo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VWn2sMBxpb8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "4ssJFUI3avY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "o6IVd41v5LA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KoQCg-WB2Ps",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "156CEiU4jcQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Lv1_AdJbBGU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "oXBlGJsudh8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Qww-PqXBWOA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CbAYU-MBVH8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tEBOqqQGwME",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "b-k2_BLWJZM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LJ-hquTw4Mw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VgJJBsuJqZw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0X1rivl8UiI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BSIyjETwPsg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dIaXgfA590w",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eV35FK3Wa4o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AgjrLKt8UAA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AW-9md3_xsE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "e4TVUtWBDak",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3LigjdaSQDM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3VKTjGovX9g",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "aE2lKxuTXIo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9hFL8TT3J1Y",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JtjkEHIN4w4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KfCmEqSLb8s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GQrR2p7jNq0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "HDrqzVLkvqQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "flAs2Rxcqu4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "siXOQtyDknI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9EbIB2Kq_Dc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cmCE3VN7b8s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lZZRoOwIQtI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "T3j9KTlxZPs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7jGxPg4f29o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FnwwUh7x0Zc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0D2NPIMzPjM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iXZjJT0CG5o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jPayu-RdKak",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "U-jf-BXQtLI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "S-r3YIzsnR4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SkUxVM98IJk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1hmmUCDLvvs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jYAizSIuEqA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BG6bh8eL9L8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_jk__5zuqyw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XtIid27IxXM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lncD1bMdSB4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fh9HT1TAw4I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DMSTMsUT8Go",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YPoB0YK6tZo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AhriVV6MDBU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "55rFC8y8DDY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dhWV1YiGsg0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Xg9M4BozX38",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "MQaWN30jkoY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "esaS22IyyLM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WQeQY_z5Tbk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dLZ03zlO_WI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "i2-pm9x_iQ0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "inp3ASY7TDA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XrsdqfqsaYk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QUoX68VH7Xo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "aW7oyc3zeCY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yPtFyLSCloQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jCDRFj5146A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "6sFo3EW9ZX0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vrMc2HcChes",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ofgRHEEghow",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uBvRiPPxIaE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fLW80TUzjXc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JHNAWNtPOXQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KTyWzscgHtk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZXLGFRa8yRg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5bHCNbPeCKA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hWvIgDpZvno",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iWtcUsb6gQA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fOAMowWWCpU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qHDvm7SfPw8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "winvHouw9zA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "B4tJ9Hzw7Ms",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BgKDz8looek",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "e8gesclhsXI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_yM2M17nhq0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0y95cHuAtPo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XMf7AVHB4zk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zfrrKERIfto",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DLYU2MOsnxY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VtAx7ns2-3A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8NenZ5XePAc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5PIR29PSykA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Oh9azewqeTg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "koOCkaP8bKM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RSUSGXWUjgw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FQ7nbrmnVD0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7V4WQ1b_cyM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_zn41fDZ3Vs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "al15ME6V2gA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JBG8emAw4qI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mY3Sv9F1w9U",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Zic684szSb0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XZKo3RO_ZI4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Sb_obh_XG_E",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eruuV5NuxoQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sDH7dpSYqg0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VM8zZExw0Bg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wK7s2AbiiUs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "b5GuFf_yACs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vaSfH_fHtvs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Sd07TwFtXzM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "amL9QTpSErg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FK_xR259ss8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mnvbjevTOSY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DQqh76wvl5g",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "OWAyr_4OsqE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VuQJH-3KntY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sqkaUSDu0RA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nK9hmHBN35Q",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cZtFyraDRRo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bYgI1nQR2TE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZiVLePDRtJI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qXOGov2glVo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "etXX5Kj57zM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xck6p2uEG40",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fRW1eTzd4a4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zQ4P1uHpZnM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dj0kEy8BnZ0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hqbXddSNVIg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qcm7CIvIJBc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "oo2htSvcHLY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cJpWNWR94qE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "p2WpRYjPS2Y",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qBPu7jJL83s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mEKEU6wBAXI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "oK30xmNpKXA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8mOB8oWT_Ag",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "oj3YyNwGUxY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mtw98yZSqMA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ysOTRoDywks",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rlCjcG9f0ts",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "o3G9CwSMt3Y",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "x1WRXZp1ORI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zIAJ1JYLga0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "F0B3wkQSamc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ucyaRTYmW3U",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uSqJK11PNKI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NyFoQbdMebA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GK_hi57BhYs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZwmcEPWuKsk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WuXCB34-YhY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cOe2z_sEE8w",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "k5MZgKs2Vyc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hN3uyzpWjdE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dIarcdQ0qDo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nXiihykA9ro",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Yw9HqEl0Mbg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "awNUDtVTazA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Y9Vw8_i1BWc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t99U5NMuJYk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Y9Vw8_i1BWc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t99U5NMuJYk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RvwUuir5irc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "kSSjNuJQKD4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RvwUuir5irc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "kSSjNuJQKD4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nG6Su1MaCWw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "i3NXW2GYkz0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fDdaF11Yo00",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uzp-AgLl6OM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cxeS6qzz_nA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fBPvp86RN9w",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "r26qmQZ-qwA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nBKJ3mkW_84",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XwpwOsBVhoQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wFWoxuWx4XI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZP7KLTkrkPg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sSAh8W5QLm4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cc_lnKvZQr8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "n2uqlDkGR_c",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Y7x8zPUJwOg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nVKOBgtZSjw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "z2OKV7vaJfQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lu5NL9Vp27E",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xvQxpqgCaPs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_bviJKXyZ0I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "c8M0knf1ETo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "q2KVTArE5mo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iML2LppMqyY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "suJf72_JzVI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zfRQvZCMIvY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dsxz1k0gvew",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "gn03hBILZUo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "uwEU0R3igkc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "zk0YjIaMQt0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "7EdyDOGE_d4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "cMRk_093IcU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "ukD89ocQlpc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "rRPLEQwYe9s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range confirmed through public search result"
+    },
+    {
+      "id": "p4aVQFvJDeQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "e7IuSxcDxZE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-xlDoQHGmFs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "eqRKIYbtKTU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "gmSy2GGRiTY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "du9TB2ZmwvM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "M3Xk8jezV5o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "fiHVk1eJvSw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "88cj174pmRE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "k4epf4kZadw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lJhrmwUtV1o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WOmvP2i5lVU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IFeJETlg5uU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "Ib9OLeU_ac0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range"
+    },
+    {
+      "id": "h9tHgRkk-4c",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "4_p9SAYN_Wo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "eOmt2RLaHUQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist; reconfirmed by public search"
+    },
+    {
+      "id": "6bEEl-CJqy8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "WiyNa_1VIjs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "MYmpqyZWUgA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "FJ9YGYH2i6k",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "2EOBt9lj1Mw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist; reconfirmed by public search"
+    },
+    {
+      "id": "LlEKFZSKrYk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "H3pI4DwXkUY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "YECZb64dces",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "ewz9wZQjCQg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist; reconfirmed by public search"
+    },
+    {
+      "id": "xjn3KlWaJJA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "NZib35fVXk0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "UyUPsAW0SMA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "XXIAWkazqh8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "QYNuApbWlfg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "XJBpKcdMwzc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "ezPMqVOO8SU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "PXuP30tt26c",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "owo5prkl5_o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "8-BQPrHUBGw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "EOPyCzQe0AQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "jwyot6S08ng",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist; reconfirmed by public search"
+    },
+    {
+      "id": "DzJqJIopIi8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "SbL_tH3EKOo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "5wKWtfiVlug",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "gSu5B0ntTII",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "iZvdd4ZDSCo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist; reconfirmed by public search"
+    },
+    {
+      "id": "BpblRKVI2Ww",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "6WnmAqmHbOE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "UdKymHmhGlY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sfzwKHaFwP0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "r7ah2SOq1Jg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Gm4RT55fV6s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "G8rdNsyOHGU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iyWWFnliE0A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "q7d4yjyz3tU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "93dOTGHkqEs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "VbN8LLQSLX8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-abDNPoVeQI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "QgyH8VCbG-Q",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "B5srgZRtVhw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YJ0SRZSVY8Q",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vOK3kDhWs-8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "FkRwh8UkZfg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Nz6fUBQ4tDc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "apxXBs_eRPo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jDK235TnAYo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yZMKlcWM-bg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "-XQfiW4QgV4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uPozbij5kW0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "x3ivrvLCcfc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sIGP9xSUBnI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GS-GwSHRGvQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lC7OOhfsuIM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "0n8lTiF8u3s",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "tUtcUov8fFI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "xQzIVdAHjeA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "dZ25vbksGjo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "by5Mjk43Yf8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "ccvD9IQzljs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "rrYVhLesSHc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "dNPQj5I42kk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "Wr5THEy7nZw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "r3DzlC4pHsE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved official playlist"
+    },
+    {
+      "id": "xpxaaPIUUbc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fnoxSEkqW6I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LXEiYSqc3dY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "nTSjzNJ4crM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "C4X5C5hR3uQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jx7B3_BuCWk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Zw8HV-Il8s4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "It4sCJMvHmI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cgN44skffzg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Z1sA8ad3xcA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fHwBea-Z8Zk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zEXMwYRQf58",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5FJDob7ThwE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "E2cFm4GoAXQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t4Gpime3eCE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "0KQDV-4oRdU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZFuAJlnVFqA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "TFFz_H76PXI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "9XwUR_tMm5Q",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3zBKHN8rek8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "G_YXsrkx8XE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "EwOYmX6FKfQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wqJP0t8L0iQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lqhIOW0OfE0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AXpKcSu3SMw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sU2muWKmfKk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "6RVBfnkTBzE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Cq1hlC8614o",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bFU8qBhbEBA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "vqkNHqZenTY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "rrJ7grnSBCw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ScF5533k9UA",
+      "teacher": "Arnold Murray",
+      "basis": "Cross-book published title resolved using archival Series 111 Lecture 16 and playlist order; exact verse timestamps untested"
+    },
+    {
+      "id": "ScF5533k9UA",
+      "teacher": "Arnold Murray",
+      "basis": "Cross-book published title resolved using archival Series 111 Lecture 16 and playlist order; exact verse timestamps untested"
+    },
+    {
+      "id": "Yte1Ibe70Ug",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iVF3Pxfeszo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "djw2r6xERR4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "3oknCh6wCWM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "J45o5KvMTE0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LcVwQTl1SD4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "I7et4Ey5b7I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "m3NFmV8Pf1k",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zuREH04H5H0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "KTQWdRUOxI4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Yee8G1tb8z4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "yPBwaMsS_6k",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Az5rcxFac9I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "kTKNkUHM-k0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jbTCgqRQhc0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "t99fryhM-uw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lnQf6cgJsCI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "UFGBGjNBsQI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NFFkHf0__1I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "NAgNcRw0VxA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fy87xUfUVhY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IYrty1QFYIU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "jzi1s5ZNdOE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RGz0ThP--OY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2J-JLzemPDo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YskDzg6dytc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "_diU1kXUFPI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "tRc66fBJEnQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "O4d7nzvTBno",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "sosVmA6ouc4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IgJksC0wY88",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YS-EeucXv_0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pgFmNuNuqZg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BZHrIKuZEtc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "eT3p198HLmA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ZFUqalpl63k",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "N0P_Hfv7UJ0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5WHP2NEIwNU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "IuV_i5-t6-M",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "osFCg_hir6E",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7AJ1wwf-abY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "1HgawBUJ6b4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "bHVKba8X2ho",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CLkW2almies",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "ITLGlKhB9lI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AC8ePjzXWeE",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pL9D6d2ew1Y",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5P-lIqTeuwc",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RHVxvRsJFO0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lxBqkL2L0ao",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "pw_eYz2nJqA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "uTXgQkDM-Us",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "YSyirKcrbZk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "7QjtA0Rk-Uo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "gotjC3-2864",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "08WdPO9zwZI",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "xprtFphPLKU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AXAHOAJlnx4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "gLCEYCxpHnw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XSuuktzj8u0",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "mwUGbZP-yaM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "GqtusnFDmIs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "LzVkmuHYQ4I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "SO44pz-Cr6I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "WaqJ4p4NLFY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iIMTsayr7VU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "soSFyASwbLs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iIMTsayr7VU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "soSFyASwbLs",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JZwDARULnoM",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zPcZ7Y-cQss",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "PWRXy9tSc3w",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "XUIWFacBIVw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "fS1F2Acn45I",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "wvvDXsxnvvY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "RAK_VX6-pac",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "zmeh4tXlkjA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Gw3mVnXUsp8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "2LQVXernBlQ",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "knj97IaubCg",
+      "teacher": "Arnold Murray",
+      "basis": "Both named short epistles mapped from 1:1 to their KJV endings using published END title and archival Series 202 lecture 6 context; transition timestamps untested"
+    },
+    {
+      "id": "knj97IaubCg",
+      "teacher": "Arnold Murray",
+      "basis": "Both named short epistles mapped from 1:1 to their KJV endings using published END title and archival Series 202 lecture 6 context; transition timestamps untested"
+    },
+    {
+      "id": "FB-ymwYZNLo",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "8QzBBRfUG_Q",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "cShRRtDrTPA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "5WfwkUlCgAY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "B8NBzHOALG4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hbWOGr3dpkY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "BzWdgGEa87Y",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hsJe2HmEeCA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "iiWg-gp8jJY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "gA_Z--w24UY",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "dJ_M0-FXlw8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "EFDGs2Swl8k",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Nc1p659Qkjw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "o3daXEYxzF4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "hhar0uqYZI4",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "lUyIOSJiTjA",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "AvV-DW3gLKk",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "Cu74FcAIJ1A",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "G16TZQ0iugU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "qv3NSPUCEIw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "CmFVLDguYzg",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "28q_V7icuQw",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "DCsWdpW0xmU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "j7h2HFjUKD8",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    },
+    {
+      "id": "JTBJ6X3euYU",
+      "teacher": "Arnold Murray",
+      "basis": "Published passage range in saved playlist"
+    }
+  ],
+  "note": "Catalog range coverage only. Does not prove recorded teaching covers every verse or verify inferred teacher identities."
+}

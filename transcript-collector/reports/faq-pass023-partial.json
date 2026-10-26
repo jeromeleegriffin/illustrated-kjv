@@ -1,0 +1,144 @@
+{
+  "batch": "faq-pass023-partial",
+  "video_id": "48lecgcYgik",
+  "teacher": "Arnold Murray",
+  "transcript_sha256": "27a4913a977915383944759c8496c2fdeebe315ba04caae67ef67ccd12f3ca2a",
+  "qa_start": 2257.97,
+  "cursor_seconds": 3385.14,
+  "review_status": "caption_section_read_held_items_pending",
+  "audio_verified": false,
+  "published": false,
+  "prepared_answers": [
+    {
+      "question": "Why did Arnold say Satan cannot postpone God\u2019s plan indefinitely?",
+      "start": 2257.97,
+      "end": 2336.94,
+      "summary": "Arnold said Satan cannot choose to remain in heaven indefinitely and will be cast out when Michael acts. He also described Satan\u2019s pride as sustaining his belief that he can change the outcome.",
+      "scripture_mentions": [
+        "2 Thessalonians 2:7"
+      ]
+    },
+    {
+      "question": "Did Arnold think Revelation 17\u2019s ten kings could be rulers of countries?",
+      "start": 2336.94,
+      "end": 2350.08,
+      "summary": "Arnold answered that these were rulers in the final generation and said that identification was possible, rather than naming specific leaders.",
+      "scripture_mentions": [
+        "Revelation 17:12"
+      ]
+    },
+    {
+      "question": "Did Arnold mean everyone must survive the whole fig-tree generation?",
+      "start": 2350.08,
+      "end": 2399.04,
+      "summary": "Arnold distinguished the span of a generation from each individual\u2019s lifespan. He said the elect, except the two witnesses, would live to its end. A phrase in the captions is damaged and requires audio checking.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "How did Arnold warn that rapture expectations could lead to deception?",
+      "start": 2600.46,
+      "end": 2708.28,
+      "summary": "Arnold said a listener expecting rescue before antichrist could mistake Satan for Christ. He described later teaching in the millennium rather than presenting deception as harmless.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "Did Arnold approve all contemporary Christian music?",
+      "start": 2708.28,
+      "end": 2750.58,
+      "summary": "Arnold declined to judge an entire musical category together. He said individual songs should be assessed for good taste and respect toward the Lord.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "Did Arnold support adult baptism after infant baptism?",
+      "start": 2771.46,
+      "end": 2790.0,
+      "summary": "Arnold said someone who felt personally led to baptism as an adult should pursue it. He emphasized its personal character.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "Did Arnold allow participation in antichrist\u2019s money system?",
+      "start": 2790.0,
+      "end": 2827.2,
+      "summary": "Arnold rejected participation when it required allegiance to antichrist or his system, and urged prior preparation. The allegiance condition is part of his answer.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "How did Arnold distinguish the command against killing from lawful punishment?",
+      "start": 2918.52,
+      "end": 3006.56,
+      "summary": "Arnold interpreted the commandment as forbidding murder, citing Matthew 19:18, and distinguished that from carrying out a lawful sentence. This is his historical theological explanation, not present legal advice.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "How did Arnold distinguish the 144,000 from the very elect?",
+      "start": 3006.56,
+      "end": 3122.82,
+      "summary": "Arnold said the 144,000 must be sealed with truth and distinguished them from the very elect. He described their recognizing prior warnings when the Holy Spirit speaks through the elect. Some words and the question\u2019s number are damaged in the captions.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "Why did Arnold say Satan still expects to succeed?",
+      "start": 3122.82,
+      "end": 3233.1,
+      "summary": "Arnold emphasized Satan\u2019s pride and warned against underestimating his ability to deceive people who mistake him for Jesus.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "How did Arnold help a listener unable to find someone to baptize him?",
+      "start": 3142.74,
+      "end": 3168.36,
+      "summary": "Arnold offered baptism through the Chapel if the listener could not locate someone locally. This was an offer in the historical broadcast, not confirmation of current arrangements.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "How did Arnold advise discussing the rapture with relatives?",
+      "start": 3265.5,
+      "end": 3305.52,
+      "summary": "Arnold advised being able to document the teaching from Scripture, while avoiding pressure or forcing it on people who turn away.",
+      "scripture_mentions": []
+    },
+    {
+      "question": "How did Arnold include sixth-day peoples in salvation?",
+      "start": 3324.78,
+      "end": 3385.14,
+      "summary": "Arnold included the nations in his interpretation of Revelation 21 and emphasized that God called his creation good. This records his interpretation and does not establish claims about modern ethnic ancestry.",
+      "scripture_mentions": []
+    }
+  ],
+  "next_step": "Group and approve the 13 prepared answer records; resolve two held caption ranges. No new answers published yet.",
+  "reviewed_ranges": [
+    {
+      "start": 2257.97,
+      "end": 3385.14
+    }
+  ],
+  "held_ranges": [
+    {
+      "start": 2399.04,
+      "end": 2458.44,
+      "reason": "Question about Jewish terminology: damaged language and group-attribution claims require careful review before any public paraphrase."
+    },
+    {
+      "start": 2458.44,
+      "end": 2549.46,
+      "reason": "Babylon rebuilding question: missing title and damaged historical claims need checking."
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "start": 2549.46,
+      "end": 2600.46,
+      "reason": "Fundraising challenge, not a listener teaching question."
+    },
+    {
+      "start": 2827.2,
+      "end": 2918.52,
+      "reason": "Comment on teaching vocabulary, no listener question."
+    },
+    {
+      "start": 3305.52,
+      "end": 3324.78,
+      "reason": "Listener comment without question."
+    }
+  ]
+}

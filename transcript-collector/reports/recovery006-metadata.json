@@ -1,0 +1,28 @@
+{
+  "checkpoint": "Recovery006",
+  "original_saved": 1289,
+  "original_catalog": 1294,
+  "original_source_exceptions_still_open": 5,
+  "alternate_official_psalm": {
+    "id": "Ky56Qzu7VIU",
+    "teacher": "Dennis Murray",
+    "passage": "Psalms89:39–90:10",
+    "caption_intro_and_opening_reference_checked": true,
+    "audio_identity_verified": false
+  },
+  "alternate_exodus_candidate": {
+    "id": "pXLyRki_lAs",
+    "passage": "Exodus22:1–23:7",
+    "teacher_confirmation": "pending",
+    "lesson_only_duration_seconds": 1968
+  },
+  "acts": {
+    "id": "JcWNbeixWt0",
+    "browser_caption_language": "ar",
+    "all_inspected_English_caption_endpoints_translate_non_English_tracks": true,
+    "original_English_audio_listed": true,
+    "download_result": "195-byte HTML Site Unavailable; unusable audio; not imported"
+  },
+  "original_disputed_captions": "Independent browser exports preserve Exodus25 and Psalm71 mismatches. Original labels unchanged; quarantines retained.",
+  "storage": "Full captions and raw exports private. No AI subscription or hosting activated."
+}

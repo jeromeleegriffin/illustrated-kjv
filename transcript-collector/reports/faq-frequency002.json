@@ -1,0 +1,103 @@
+{
+  "updated": "2026-10-24T18:51:54.157854+00:00",
+  "sources": 1360,
+  "new_scans": 0,
+  "changed_scans": 0,
+  "unchanged_scans": 1360,
+  "questions": 12,
+  "review": {
+    "available": 1360,
+    "partially_reviewed": 68,
+    "fully_reviewed": 0,
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 1227,
+    "source_changed": 0,
+    "question_occurrences": 79
+  },
+  "invalid_approvals": [],
+  "ranked_questions": [
+    {
+      "id": "cremation",
+      "count": 22
+    },
+    {
+      "id": "recognize-family",
+      "count": 20
+    },
+    {
+      "id": "satan-born",
+      "count": 7
+    },
+    {
+      "id": "prescribed-medication",
+      "count": 6
+    },
+    {
+      "id": "forgiveness",
+      "count": 6
+    },
+    {
+      "id": "where-tithe",
+      "count": 5
+    },
+    {
+      "id": "hell-preaching",
+      "count": 5
+    },
+    {
+      "id": "five-months",
+      "count": 3
+    },
+    {
+      "id": "holy-trinity",
+      "count": 2
+    },
+    {
+      "id": "church-tribulation",
+      "count": 1
+    },
+    {
+      "id": "unequally-yoked",
+      "count": 1
+    },
+    {
+      "id": "spirit-after-death",
+      "count": 1
+    }
+  ],
+  "tests": {
+    "unit_tests": "2 passed",
+    "real_corpus_idempotence": "1360 unchanged on second scan; no rank changes",
+    "local_browser": "Chromium executable unavailable; official browser download returned invalid ZIP; live cloud-browser checks pending",
+    "live_browser": {
+      "url": "https://bible.jeromegriffin.com/teaching-faq.html?v=002",
+      "questions": 12,
+      "descending_counts": [
+        22,
+        20,
+        7,
+        6,
+        6,
+        5,
+        5,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "search": "passed",
+      "Dennis_filter": "8 questions; no mixed teacher answers",
+      "alphabetical_sort": "passed",
+      "ledger_filter": "passed",
+      "desktop_overflow": false,
+      "note": "Browser-extension metadata errors observed; no page-script failures observed. Mobile viewport not separately tested in this environment."
+    }
+  },
+  "deployment": {
+    "faq_release": "16e1332d0fd094387ee9f92db9123652509fa3b2",
+    "production_bible_release_preserved": "320bff9c70e15333e38aaa0b0d5885d0682f6ccf",
+    "worker_deployment_id": "ecf0a73d018747eabcf233e8f780eb25"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "prepared_total": 197,
+  "decisions": {
+    "held": 22,
+    "previously_published": 20,
+    "approved_added": 153,
+    "prior_hold_preserved": 2
+  },
+  "new_linked_answers": 153,
+  "new_question_groups": 134,
+  "question_groups": 1550,
+  "linked_answers": 2385,
+  "sources_with_added_answers": 18,
+  "all_prepared_entries_accounted_for": true,
+  "whole_ZIP_extraction_not_finished": true,
+  "audio_verified": false,
+  "new_fully_reviewed_recordings": 0,
+  "batch": "local005",
+  "caption_review": "Every remaining prepared proposal and surrounding caption turn directly reviewed; partial passage reviews, not full recording Q&A completion.",
+  "private_checkpoint_policy": "Preserve original upload, all 197 indexed decisions, reviewed caption contexts and prior pending Dennis review; no full transcripts committed.",
+  "unreviewed_extraction_candidates_still_private": true
+}

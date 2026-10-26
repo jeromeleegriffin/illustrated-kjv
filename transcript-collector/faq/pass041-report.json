@@ -1,0 +1,15 @@
+{
+  "batch": "faq-pass041-grok042-navigation",
+  "occurrences_added": 14,
+  "questions_added": 9,
+  "question_groups": 1204,
+  "linked_answers": 1854,
+  "recordings_fully_reviewed": 0,
+  "recordings_partially_reviewed": 1,
+  "video_ids": [
+    "e4TVUtWBDak"
+  ],
+  "held_ranges": 1,
+  "audio_verified": false,
+  "navigation_change": "Keep both FAQ paging bars fixed and retain button focus across questions"
+}

@@ -1,0 +1,65 @@
+name: Shepherd collector isolated tests
+on:
+  pull_request:
+    paths:
+      - 'transcript-collector/**'
+      - '.github/workflows/shepherd-catalog-review.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  offline-tests:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Catalog validation
+        run: python transcript-collector/prepare_queue.py --out transcript-work/catalog.json
+      - name: Install media validation dependency for offline tests
+        run: python -m pip install av==16.0.1
+      - name: Persistence, parser and recovery tests (synthetic data)
+        run: python -m unittest discover -s transcript-collector/tests -v
+      - name: Install Windows speech dependencies
+        if: runner.os == 'Windows'
+        run: python -m pip install -r transcript-collector/requirements.txt
+      - name: Windows speech runtime smoke test
+        if: runner.os == 'Windows'
+        run: python transcript-collector/tests/speech_smoke.py
+      - name: Windows native-caption worker integration (localhost fixture)
+        if: runner.os == 'Windows'
+        run: python -m unittest discover -s transcript-collector/tests -p test_caption_worker_integration.py -v
+      - name: Windows desktop smoke test
+        if: runner.os == 'Windows'
+        run: python transcript-collector/tests/gui_smoke.py
+
+  faq-batch-windows:
+    runs-on: windows-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: FAQ persistence, recovery, archive and local HTTP tests
+        run: python -m unittest discover -s transcript-collector/faq/batch-app/tests -v
+      - name: Full-library-sized repeated import integrity stress (synthetic data)
+        run: python transcript-collector/faq/batch-app/tests/stress_import.py
+      - name: Install pinned Windows packager
+        run: python -m pip install pyinstaller==6.16.0 playwright==1.56.0
+      - name: Build and run Windows executable, verify delivery ZIP
+        run: python transcript-collector/faq/batch-app/package_windows.py
+      - name: Verify frozen application in Windows Edge
+        run: python transcript-collector/faq/batch-app/tests/browser_smoke.py transcript-collector/faq/batch-app/build-output/GriffinFAQProcessor/GriffinFAQProcessor.exe
+      - name: Official AI setup and real CPU inference (synthetic captions only)
+        run: python transcript-collector/faq/batch-app/tests/windows_ai_smoke.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Griffin-FAQ-Processor-Windows-001
+          path: transcript-collector/faq/batch-app/build-output/Griffin_FAQ_Processor_Windows_001.zip
+          if-no-files-found: error

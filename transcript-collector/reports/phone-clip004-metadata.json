@@ -1,0 +1,19 @@
+{
+  "clip_sha256": "f2785f68a4973ce9ca742eafd81c46e04165ac3f6afafab8b48b32152fa3d777",
+  "clip_duration_seconds": 39.085567,
+  "requested_video_id": "3vNXxkJoFS0",
+  "id_binding": "User supplied clip in response to exact link; matching visible title/channel. ID not separately visible.",
+  "visible_title": "Psalms89:39\u201390:10",
+  "visible_channel": "@TheShepherdsChapel",
+  "teacher": "Dennis Murray, named in spoken introduction at16.5\u201319s",
+  "spoken_reference": "Psalm89:39, announced at30.88\u201337.4s of supplied clip",
+  "method": "Free local faster-whisper tiny.en CPU int8; actual uploaded audio, not downloaded captions",
+  "conclusion": "Spoken opening agrees with published title. Downloaded caption beginningPsalm71 is mismatched; do not attach it as Psalm89.",
+  "original_full_transcript_saved": false,
+  "correct_alternate_saved_id": "Ky56Qzu7VIU",
+  "main_saved": 1291,
+  "original_catalog_total": 1294,
+  "remaining_source_exceptions": 3,
+  "full_audio_accuracy_verified": false,
+  "updated": "2026-10-24T11:12:19.703276+00:00"
+}

@@ -18,7 +18,7 @@
  <button id="readerMenuToggle" class="menu-toggle" type="button" aria-expanded="false" aria-controls="readerMenu">☰ Menu</button>
 </header>
 <section id="readerMenu" class="reader-menu" hidden aria-label="Bible controls">
-<div class="menu-primary"> <button class="header-search" id="headerSearch" type="button" aria-label="Search the Bible">Search the Bible</button> <button class="icon-button" id="aboutButton" aria-label="About this edition">i</button></div><nav class="reader-navigation" aria-label="App sections"><a href="./teaching-review.html">Choose teaching recordings</a><a href="./trivia.html">Bible Trivia</a><button id="readingOverview" type="button">Entire Bible · Reading progress</button><a href="./appendices.html">Bullinger’s appendices</a></nav> <aside class="rail" aria-label="Bible navigation">
+<div class="menu-primary"> <button class="header-search" id="headerSearch" type="button" aria-label="Search the Bible">Search the Bible</button> <button class="icon-button" id="aboutButton" aria-label="About this edition">i</button></div><nav class="reader-navigation" aria-label="App sections"><a href="./teaching-review.html">Choose teaching recordings</a><a href="./topical-studies.html">Topical Bible studies</a><a href="./teaching-faq.html">Teaching questions &amp; answers</a><a href="./trivia.html">Bible Trivia</a><button id="readingOverview" type="button">Entire Bible · Reading progress</button><a href="./appendices.html">Bullinger’s appendices</a></nav> <aside class="rail" aria-label="Bible navigation">
    <div class="rail-heading"><span class="eyebrow">THE LIBRARY</span><span class="mini-rule"></span></div>
    <label class="field-label" for="bookSelect">Book</label><select id="bookSelect" aria-label="Choose Bible book"></select>
    <div class="chapter-head"><label class="field-label" for="chapterSelect">Chapter</label><span id="chapterCount"></span></div>
@@ -58,11 +58,13 @@
 <div class="search-backdrop" id="searchModal" hidden><section class="search-box" role="dialog" aria-modal="true" aria-labelledby="searchTitle"><div class="search-head"><div><span class="eyebrow">FIND A PASSAGE</span><h2 id="searchTitle">Search the KJV</h2></div><button class="icon-button" data-close="searchModal" aria-label="Close search">×</button></div><form id="searchForm"><input id="searchInput" type="search" placeholder="A word, phrase, or reference" autocomplete="off"><button class="primary-button">Search</button></form><div id="searchResults" class="search-results"></div></section></div>
 <div class="modal-backdrop" id="readingModal" hidden><section class="reading-overview modal" role="dialog" aria-modal="true" aria-labelledby="readingTitle"><button class="icon-button modal-close" data-close="readingModal" aria-label="Close reading progress">×</button><h2 id="readingTitle">Your entire Bible</h2><p id="readingTotals"></p><progress id="readingMeter" max="31102" value="0"></progress><p class="progress-help">Open a book and chapter to see every verse. Gray verses are read; unmarked verses remain. Clicking a verse marks it read and opens it in the Bible. Your progress and bookmark stay in this browser.</p><div id="readingBooks"></div></section></div>
 <script src="./search.js?v=009" defer></script>
-<script src="./reading.js?v=009" defer></script>
+<script src="./reading.js?v=018" defer></script>
 <script src="./reader-menu.js?v=009" defer></script>
 <script src="./teaching-choice.js?v=012" defer></script>
 <script src="./bible-teaching.js?v=012" defer></script>
 <script src="./chapter-navigation.js?v=014" defer></script>
-<script src="./app.js?v=014" defer></script>
+<script src="./app.js?v=016" defer></script>
 <script src="./font-size.js?v=009" defer></script>
 </body></html>
+
+

@@ -1,0 +1,23 @@
+{
+  "clip_sha256": "46db48738410002127fec9203b18b7b713923f6e0c74ed77f728add1066fc24c",
+  "clip_duration_seconds": 26.999271,
+  "requested_video_id": "JcWNbeixWt0",
+  "id_binding": "User clip following exact video-link request; matching title/channel visible; actual ID not separately visible.",
+  "visible_title": "Acts23:15\u201324:27",
+  "onscreen_series_text": "Pastor Arnold Murray; Series101 Acts",
+  "spoken_teacher_introduction": "Arnold Murray",
+  "spoken_reference": "Acts23:15",
+  "clip_reference_announcement_seconds": [
+    21,
+    25
+  ],
+  "method": "Free local faster-whisper tiny.en CPU int8; supplied English audio; compare alternate official caption opening",
+  "conclusion": "Original clip opening matches title and alternate official English caption opening under OxIb12CTt_E. Full original English transcript not obtained by this27-second clip; original status stays unresolved.",
+  "alternate_saved_source_id": "OxIb12CTt_E",
+  "full_audio_identity_verified": false,
+  "new_full_transcripts": 0,
+  "current_saved": 1291,
+  "original_catalog_total": 1294,
+  "remaining_source_exceptions": 3,
+  "updated": "2026-10-24T11:20:45.317749+00:00"
+}

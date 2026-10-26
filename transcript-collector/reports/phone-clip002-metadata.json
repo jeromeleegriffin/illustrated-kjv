@@ -1,0 +1,27 @@
+{
+  "clip_sha256": "5762ca48cb620ed75f9b4885eb2684695b5487945492d24b09e766af991be83c",
+  "clip_duration_seconds": 75.208422,
+  "requested_video_id": "HzlJVOoH6Do",
+  "id_binding": "Supplied in response to exact link; matching visible title and channel. Video ID not separately visible.",
+  "visible_title": "Exodus25:19\u201332:22",
+  "visible_channel": "@TheShepherdsChapel",
+  "spoken_opening": "Exodus25:19",
+  "clip_reference_announcement_seconds": [
+    64.6,
+    70.42
+  ],
+  "source_caption_reference_announcement_seconds": 77,
+  "clip_source_offset": "Opening clip starts after original broadcast beginning; do not treat clip-relative times as full-recording offsets.",
+  "teacher": "Arnold Murray (explicit spoken introduction)",
+  "method": "Free faster-whisper tiny.en, CPU int8 on supplied original audio; comparison against retained English captions",
+  "result": "Caption opening matches this recording. Release HzlJVOoH6Do caption from identity quarantine, retaining quality review. WHpWQOUmluc still has mismatched captions.",
+  "full_audio_accuracy_verified": false,
+  "verified_complete": false,
+  "current_saved": 1290,
+  "original_catalog_total": 1294,
+  "remaining_source_exceptions": 4,
+  "teacher_counts": {
+    "Arnold Murray": 898,
+    "Dennis Murray": 392
+  }
+}

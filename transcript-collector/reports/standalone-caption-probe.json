@@ -1,0 +1,27 @@
+{
+  "checked": "2026-10-22",
+  "standalone_tool": "yt-dlp 2026.10.21",
+  "video_id": "iANFfv6DKhw",
+  "status": "access_blocked",
+  "diagnostic_evidence": [
+    "HTTP Error 429: Too Many Requests",
+    "Sign in to confirm you\u2019re not a bot",
+    "No supported JavaScript runtime could be found"
+  ],
+  "retries": 0,
+  "downloaded_caption_files": 0,
+  "browser_same_video_export": "saved_and_imported",
+  "catalog_saved": 40,
+  "caption_cues": 42834,
+  "catalog_teachers": {
+    "Arnold Murray": 34,
+    "Dennis Murray": 6
+  },
+  "local_tests_passed": 20,
+  "preceding_ci_passed": 39735882613,
+  "limitations": [
+    "Standalone Windows acquisition remains unproven",
+    "No cookies, proxy changes or access-control bypass attempted",
+    "New adapter success tests are synthetic, not real download evidence"
+  ]
+}

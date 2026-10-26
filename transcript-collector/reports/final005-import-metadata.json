@@ -1,0 +1,42 @@
+{
+  "batch": "Final005",
+  "requested": 283,
+  "manifest_saved_claim": 282,
+  "checksum_verified_caption_files": 282,
+  "fresh_quarantine_files": 4,
+  "outstanding_source_ids": [
+    "JcWNbeixWt0",
+    "WHpWQOUmluc",
+    "HzlJVOoH6Do",
+    "nKaoJOXTt7Y",
+    "3vNXxkJoFS0"
+  ],
+  "same_teacher_passage_duplicate_pairs": [
+    [
+      "mwUGbZP-yaM",
+      "XSuuktzj8u0"
+    ],
+    [
+      "WaqJ4p4NLFY",
+      "SO44pz-Cr6I"
+    ],
+    [
+      "soSFyASwbLs",
+      "iIMTsayr7VU"
+    ]
+  ],
+  "partial_catalog_recording": "5EUUWkfKuLY",
+  "audio_accuracy_verified": false,
+  "retrieval_claims_independently_witnessed": false,
+  "uploaded_zip_sha256": "433a946abbaccb0e77d9da67e6befd2c3fb8c9ef4634daaa834c3f582106c8fc",
+  "notes": "No copyrighted transcript text in this metadata report. Import/search verification recorded separately when finished.",
+  "imported_new": 282,
+  "total_saved_quality_review": 1289,
+  "catalog_total": 1294,
+  "structural_verification": {
+    "valid": 1289,
+    "failures": 0,
+    "database_errors": 0
+  },
+  "audio_verified_complete": 0
+}

@@ -1,0 +1,13 @@
+{
+  "batch": "local006",
+  "new_linked_answers": 14,
+  "new_question_groups": 10,
+  "total_question_groups": 1560,
+  "total_linked_answers": 2399,
+  "full_caption_QA_sections_read": 2,
+  "newly_completed_caption_QA": 0,
+  "partial_caption_QA_sections": 3,
+  "unresolved_ranges": 6,
+  "audio_verified": false,
+  "tests": "Four checkpoint/hash/duplicate Python tests; page navigation and resume Node tests; ranking and source integrity checks."
+}
