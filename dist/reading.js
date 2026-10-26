@@ -33,6 +33,6 @@ window.ReadingProgress=(()=>{
  window.addEventListener('pagehide',()=>{clearTimeout(scrollTimer);capturePosition();});
  document.addEventListener('visibilitychange',()=>{if(document.hidden){clearTimeout(scrollTimer);capturePosition();}});
  $('bookmarkHere').onclick=()=>{const x=selected&&selected.book===current.book&&selected.chapter===current.chapter?selected:{...current,verse:1};saved.bookmark={...x};select(x,false);persist()};$('resumeBookmark').onclick=()=>{if(saved.bookmark){select({...saved.bookmark},false);navigate(selected.book,selected.chapter,selected.verse)}};$('markUnread').onclick=()=>{if(selected){read.delete(key(selected.book,selected.chapter,selected.verse));persist()}};$('readingOverview').onclick=overview;status()}
- return {init,decorate,bookmark:()=>saved.bookmark,position:()=>saved.position,restore:x=>{if(valid(x)){selected={...x};saved.position={...x};}}};
+ return {init,decorate,bookmark:()=>saved.bookmark,position:()=>saved.position,restore:x=>{if(valid(x)){selected={...x};rememberPosition(x);}}};
 })();
 
