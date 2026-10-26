@@ -122,7 +122,7 @@ class Store:
         (self.root/'sources').mkdir(exist_ok=True)
         with self.connect() as db:
             db.executescript('''
-PRAGMA journal_mode=WAL;
+PRAGMA journal_mode=DELETE;
 CREATE TABLE IF NOT EXISTS recordings(id TEXT PRIMARY KEY,hash TEXT NOT NULL,teacher TEXT,source_path TEXT,state TEXT NOT NULL,reason TEXT,imported TEXT);
 CREATE TABLE IF NOT EXISTS jobs(id INTEGER PRIMARY KEY,video_id TEXT,source_hash TEXT,start REAL,end REAL,state TEXT DEFAULT 'pending',attempts INTEGER DEFAULT 0,error TEXT,result TEXT,metrics TEXT,UNIQUE(video_id,source_hash,start));
 CREATE TABLE IF NOT EXISTS settings(key TEXT PRIMARY KEY,value TEXT);
@@ -140,7 +140,22 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
             if value is not None: db.execute('INSERT OR REPLACE INTO settings VALUES (?,?)',(key,json.dumps(value)))
             row=db.execute('SELECT value FROM settings WHERE key=?',(key,)).fetchone()
         return json.loads(row[0]) if row else None
+    def check_integrity(self):
+        with self.connect() as db:
+            result=db.execute('PRAGMA integrity_check').fetchone()[0]
+        if result!='ok':raise RuntimeError('Database integrity check failed. Keep the data folder and last-good.sqlite backup; no saved files were deleted. '+result)
+    def backup_before_import(self):
+        self.check_integrity()
+        with self.connect() as db:
+            if not db.execute('SELECT count(*) FROM recordings').fetchone()[0]:return
+            partial=self.root/'last-good.sqlite.partial'
+            partial.unlink(missing_ok=True)
+            with sqlite3.connect(partial) as backup:
+                db.backup(backup)
+                if backup.execute('PRAGMA integrity_check').fetchone()[0]!='ok':raise RuntimeError('Import backup integrity check failed')
+        partial.replace(self.root/'last-good.sqlite')
     def import_zip(self,path,progress=lambda x:None):
+        self.backup_before_import()
         counts={'imported':0,'unchanged':0,'held':0,'invalid':0}; seen=set(); errors=[]
         with zipfile.ZipFile(path) as z:
             infos=z.infolist()
@@ -197,6 +212,7 @@ CREATE TABLE IF NOT EXISTS processing_events(id INTEGER PRIMARY KEY,video_id TEX
                     counts['unchanged' if unchanged else 'imported']+=1; counts['held']+=state=='held'
                 progress(counts)
         self.setting('import_errors',errors)
+        self.check_integrity()
         return counts
     def next_job(self):
         with self.connect() as db:

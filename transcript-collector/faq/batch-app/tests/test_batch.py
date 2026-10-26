@@ -98,20 +98,28 @@ class Persistence(unittest.TestCase):
   self.assertEqual(self.store.import_zip(self.z)['invalid'],1)
  def test_export_snapshot_during_worker_commit(self):
   from contextlib import contextmanager
-  self.store.import_zip(self.z);job=self.store.next_job();original=self.store.connect;committed=False
+  self.store.import_zip(self.z);job=self.store.next_job();original=self.store.connect;started=False;writer_thread=None
+  def save():
+   with original() as writer:writer.execute("UPDATE jobs SET state='saved',result='[]',metrics='{}' WHERE id=?",(job['id'],))
   @contextmanager
   def tracked():
    with original() as db:
     def trace(sql):
-     nonlocal committed
-     if "FROM jobs WHERE state<>" in sql and not committed:
-      committed=True
-      with original() as writer:writer.execute("UPDATE jobs SET state='saved',result='[]',metrics='{}' WHERE id=?",(job['id'],))
+     nonlocal started,writer_thread
+     if "FROM jobs WHERE state<>" in sql and not started:
+      started=True;writer_thread=threading.Thread(target=save);writer_thread.start();time.sleep(.05)
     db.set_trace_callback(trace);yield db
-  with patch.object(self.store,'connect',tracked):
-   result=self.store.export(self.root/'during.zip')
-  self.assertTrue(committed);self.assertEqual(result['unfinished_windows'],3)
+  with patch.object(self.store,'connect',tracked):result=self.store.export(self.root/'during.zip')
+  writer_thread.join(5)
+  self.assertTrue(started);self.assertFalse(writer_thread.is_alive());self.assertEqual(result['unfinished_windows'],3)
   self.assertEqual(self.store.status()['windows']['saved'],1)
+ def test_import_retains_verified_backup(self):
+  self.store.import_zip(self.z);j=self.store.next_job();self.store.finish(j,[],{})
+  self.store.import_zip(self.z)
+  import sqlite3
+  with sqlite3.connect(self.store.root/'last-good.sqlite') as db:
+   self.assertEqual(db.execute('PRAGMA integrity_check').fetchone()[0],'ok')
+   self.assertEqual(db.execute("SELECT count(*) FROM jobs WHERE state='saved'").fetchone()[0],1)
  def test_fail_retry(self):
   self.store.import_zip(self.z);j=self.store.next_job();self.store.fail(j,'engine offline');self.store.retry()
   self.assertEqual(self.store.next_job()['id'],j['id'])
