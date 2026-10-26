@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-26T18:37:15.042530+00:00",
+  "updated": "2026-10-26T18:49:00.571983+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -1224,9 +1224,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 20,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "translations-dennis-preference",
+        "local005-8201d622f651f8",
+        "local005-83548831854a7f",
+        "local005-05425adcf7197f",
+        "millennium-definition-dennis",
+        "local005-312b9405124cbe",
+        "local005-a3b41fead04666",
+        "local005-d1ea81ec6106c4",
+        "local005-shortened-tribulation-dennis",
+        "local005-9debaede3628ed"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "translations-dennis-preference",
+          "start_seconds": 2477.007,
+          "end_seconds": 2545.075,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-8201d622f651f8",
+          "start_seconds": 2948.512,
+          "end_seconds": 2988.318,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-83548831854a7f",
+          "start_seconds": 2678.308,
+          "end_seconds": 2745.943,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-05425adcf7197f",
+          "start_seconds": 2767.064,
+          "end_seconds": 2835.132,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-definition-dennis",
+          "start_seconds": 2396.093,
+          "end_seconds": 2459.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-312b9405124cbe",
+          "start_seconds": 3163.76,
+          "end_seconds": 3261.691,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-a3b41fead04666",
+          "start_seconds": 2865.829,
+          "end_seconds": 2888.218,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-d1ea81ec6106c4",
+          "start_seconds": 2842.105,
+          "end_seconds": 2865.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-shortened-tribulation-dennis",
+          "start_seconds": 2264.495,
+          "end_seconds": 2303.267,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-9debaede3628ed",
+          "start_seconds": 3280.377,
+          "end_seconds": 3302.666,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -1590,9 +1662,46 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 16,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-ff7127b5b294f1",
+        "local005-f8802f33ca4527",
+        "local005-f10bf5b116bedc",
+        "local005-4e8ade68507285",
+        "local005-19fb2081e6ee57"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-ff7127b5b294f1",
+          "start_seconds": 2875.72,
+          "end_seconds": 2918.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f8802f33ca4527",
+          "start_seconds": 2254.96,
+          "end_seconds": 2266.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f10bf5b116bedc",
+          "start_seconds": 3002.76,
+          "end_seconds": 3064.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-4e8ade68507285",
+          "start_seconds": 2783.559,
+          "end_seconds": 2817.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-19fb2081e6ee57",
+          "start_seconds": 2286.8,
+          "end_seconds": 2349.71,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -1942,9 +2051,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 22,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-392a88ffc3038c",
+        "local005-7d68a686c87660",
+        "local005-c90e3462703b12",
+        "local005-e029068858a16c",
+        "local005-c1212bde7b0c19",
+        "cremation",
+        "local005-b2a1e3a1ba50ae",
+        "local005-0f90ddeeb84656",
+        "local005-shortened-tribulation-dennis",
+        "local005-9bfdc15f15a9c6"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-392a88ffc3038c",
+          "start_seconds": 3125.489,
+          "end_seconds": 3149.679,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-7d68a686c87660",
+          "start_seconds": 3164.794,
+          "end_seconds": 3220.417,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-c90e3462703b12",
+          "start_seconds": 2949.046,
+          "end_seconds": 3004.368,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-e029068858a16c",
+          "start_seconds": 2492.79,
+          "end_seconds": 2560.157,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-c1212bde7b0c19",
+          "start_seconds": 2392.823,
+          "end_seconds": 2451.749,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 2765.729,
+          "end_seconds": 2849.947,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-b2a1e3a1ba50ae",
+          "start_seconds": 3254.851,
+          "end_seconds": 3294.324,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-0f90ddeeb84656",
+          "start_seconds": 2884.214,
+          "end_seconds": 2921.718,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-shortened-tribulation-dennis",
+          "start_seconds": 2634.131,
+          "end_seconds": 2675.506,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-9bfdc15f15a9c6",
+          "start_seconds": 2285.249,
+          "end_seconds": 2364.795,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -2071,9 +2252,88 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 112,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-6ae9403d2472f2",
+        "local005-e0e88109870b63",
+        "local005-effba2d9ea15ca",
+        "local005-22a760e3361b77",
+        "local005-f60324fe3e452d",
+        "local005-33008ab6a5e88e",
+        "local005-77e4b1407d2937",
+        "local005-874b3ca7c34fd4",
+        "local005-6989bcbe9bf986",
+        "local005-f6249b26b62cf8",
+        "local005-1c289336791f9d"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-6ae9403d2472f2",
+          "start_seconds": 2480.16,
+          "end_seconds": 2549.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-e0e88109870b63",
+          "start_seconds": 3350.96,
+          "end_seconds": 3379.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-effba2d9ea15ca",
+          "start_seconds": 2978.0,
+          "end_seconds": 3010.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-22a760e3361b77",
+          "start_seconds": 2770.96,
+          "end_seconds": 2812.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f60324fe3e452d",
+          "start_seconds": 3308.24,
+          "end_seconds": 3350.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-33008ab6a5e88e",
+          "start_seconds": 3218.48,
+          "end_seconds": 3302.549,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-77e4b1407d2937",
+          "start_seconds": 2818.16,
+          "end_seconds": 2858.55,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-874b3ca7c34fd4",
+          "start_seconds": 3056.48,
+          "end_seconds": 3152.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-6989bcbe9bf986",
+          "start_seconds": 2624.96,
+          "end_seconds": 2690.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f6249b26b62cf8",
+          "start_seconds": 2356.16,
+          "end_seconds": 2436.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-1c289336791f9d",
+          "start_seconds": 2863.2,
+          "end_seconds": 2915.829,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -2089,9 +2349,95 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 37,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-abdbf57e1deca0",
+        "forgiveness",
+        "local005-912a5893f52b3d",
+        "local005-af06306f889d6f",
+        "local005-f59122b48d4868",
+        "local005-74bc269989206c",
+        "local005-704e0bb8e17e11",
+        "local005-cafc588c529111",
+        "local005-1074b289b5cdb7",
+        "local005-104d8dd6868a1f",
+        "local005-2ea9cbb4da8449",
+        "local005-79f59cc1cf9725"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-abdbf57e1deca0",
+          "start_seconds": 3277.741,
+          "end_seconds": 3338.335,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3171.902,
+          "end_seconds": 3191.888,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-912a5893f52b3d",
+          "start_seconds": 2601.899,
+          "end_seconds": 2662.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-af06306f889d6f",
+          "start_seconds": 3371.768,
+          "end_seconds": 3386.75,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f59122b48d4868",
+          "start_seconds": 2518.382,
+          "end_seconds": 2546.577,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-74bc269989206c",
+          "start_seconds": 2786.45,
+          "end_seconds": 2838.268,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-704e0bb8e17e11",
+          "start_seconds": 3262.259,
+          "end_seconds": 3279.476,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-cafc588c529111",
+          "start_seconds": 3239.903,
+          "end_seconds": 3262.259,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-1074b289b5cdb7",
+          "start_seconds": 2555.553,
+          "end_seconds": 2596.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-104d8dd6868a1f",
+          "start_seconds": 3358.021,
+          "end_seconds": 3371.768,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2ea9cbb4da8449",
+          "start_seconds": 2664.762,
+          "end_seconds": 2710.107,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-79f59cc1cf9725",
+          "start_seconds": 2327.091,
+          "end_seconds": 2346.477,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -2107,9 +2453,74 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 38,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-09135e55e790b2",
+        "local005-04fa1fbe780f01",
+        "local005-659a2a1370638d",
+        "local005-c6183623e18922",
+        "local005-f31ef2668bac72",
+        "local005-2ad5bb13c7cae4",
+        "local005-f389f3f0aaf02d",
+        "local005-6c0b023e58a90e",
+        "local005-4ea55356b65652"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-09135e55e790b2",
+          "start_seconds": 2716.879,
+          "end_seconds": 2747.811,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-04fa1fbe780f01",
+          "start_seconds": 2646.243,
+          "end_seconds": 2714.611,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-659a2a1370638d",
+          "start_seconds": 3192.789,
+          "end_seconds": 3267.53,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-c6183623e18922",
+          "start_seconds": 3302.665,
+          "end_seconds": 3333.028,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f31ef2668bac72",
+          "start_seconds": 2461.491,
+          "end_seconds": 2496.827,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2ad5bb13c7cae4",
+          "start_seconds": 3355.284,
+          "end_seconds": 3380.142,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f389f3f0aaf02d",
+          "start_seconds": 2396.66,
+          "end_seconds": 2450.481,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-6c0b023e58a90e",
+          "start_seconds": 3267.53,
+          "end_seconds": 3287.416,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-4ea55356b65652",
+          "start_seconds": 2349.379,
+          "end_seconds": 2384.681,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -2508,9 +2919,88 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 40,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-11e7f9a5e4c780",
+        "local005-8d4ffb948ab9d8",
+        "local005-2490ddefdb1da8",
+        "local005-d5c0797821d022",
+        "local005-50ebe065d2c4d7",
+        "local005-5b64f7756eb929",
+        "local005-abd986ed0ee410",
+        "local005-90a037ad2164cd",
+        "local005-b30bda35f59bd8",
+        "recognize-family",
+        "sabbath-rest-dennis"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-11e7f9a5e4c780",
+          "start_seconds": 2181.145,
+          "end_seconds": 2249.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-8d4ffb948ab9d8",
+          "start_seconds": 3257.053,
+          "end_seconds": 3300.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2490ddefdb1da8",
+          "start_seconds": 3065.629,
+          "end_seconds": 3077.741,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-d5c0797821d022",
+          "start_seconds": 3211.074,
+          "end_seconds": 3257.053,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-50ebe065d2c4d7",
+          "start_seconds": 2791.855,
+          "end_seconds": 2823.854,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-5b64f7756eb929",
+          "start_seconds": 2399.697,
+          "end_seconds": 2436.367,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-abd986ed0ee410",
+          "start_seconds": 2252.383,
+          "end_seconds": 2337.101,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-90a037ad2164cd",
+          "start_seconds": 2841.205,
+          "end_seconds": 2909.907,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-b30bda35f59bd8",
+          "start_seconds": 2355.453,
+          "end_seconds": 2395.292,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 2671.935,
+          "end_seconds": 2721.985,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-rest-dennis",
+          "start_seconds": 2546.744,
+          "end_seconds": 2569.066,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -2526,9 +3016,88 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 30,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-29f44792c816f3",
+        "recognize-family",
+        "local005-bead2ac4d219e5",
+        "local005-97ace865b54446",
+        "local005-e5bf4f7d30051b",
+        "local005-ccaa26fe7e47de",
+        "local005-09e1c5b14861b0",
+        "local005-56e4953678c389",
+        "local005-eabbb7a6ad477c",
+        "local005-3d62ecee39823f",
+        "local005-8f94ccd9812d1c"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-29f44792c816f3",
+          "start_seconds": 2596.794,
+          "end_seconds": 2654.451,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 2432.396,
+          "end_seconds": 2453.517,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-bead2ac4d219e5",
+          "start_seconds": 2819.583,
+          "end_seconds": 2906.737,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-97ace865b54446",
+          "start_seconds": 2216.08,
+          "end_seconds": 2330.928,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-e5bf4f7d30051b",
+          "start_seconds": 2655.686,
+          "end_seconds": 2746.877,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-ccaa26fe7e47de",
+          "start_seconds": 2774.004,
+          "end_seconds": 2819.583,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-09e1c5b14861b0",
+          "start_seconds": 2665.195,
+          "end_seconds": 2750.814,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-56e4953678c389",
+          "start_seconds": 3283.179,
+          "end_seconds": 3351.848,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-eabbb7a6ad477c",
+          "start_seconds": 2453.517,
+          "end_seconds": 2510.007,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-3d62ecee39823f",
+          "start_seconds": 2560.224,
+          "end_seconds": 2594.992,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-8f94ccd9812d1c",
+          "start_seconds": 3351.848,
+          "end_seconds": 3378.942,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -2544,9 +3113,18 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-231a734be438d4"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-231a734be438d4",
+          "start_seconds": 183.01,
+          "end_seconds": 198.089,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -3564,9 +4142,88 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 29,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-c6dc43942466cb",
+        "local005-efd1f9703c2513",
+        "local005-03bf8a463a548d",
+        "local005-62430a12de6521",
+        "local005-b523ed9d73f3a3",
+        "local005-4edba753f9faaf",
+        "witnesses-recognition-dennis",
+        "local005-shortened-tribulation-dennis",
+        "local005-5a6a51015edf00",
+        "local005-7af1ae75873b2e",
+        "local005-731f1ca26f2953"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-c6dc43942466cb",
+          "start_seconds": 3148.812,
+          "end_seconds": 3169.366,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-efd1f9703c2513",
+          "start_seconds": 3258.054,
+          "end_seconds": 3281.878,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-03bf8a463a548d",
+          "start_seconds": 3291.755,
+          "end_seconds": 3325.622,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-62430a12de6521",
+          "start_seconds": 2291.589,
+          "end_seconds": 2356.754,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-b523ed9d73f3a3",
+          "start_seconds": 3122.686,
+          "end_seconds": 3154.551,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-4edba753f9faaf",
+          "start_seconds": 2989.152,
+          "end_seconds": 3085.482,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-recognition-dennis",
+          "start_seconds": 2378.576,
+          "end_seconds": 2437.435,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-shortened-tribulation-dennis",
+          "start_seconds": 3194.658,
+          "end_seconds": 3215.612,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-5a6a51015edf00",
+          "start_seconds": 3229.459,
+          "end_seconds": 3247.711,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-7af1ae75873b2e",
+          "start_seconds": 2803.4,
+          "end_seconds": 2912.476,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-731f1ca26f2953",
+          "start_seconds": 2576.173,
+          "end_seconds": 2639.169,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -3913,9 +4570,18 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-80478faa8e1b5e"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-80478faa8e1b5e",
+          "start_seconds": 2439.93,
+          "end_seconds": 2540.0,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -3949,9 +4615,60 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 20,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-3e7b41ae1d49e0",
+        "local005-64b5d3ef6bbafd",
+        "sabbath-rest-dennis",
+        "local005-a76cff9c8bd67a",
+        "local005-379aaa02398640",
+        "local005-76a33c2d79a4fe",
+        "translations-dennis-preference"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-3e7b41ae1d49e0",
+          "start_seconds": 2717.281,
+          "end_seconds": 2746.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-64b5d3ef6bbafd",
+          "start_seconds": 2256.387,
+          "end_seconds": 2305.936,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-rest-dennis",
+          "start_seconds": 3153.517,
+          "end_seconds": 3179.509,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-a76cff9c8bd67a",
+          "start_seconds": 3040.07,
+          "end_seconds": 3123.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-379aaa02398640",
+          "start_seconds": 2616.78,
+          "end_seconds": 2715.245,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-76a33c2d79a4fe",
+          "start_seconds": 3193.223,
+          "end_seconds": 3227.424,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "translations-dennis-preference",
+          "start_seconds": 3227.424,
+          "end_seconds": 3252.515,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -4204,7 +4921,13 @@
       "review_status": "partially_reviewed",
       "question_ids": [
         "satan-born",
-        "holy-trinity"
+        "holy-trinity",
+        "america-isaiah18-claim",
+        "local005-deea22cd01910b",
+        "local005-a7fff005887089",
+        "local005-9f463aa1061f55",
+        "local005-bf5264a5f53c48",
+        "local005-33449ce38dac99"
       ],
       "reviewed_ranges": [
         {
@@ -4217,6 +4940,42 @@
           "question_id": "holy-trinity",
           "start_seconds": 2449.68,
           "end_seconds": 2573.404,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "america-isaiah18-claim",
+          "start_seconds": 3240.971,
+          "end_seconds": 3299.029,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-deea22cd01910b",
+          "start_seconds": 2672.269,
+          "end_seconds": 2705.302,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-a7fff005887089",
+          "start_seconds": 2357.455,
+          "end_seconds": 2438.736,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-9f463aa1061f55",
+          "start_seconds": 2846.643,
+          "end_seconds": 2936.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-bf5264a5f53c48",
+          "start_seconds": 3324.02,
+          "end_seconds": 3332.195,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-33449ce38dac99",
+          "start_seconds": 2784.014,
+          "end_seconds": 2816.38,
           "review": "caption_passage_checked_audio_pending"
         }
       ],
@@ -4537,9 +5296,95 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-8dd156ca85a96e",
+        "local005-9a88587840bebf",
+        "local005-f5cfe8edee4117",
+        "rightly-dividing-dennis",
+        "local005-2fc44e9d62c9f8",
+        "local005-160dc3c9242ae4",
+        "local005-ea850661e30f89",
+        "local005-e807c3fc5e2e48",
+        "local005-96007bbba95fc8",
+        "local005-15b9dc8a53df5a",
+        "local005-0dc70fa779305b",
+        "local005-42564382c7a5a1"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-8dd156ca85a96e",
+          "start_seconds": 3336.199,
+          "end_seconds": 3353.85,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-9a88587840bebf",
+          "start_seconds": 2553.217,
+          "end_seconds": 2568.766,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-f5cfe8edee4117",
+          "start_seconds": 3051.715,
+          "end_seconds": 3113.977,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rightly-dividing-dennis",
+          "start_seconds": 2622.853,
+          "end_seconds": 2730.494,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2fc44e9d62c9f8",
+          "start_seconds": 3125.522,
+          "end_seconds": 3147.677,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-160dc3c9242ae4",
+          "start_seconds": 3148.545,
+          "end_seconds": 3163.527,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-ea850661e30f89",
+          "start_seconds": 3221.885,
+          "end_seconds": 3236.967,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-e807c3fc5e2e48",
+          "start_seconds": 2580.678,
+          "end_seconds": 2622.853,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-96007bbba95fc8",
+          "start_seconds": 2899.796,
+          "end_seconds": 2961.591,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-15b9dc8a53df5a",
+          "start_seconds": 2266.23,
+          "end_seconds": 2322.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-0dc70fa779305b",
+          "start_seconds": 3281.645,
+          "end_seconds": 3328.992,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-42564382c7a5a1",
+          "start_seconds": 3253.416,
+          "end_seconds": 3285.248,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -5052,13 +5897,83 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "recognize-family"
+        "recognize-family",
+        "local005-ddc798bdbaa164",
+        "local005-c35341d35e4f19",
+        "local005-4d1c9d844413e3",
+        "local005-c8f62bd97972e7",
+        "local005-bf92194f78f113",
+        "communion-frequency",
+        "local005-2bac1aec6911be",
+        "local005-284c2d4103a9be",
+        "local005-78ad33907beb77",
+        "animals-heaven"
       ],
       "reviewed_ranges": [
         {
           "question_id": "recognize-family",
           "start_seconds": 2392.956,
           "end_seconds": 2513.11,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-ddc798bdbaa164",
+          "start_seconds": 2598.162,
+          "end_seconds": 2681.045,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-c35341d35e4f19",
+          "start_seconds": 2127.324,
+          "end_seconds": 2176.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-4d1c9d844413e3",
+          "start_seconds": 3034.864,
+          "end_seconds": 3086.883,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-c8f62bd97972e7",
+          "start_seconds": 2267.632,
+          "end_seconds": 2317.148,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-bf92194f78f113",
+          "start_seconds": 3173.302,
+          "end_seconds": 3238.568,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "communion-frequency",
+          "start_seconds": 3238.568,
+          "end_seconds": 3287.817,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2bac1aec6911be",
+          "start_seconds": 2176.64,
+          "end_seconds": 2267.632,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-284c2d4103a9be",
+          "start_seconds": 2802.298,
+          "end_seconds": 2840.904,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-78ad33907beb77",
+          "start_seconds": 2682.445,
+          "end_seconds": 2733.197,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-heaven",
+          "start_seconds": 3287.817,
+          "end_seconds": 3322.018,
           "review": "caption_passage_checked_audio_pending"
         }
       ],
@@ -5664,7 +6579,7 @@
         "cursor_seconds": 2331.562,
         "audio_verified": false,
         "reviewed_at": "2026-10-26",
-        "basis": "Direct reading of complete available caption Q&A, including listener turns absent from prepared subset. Partial because two unresolved answers remain held."
+        "basis": "Direct reading of complete available caption Q&A, including listener turns absent from prepared subset. Partial because three unresolved answers remain held."
       },
       "cursor_seconds": 2331.562
     },
@@ -5679,9 +6594,67 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 22,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-8a0b9736f1b787",
+        "local005-5f85e9b2729fed",
+        "local005-32fca65e5738e2",
+        "local005-da414efbfc42a8",
+        "local005-47ba7466e7e3f8",
+        "local005-ad2e2c09b20f84",
+        "local005-ed35376ca411dc",
+        "local005-78fa2b6a36929f"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-8a0b9736f1b787",
+          "start_seconds": 3283.48,
+          "end_seconds": 3342.138,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-5f85e9b2729fed",
+          "start_seconds": 2760.824,
+          "end_seconds": 2792.523,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-32fca65e5738e2",
+          "start_seconds": 2806.436,
+          "end_seconds": 2860.958,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-da414efbfc42a8",
+          "start_seconds": 3342.138,
+          "end_seconds": 3389.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-47ba7466e7e3f8",
+          "start_seconds": 2965.963,
+          "end_seconds": 3035.232,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-ad2e2c09b20f84",
+          "start_seconds": 3036.233,
+          "end_seconds": 3128.291,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-ed35376ca411dc",
+          "start_seconds": 2472.77,
+          "end_seconds": 2530.961,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-78fa2b6a36929f",
+          "start_seconds": 2356.454,
+          "end_seconds": 2472.77,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -5876,9 +6849,67 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 24,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-0c1f4cb9653ea0",
+        "local005-af194397f8913a",
+        "local005-85408920f4762b",
+        "local005-6ce26044c24552",
+        "twins-different-fathers",
+        "local005-3603937efe20ba",
+        "meek-earth-dennis",
+        "local005-773f2eff317bda"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-0c1f4cb9653ea0",
+          "start_seconds": 2547.844,
+          "end_seconds": 2599.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-af194397f8913a",
+          "start_seconds": 3139.368,
+          "end_seconds": 3174.104,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-85408920f4762b",
+          "start_seconds": 2358.922,
+          "end_seconds": 2411.408,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-6ce26044c24552",
+          "start_seconds": 3047.043,
+          "end_seconds": 3109.672,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "twins-different-fathers",
+          "start_seconds": 2630.927,
+          "end_seconds": 2714.011,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-3603937efe20ba",
+          "start_seconds": 2976.606,
+          "end_seconds": 2994.691,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "meek-earth-dennis",
+          "start_seconds": 2938.902,
+          "end_seconds": 2962.592,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-773f2eff317bda",
+          "start_seconds": 3109.706,
+          "end_seconds": 3137.501,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -5912,9 +6943,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 44,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local005-8a44fc8ade89e3",
+        "local005-2e75f30e6f78a0",
+        "local005-593f3b4bfb43fa",
+        "local005-3a97a88c516408",
+        "local005-fd63a98ba4d051",
+        "local005-43aaf0a881f2b3",
+        "local005-6519c1cfa35eaf",
+        "local005-790388cd26d7b2",
+        "laws-land-dennis",
+        "local005-544fb6659160b8"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local005-8a44fc8ade89e3",
+          "start_seconds": 2845.175,
+          "end_seconds": 2922.219,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2e75f30e6f78a0",
+          "start_seconds": 2465.129,
+          "end_seconds": 2508.405,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-593f3b4bfb43fa",
+          "start_seconds": 2609.406,
+          "end_seconds": 2652.716,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-3a97a88c516408",
+          "start_seconds": 3065.062,
+          "end_seconds": 3148.712,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-fd63a98ba4d051",
+          "start_seconds": 2356.821,
+          "end_seconds": 2417.348,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-43aaf0a881f2b3",
+          "start_seconds": 2774.304,
+          "end_seconds": 2821.351,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-6519c1cfa35eaf",
+          "start_seconds": 2917.314,
+          "end_seconds": 2951.648,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-790388cd26d7b2",
+          "start_seconds": 3169.699,
+          "end_seconds": 3266.496,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "laws-land-dennis",
+          "start_seconds": 2992.322,
+          "end_seconds": 3059.523,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-544fb6659160b8",
+          "start_seconds": 2420.951,
+          "end_seconds": 2457.955,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
       "history": []
@@ -42610,13 +43713,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 176,
+    "partially_reviewed": 192,
     "fully_reviewed": 16,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 1103,
+    "pending": 1087,
     "source_changed": 0,
-    "question_occurrences": 2193
+    "question_occurrences": 2346
   }
 }

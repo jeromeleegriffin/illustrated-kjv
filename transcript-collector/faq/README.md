@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 1,416 question groups and 2,232 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 1,550 question groups and 2,385 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 176 remain partially reviewed, 1,103 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Sixteen recordings have complete caption Q&A reviews, 192 remain partially reviewed, 1,087 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -66,4 +66,4 @@ Local app batch 002 adds forty-six caption-reviewed linked answers and twenty-th
 Local app batch 003 adds twenty-one caption-reviewed linked answers and fourteen question groups from -4I5t3EgO9o (Dennis) and 0aUiY5kK8F0 (Arnold). Both remain partial: a garbled pork-reference cue, the name of Mary’s father and the Arnold export’s mid-answer ending are held. The complete available Q&A captions were read directly; one commentary-only listener letter was excluded. Machine output remains separately unapproved. Windows app 1.0.4 improves incomplete-answer holds, malformed-JSON recovery, empty-queue counts and automatic Windows sleep handling, and withholds proposals lacking an explicit source question/request signal. Audio remains pending.
 
 
-Local app batch 004 adds twenty-four caption-reviewed Dennis answers after direct reading of the complete available Q&A in 1ECDV-oonSA. Three answers remain held: mixed Kings/Chronicles wording, a damaged genealogy citation, and an unclear relative qualification in a millennium answer. The recording stays partial and audio-pending. The other prepared proposals are not approved by this batch.
+Local app batches 004 and 005 reconcile all 197 prepared proposals from the 1.1.1 user export: twenty were covered by batch 004; batch 005 approves 153 additional source-bound paraphrases after direct caption-passage review; twenty-four are held, excluded or duplicate drafts. Batch 004 also recovered four answers outside the prepared subset. The overall totals are 1,550 groups and 2,385 linked answers. No additional full-recording completion or audio verification is claimed. Partial review ranges, attribution checks, corrections, duplicates and unresolved items are retained privately. The rest of the uploaded extraction/checking backlog is not approved by these batches. Prior pending Dennis review must be reconciled against these new links before reuse.
