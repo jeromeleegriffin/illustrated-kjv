@@ -17,6 +17,15 @@ class Controller:
         self.model=self.store.setting('model') or MODEL
         self.hardware=self.store.setting('hardware') or 'auto'
         self.worker=threading.Thread(target=self.run,daemon=True);self.worker.start()
+    def close(self):
+        self.exit=True;self.mode='paused'
+        if self.child and self.child.poll() is None:
+            if os.name=='nt':
+                subprocess.run(['taskkill','/PID',str(self.child.pid),'/T','/F'],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL,creationflags=subprocess.CREATE_NO_WINDOW)
+            else:self.child.terminate()
+            try:self.child.wait(timeout=15)
+            except subprocess.TimeoutExpired:self.child.kill()
+        self.worker.join(timeout=5)
     def status(self):
         return {**self.store.status(),'mode':self.mode,'message':self.message,'busy':self.busy,'active':self.active,'model':self.model,'hardware':self.hardware,'data_directory':str(self.store.root.resolve()),'free_disk_gb':round(shutil.disk_usage(self.store.root).free/1024**3,1),'cpu_threads':os.cpu_count()}
     def background(self,func):
@@ -42,7 +51,7 @@ class Controller:
         if not executable:
             if os.name!='nt': raise RuntimeError('Install/start Ollama on this operating system. Windows setup is built in.')
             self.message='Downloading official free AI runtime (1.59 GB). This may take several minutes.'
-            if shutil.disk_usage(self.store.root).free<8*1024**3: raise ValueError('At least 8 GB free disk space is required for runtime, model and working files')
+            if shutil.disk_usage(self.store.root).free<14*1024**3: raise ValueError('At least 14 GB free disk space is required for runtime, model and working files')
             temp=self.store.root/'runtime-download.zip.partial'
             import hashlib
             h=hashlib.sha256();size=0
@@ -76,7 +85,7 @@ class Controller:
     def setup(self):
         self.ensure_runtime();engine=Ollama(self.model)
         if not any(m.get('name')==self.model for m in engine.models()):
-            self.message='Downloading the free English-capable local model (about 2.5 GB).'
+            self.message='Downloading the free English-capable local model (about 5.2 GB).'
             def progress(x):
                 self.message=x.get('status','Downloading model')
                 if x.get('total'):self.message+=f" {x.get('completed',0)//1048576} / {x['total']//1048576} MB"
@@ -128,7 +137,7 @@ HTML=r'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewpo
 <style>body{font:18px system-ui;max-width:1000px;margin:30px auto;padding:0 20px;color:#172735;background:#f5f7fa}h1{font-size:28px}button,select,input{font:inherit;margin:5px;padding:10px}button{cursor:pointer;background:white;border:1px solid #678;border-radius:6px}button:disabled{opacity:.5}section{background:white;padding:18px;margin:18px 0;border-radius:10px;border:1px solid #ddd}#message{font-weight:600;white-space:pre-wrap}small{display:block;line-height:1.6}table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:8px;border-bottom:1px solid #ddd}#error{color:#9b1515}a{color:#065aa0}</style>
 <h1>Griffin Shepherd’s Chapel FAQ Batch Processor</h1><p>Process saved transcripts automatically on this computer. Your existing approved FAQs stay intact.</p>
 <section><h2>1. Import your saved library</h2><input type="file" id="file" accept=".zip"><button id="import">Import ZIP</button><p>Choose Griffin_Private_Teaching_Library_Batch_001.zip. Importing it again skips unchanged recordings.</p><small>Private files stay on this computer. Topical recordings with unconfirmed teachers, completed reviews and external assignments are held. This app does not download YouTube videos.</small></section>
-<section><h2>2. Set up free local AI</h2><button id="setup">Set up free AI</button><select id="hardware"><option value="auto">Automatic hardware</option><option value="cpu">CPU only</option></select><button id="settings">Save setting</button><p>One-time internet download: up to 1.59 GB runtime + about 2.5 GB model. Allow 8 GB free disk space. No subscription or transcription API fee.</p><small>Uses the official Ollama runtime and Qwen3 4B model. Model license: <a href="https://ollama.com/library/qwen3:4b" target="_blank" rel="noreferrer">Qwen model terms</a>. Once downloaded, caption processing works offline. Windows must remain on and awake.</small></section>
+<section><h2>2. Set up free local AI</h2><button id="setup">Set up free AI</button><select id="hardware"><option value="auto">Automatic hardware</option><option value="cpu">CPU only</option></select><button id="settings">Save setting</button><p>One-time internet download: up to 1.59 GB runtime + about 5.2 GB model. Allow 14 GB free disk space. No subscription or transcription API fee.</p><small>Uses the official Ollama runtime and Qwen3 8B model. Model license: <a href="https://ollama.com/library/qwen3:8b" target="_blank" rel="noreferrer">Qwen model terms</a>. Once downloaded, caption processing works offline. Recommended: 16 GB RAM. Windows must remain on and awake.</small></section>
 <section><h2>3. Run automatic batches</h2><button id="start">Start / Resume</button><button id="pause">Pause</button><button id="stop">Stop</button><button id="retry">Retry failed</button><a href="/export" id="export">Download private results ZIP</a><p id="message">Loading…</p><p id="error" role="alert"></p><div id="counts"></div><h3>Recent activity / errors</h3><pre id="current" style="white-space:pre-wrap"></pre><small id="folder"></small></section>
 <section><h2>Private candidate viewer</h2><button id="prev">Previous</button><button id="next">Next</button><span id="page"></span><div id="candidates"></div></section>
 <section><h2>What the results mean</h2><p>These are AI-generated FAQ candidates with timestamped caption evidence. They require semantic and teacher review before being added to the public Bible app. “Machine pass finished” does not mean every question was found or verified. No automatic publishing occurs.</p><p>Pause saves the current window, then stops. After a power loss, reopen this app and click Resume. Overlapping windows can produce duplicates; variants and uncertainty flags are retained for review.</p></section>
@@ -228,6 +237,6 @@ def main():
     except KeyboardInterrupt:pass
     finally:
         controller.exit=True;server.server_close();lock.close();lockfile.unlink(missing_ok=True)
-        if controller.child:controller.child.terminate()
+        controller.close()
 
 if __name__=='__main__':main()

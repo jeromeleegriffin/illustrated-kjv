@@ -40,7 +40,7 @@ jobs:
 
   faq-batch-windows:
     runs-on: windows-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -54,6 +54,8 @@ jobs:
         run: python transcript-collector/faq/batch-app/package_windows.py
       - name: Verify frozen application in Windows Edge
         run: python transcript-collector/faq/batch-app/tests/browser_smoke.py transcript-collector/faq/batch-app/build-output/GriffinFAQProcessor/GriffinFAQProcessor.exe
+      - name: Official AI setup and real CPU inference (synthetic captions only)
+        run: python transcript-collector/faq/batch-app/tests/windows_ai_smoke.py
       - uses: actions/upload-artifact@v4
         with:
           name: Griffin-FAQ-Processor-Windows-001
