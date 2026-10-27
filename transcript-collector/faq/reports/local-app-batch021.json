@@ -1,0 +1,22 @@
+{
+  "batch": "local021",
+  "new_linked_answers": 9,
+  "new_question_groups": 7,
+  "total_question_groups": 2635,
+  "total_linked_answers": 3688,
+  "caption_qa_sections_reviewed": 1,
+  "held_ranges": 7,
+  "audio_verified": false,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 275,
+    "fully_reviewed": 19,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 1001,
+    "source_changed": 0,
+    "question_occurrences": 3644
+  },
+  "tests": "4 Python tests; hold and resume navigation tests; exact source hashes, anchors and prior registry preservation; zero invalid approvals"
+}

@@ -15768,6 +15768,48 @@
       "question": "Which passages did Dennis give against lying?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-ages-birth",
+      "question": "Did Dennis say people were born in flesh in both the first and second earth ages?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-christmas-conception-dates",
+      "question": "What dates did Dennis give for Christ’s conception and birth in this answer?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-son-in-flesh",
+      "question": "Did Dennis affirm Jesus as God’s Son in the flesh?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-ruach-strongs",
+      "question": "Which Strong’s entry did Dennis give for ruach?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-elect-first-age",
+      "question": "Did Dennis say someone can newly become one of God’s elect in this age?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-strongs-language-study",
+      "question": "How did Dennis recommend looking up Hebrew and Greek words behind the KJV?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local021-vallowe-rapture",
+      "question": "Why did Dennis offer Biblical Mathematics despite disagreeing with its rapture teaching?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -74924,6 +74966,152 @@
       "recording_group": "JyLdUgB6vbI",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-ages-birth",
+      "video_id": "K29AYa7KZQc",
+      "start": 2398.662,
+      "end": 2561.625,
+      "variant": "local021-ages-birth",
+      "summary": "Dennis says no. In his three-age teaching, souls existed in the first age and were to enter flesh in the second, which he describes as an opportunity to choose Christ after Satan’s rebellion. He recommends Arnold Murray’s Three World Ages study.",
+      "scripture_mentions": [
+        "1 Peter 3:18–19"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local009-god-speaks",
+      "video_id": "K29AYa7KZQc",
+      "start": 2663.26,
+      "end": 2742.339,
+      "variant": "local021-@local009-god-speaks",
+      "summary": "Dennis says the Holy Spirit can guide people today. He cautions against people claiming prophetic authority and emphasizes the written biblical prophets and Christ’s teaching.",
+      "scripture_mentions": [
+        "John 14",
+        "Mark 13"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-christmas-conception-dates",
+      "video_id": "K29AYa7KZQc",
+      "start": 2742.339,
+      "end": 2779.343,
+      "variant": "local021-christmas-conception-dates",
+      "summary": "Dennis says the Chapel celebrates December 25 as Christ’s conception and gives September 29 as His birth date. These are his stated dates; this short answer does not supply their derivation.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-son-in-flesh",
+      "video_id": "K29AYa7KZQc",
+      "start": 2779.343,
+      "end": 2805.269,
+      "variant": "local021-son-in-flesh",
+      "summary": "Dennis answers yes and calls Jesus God’s only begotten Son.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "judgment-believers-rewards",
+      "video_id": "K29AYa7KZQc",
+      "start": 2853.483,
+      "end": 2894.024,
+      "variant": "local021-@judgment-believers-rewards",
+      "summary": "Dennis includes Christians in the great white throne judgment and describes it as a day of rewards for those who have loved and served the Lord.",
+      "scripture_mentions": [
+        "Revelation 20"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-ruach-strongs",
+      "video_id": "K29AYa7KZQc",
+      "start": 2894.024,
+      "end": 2947.644,
+      "variant": "local021-ruach-strongs",
+      "summary": "Dennis gives Hebrew entry 7307 and explains ruach in terms of wind, breath and spirit, using Holy Ruach to refer to God’s Spirit.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-elect-first-age",
+      "video_id": "K29AYa7KZQc",
+      "start": 2947.644,
+      "end": 3035.665,
+      "variant": "local021-elect-first-age",
+      "summary": "Dennis says election was determined by standing with God in the first age. He emphasizes that election means work and responsibility, including standing against antichrist, rather than personal superiority.",
+      "scripture_mentions": [
+        "Revelation 20:5–6"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-strongs-language-study",
+      "video_id": "K29AYa7KZQc",
+      "start": 3035.665,
+      "end": 3141.538,
+      "variant": "local021-strongs-language-study",
+      "summary": "Dennis recommends Strong’s Concordance, explaining how an English word leads to a numbered entry in the Hebrew or Greek dictionary. He uses love-less as his interpretation of hate in Jesus’ teaching about family and discipleship.",
+      "scripture_mentions": [
+        "Luke 14"
+      ],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
+    },
+    {
+      "question_id": "local021-vallowe-rapture",
+      "video_id": "K29AYa7KZQc",
+      "start": 3243.44,
+      "end": 3341.371,
+      "variant": "local021-vallowe-rapture",
+      "summary": "Dennis considers Ed Vallowe’s work useful for biblical numerics while rejecting its rapture teaching. He urges readers to distinguish useful material from claims they believe conflict with Scripture.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "source_sha256": "8597966ae183afc192555eaf4a3f4c49e8faee074e7d508dad1d1cd55af21f61",
+      "recording_group": "K29AYa7KZQc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-26"
     }
   ],
   "duplicate_recording_aliases": {
@@ -80518,6 +80706,62 @@
         }
       ],
       "cursor_seconds": 2489.153,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-26",
+      "basis": "Complete saved caption Q&A read with rolling caption repeats removed in reading view only; original captions retained; audio pending."
+    },
+    {
+      "video_id": "K29AYa7KZQc",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "d0bc54f984dc2dbc101312e5dd45befd26f31abf44fa00c84d309a52054fa0e3",
+      "qa_start": 2124.188,
+      "qa_end": 3378.641,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2124.188,
+          "end": 3378.641
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2124.188,
+          "end": 2205.536,
+          "reason": "Jesus ancestry answer includes unsupported modern racial and migration claims; preserve contextual hold."
+        },
+        {
+          "start": 2205.536,
+          "end": 2307.305,
+          "reason": "Cain parentage answer claims exclusive Greek lexical meaning; retain full lexical/context review."
+        },
+        {
+          "start": 2307.305,
+          "end": 2398.662,
+          "reason": "Diet answer includes uncertain Acts verse and categorical health claim; retain citation/context review."
+        },
+        {
+          "start": 2561.625,
+          "end": 2663.26,
+          "reason": "Melchisedec spelling answer cites Hebrews4 rather than location of name; hold citation and etymology review."
+        },
+        {
+          "start": 2805.269,
+          "end": 2853.483,
+          "reason": "Thank-you letter and staff acknowledgment; no listener question, excluded from FAQ count."
+        },
+        {
+          "start": 3141.538,
+          "end": 3243.44,
+          "reason": "Whether to enroll child in local church not directly answered; preserve unresolved question."
+        },
+        {
+          "start": 3341.371,
+          "end": 3378.641,
+          "reason": "Psalm2:4 correctly identified then mislabeled verse2; retain exact citation hold."
+        }
+      ],
+      "cursor_seconds": 2124.188,
       "audio_verified": false,
       "reviewed_at": "2026-10-26",
       "basis": "Complete saved caption Q&A read with rolling caption repeats removed in reading view only; original captions retained; audio pending."
