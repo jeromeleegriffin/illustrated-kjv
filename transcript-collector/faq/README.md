@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,928 question groups and 4,100 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,060 question groups and 4,301 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 306 remain partially reviewed, 970 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 320 remain partially reviewed, 956 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -158,3 +158,8 @@ Adds 210 linked Dennis answers and 150 question groups from complete saved-capti
 ## Local batch 023
 
 Adds 202 linked Dennis answers and 143 question groups from full reads of fifteen new saved-caption Q&A sections. All fifteen remain partial with exact unresolved ranges; audio verification remains pending. Equivalent questions join existing groups while source-specific qualifications remain distinct. Duplicate screening excluded ORC7CdSDUCA, whose Q&A repeats HceinrSTP-s; it was not counted or approved again. Original source hashes, evidence and excluded-review recovery notes are saved privately. Four Python tests, both navigation suites, original-record preservation, source anchors and ranking checks pass.
+
+
+## Local batch 024
+
+Adds 201 linked Dennis answers and 132 question groups from full reads of fourteen saved-caption Q&A sections. All fourteen retain unresolved ranges and remain partial; audio verification remains pending. Sixty-nine equivalent question entries join existing or same-batch groups without collapsing answer variants. QOdZ2YoWSng ends before Q&A and remains pending. PgZ1gKICArs attribution follows the official passage catalog; its saved intro lacks a presenter handoff, so audio/presenter confirmation is pending. Source hashes, original caption anchors, duplicate screening and older registry preservation were checked. Four Python tests and both navigation suites pass.
