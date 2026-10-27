@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,299 question groups and 3,266 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 2,474 question groups and 3,473 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 245 remain partially reviewed, 1,032 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 259 remain partially reviewed, 1,018 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -133,3 +133,8 @@ Adds 56 caption-reviewed linked answers and 44 question entries from four saved 
 Adds 206 caption-reviewed linked answers from complete reads of 16 saved Dennis Murray Q&A sections, including split listener subquestions. Sixteen equivalent prompts were attached to existing groups; 164 new question entries remain. All 16 sources remain partial with 67 unresolved ranges, including unread/deferred questions, uncertain citations and contextual holds. 3 testimony-only letters were excluded. Caption evidence, original hashes, teacher handoffs and exact resume ranges are saved privately. No audio verification is claimed. Existing approvals and navigation are preserved.
 
 Local batch018 adds49 linked Dennis answers and32 question groups after four full caption Q&A section reads. All four remain partial because of unresolved ranges. Audio verification remains pending. Prior approved records and navigation are preserved.
+
+
+## Local batch 019
+
+Reviewed the complete saved caption Q&A sections of 14 additional Dennis Murray recordings, adding 207 linked answer passages and 175 question groups after semantic grouping. All 14 retain specific unresolved ranges and remain partial; audio verification is pending. Prior progress, external assignments and unrelated reader changes were preserved. Four Python tests and both navigation suites pass; source hashes and anchors match, with no invalid approvals.
