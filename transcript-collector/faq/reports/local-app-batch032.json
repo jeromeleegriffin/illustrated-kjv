@@ -1,0 +1,23 @@
+{
+  "batch": "local032",
+  "new_linked_answers": 119,
+  "new_question_groups": 86,
+  "total_question_groups": 3781,
+  "total_linked_answers": 5324,
+  "recordings": 10,
+  "completion": "targeted passage review; remaining Q&A ranges open",
+  "audio_verified": false,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 391,
+    "fully_reviewed": 20,
+    "teacher_pending": 65,
+    "pending": 884,
+    "scanned": 1360,
+    "source_changed": 0,
+    "question_occurrences": 5277
+  },
+  "invalid_approvals": [],
+  "duplicate_screen": "One likely repeated Q&A export excluded pending verification.",
+  "tests": "Four Python tests, hold and resume navigation, previous registry preservation, source hashes and anchors, frequency rankings, duplicate screening."
+}
