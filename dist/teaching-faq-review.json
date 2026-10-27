@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T06:05:17.772829+00:00",
+  "updated": "2026-10-27T17:33:16.561930+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -59888,12 +59888,180 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 7,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local028-eUKTiANZhlY-1",
+        "local005-ea850661e30f89",
+        "all-souls-earth-age",
+        "local028-eUKTiANZhlY-4",
+        "local028-eUKTiANZhlY-5",
+        "local028-eUKTiANZhlY-6",
+        "local028-eUKTiANZhlY-7",
+        "local028-eUKTiANZhlY-8",
+        "local014-angels-dimension",
+        "local028-eUKTiANZhlY-10",
+        "local028-eUKTiANZhlY-11",
+        "sabbath-rest-dennis",
+        "local012-giants-souls",
+        "local028-eUKTiANZhlY-14",
+        "local024-fly-away",
+        "local028-eUKTiANZhlY-17",
+        "local019-women-preachers"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local028-eUKTiANZhlY-1",
+          "start_seconds": 2233.68,
+          "end_seconds": 2260.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-ea850661e30f89",
+          "start_seconds": 2260.76,
+          "end_seconds": 2305.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "all-souls-earth-age",
+          "start_seconds": 2305.04,
+          "end_seconds": 2352.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-4",
+          "start_seconds": 2399.2,
+          "end_seconds": 2415.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-5",
+          "start_seconds": 2415.92,
+          "end_seconds": 2497.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-6",
+          "start_seconds": 2499.119,
+          "end_seconds": 2548.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-7",
+          "start_seconds": 2550.96,
+          "end_seconds": 2631.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-8",
+          "start_seconds": 2637.599,
+          "end_seconds": 2691.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-angels-dimension",
+          "start_seconds": 2688.839,
+          "end_seconds": 2722.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-10",
+          "start_seconds": 2731.309,
+          "end_seconds": 2757.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-11",
+          "start_seconds": 2757.2,
+          "end_seconds": 2794.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-rest-dennis",
+          "start_seconds": 2950.52,
+          "end_seconds": 2991.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local012-giants-souls",
+          "start_seconds": 3015.0,
+          "end_seconds": 3055.95,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-14",
+          "start_seconds": 3117.48,
+          "end_seconds": 3152.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-fly-away",
+          "start_seconds": 3199.319,
+          "end_seconds": 3251.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-17",
+          "start_seconds": 3251.079,
+          "end_seconds": 3296.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-women-preachers",
+          "start_seconds": 3300.079,
+          "end_seconds": 3384.76,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "eUKTiANZhlY",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+        "qa_start": 2228.72,
+        "qa_end": 3384.76,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2228.72,
+            "end": 3384.76
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2794.68,
+            "end": 2877.08,
+            "reason": "Context and source-specific characterization require further review."
+          },
+          {
+            "start": 2880.92,
+            "end": 2947.08,
+            "reason": "Determine whether listener comment contains an answerable question."
+          },
+          {
+            "start": 2991.2,
+            "end": 3040.0,
+            "reason": "Practical Sabbath follow-up overlaps subsequent question; assess separately."
+          },
+          {
+            "start": 3052.56,
+            "end": 3117.48,
+            "reason": "Cain and hybrid subquestions not fully answered; preserve unanswered components."
+          },
+          {
+            "start": 3158.31,
+            "end": 3195.24,
+            "reason": "Historical framing of Deuteronomy 28 requires further review."
+          }
+        ],
+        "cursor_seconds": 2794.68,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Complete saved caption Q&A read, with uncertain or unanswered ranges retained; audio pending."
+      },
+      "cursor_seconds": 2794.68
     },
     {
       "video_id": "eV35FK3Wa4o",
@@ -60077,12 +60245,129 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 34,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local028-e_S9wfQZ3SE-1",
+        "local028-e_S9wfQZ3SE-2",
+        "local028-e_S9wfQZ3SE-4",
+        "michael-not-jesus",
+        "local028-e_S9wfQZ3SE-6",
+        "ten-commandments",
+        "cain-satan-passages-dennis",
+        "local028-e_S9wfQZ3SE-11",
+        "local028-e_S9wfQZ3SE-12"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local028-e_S9wfQZ3SE-1",
+          "start_seconds": 2250.047,
+          "end_seconds": 2329.293,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-e_S9wfQZ3SE-2",
+          "start_seconds": 2325.289,
+          "end_seconds": 2373.003,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-e_S9wfQZ3SE-4",
+          "start_seconds": 2475.84,
+          "end_seconds": 2512.042,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-not-jesus",
+          "start_seconds": 2507.872,
+          "end_seconds": 2561.992,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-e_S9wfQZ3SE-6",
+          "start_seconds": 2557.555,
+          "end_seconds": 2615.145,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ten-commandments",
+          "start_seconds": 2612.376,
+          "end_seconds": 2670.034,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-satan-passages-dennis",
+          "start_seconds": 2870.567,
+          "end_seconds": 2975.939,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-e_S9wfQZ3SE-11",
+          "start_seconds": 3252.148,
+          "end_seconds": 3323.553,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-e_S9wfQZ3SE-12",
+          "start_seconds": 3320.65,
+          "end_seconds": 3378.441,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "e_S9wfQZ3SE",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+        "qa_start": 2250.05,
+        "qa_end": 3378.44,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2250.05,
+            "end": 3378.44
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2373.0,
+            "end": 2475.84,
+            "reason": "Genealogy and translation claims require further context review."
+          },
+          {
+            "start": 2665.5,
+            "end": 2790.22,
+            "reason": "Pillar question is not directly answered and caption ambiguity retained."
+          },
+          {
+            "start": 2790.22,
+            "end": 2870.57,
+            "reason": "Archangel identification and references require closer review."
+          },
+          {
+            "start": 2972.54,
+            "end": 3070.0,
+            "reason": "Citation sequence and meaning of robes require closer review."
+          },
+          {
+            "start": 3070.0,
+            "end": 3141.51,
+            "reason": "Citation ambiguity and unanswered subquestion retained."
+          },
+          {
+            "start": 3141.51,
+            "end": 3252.15,
+            "reason": "Speculation about shade and gleaning needs classification."
+          }
+        ],
+        "cursor_seconds": 2373.0,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Complete saved caption Q&A read; uncertain and unanswered ranges retained; audio pending."
+      },
+      "cursor_seconds": 2373.0
     },
     {
       "video_id": "edDCAGBjJUs",
@@ -70775,13 +71060,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 377,
+    "partially_reviewed": 379,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 898,
+    "pending": 896,
     "source_changed": 0,
-    "question_occurrences": 5002
+    "question_occurrences": 5028
   }
 }

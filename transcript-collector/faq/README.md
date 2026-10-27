@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 3,588 question groups and 5,049 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,604 question groups and 5,075 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 377 remain partially reviewed, 898 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 379 remain partially reviewed, 896 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -178,3 +178,8 @@ Adds 303 linked Dennis answers and 224 question groups from complete reads of tw
 ## Local batch 027
 
 Adds 236 linked Dennis answers and 164 question groups from complete reads of seventeen additional saved-caption Q&A sections. One section has no unresolved ranges; sixteen remain partial because specific caption or contextual holds remain. All audio verification remains pending. Preserves original source hashes, exact anchors, private excerpt evidence and prior progress. Duplicate Q&A screening found no repeated section in this batch. Four Python recovery tests and both navigation suites pass; no invalid approvals. The requested target was 500; this checkpoint contains 236 actual new linked answers.
+
+
+## Local batch 028
+
+Adds 26 source-linked Dennis Murray answers and 16 question groups after full saved-caption Q&A reads of two recordings. Both retain unresolved ranges and remain partial. Original source hashes and exact caption evidence remain private; audio verification is pending. Previous records, external assignments, and reader routes are preserved.

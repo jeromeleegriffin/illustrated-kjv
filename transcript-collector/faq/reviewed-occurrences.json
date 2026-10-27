@@ -21528,6 +21528,102 @@
       "question": "How did Dennis answer someone calling the Bible merely a story?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-1",
+      "question": "Was Satan called the Son of Man?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-4",
+      "question": "To whom was Jesus praying?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-5",
+      "question": "Did Paul’s trip to the third heaven cause his eye trouble?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-6",
+      "question": "What are the other gods in the commandment?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-7",
+      "question": "What does four score mean in 2 Kings 6:25?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-8",
+      "question": "How could the moon be old if it was set in place on the fourth day?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-10",
+      "question": "Could fallen angels already be on earth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-11",
+      "question": "Must fallen angels identify themselves if asked in Jesus’ name?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-14",
+      "question": "How did Dennis explain Isaiah 7:8?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-eUKTiANZhlY-17",
+      "question": "Was Ishmael an Israelite?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-e_S9wfQZ3SE-1",
+      "question": "Is there a payday in the afterlife?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-e_S9wfQZ3SE-2",
+      "question": "Was Rufus a blood brother of Paul?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-e_S9wfQZ3SE-4",
+      "question": "What does it mean to deny oneself and take up the cross daily?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-e_S9wfQZ3SE-6",
+      "question": "What does the number 22 mean in biblical numerics?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-e_S9wfQZ3SE-11",
+      "question": "Why might someone cry easily at spiritual songs or others’ experiences?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local028-e_S9wfQZ3SE-12",
+      "question": "Is there an intermediate physical body after death?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -103684,6 +103780,396 @@
       "recording_group": "eF1qKZcF5bI",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-1",
+      "video_id": "eUKTiANZhlY",
+      "start": 2233.68,
+      "end": 2260.76,
+      "variant": "local028-eUKTiANZhlY-1",
+      "summary": "Dennis says that to his knowledge Satan was not called the Son of Man; he describes the title as pertaining to Christ in the flesh.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local005-ea850661e30f89",
+      "video_id": "eUKTiANZhlY",
+      "start": 2260.76,
+      "end": 2305.04,
+      "variant": "local028-eUKTiANZhlY-2",
+      "summary": "Dennis says Seth had children with his sisters, before the laws against incest had been given, and connects this to his teaching on the line to Christ.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "all-souls-earth-age",
+      "video_id": "eUKTiANZhlY",
+      "start": 2305.04,
+      "end": 2352.52,
+      "variant": "local028-eUKTiANZhlY-3",
+      "summary": "Dennis says not all were. He associates the third with Revelation 12, while qualifying the claim that they are here to be tested as what makes sense rather than something he can document.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-4",
+      "video_id": "eUKTiANZhlY",
+      "start": 2399.2,
+      "end": 2415.92,
+      "variant": "local028-eUKTiANZhlY-4",
+      "summary": "Dennis says Jesus was praying to his Father and calls him the only begotten Son of the heavenly Father.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-5",
+      "video_id": "eUKTiANZhlY",
+      "start": 2415.92,
+      "end": 2497.24,
+      "variant": "local028-eUKTiANZhlY-5",
+      "summary": "Dennis says he does not think so because Paul went in his spiritual body. He thinks the eye trouble was more likely connected with his experience on the road to Damascus.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-6",
+      "video_id": "eUKTiANZhlY",
+      "start": 2499.119,
+      "end": 2548.2,
+      "variant": "local028-eUKTiANZhlY-6",
+      "summary": "Dennis says there are no other gods besides the heavenly Father; he explains the commandment by describing people worshipping objects as gods.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-7",
+      "video_id": "eUKTiANZhlY",
+      "start": 2550.96,
+      "end": 2631.44,
+      "variant": "local028-eUKTiANZhlY-7",
+      "summary": "Dennis says four score means eighty, not forty, and describes the price as a sign of the severity of the famine.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-8",
+      "video_id": "eUKTiANZhlY",
+      "start": 2637.599,
+      "end": 2691.829,
+      "variant": "local028-eUKTiANZhlY-8",
+      "summary": "Dennis distinguishes setting the lights in the firmament from their creation, and points to Genesis 1:1, which he says does not state when heaven and earth were created.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local014-angels-dimension",
+      "video_id": "eUKTiANZhlY",
+      "start": 2688.839,
+      "end": 2722.2,
+      "variant": "local028-eUKTiANZhlY-9",
+      "summary": "Dennis says the angels left their habitation, came to earth, and took the daughters of Adam as wives; he refers to Jude 1:6 and Genesis 6.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-10",
+      "video_id": "eUKTiANZhlY",
+      "start": 2731.309,
+      "end": 2757.2,
+      "variant": "local028-eUKTiANZhlY-10",
+      "summary": "Dennis says no, that they are held until judgment, and says they will come when Michael casts Satan out. He points to Jude 1:6 and Revelation 12.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-11",
+      "video_id": "eUKTiANZhlY",
+      "start": 2757.2,
+      "end": 2794.67,
+      "variant": "local028-eUKTiANZhlY-11",
+      "summary": "Dennis says he would answer no, warns that they may lie, and advises ordering them away in Jesus’ name.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "sabbath-rest-dennis",
+      "video_id": "eUKTiANZhlY",
+      "start": 2950.52,
+      "end": 2991.2,
+      "variant": "local028-eUKTiANZhlY-12",
+      "summary": "Dennis says the Sabbath is rest in Christ rather than a day of the week and directs the listener to Hebrews 4.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local012-giants-souls",
+      "video_id": "eUKTiANZhlY",
+      "start": 3015.0,
+      "end": 3055.95,
+      "variant": "local028-eUKTiANZhlY-13",
+      "summary": "Dennis answers yes and says God placed their souls there.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-14",
+      "video_id": "eUKTiANZhlY",
+      "start": 3117.48,
+      "end": 3152.04,
+      "variant": "local028-eUKTiANZhlY-14",
+      "summary": "Dennis connects Ephraim with the northern tribes and says the passage foretells their captivity to Assyria within 65 years.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local024-fly-away",
+      "video_id": "eUKTiANZhlY",
+      "start": 3199.319,
+      "end": 3251.069,
+      "variant": "local028-eUKTiANZhlY-16",
+      "summary": "Dennis points to Ezekiel 13:18–20 and explains it as a warning against teaching people to fly to save their souls.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-eUKTiANZhlY-17",
+      "video_id": "eUKTiANZhlY",
+      "start": 3251.079,
+      "end": 3296.76,
+      "variant": "local028-eUKTiANZhlY-17",
+      "summary": "Dennis says Ishmael was the son of Abraham and Hagar, identifies Hagar as Egyptian, and connects Ishmael with the twelve princes and Arab nations.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local019-women-preachers",
+      "video_id": "eUKTiANZhlY",
+      "start": 3300.079,
+      "end": 3384.76,
+      "variant": "local028-eUKTiANZhlY-18",
+      "summary": "Dennis points to Huldah in 2 Kings 22:14, Priscilla in Acts 18:26, and Philip’s daughters, whom he describes as prophetesses.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-e_S9wfQZ3SE-1",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2250.047,
+      "end": 2329.293,
+      "variant": "local028-e_S9wfQZ3SE-1",
+      "summary": "Dennis describes blessings in life, a distinction between sides of the gulf after death, and final rewards at the Great White Throne judgment.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-e_S9wfQZ3SE-2",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2325.289,
+      "end": 2373.003,
+      "variant": "local028-e_S9wfQZ3SE-2",
+      "summary": "Dennis says Rufus in Romans 16:13 was not Paul’s brother of the same womb, and describes the ministry relationships as brothers and sisters in Christ.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-e_S9wfQZ3SE-4",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2475.84,
+      "end": 2512.042,
+      "variant": "local028-e_S9wfQZ3SE-4",
+      "summary": "Dennis says to be prepared to deny fleshly desires and be willing to bear a cross as Christ did.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "michael-not-jesus",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2507.872,
+      "end": 2561.992,
+      "variant": "local028-e_S9wfQZ3SE-5",
+      "summary": "Dennis says no, describing Michael as an archangel distinct from Christ and saying angels are not to be worshipped.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-e_S9wfQZ3SE-6",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2557.555,
+      "end": 2615.145,
+      "variant": "local028-e_S9wfQZ3SE-6",
+      "summary": "Dennis associates 22 with disintegration and disorganization and cites the reigns of Ahab and Manasseh.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "ten-commandments",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2612.376,
+      "end": 2670.034,
+      "variant": "local028-e_S9wfQZ3SE-7",
+      "summary": "Dennis directs the listener to Exodus chapter 20 and divides the commandments into relationships with God and with other people.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "cain-satan-passages-dennis",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2870.567,
+      "end": 2975.939,
+      "variant": "local028-e_S9wfQZ3SE-9",
+      "summary": "Dennis points to John 8:44, 1 John 3:12 and the separate genealogies in Genesis 4 and 5.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-e_S9wfQZ3SE-11",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 3252.148,
+      "end": 3323.553,
+      "variant": "local028-e_S9wfQZ3SE-11",
+      "summary": "Dennis suggests the listener is compassionate and sensitive, and says he has noticed compassion among God’s elect.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local028-e_S9wfQZ3SE-12",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 3320.65,
+      "end": 3378.441,
+      "variant": "local028-e_S9wfQZ3SE-12",
+      "summary": "Dennis says no: he describes a spiritual body and cites 2 Corinthians 5:7–8 and Ecclesiastes 12:6–7.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
     }
   ],
   "duplicate_recording_aliases": {
@@ -113624,6 +114110,103 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-27",
       "basis": "Complete saved caption Q&A read with rolling caption repeats removed in reading view only; original captions retained; audio pending."
+    },
+    {
+      "video_id": "eUKTiANZhlY",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "qa_start": 2228.72,
+      "qa_end": 3384.76,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2228.72,
+          "end": 3384.76
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2794.68,
+          "end": 2877.08,
+          "reason": "Context and source-specific characterization require further review."
+        },
+        {
+          "start": 2880.92,
+          "end": 2947.08,
+          "reason": "Determine whether listener comment contains an answerable question."
+        },
+        {
+          "start": 2991.2,
+          "end": 3040.0,
+          "reason": "Practical Sabbath follow-up overlaps subsequent question; assess separately."
+        },
+        {
+          "start": 3052.56,
+          "end": 3117.48,
+          "reason": "Cain and hybrid subquestions not fully answered; preserve unanswered components."
+        },
+        {
+          "start": 3158.31,
+          "end": 3195.24,
+          "reason": "Historical framing of Deuteronomy 28 requires further review."
+        }
+      ],
+      "cursor_seconds": 2794.68,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-27",
+      "basis": "Complete saved caption Q&A read, with uncertain or unanswered ranges retained; audio pending."
+    },
+    {
+      "video_id": "e_S9wfQZ3SE",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "qa_start": 2250.05,
+      "qa_end": 3378.44,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2250.05,
+          "end": 3378.44
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2373.0,
+          "end": 2475.84,
+          "reason": "Genealogy and translation claims require further context review."
+        },
+        {
+          "start": 2665.5,
+          "end": 2790.22,
+          "reason": "Pillar question is not directly answered and caption ambiguity retained."
+        },
+        {
+          "start": 2790.22,
+          "end": 2870.57,
+          "reason": "Archangel identification and references require closer review."
+        },
+        {
+          "start": 2972.54,
+          "end": 3070.0,
+          "reason": "Citation sequence and meaning of robes require closer review."
+        },
+        {
+          "start": 3070.0,
+          "end": 3141.51,
+          "reason": "Citation ambiguity and unanswered subquestion retained."
+        },
+        {
+          "start": 3141.51,
+          "end": 3252.15,
+          "reason": "Speculation about shade and gleaning needs classification."
+        }
+      ],
+      "cursor_seconds": 2373.0,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-27",
+      "basis": "Complete saved caption Q&A read; uncertain and unanswered ranges retained; audio pending."
     }
   ]
 }
