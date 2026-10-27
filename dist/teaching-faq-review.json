@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T17:50:01.923792+00:00",
+  "updated": "2026-10-27T17:56:59.701737+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -7952,7 +7952,12 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "cremation"
+        "cremation",
+        "local031-1vrFS7SSx9Q-1",
+        "local019-passover-observance",
+        "local019-gulf-millennium",
+        "local031-1vrFS7SSx9Q-4",
+        "local031-1vrFS7SSx9Q-5"
       ],
       "reviewed_ranges": [
         {
@@ -7960,11 +7965,84 @@
           "start_seconds": 3294.524,
           "end_seconds": 3415.645,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-1vrFS7SSx9Q-1",
+          "start_seconds": 2480.478,
+          "end_seconds": 2530.661,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-passover-observance",
+          "start_seconds": 2587.484,
+          "end_seconds": 2715.713,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-gulf-millennium",
+          "start_seconds": 2776.173,
+          "end_seconds": 2819.183,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-1vrFS7SSx9Q-4",
+          "start_seconds": 3146.343,
+          "end_seconds": 3177.841,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-1vrFS7SSx9Q-5",
+          "start_seconds": 3177.841,
+          "end_seconds": 3193.29,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "1vrFS7SSx9Q",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "d76d9690be5a4722f03820a86b51c93fe5217712a4153a4527cb2ac8fa362a00",
+        "qa_start": 2002.3,
+        "qa_end": 3451.848,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2480.478,
+            "end": 2530.661
+          },
+          {
+            "start": 2587.484,
+            "end": 2715.713
+          },
+          {
+            "start": 2776.173,
+            "end": 2819.183
+          },
+          {
+            "start": 3146.343,
+            "end": 3177.841
+          },
+          {
+            "start": 3177.841,
+            "end": 3193.29
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2002.3,
+            "end": 3451.848,
+            "reason": "Other listener questions and earlier approved spans require full-section reconciliation; avoid already approved passages."
+          }
+        ],
+        "cursor_seconds": 2002.3,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Targeted caption passages reviewed; full Q&A reconciliation and audio pending."
+      },
+      "cursor_seconds": 2002.3
     },
     {
       "video_id": "1zXiZlhcLP0",
@@ -14641,7 +14719,16 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "cremation"
+        "cremation",
+        "multitude-144000",
+        "local031-4BxMP_Xvnlc-2",
+        "local031-4BxMP_Xvnlc-3",
+        "local031-4BxMP_Xvnlc-4",
+        "local031-4BxMP_Xvnlc-5",
+        "local031-4BxMP_Xvnlc-6",
+        "local031-4BxMP_Xvnlc-7",
+        "local031-4BxMP_Xvnlc-8",
+        "local031-4BxMP_Xvnlc-9"
       ],
       "reviewed_ranges": [
         {
@@ -14649,11 +14736,124 @@
           "start_seconds": 2925.722,
           "end_seconds": 3049.379,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "multitude-144000",
+          "start_seconds": 2116.847,
+          "end_seconds": 2155.819,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-2",
+          "start_seconds": 2257.521,
+          "end_seconds": 2353.25,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-3",
+          "start_seconds": 2492.222,
+          "end_seconds": 2507.036,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-4",
+          "start_seconds": 2635.298,
+          "end_seconds": 2745.008,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-5",
+          "start_seconds": 2742.005,
+          "end_seconds": 2770.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-6",
+          "start_seconds": 2833.997,
+          "end_seconds": 2868.632,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-7",
+          "start_seconds": 3094.391,
+          "end_seconds": 3107.536,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-8",
+          "start_seconds": 3194.024,
+          "end_seconds": 3222.685,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-9",
+          "start_seconds": 3220.75,
+          "end_seconds": 3254.784,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "4BxMP_Xvnlc",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "e7f476aa4ca668ff4be72fd3e29498529959a769245603356080433f2c268117",
+        "qa_start": 2001.499,
+        "qa_end": 3450.879,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2116.847,
+            "end": 2155.819
+          },
+          {
+            "start": 2257.521,
+            "end": 2353.25
+          },
+          {
+            "start": 2492.222,
+            "end": 2507.036
+          },
+          {
+            "start": 2635.298,
+            "end": 2745.008
+          },
+          {
+            "start": 2742.005,
+            "end": 2770.2
+          },
+          {
+            "start": 2833.997,
+            "end": 2868.632
+          },
+          {
+            "start": 3094.391,
+            "end": 3107.536
+          },
+          {
+            "start": 3194.024,
+            "end": 3222.685
+          },
+          {
+            "start": 3220.75,
+            "end": 3254.784
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2001.499,
+            "end": 3450.879,
+            "reason": "Other listener questions and earlier approved spans require full-section reconciliation; avoid already approved passages."
+          }
+        ],
+        "cursor_seconds": 2001.499,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Targeted caption passages reviewed; full Q&A reconciliation and audio pending."
+      },
+      "cursor_seconds": 2001.499
     },
     {
       "video_id": "4HgHsYjwhes",
@@ -20467,7 +20667,12 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "recognize-family"
+        "recognize-family",
+        "local031-7AJ1wwf-abY-1",
+        "local031-7AJ1wwf-abY-2",
+        "local031-7AJ1wwf-abY-3",
+        "local031-7AJ1wwf-abY-4",
+        "local031-7AJ1wwf-abY-5"
       ],
       "reviewed_ranges": [
         {
@@ -20475,11 +20680,84 @@
           "start_seconds": 3335.832,
           "end_seconds": 3455.885,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-7AJ1wwf-abY-1",
+          "start_seconds": 2204.569,
+          "end_seconds": 2275.873,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-7AJ1wwf-abY-2",
+          "start_seconds": 2399.196,
+          "end_seconds": 2505.536,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-7AJ1wwf-abY-3",
+          "start_seconds": 2612.276,
+          "end_seconds": 2720.284,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-7AJ1wwf-abY-4",
+          "start_seconds": 2797.261,
+          "end_seconds": 2906.169,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-7AJ1wwf-abY-5",
+          "start_seconds": 3225.989,
+          "end_seconds": 3327.791,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "7AJ1wwf-abY",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "1f3f7cd901b892871228fa104111cdcbc9db674a81ef07d652daa8d8d2aa6032",
+        "qa_start": 2001.833,
+        "qa_end": 3452.315,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2204.569,
+            "end": 2275.873
+          },
+          {
+            "start": 2399.196,
+            "end": 2505.536
+          },
+          {
+            "start": 2612.276,
+            "end": 2720.284
+          },
+          {
+            "start": 2797.261,
+            "end": 2906.169
+          },
+          {
+            "start": 3225.989,
+            "end": 3327.791
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2001.833,
+            "end": 3452.315,
+            "reason": "Other listener questions and earlier approved spans require full-section reconciliation; avoid already approved passages."
+          }
+        ],
+        "cursor_seconds": 2001.833,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Targeted caption passages reviewed; full Q&A reconciliation and audio pending."
+      },
+      "cursor_seconds": 2001.833
     },
     {
       "video_id": "7Ca4MmHj0gE",
@@ -23466,7 +23744,12 @@
       "review_status": "partially_reviewed",
       "question_ids": [
         "prescribed-medication",
-        "forgiveness"
+        "forgiveness",
+        "local031-AC8ePjzXWeE-1",
+        "local031-AC8ePjzXWeE-2",
+        "multitude-144000",
+        "local031-AC8ePjzXWeE-4",
+        "local031-AC8ePjzXWeE-5"
       ],
       "reviewed_ranges": [
         {
@@ -23480,11 +23763,84 @@
           "start_seconds": 3071.668,
           "end_seconds": 3195.091,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-AC8ePjzXWeE-1",
+          "start_seconds": 2197.328,
+          "end_seconds": 2290.855,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-AC8ePjzXWeE-2",
+          "start_seconds": 2473.971,
+          "end_seconds": 2496.494,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "multitude-144000",
+          "start_seconds": 2608.372,
+          "end_seconds": 2718.449,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-AC8ePjzXWeE-4",
+          "start_seconds": 2769.9,
+          "end_seconds": 2835.833,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-AC8ePjzXWeE-5",
+          "start_seconds": 2835.833,
+          "end_seconds": 2894.825,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "AC8ePjzXWeE",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "31a67f81e5c3d6a0cfe8594fe967facce2d15351e2ec6451e286387694604a25",
+        "qa_start": 2000.965,
+        "qa_end": 3450.046,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2197.328,
+            "end": 2290.855
+          },
+          {
+            "start": 2473.971,
+            "end": 2496.494
+          },
+          {
+            "start": 2608.372,
+            "end": 2718.449
+          },
+          {
+            "start": 2769.9,
+            "end": 2835.833
+          },
+          {
+            "start": 2835.833,
+            "end": 2894.825
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2000.965,
+            "end": 3450.046,
+            "reason": "Other listener questions and earlier approved spans require full-section reconciliation; avoid already approved passages."
+          }
+        ],
+        "cursor_seconds": 2000.965,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Targeted caption passages reviewed; full Q&A reconciliation and audio pending."
+      },
+      "cursor_seconds": 2000.965
     },
     {
       "video_id": "ADpuq10w8H0",
@@ -27987,7 +28343,11 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "where-tithe"
+        "where-tithe",
+        "local031-DIwjvUai43M-1",
+        "local031-DIwjvUai43M-2",
+        "local031-DIwjvUai43M-3",
+        "local031-DIwjvUai43M-4"
       ],
       "reviewed_ranges": [
         {
@@ -27995,11 +28355,74 @@
           "start_seconds": 2810,
           "end_seconds": 2850,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DIwjvUai43M-1",
+          "start_seconds": 2857.154,
+          "end_seconds": 2879.576,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DIwjvUai43M-2",
+          "start_seconds": 2879.576,
+          "end_seconds": 2923.453,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DIwjvUai43M-3",
+          "start_seconds": 3018.315,
+          "end_seconds": 3051.548,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DIwjvUai43M-4",
+          "start_seconds": 3084.581,
+          "end_seconds": 3127.057,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "DIwjvUai43M",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "b787d2fb853013d17c6ede4a68d88d0f7b7e866cef664e20ab3a7370677a33ee",
+        "qa_start": 2000.732,
+        "qa_end": 3450.747,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2857.154,
+            "end": 2879.576
+          },
+          {
+            "start": 2879.576,
+            "end": 2923.453
+          },
+          {
+            "start": 3018.315,
+            "end": 3051.548
+          },
+          {
+            "start": 3084.581,
+            "end": 3127.057
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2000.732,
+            "end": 3450.747,
+            "reason": "Other listener questions and earlier approved spans require full-section reconciliation; avoid already approved passages."
+          }
+        ],
+        "cursor_seconds": 2000.732,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Targeted caption passages reviewed; full Q&A reconciliation and audio pending."
+      },
+      "cursor_seconds": 2000.732
     },
     {
       "video_id": "DLYU2MOsnxY",
@@ -28653,7 +29076,13 @@
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
       "review_status": "partially_reviewed",
       "question_ids": [
-        "prescribed-medication"
+        "prescribed-medication",
+        "local031-DsY7O9EFlu8-1",
+        "local031-DsY7O9EFlu8-2",
+        "local019-women-learn-silence",
+        "local031-DsY7O9EFlu8-4",
+        "local031-DsY7O9EFlu8-5",
+        "born-water-dennis"
       ],
       "reviewed_ranges": [
         {
@@ -28661,11 +29090,94 @@
           "start_seconds": 3197.4,
           "end_seconds": 3319.13,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DsY7O9EFlu8-1",
+          "start_seconds": 2292.24,
+          "end_seconds": 2358.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DsY7O9EFlu8-2",
+          "start_seconds": 2423.52,
+          "end_seconds": 2531.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-women-learn-silence",
+          "start_seconds": 2574.24,
+          "end_seconds": 2613.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DsY7O9EFlu8-4",
+          "start_seconds": 2613.0,
+          "end_seconds": 2646.609,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DsY7O9EFlu8-5",
+          "start_seconds": 2888.16,
+          "end_seconds": 2908.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "born-water-dennis",
+          "start_seconds": 2986.8,
+          "end_seconds": 3047.87,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "DsY7O9EFlu8",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "cfb3e170bbf9fc3a2bffac51da3824c76053eebb6dc178534f9224ebf8cb868f",
+        "qa_start": 2000.11,
+        "qa_end": 3452.27,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2292.24,
+            "end": 2358.829
+          },
+          {
+            "start": 2423.52,
+            "end": 2531.69
+          },
+          {
+            "start": 2574.24,
+            "end": 2613.0
+          },
+          {
+            "start": 2613.0,
+            "end": 2646.609
+          },
+          {
+            "start": 2888.16,
+            "end": 2908.309
+          },
+          {
+            "start": 2986.8,
+            "end": 3047.87
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2000.11,
+            "end": 3452.27,
+            "reason": "Other listener questions and earlier approved spans require full-section reconciliation; avoid already approved passages."
+          }
+        ],
+        "cursor_seconds": 2000.11,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Targeted caption passages reviewed; full Q&A reconciliation and audio pending."
+      },
+      "cursor_seconds": 2000.11
     },
     {
       "video_id": "DvGjUMgQEC4",
@@ -72318,6 +72830,6 @@
     "teacher_pending": 65,
     "pending": 894,
     "source_changed": 0,
-    "question_occurrences": 5124
+    "question_occurrences": 5158
   }
 }
