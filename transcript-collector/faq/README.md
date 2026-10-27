@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,635 question groups and 3,688 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 2,785 question groups and 3,898 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 275 remain partially reviewed, 1,001 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 291 remain partially reviewed, 985 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -148,3 +148,8 @@ Adds 206 linked answer passages and 154 question groups from complete saved-capt
 ## Local batch 021
 
 Adds nine linked Dennis answers and seven question groups after a full saved-caption Q&A read of K29AYa7KZQc. Exact unresolved ranges remain held; no audio verification is claimed. Existing approvals and page navigation are preserved.
+
+
+## Local batch 022
+
+Adds 210 linked Dennis answers and 150 question groups from complete saved-caption Q&A reads of sixteen recordings. All sixteen retain exact unresolved ranges and remain partial; audio verification is pending. Ten equivalent prompts join existing groups. Two earlier ordinary-repentance answers were corrected from the unforgivable-sin group to their appropriate forgiveness groups, without changing their wording or source evidence. Source hashes, anchors, prior progress, duplicate screening, ranking and both navigation suites were checked.
