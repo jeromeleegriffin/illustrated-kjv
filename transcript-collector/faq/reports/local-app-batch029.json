@@ -1,0 +1,22 @@
+{
+  "batch": "local029",
+  "new_linked_answers": 25,
+  "new_question_groups": 14,
+  "total_question_groups": 3618,
+  "total_linked_answers": 5100,
+  "caption_qa_sections_read": 2,
+  "held_ranges": 8,
+  "audio_verified": false,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 381,
+    "fully_reviewed": 20,
+    "teacher_pending": 65,
+    "pending": 894,
+    "scanned": 1360,
+    "source_changed": 0,
+    "question_occurrences": 5053
+  },
+  "invalid_approvals": [],
+  "tests": "Four Python tests, hold and resume navigation, preserved registry, source hashes and anchors, rankings, duplicate screening."
+}

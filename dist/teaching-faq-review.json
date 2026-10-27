@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T17:33:16.561930+00:00",
+  "updated": "2026-10-27T17:39:26.999401+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -60380,12 +60380,133 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 20,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local029-edDCAGBjJUs-1",
+        "local029-edDCAGBjJUs-2",
+        "local029-edDCAGBjJUs-3",
+        "local029-edDCAGBjJUs-4",
+        "local029-edDCAGBjJUs-5",
+        "temple-rebuilding-expectation",
+        "local005-2ad5bb13c7cae4",
+        "local029-edDCAGBjJUs-8",
+        "local008-dinosaurs",
+        "local029-edDCAGBjJUs-10",
+        "satan-born"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local029-edDCAGBjJUs-1",
+          "start_seconds": 2254.47,
+          "end_seconds": 2381.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-edDCAGBjJUs-2",
+          "start_seconds": 2381.359,
+          "end_seconds": 2458.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-edDCAGBjJUs-3",
+          "start_seconds": 2458.4,
+          "end_seconds": 2572.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-edDCAGBjJUs-4",
+          "start_seconds": 2572.119,
+          "end_seconds": 2623.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-edDCAGBjJUs-5",
+          "start_seconds": 2623.48,
+          "end_seconds": 2734.87,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "temple-rebuilding-expectation",
+          "start_seconds": 2807.04,
+          "end_seconds": 2872.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-2ad5bb13c7cae4",
+          "start_seconds": 2872.2,
+          "end_seconds": 2967.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-edDCAGBjJUs-8",
+          "start_seconds": 2998.71,
+          "end_seconds": 3112.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-dinosaurs",
+          "start_seconds": 3120.0,
+          "end_seconds": 3184.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-edDCAGBjJUs-10",
+          "start_seconds": 3190.88,
+          "end_seconds": 3274.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-born",
+          "start_seconds": 3374.64,
+          "end_seconds": 3380.47,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "edDCAGBjJUs",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+        "qa_start": 2254.47,
+        "qa_end": 3380.0,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2254.47,
+            "end": 3380.0
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2726,
+            "end": 2807.04,
+            "reason": "Unforgivable-sin reference is garbled; retain exact range."
+          },
+          {
+            "start": 2964,
+            "end": 2998.71,
+            "reason": "Historical product and availability answer held."
+          },
+          {
+            "start": 3274.319,
+            "end": 3353.75,
+            "reason": "Gender question is answered indirectly; retain the distinction and review."
+          },
+          {
+            "start": 3353.75,
+            "end": 3374.64,
+            "reason": "Noah question received a terse answer requiring further review."
+          }
+        ],
+        "cursor_seconds": 2726,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Complete saved caption Q&A read with uncertain and unanswered passages retained; audio pending."
+      },
+      "cursor_seconds": 2726
     },
     {
       "video_id": "eipH8GKGQrM",
@@ -61352,12 +61473,154 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local029-euVTJpX7BTQ-1",
+        "local027-atRTVutxlkQ-other-religions",
+        "antichrist-nailprints",
+        "local029-euVTJpX7BTQ-5",
+        "local029-euVTJpX7BTQ-6",
+        "local029-euVTJpX7BTQ-7",
+        "local029-euVTJpX7BTQ-8",
+        "local026-fourteen",
+        "local029-euVTJpX7BTQ-10",
+        "local027-atRTVutxlkQ-locust-army",
+        "abomination-desolation",
+        "bless-anointing-oil",
+        "local029-euVTJpX7BTQ-14",
+        "local014-cain-father"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local029-euVTJpX7BTQ-1",
+          "start_seconds": 2232.663,
+          "end_seconds": 2248.279,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local027-atRTVutxlkQ-other-religions",
+          "start_seconds": 2318.516,
+          "end_seconds": 2368.199,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-nailprints",
+          "start_seconds": 2368.199,
+          "end_seconds": 2405.77,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-euVTJpX7BTQ-5",
+          "start_seconds": 2461.025,
+          "end_seconds": 2558.622,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-euVTJpX7BTQ-6",
+          "start_seconds": 2558.622,
+          "end_seconds": 2631.061,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-euVTJpX7BTQ-7",
+          "start_seconds": 2631.061,
+          "end_seconds": 2684.515,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-euVTJpX7BTQ-8",
+          "start_seconds": 2684.515,
+          "end_seconds": 2755.953,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-fourteen",
+          "start_seconds": 2803.3,
+          "end_seconds": 2813.544,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-euVTJpX7BTQ-10",
+          "start_seconds": 2813.544,
+          "end_seconds": 2902.232,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local027-atRTVutxlkQ-locust-army",
+          "start_seconds": 2902.232,
+          "end_seconds": 2960.29,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "abomination-desolation",
+          "start_seconds": 2960.29,
+          "end_seconds": 3099.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bless-anointing-oil",
+          "start_seconds": 3103.934,
+          "end_seconds": 3176.239,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local029-euVTJpX7BTQ-14",
+          "start_seconds": 3176.239,
+          "end_seconds": 3260.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-cain-father",
+          "start_seconds": 3260.69,
+          "end_seconds": 3353.95,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "euVTJpX7BTQ",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+        "qa_start": 2232.663,
+        "qa_end": 3378.0,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2232.663,
+            "end": 3378.0
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2248.279,
+            "end": 2318.516,
+            "reason": "Specific angel-message question not directly answered; preserve response."
+          },
+          {
+            "start": 2404,
+            "end": 2461.025,
+            "reason": "Still-small-voice question was not directly answered."
+          },
+          {
+            "start": 2755,
+            "end": 2803.3,
+            "reason": "Question about physical surroundings addressed by scripture referrals; needs classification."
+          },
+          {
+            "start": 3353.95,
+            "end": 3378.0,
+            "reason": "Next question deferred without reading."
+          }
+        ],
+        "cursor_seconds": 2248.279,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-27",
+        "basis": "Complete saved caption Q&A read with uncertain and unanswered passages retained; audio pending."
+      },
+      "cursor_seconds": 2248.279
     },
     {
       "video_id": "ewMVViB60P0",
@@ -71060,13 +71323,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 379,
+    "partially_reviewed": 381,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 896,
+    "pending": 894,
     "source_changed": 0,
-    "question_occurrences": 5028
+    "question_occurrences": 5053
   }
 }

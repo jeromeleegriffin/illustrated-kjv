@@ -21624,6 +21624,90 @@
       "question": "Is there an intermediate physical body after death?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-1",
+      "question": "What activities will people have in eternity?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-2",
+      "question": "What is the mercy seat?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-3",
+      "question": "How did Dennis say to anoint a home?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-4",
+      "question": "How did Dennis explain Numbers 2:3–7?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-5",
+      "question": "What does iron sharpening iron mean in Proverbs 27:17?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-8",
+      "question": "Does 2 Thessalonians 3:10 mean disabled people should not eat?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-edDCAGBjJUs-10",
+      "question": "How should a person examine themselves before communion?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-1",
+      "question": "Can those who recently died share world events with people in heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-5",
+      "question": "Who are the Kenites, and are they all condemned?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-6",
+      "question": "Where does Scripture say John leapt in Elizabeth’s womb?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-7",
+      "question": "Did God create evil?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-8",
+      "question": "How will people buy and sell if worship of the antichrist is required?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-10",
+      "question": "How did Dennis advise speaking with someone who does not believe in God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local029-euVTJpX7BTQ-14",
+      "question": "Where was Jesus during the years not described in Scripture?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -104170,6 +104254,381 @@
       "recording_group": "e_S9wfQZ3SE",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-1",
+      "video_id": "edDCAGBjJUs",
+      "start": 2254.47,
+      "end": 2381.359,
+      "variant": "local029-edDCAGBjJUs-1",
+      "summary": "Dennis expects work, assignments, enjoyment and activity, and directs the listener to Revelation 21–22.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-2",
+      "video_id": "edDCAGBjJUs",
+      "start": 2381.359,
+      "end": 2458.4,
+      "variant": "local029-edDCAGBjJUs-2",
+      "summary": "Dennis describes the mercy seat over the ark and points to Exodus 25 and Leviticus 16.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-3",
+      "video_id": "edDCAGBjJUs",
+      "start": 2458.4,
+      "end": 2572.119,
+      "variant": "local029-edDCAGBjJUs-3",
+      "summary": "He describes blessing virgin olive oil, placing a little on the doorpost and ordering evil away in Jesus’ name.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-4",
+      "video_id": "edDCAGBjJUs",
+      "start": 2572.119,
+      "end": 2623.48,
+      "variant": "local029-edDCAGBjJUs-4",
+      "summary": "He identifies Judah, Issachar and Zebulun as camped east of the tabernacle under Judah’s standard.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-5",
+      "video_id": "edDCAGBjJUs",
+      "start": 2623.48,
+      "end": 2734.87,
+      "variant": "local029-edDCAGBjJUs-5",
+      "summary": "Dennis says that as a sharpening stone sharpens iron, one person sharpens another.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "temple-rebuilding-expectation",
+      "video_id": "edDCAGBjJUs",
+      "start": 2807.04,
+      "end": 2872.2,
+      "variant": "local029-edDCAGBjJUs-6",
+      "summary": "Dennis says it is not required and distinguishes the temple Jesus said would be raised in three days as his body.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local005-2ad5bb13c7cae4",
+      "video_id": "edDCAGBjJUs",
+      "start": 2872.2,
+      "end": 2967.069,
+      "variant": "local029-edDCAGBjJUs-7",
+      "summary": "Dennis says unrepented sins remain subject to judgment, and discusses repentance and the unforgivable sin.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-8",
+      "video_id": "edDCAGBjJUs",
+      "start": 2998.71,
+      "end": 3112.069,
+      "variant": "local029-edDCAGBjJUs-8",
+      "summary": "Dennis says the passage addresses able people unwilling to work, not people unable to work because of disability.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local008-dinosaurs",
+      "video_id": "edDCAGBjJUs",
+      "start": 3120.0,
+      "end": 3184.99,
+      "variant": "local029-edDCAGBjJUs-9",
+      "summary": "Dennis places their extinction at the destruction he associates with Satan’s rebellion and the first earth age.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-edDCAGBjJUs-10",
+      "video_id": "edDCAGBjJUs",
+      "start": 3190.88,
+      "end": 3274.319,
+      "variant": "local029-edDCAGBjJUs-10",
+      "summary": "Dennis says examination includes understanding what Jesus did on the cross and why.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "satan-born",
+      "video_id": "edDCAGBjJUs",
+      "start": 3374.64,
+      "end": 3380.47,
+      "variant": "local029-edDCAGBjJUs-12",
+      "summary": "Dennis says Satan never has been and never will be in the flesh.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-1",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2232.663,
+      "end": 2248.279,
+      "variant": "local029-euVTJpX7BTQ-1",
+      "summary": "Dennis says he is certain they are free to share what they know about events on earth.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local027-atRTVutxlkQ-other-religions",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2318.516,
+      "end": 2368.199,
+      "variant": "local029-euVTJpX7BTQ-3",
+      "summary": "Dennis cites Revelation 13:8 and describes the deception and miracles associated with the antichrist.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "antichrist-nailprints",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2368.199,
+      "end": 2405.77,
+      "variant": "local029-euVTJpX7BTQ-4",
+      "summary": "Dennis says he might, or may offer an explanation for their absence; this is stated as a possibility.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-5",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2461.025,
+      "end": 2558.622,
+      "variant": "local029-euVTJpX7BTQ-5",
+      "summary": "Dennis identifies Kenites with descendants of Cain, says they are not black people as a group, and says a Kenite who accepts Christ is not automatically condemned.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-6",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2558.622,
+      "end": 2631.061,
+      "variant": "local029-euVTJpX7BTQ-6",
+      "summary": "Dennis points to Luke 1:41 and says the event occurred soon after Jesus was conceived, when Mary visited Elizabeth.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-7",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2631.061,
+      "end": 2684.515,
+      "variant": "local029-euVTJpX7BTQ-7",
+      "summary": "Dennis says God did not create evil, and connects evil choices with free will and James 1:13.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-8",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2684.515,
+      "end": 2755.953,
+      "variant": "local029-euVTJpX7BTQ-8",
+      "summary": "Dennis says believers should not worship the antichrist to buy and sell and discusses supplies and trade.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local026-fourteen",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2803.3,
+      "end": 2813.544,
+      "variant": "local029-euVTJpX7BTQ-9",
+      "summary": "Dennis associates fourteen with deliverance or salvation.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-10",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2813.544,
+      "end": 2902.232,
+      "variant": "local029-euVTJpX7BTQ-10",
+      "summary": "Dennis advises planting a seed while avoiding repeated arguments when a listener rejects it, and says atheists can be converted.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local027-atRTVutxlkQ-locust-army",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2902.232,
+      "end": 2960.29,
+      "variant": "local029-euVTJpX7BTQ-11",
+      "summary": "Dennis describes Satan’s locust army as including fallen angels and Kenites who have not converted, and points to Joel 1–2.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "abomination-desolation",
+      "video_id": "euVTJpX7BTQ",
+      "start": 2960.29,
+      "end": 3099.83,
+      "variant": "local029-euVTJpX7BTQ-12",
+      "summary": "Dennis identifies it with Satan taking God’s place while pretending to be Christ, and discusses Daniel 9:27 and communion.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "bless-anointing-oil",
+      "video_id": "euVTJpX7BTQ",
+      "start": 3103.934,
+      "end": 3176.239,
+      "variant": "local029-euVTJpX7BTQ-13",
+      "summary": "Dennis says asking God’s blessing once is sufficient and refers to James 5:14.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local029-euVTJpX7BTQ-14",
+      "video_id": "euVTJpX7BTQ",
+      "start": 3176.239,
+      "end": 3260.69,
+      "variant": "local029-euVTJpX7BTQ-14",
+      "summary": "Dennis says it cannot be documented biblically and refers to a Glastonbury tradition about journeys with Joseph of Arimathea.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local014-cain-father",
+      "video_id": "euVTJpX7BTQ",
+      "start": 3260.69,
+      "end": 3353.95,
+      "variant": "local029-euVTJpX7BTQ-15",
+      "summary": "Dennis cites Genesis 3–4 and John 8:44, interpreting Cain as the serpent’s son.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "source_sha256": "1f69af7b010a29815ad9e91eb810adebf608799f0b53b0f4d01524d0330e9adb",
+      "recording_group": "euVTJpX7BTQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
     }
   ],
   "duplicate_recording_aliases": {
@@ -114207,6 +114666,88 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-27",
       "basis": "Complete saved caption Q&A read; uncertain and unanswered ranges retained; audio pending."
+    },
+    {
+      "video_id": "edDCAGBjJUs",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "qa_start": 2254.47,
+      "qa_end": 3380.0,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2254.47,
+          "end": 3380.0
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2726,
+          "end": 2807.04,
+          "reason": "Unforgivable-sin reference is garbled; retain exact range."
+        },
+        {
+          "start": 2964,
+          "end": 2998.71,
+          "reason": "Historical product and availability answer held."
+        },
+        {
+          "start": 3274.319,
+          "end": 3353.75,
+          "reason": "Gender question is answered indirectly; retain the distinction and review."
+        },
+        {
+          "start": 3353.75,
+          "end": 3374.64,
+          "reason": "Noah question received a terse answer requiring further review."
+        }
+      ],
+      "cursor_seconds": 2726,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-27",
+      "basis": "Complete saved caption Q&A read with uncertain and unanswered passages retained; audio pending."
+    },
+    {
+      "video_id": "euVTJpX7BTQ",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "64b66ada46b1f8d2de38ce554924c93dcf65fb7d82e5b6ec68a6a64e2423be83",
+      "qa_start": 2232.663,
+      "qa_end": 3378.0,
+      "qa_boundaries_confirmed": true,
+      "all_listener_questions_reviewed": true,
+      "reviewed_ranges": [
+        {
+          "start": 2232.663,
+          "end": 3378.0
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2248.279,
+          "end": 2318.516,
+          "reason": "Specific angel-message question not directly answered; preserve response."
+        },
+        {
+          "start": 2404,
+          "end": 2461.025,
+          "reason": "Still-small-voice question was not directly answered."
+        },
+        {
+          "start": 2755,
+          "end": 2803.3,
+          "reason": "Question about physical surroundings addressed by scripture referrals; needs classification."
+        },
+        {
+          "start": 3353.95,
+          "end": 3378.0,
+          "reason": "Next question deferred without reading."
+        }
+      ],
+      "cursor_seconds": 2248.279,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-27",
+      "basis": "Complete saved caption Q&A read with uncertain and unanswered passages retained; audio pending."
     }
   ]
 }
