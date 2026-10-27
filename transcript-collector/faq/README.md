@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 3,200 question groups and 4,510 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,424 question groups and 4,813 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 337 remain partially reviewed, 939 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 361 remain partially reviewed, 915 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -168,3 +168,8 @@ Adds 201 linked Dennis answers and 132 question groups from full reads of fourte
 ## Local batch 025
 
 Adds 209 linked Dennis answers and 140 question groups from full reads of seventeen saved-caption Q&A sections. All seventeen retain unresolved ranges and remain partial; audio verification is pending. Sixty-nine equivalent question entries join existing or same-batch groups while source-specific qualifications remain separate. UuBGAVSmNC4 contains interleaved lectures and is held out without new approvals. Original hashes, caption anchors, duplicate screening, ranking and older progress were checked. Four Python tests and both navigation suites pass.
+
+
+## Local batch 026
+
+Adds 303 linked Dennis answers and 224 question groups from complete reads of twenty-four additional saved-caption Q&A sections. These recordings retain held ranges and remain partial; audio verification is pending. Two additional exports repeat previously reviewed Q&A sections and their 37 candidate answers are privately preserved but excluded from new public approvals. A truncated export ends before Q&A. Prior progress, source hashes, caption anchors, frequency ordering, duplicate screening and recovery checks passed. Four Python tests and both navigation suites pass.

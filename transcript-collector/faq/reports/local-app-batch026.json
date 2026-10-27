@@ -1,0 +1,23 @@
+{
+  "batch": "local026",
+  "new_linked_answers": 303,
+  "new_question_groups": 224,
+  "total_question_groups": 3424,
+  "total_linked_answers": 4813,
+  "caption_qa_sections_reviewed": 24,
+  "held_ranges": 97,
+  "audio_verified": false,
+  "source_hold": "XVwQGJ_E_60 and _0zXIkt-03c repeat previously reviewed Q&A; 37 candidate answers excluded. _UtlOypsjJ4 ends before Q&A.",
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 361,
+    "fully_reviewed": 19,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 915,
+    "source_changed": 0,
+    "question_occurrences": 4766
+  },
+  "tests": "4 Python tests; hold and resume navigation tests; exact source hashes, anchors and prior registry preservation; zero invalid approvals"
+}
