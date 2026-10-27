@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T00:25:50.107782+00:00",
+  "updated": "2026-10-27T00:27:50.372094+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -25706,7 +25706,7 @@
         "local018-felon-repentance",
         "local017-past-regret",
         "local018-preaching-pay",
-        "local018-shadow-government",
+        "shadow-government-dennis",
         "local018-elect-testimony",
         "millennium-relative-help-dennis",
         "local018-witness-preparation",
@@ -25740,7 +25740,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local018-shadow-government",
+          "question_id": "shadow-government-dennis",
           "start_seconds": 2753.217,
           "end_seconds": 2820.184,
           "review": "caption_passage_checked_audio_pending"

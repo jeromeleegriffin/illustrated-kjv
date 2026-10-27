@@ -13742,12 +13742,6 @@
       "conflict_status": "not_assessed_across_all_recordings"
     },
     {
-      "id": "local018-shadow-government",
-      "question": "What did Dennis mean by shadow government?",
-      "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
-    },
-    {
       "id": "local018-elect-testimony",
       "question": "How did Dennis answer a listener unsure whether the Holy Spirit would speak through him?",
       "topic": "Listener questions",
@@ -65769,11 +65763,11 @@
       "reviewed_at": "2026-10-27"
     },
     {
-      "question_id": "local018-shadow-government",
+      "question_id": "shadow-government-dennis",
       "video_id": "ByWgphg2xoE",
       "start": 2753.217,
       "end": 2820.184,
-      "variant": "local018-shadow-government",
+      "variant": "local018-@shadow-government-dennis",
       "summary": "Dennis describes a supposed arrangement in which private people exercise power behind elected officials. He uses Absalom in 2 Samuel 15 as his biblical analogy, not as proof of a particular modern conspiracy.",
       "scripture_mentions": [
         "2 Samuel 15"
