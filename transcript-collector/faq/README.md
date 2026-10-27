@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 3,060 question groups and 4,301 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,200 question groups and 4,510 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 320 remain partially reviewed, 956 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 337 remain partially reviewed, 939 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -163,3 +163,8 @@ Adds 202 linked Dennis answers and 143 question groups from full reads of fiftee
 ## Local batch 024
 
 Adds 201 linked Dennis answers and 132 question groups from full reads of fourteen saved-caption Q&A sections. All fourteen retain unresolved ranges and remain partial; audio verification remains pending. Sixty-nine equivalent question entries join existing or same-batch groups without collapsing answer variants. QOdZ2YoWSng ends before Q&A and remains pending. PgZ1gKICArs attribution follows the official passage catalog; its saved intro lacks a presenter handoff, so audio/presenter confirmation is pending. Source hashes, original caption anchors, duplicate screening and older registry preservation were checked. Four Python tests and both navigation suites pass.
+
+
+## Local batch 025
+
+Adds 209 linked Dennis answers and 140 question groups from full reads of seventeen saved-caption Q&A sections. All seventeen retain unresolved ranges and remain partial; audio verification is pending. Sixty-nine equivalent question entries join existing or same-batch groups while source-specific qualifications remain separate. UuBGAVSmNC4 contains interleaved lectures and is held out without new approvals. Original hashes, caption anchors, duplicate screening, ranking and older progress were checked. Four Python tests and both navigation suites pass.
