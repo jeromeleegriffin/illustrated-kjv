@@ -1,0 +1,23 @@
+{
+  "batch": "local027",
+  "new_linked_answers": 236,
+  "new_question_groups": 164,
+  "total_question_groups": 3588,
+  "total_linked_answers": 5049,
+  "caption_qa_sections_reviewed": 17,
+  "held_ranges": 60,
+  "audio_verified": false,
+  "source_hold": "Unresolved caption and context ranges retained per recording; no duplicate Q&A exports detected in this batch.",
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 377,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 898,
+    "source_changed": 0,
+    "question_occurrences": 5002
+  },
+  "tests": "4 Python tests; hold and resume navigation tests; exact source hashes, anchors and prior registry preservation; zero invalid approvals"
+}

@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 3,424 question groups and 4,813 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,588 question groups and 5,049 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 361 remain partially reviewed, 915 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 377 remain partially reviewed, 898 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -173,3 +173,8 @@ Adds 209 linked Dennis answers and 140 question groups from full reads of sevent
 ## Local batch 026
 
 Adds 303 linked Dennis answers and 224 question groups from complete reads of twenty-four additional saved-caption Q&A sections. These recordings retain held ranges and remain partial; audio verification is pending. Two additional exports repeat previously reviewed Q&A sections and their 37 candidate answers are privately preserved but excluded from new public approvals. A truncated export ends before Q&A. Prior progress, source hashes, caption anchors, frequency ordering, duplicate screening and recovery checks passed. Four Python tests and both navigation suites pass.
+
+
+## Local batch 027
+
+Adds 236 linked Dennis answers and 164 question groups from complete reads of seventeen additional saved-caption Q&A sections. One section has no unresolved ranges; sixteen remain partial because specific caption or contextual holds remain. All audio verification remains pending. Preserves original source hashes, exact anchors, private excerpt evidence and prior progress. Duplicate Q&A screening found no repeated section in this batch. Four Python recovery tests and both navigation suites pass; no invalid approvals. The requested target was 500; this checkpoint contains 236 actual new linked answers.
