@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,103 question groups and 3,011 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 2,267 question groups and 3,217 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 225 remain partially reviewed, 1,052 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 241 remain partially reviewed, 1,036 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -126,3 +126,8 @@ Reconciles the eleven pending Dennis drafts without duplication and adds 55 sour
 ## Local app batch 016
 
 Adds 56 caption-reviewed linked answers and 44 question entries from four saved recordings. All four remain partially reviewed with 17 unresolved ranges; the explicitly deferred Matthew 25 question is not counted as answered. Testimony without a question is excluded. Speaker handoffs identify Dennis despite older Arnold program introductions on two recordings. Original captions and source evidence remain private, and audio verification is pending.
+
+
+## Local app batch 017
+
+Adds 206 caption-reviewed linked answers from complete reads of 16 saved Dennis Murray Q&A sections, including split listener subquestions. Sixteen equivalent prompts were attached to existing groups; 164 new question entries remain. All 16 sources remain partial with 67 unresolved ranges, including unread/deferred questions, uncertain citations and contextual holds. 3 testimony-only letters were excluded. Caption evidence, original hashes, teacher handoffs and exact resume ranges are saved privately. No audio verification is claimed. Existing approvals and navigation are preserved.
