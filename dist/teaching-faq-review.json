@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T22:23:02.596482+00:00",
+  "updated": "2026-10-27T22:27:51.002145+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -61406,7 +61406,8 @@
         "local028-eUKTiANZhlY-14",
         "local024-fly-away",
         "local028-eUKTiANZhlY-17",
-        "local019-women-preachers"
+        "local019-women-preachers",
+        "local034-eUKTiANZhlY"
       ],
       "reviewed_ranges": [
         {
@@ -61510,6 +61511,12 @@
           "start_seconds": 3300.079,
           "end_seconds": 3384.76,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local034-eUKTiANZhlY",
+          "start_seconds": 2880.92,
+          "end_seconds": 2950.51,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
@@ -61527,6 +61534,10 @@
           {
             "start": 2228.72,
             "end": 3384.76
+          },
+          {
+            "start": 2880.92,
+            "end": 2950.51
           }
         ],
         "unresolved_ranges": [
@@ -61534,11 +61545,6 @@
             "start": 2794.68,
             "end": 2877.08,
             "reason": "Context and source-specific characterization require further review."
-          },
-          {
-            "start": 2880.92,
-            "end": 2947.08,
-            "reason": "Determine whether listener comment contains an answerable question."
           },
           {
             "start": 2991.2,
@@ -61755,7 +61761,8 @@
         "ten-commandments",
         "cain-satan-passages-dennis",
         "local028-e_S9wfQZ3SE-11",
-        "local028-e_S9wfQZ3SE-12"
+        "local028-e_S9wfQZ3SE-12",
+        "local034-e_S9wfQZ3SE"
       ],
       "reviewed_ranges": [
         {
@@ -61811,6 +61818,12 @@
           "start_seconds": 3320.65,
           "end_seconds": 3378.441,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local034-e_S9wfQZ3SE",
+          "start_seconds": 2972.536,
+          "end_seconds": 3070.0,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
@@ -61828,6 +61841,10 @@
           {
             "start": 2250.05,
             "end": 3378.44
+          },
+          {
+            "start": 2972.536,
+            "end": 3070.0
           }
         ],
         "unresolved_ranges": [
@@ -61849,7 +61866,7 @@
           {
             "start": 2972.54,
             "end": 3070.0,
-            "reason": "Citation sequence and meaning of robes require closer review."
+            "reason": "Answer added with cautious wording; the captioned scripture references remain uncertain and require audio/context verification."
           },
           {
             "start": 3070.0,
@@ -74681,6 +74698,6 @@
     "teacher_pending": 65,
     "pending": 882,
     "source_changed": 0,
-    "question_occurrences": 5299
+    "question_occurrences": 5301
   }
 }

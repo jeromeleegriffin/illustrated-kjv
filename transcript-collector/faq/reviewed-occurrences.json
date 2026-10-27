@@ -22782,6 +22782,18 @@
       "question": "Did Dennis expect ordinary life to continue during antichrist’s appearance?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local034-eUKTiANZhlY",
+      "question": "What did Dennis say about people who never had a chance to hear the truth?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local034-e_S9wfQZ3SE",
+      "question": "Did Dennis expect people on the right side of the gulf to be without robes?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -109393,6 +109405,36 @@
       "recording_group": "hQA8I8IauqU",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local034-eUKTiANZhlY",
+      "video_id": "eUKTiANZhlY",
+      "start": 2880.92,
+      "end": 2950.51,
+      "variant": "local034-eUKTiANZhlY",
+      "summary": "Dennis says they will have a chance to hear the truth during the millennium before the great white throne judgment.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "4c1e074b23cb985f26e794241b57a82c2c2eb06c21d61c79308bd789db748d69",
+      "source_sha256": "d1d5471df3c536d738bf83bf93d8ca2698de3eaeda031b70914637e524348a95",
+      "recording_group": "eUKTiANZhlY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local034-e_S9wfQZ3SE",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2972.536,
+      "end": 3070.0,
+      "variant": "local034-e_S9wfQZ3SE",
+      "summary": "Dennis agrees that those on the right side would not be naked and associates their robes with righteous works; the captioned verse references need further checking.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
     }
   ],
   "duplicate_recording_aliases": {
@@ -109400,9 +109442,10 @@
     "Mvai-Sc-c7o": "3v95jxLsbXM",
     "XSuuktzj8u0": "mwUGbZP-yaM",
     "SO44pz-Cr6I": "WaqJ4p4NLFY",
-    "iIMTsayr7VU": "soSFyASwbLs"
+    "iIMTsayr7VU": "soSFyASwbLs",
+    "ffEcMQLJp9Q": "O8_qQ02fXDA"
   },
-  "alias_basis": "Same passage and matching caller/question/answer wording; conservatively counted once. Three Peter pairs were identical normalized caption text.",
+  "alias_basis": "Same passage and matching caller/question/answer wording; conservatively counted once. Three Peter pairs were identical normalized caption text. The ffEcMQLJp9Q and O8_qQ02fXDA pair matches lesson and listener Q&A captions; counted once.",
   "recording_reviews": [
     {
       "video_id": "3rPWuPSCMfU",
@@ -119346,6 +119389,10 @@
         {
           "start": 2228.72,
           "end": 3384.76
+        },
+        {
+          "start": 2880.92,
+          "end": 2950.51
         }
       ],
       "unresolved_ranges": [
@@ -119353,11 +119400,6 @@
           "start": 2794.68,
           "end": 2877.08,
           "reason": "Context and source-specific characterization require further review."
-        },
-        {
-          "start": 2880.92,
-          "end": 2947.08,
-          "reason": "Determine whether listener comment contains an answerable question."
         },
         {
           "start": 2991.2,
@@ -119392,6 +119434,10 @@
         {
           "start": 2250.05,
           "end": 3378.44
+        },
+        {
+          "start": 2972.536,
+          "end": 3070.0
         }
       ],
       "unresolved_ranges": [
@@ -119413,7 +119459,7 @@
         {
           "start": 2972.54,
           "end": 3070.0,
-          "reason": "Citation sequence and meaning of robes require closer review."
+          "reason": "Answer added with cautious wording; the captioned scripture references remain uncertain and require audio/context verification."
         },
         {
           "start": 3070.0,
