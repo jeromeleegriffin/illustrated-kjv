@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,267 question groups and 3,217 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 2,300 question groups and 3,266 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 241 remain partially reviewed, 1,036 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 245 remain partially reviewed, 1,032 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -131,3 +131,5 @@ Adds 56 caption-reviewed linked answers and 44 question entries from four saved 
 ## Local app batch 017
 
 Adds 206 caption-reviewed linked answers from complete reads of 16 saved Dennis Murray Q&A sections, including split listener subquestions. Sixteen equivalent prompts were attached to existing groups; 164 new question entries remain. All 16 sources remain partial with 67 unresolved ranges, including unread/deferred questions, uncertain citations and contextual holds. 3 testimony-only letters were excluded. Caption evidence, original hashes, teacher handoffs and exact resume ranges are saved privately. No audio verification is claimed. Existing approvals and navigation are preserved.
+
+Local batch018 adds49 linked Dennis answers and33 question groups after four full caption Q&A section reads. All four remain partial because of unresolved ranges. Audio verification remains pending. Prior approved records and navigation are preserved.
