@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T22:27:51.002145+00:00",
+  "updated": "2026-10-27T22:42:18.322318+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -61762,7 +61762,9 @@
         "cain-satan-passages-dennis",
         "local028-e_S9wfQZ3SE-11",
         "local028-e_S9wfQZ3SE-12",
-        "local034-e_S9wfQZ3SE"
+        "local034-e_S9wfQZ3SE",
+        "local035-e_S9wfQZ3SE-2790",
+        "local035-e_S9wfQZ3SE-3141"
       ],
       "reviewed_ranges": [
         {
@@ -61824,6 +61826,18 @@
           "start_seconds": 2972.536,
           "end_seconds": 3070.0,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local035-e_S9wfQZ3SE-2790",
+          "start_seconds": 2790.22,
+          "end_seconds": 2876.106,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local035-e_S9wfQZ3SE-3141",
+          "start_seconds": 3141.505,
+          "end_seconds": 3255.852,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
@@ -61845,6 +61859,14 @@
           {
             "start": 2972.536,
             "end": 3070.0
+          },
+          {
+            "start": 2790.22,
+            "end": 2876.106
+          },
+          {
+            "start": 3141.505,
+            "end": 3255.852
           }
         ],
         "unresolved_ranges": [
@@ -61861,7 +61883,7 @@
           {
             "start": 2790.22,
             "end": 2870.57,
-            "reason": "Archangel identification and references require closer review."
+            "reason": "Answer added; the separate classification of named archangels needs further checking."
           },
           {
             "start": 2972.54,
@@ -61872,11 +61894,6 @@
             "start": 3070.0,
             "end": 3141.51,
             "reason": "Citation ambiguity and unanswered subquestion retained."
-          },
-          {
-            "start": 3141.51,
-            "end": 3252.15,
-            "reason": "Speculation about shade and gleaning needs classification."
           }
         ],
         "cursor_seconds": 2373.0,
@@ -61909,7 +61926,8 @@
         "local029-edDCAGBjJUs-8",
         "local008-dinosaurs",
         "local029-edDCAGBjJUs-10",
-        "satan-born"
+        "satan-born",
+        "forgiveness"
       ],
       "reviewed_ranges": [
         {
@@ -61977,6 +61995,12 @@
           "start_seconds": 3374.64,
           "end_seconds": 3380.47,
           "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2722.72,
+          "end_seconds": 2807.04,
+          "review": "caption_passage_checked_audio_pending"
         }
       ],
       "stale_question_ids": [],
@@ -61994,13 +62018,17 @@
           {
             "start": 2254.47,
             "end": 3380.0
+          },
+          {
+            "start": 2722.72,
+            "end": 2807.04
           }
         ],
         "unresolved_ranges": [
           {
             "start": 2726,
             "end": 2807.04,
-            "reason": "Unforgivable-sin reference is garbled; retain exact range."
+            "reason": "Answer added without a verse number; the captioned scripture references remain garbled and require audio verification."
           },
           {
             "start": 2964,
@@ -74698,6 +74726,6 @@
     "teacher_pending": 65,
     "pending": 882,
     "source_changed": 0,
-    "question_occurrences": 5301
+    "question_occurrences": 5304
   }
 }

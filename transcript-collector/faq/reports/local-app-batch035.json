@@ -1,0 +1,22 @@
+{
+  "batch": "local035",
+  "status": "reviewed_not_yet_published",
+  "new_linked_answers": 3,
+  "new_question_groups": 2,
+  "total_question_groups": 3801,
+  "total_linked_answers": 5351,
+  "audio_verified": false,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 393,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 882,
+    "source_changed": 0,
+    "question_occurrences": 5304
+  },
+  "invalid_approvals": [],
+  "tests": "Four Python tests and both navigation suites passed; source evidence private. Citation and classification holds remain."
+}

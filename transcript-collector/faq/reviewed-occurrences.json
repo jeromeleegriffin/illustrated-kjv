@@ -22794,6 +22794,18 @@
       "question": "Did Dennis expect people on the right side of the gulf to be without robes?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local035-e_S9wfQZ3SE-2790",
+      "question": "Did Dennis identify Ariel as an archangel in the King James Bible?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local035-e_S9wfQZ3SE-3141",
+      "question": "How did Dennis answer a question about trees left in fields?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -109435,6 +109447,51 @@
       "recording_group": "e_S9wfQZ3SE",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local035-e_S9wfQZ3SE-2790",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 2790.22,
+      "end": 2876.106,
+      "variant": "local035-e_S9wfQZ3SE-2790",
+      "summary": "Dennis says no and points to Isaiah 29, where he says Ariel refers to Jerusalem; he gives lion or hearth of God as meanings.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local035-e_S9wfQZ3SE-3141",
+      "video_id": "e_S9wfQZ3SE",
+      "start": 3141.505,
+      "end": 3255.852,
+      "variant": "local035-e_S9wfQZ3SE-3141",
+      "summary": "Dennis suggests pasture trees may provide shade for livestock and separately offers biblical gleaning, leaving produce for the poor, as a possible explanation the listener had in mind.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "be69f14b0cdb86e053e4200a040e042df413ef3d705bf9e5d1bbe1928e47c35c",
+      "source_sha256": "7a3a2c94197d44b80a1ea9b933855403b0116177f8751f339b6d5dce1e06c375",
+      "recording_group": "e_S9wfQZ3SE",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "edDCAGBjJUs",
+      "start": 2722.72,
+      "end": 2807.04,
+      "variant": "local035-edDCAGBjJUs-2726",
+      "summary": "Dennis describes it as the elect refusing to let the Holy Spirit speak through them when delivered up and speaking their own words instead.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "5c5eddae118c15edd50d236766f27bea093bc3c577e9f66d8b52c52201ac7966",
+      "source_sha256": "2964e823432d25a25818b4c490590a9ad04ef4254c6cb3494ec2d1b8a1b12298",
+      "recording_group": "edDCAGBjJUs",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
     }
   ],
   "duplicate_recording_aliases": {
@@ -119438,6 +119495,14 @@
         {
           "start": 2972.536,
           "end": 3070.0
+        },
+        {
+          "start": 2790.22,
+          "end": 2876.106
+        },
+        {
+          "start": 3141.505,
+          "end": 3255.852
         }
       ],
       "unresolved_ranges": [
@@ -119454,7 +119519,7 @@
         {
           "start": 2790.22,
           "end": 2870.57,
-          "reason": "Archangel identification and references require closer review."
+          "reason": "Answer added; the separate classification of named archangels needs further checking."
         },
         {
           "start": 2972.54,
@@ -119465,11 +119530,6 @@
           "start": 3070.0,
           "end": 3141.51,
           "reason": "Citation ambiguity and unanswered subquestion retained."
-        },
-        {
-          "start": 3141.51,
-          "end": 3252.15,
-          "reason": "Speculation about shade and gleaning needs classification."
         }
       ],
       "cursor_seconds": 2373.0,
@@ -119489,13 +119549,17 @@
         {
           "start": 2254.47,
           "end": 3380.0
+        },
+        {
+          "start": 2722.72,
+          "end": 2807.04
         }
       ],
       "unresolved_ranges": [
         {
           "start": 2726,
           "end": 2807.04,
-          "reason": "Unforgivable-sin reference is garbled; retain exact range."
+          "reason": "Answer added without a verse number; the captioned scripture references remain garbled and require audio verification."
         },
         {
           "start": 2964,
