@@ -1,0 +1,27 @@
+{
+  "batch": "local023",
+  "new_linked_answers": 202,
+  "new_question_groups": 143,
+  "total_question_groups": 2928,
+  "total_linked_answers": 4100,
+  "caption_qa_sections_reviewed": 15,
+  "held_ranges": 55,
+  "audio_verified": false,
+  "duplicate_candidate_excluded": {
+    "video_id": "ORC7CdSDUCA",
+    "matches_reviewed": "HceinrSTP-s",
+    "counted": false
+  },
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 306,
+    "fully_reviewed": 19,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 970,
+    "source_changed": 0,
+    "question_occurrences": 4054
+  },
+  "tests": "4 Python tests; hold and resume navigation tests; exact source hashes, anchors and prior registry preservation; zero invalid approvals"
+}
