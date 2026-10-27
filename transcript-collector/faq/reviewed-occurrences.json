@@ -22686,6 +22686,102 @@
       "question": "How did Dennis explain the name Yeshua?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-2",
+      "question": "How long did Dennis say the six days of creation lasted?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-3",
+      "question": "Where did Dennis point for the destruction of the first earth age?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-5",
+      "question": "Did Dennis say anger is always sinful?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-6",
+      "question": "How did Dennis answer whether drinking wine is wrong?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-7",
+      "question": "Did Dennis say Scripture proves Paul was a murderer?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-8",
+      "question": "How did Dennis answer whether a woman would have two husbands in heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-12",
+      "question": "How did Dennis respond to a grieving listener who had cursed God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-13",
+      "question": "Did Dennis judge the eternal fate of a person who died by suicide?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-14",
+      "question": "How did Dennis advise a listener to pray?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-h8oP6_DYcXM-15",
+      "question": "Did Dennis think a person could recognize an unknown biological parent after death?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-hQA8I8IauqU-1",
+      "question": "How did Dennis explain familiar spirits?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-hQA8I8IauqU-3",
+      "question": "How did Dennis advise a teacher trying to encourage a school Bible club?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-hQA8I8IauqU-4",
+      "question": "How did Dennis respond to a disabled listener concerned about fighting for God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-hQA8I8IauqU-5",
+      "question": "Where did Dennis point for teaching about flesh and spiritual bodies?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-hQA8I8IauqU-6",
+      "question": "How did Dennis describe Jesus’ resurrected body?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local033-hQA8I8IauqU-7",
+      "question": "Did Dennis expect ordinary life to continue during antichrist’s appearance?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -108967,6 +109063,336 @@
       "recording_group": "gqT35mi2WBQ",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local022-temptation-escape",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2238.703,
+      "end": 2304.535,
+      "variant": "local033-h8oP6_DYcXM-1",
+      "summary": "Dennis points to 1 Corinthians 10:13, saying God provides a way to deal with temptation.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-2",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2324.422,
+      "end": 2383.447,
+      "variant": "local033-h8oP6_DYcXM-2",
+      "summary": "Dennis interprets the six days in Genesis 1 as a 6,000-year period in human time, citing 2 Peter 3:8.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-3",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2376.974,
+      "end": 2483.481,
+      "variant": "local033-h8oP6_DYcXM-3",
+      "summary": "Dennis points to Jeremiah 4:22 and following verses and Hebrews 12:26, connecting the destruction with his teaching about Satan’s rebellion.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local024-tuna",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2483.481,
+      "end": 2519.517,
+      "variant": "local033-h8oP6_DYcXM-4",
+      "summary": "Dennis says both tuna and salmon have fins and scales and are clean to eat under Leviticus 11.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-5",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2514.812,
+      "end": 2593.457,
+      "variant": "local033-h8oP6_DYcXM-5",
+      "summary": "Dennis distinguishes righteous indignation from uncontrolled anger, citing Jesus overturning the money changers’ tables.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-6",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2619.116,
+      "end": 2655.319,
+      "variant": "local033-h8oP6_DYcXM-6",
+      "summary": "Dennis cites 1 Timothy 5:23 and Jesus turning water into wine.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-7",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2650.547,
+      "end": 2736.233,
+      "variant": "local033-h8oP6_DYcXM-7",
+      "summary": "Dennis says Paul persecuted Christians before his conversion but says the claim that he was a murderer cannot be documented from Scripture.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-8",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2729.893,
+      "end": 2864.194,
+      "variant": "local033-h8oP6_DYcXM-8",
+      "summary": "Dennis cites Matthew 22:23 and following verses, saying he thinks she would recognize both but that there is no marriage relationship in the resurrection.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local023-shortened-tribulation",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2861.325,
+      "end": 2923.42,
+      "variant": "local033-h8oP6_DYcXM-9",
+      "summary": "Dennis points to Revelation 9 and describes the locust season from May through September as five months.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local026-dinosaur-age",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2919.716,
+      "end": 2997.494,
+      "variant": "local033-h8oP6_DYcXM-10",
+      "summary": "Dennis says dinosaurs belonged to the first earth age and were not on Noah’s ark, and points to the behemoth in Job 40.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local018-start-study",
+      "video_id": "h8oP6_DYcXM",
+      "start": 2993.69,
+      "end": 3072.169,
+      "variant": "local033-h8oP6_DYcXM-11",
+      "summary": "Dennis recommends foundational studies including Genesis 1–6 and Revelation, followed by study guided by the Holy Spirit.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-12",
+      "video_id": "h8oP6_DYcXM",
+      "start": 3068.498,
+      "end": 3144.841,
+      "variant": "local033-h8oP6_DYcXM-12",
+      "summary": "Dennis says he is not claiming God caused her disability, and encourages her to repent and return to God, saying her words were not the unforgivable sin.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-13",
+      "video_id": "h8oP6_DYcXM",
+      "start": 3140.971,
+      "end": 3221.017,
+      "variant": "local033-h8oP6_DYcXM-13",
+      "summary": "Dennis says the decision belongs to God, and says God takes circumstances such as mental illness into account.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-14",
+      "video_id": "h8oP6_DYcXM",
+      "start": 3288.184,
+      "end": 3345.342,
+      "variant": "local033-h8oP6_DYcXM-14",
+      "summary": "Dennis points to Jesus’ example in Matthew 6, praying to the Father in Jesus’ name.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-h8oP6_DYcXM-15",
+      "video_id": "h8oP6_DYcXM",
+      "start": 3340.637,
+      "end": 3379.509,
+      "variant": "local033-h8oP6_DYcXM-15",
+      "summary": "Dennis says he thinks the person probably would, while emphasizing that God is everyone’s Father.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "source_sha256": "cdb950f20a0f55c5415c97960a422d25bf58b5f51691fc5b4ca9921669477155",
+      "recording_group": "h8oP6_DYcXM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-hQA8I8IauqU-1",
+      "video_id": "hQA8I8IauqU",
+      "start": 2244.575,
+      "end": 2356.253,
+      "variant": "local033-hQA8I8IauqU-1",
+      "summary": "Dennis warns against those who claim to summon the dead and cites Deuteronomy 18:11–12, Leviticus 20:6 and 1 Chronicles 10.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local019-infant-baptism",
+      "video_id": "hQA8I8IauqU",
+      "start": 2352.817,
+      "end": 2543.307,
+      "variant": "local033-hQA8I8IauqU-2",
+      "summary": "Dennis recommends baptism after an infant baptism when the person can make an informed decision, while cautioning against repeated baptism after backsliding.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-hQA8I8IauqU-3",
+      "video_id": "hQA8I8IauqU",
+      "start": 2707.237,
+      "end": 2818.115,
+      "variant": "local033-hQA8I8IauqU-3",
+      "summary": "Dennis suggests that club members lead by example and points to 2 Thessalonians 2:3–4 when discussing the falling away.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-hQA8I8IauqU-4",
+      "video_id": "hQA8I8IauqU",
+      "start": 2814.344,
+      "end": 2953.75,
+      "variant": "local033-hQA8I8IauqU-4",
+      "summary": "Dennis describes the coming conflict as spiritual rather than physical and points to the armor of God in Ephesians 6.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-hQA8I8IauqU-5",
+      "video_id": "hQA8I8IauqU",
+      "start": 2956.72,
+      "end": 3025.255,
+      "variant": "local033-hQA8I8IauqU-5",
+      "summary": "Dennis points to 1 Corinthians 15 and 2 Corinthians 5, and discusses being absent from the flesh and present with the Lord.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-hQA8I8IauqU-6",
+      "video_id": "hQA8I8IauqU",
+      "start": 3021.451,
+      "end": 3101.932,
+      "variant": "local033-hQA8I8IauqU-6",
+      "summary": "Dennis says Jesus’ flesh body was raised and transfigured, citing Acts 2:31 and the account of Thomas seeing the wounds.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "local033-hQA8I8IauqU-7",
+      "video_id": "hQA8I8IauqU",
+      "start": 3282.679,
+      "end": 3349.479,
+      "variant": "local033-hQA8I8IauqU-7",
+      "summary": "Dennis says ordinary life continues and describes the elect being delivered up for ten days, citing Revelation 2:10.",
+      "scripture_mentions": [],
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "source_sha256": "decf58e016b05d7ec951762cee8120f4e423d00d972ae4e051525ab135456c2c",
+      "recording_group": "hQA8I8IauqU",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-27"
     }
   ],
   "duplicate_recording_aliases": {
@@ -120529,6 +120955,138 @@
         }
       ],
       "cursor_seconds": 2001.699,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-27",
+      "basis": "Targeted saved-caption passages reviewed; remaining Q&A and audio pending."
+    },
+    {
+      "video_id": "h8oP6_DYcXM",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "972f02d2d1affcfb898509366aaed6075326746d95a6fee2d6ac2baff79825f3",
+      "qa_start": 2001.899,
+      "qa_end": 3451.147,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2238.703,
+          "end": 2304.535
+        },
+        {
+          "start": 2324.422,
+          "end": 2383.447
+        },
+        {
+          "start": 2376.974,
+          "end": 2483.481
+        },
+        {
+          "start": 2483.481,
+          "end": 2519.517
+        },
+        {
+          "start": 2514.812,
+          "end": 2593.457
+        },
+        {
+          "start": 2619.116,
+          "end": 2655.319
+        },
+        {
+          "start": 2650.547,
+          "end": 2736.233
+        },
+        {
+          "start": 2729.893,
+          "end": 2864.194
+        },
+        {
+          "start": 2861.325,
+          "end": 2923.42
+        },
+        {
+          "start": 2919.716,
+          "end": 2997.494
+        },
+        {
+          "start": 2993.69,
+          "end": 3072.169
+        },
+        {
+          "start": 3068.498,
+          "end": 3144.841
+        },
+        {
+          "start": 3140.971,
+          "end": 3221.017
+        },
+        {
+          "start": 3288.184,
+          "end": 3345.342
+        },
+        {
+          "start": 3340.637,
+          "end": 3379.509
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2001.899,
+          "end": 3451.147,
+          "reason": "Remaining listener questions require full-section reconciliation; do not repeat approved passages."
+        }
+      ],
+      "cursor_seconds": 2001.899,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-27",
+      "basis": "Targeted saved-caption passages reviewed; remaining Q&A and audio pending."
+    },
+    {
+      "video_id": "hQA8I8IauqU",
+      "teacher": "Dennis Murray",
+      "transcript_sha256": "fee255833734372f2d0f72052c182865676cab1ec3bc9d23f6d77b0e9681a798",
+      "qa_start": 2002.1,
+      "qa_end": 3453.516,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2244.575,
+          "end": 2356.253
+        },
+        {
+          "start": 2352.817,
+          "end": 2543.307
+        },
+        {
+          "start": 2707.237,
+          "end": 2818.115
+        },
+        {
+          "start": 2814.344,
+          "end": 2953.75
+        },
+        {
+          "start": 2956.72,
+          "end": 3025.255
+        },
+        {
+          "start": 3021.451,
+          "end": 3101.932
+        },
+        {
+          "start": 3282.679,
+          "end": 3349.479
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2002.1,
+          "end": 3453.516,
+          "reason": "Remaining listener questions require full-section reconciliation; do not repeat approved passages."
+        }
+      ],
+      "cursor_seconds": 2002.1,
       "audio_verified": false,
       "reviewed_at": "2026-10-27",
       "basis": "Targeted saved-caption passages reviewed; remaining Q&A and audio pending."
