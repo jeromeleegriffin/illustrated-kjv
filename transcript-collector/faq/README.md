@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 2,474 question groups and 3,473 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 2,628 question groups and 3,679 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Eighteen recordings have complete caption Q&A reviews, 259 remain partially reviewed, 1,018 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Nineteen recordings have complete caption Q&A reviews, 274 remain partially reviewed, 1,002 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -138,3 +138,8 @@ Local batch018 adds49 linked Dennis answers and32 question groups after four ful
 ## Local batch 019
 
 Reviewed the complete saved caption Q&A sections of 14 additional Dennis Murray recordings, adding 207 linked answer passages and 175 question groups after semantic grouping. All 14 retain specific unresolved ranges and remain partial; audio verification is pending. Prior progress, external assignments and unrelated reader changes were preserved. Four Python tests and both navigation suites pass; source hashes and anchors match, with no invalid approvals.
+
+
+## Local batch 020
+
+Adds 206 linked answer passages and 154 question groups from complete saved-caption Q&A reads of 16 additional Dennis Murray recordings. One section is complete; 15 retain exact unresolved ranges. Caption review is not audio verification. Existing registry entries, reserved assignments, navigation and reader releases are preserved. Source hashes, timestamp anchors, ranking, persistence and both navigation suites pass.
