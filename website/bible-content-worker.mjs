@@ -6,8 +6,8 @@ const TOPICAL_RELEASE='c5e32d109510e30c22bb377626ab84540f204ca2';
 const TOPICAL_PATHS=new Set(['/topical-studies.html','/topical-studies.js','/topical-studies.css','/topical-studies.json','/topical-studies-data.js','/topical-collection.html','/topical-transcript-urls.txt','/topical-grok-request.txt','/topical-batch008.json','/topical-batch008-grok-request.txt']);
 const READER_RELEASE='9811a95d9b8ad918994e36aebac5130f61a77397';
 const READER_PATHS=new Set(['/index.html','/app.js','/reading.js']);
-const COMPACT_RELEASE='63fcaea4091f019b5808d0b67995a277c668a1d9';
-const COMPACT_ASSETS=new Set(['/content-first.css','/content-first.js']);
+const COMPACT_RELEASE='7e4a7e436faa53c3b6d7e210fd9b1d1a4edbebaa';
+const COMPACT_ASSETS=new Set(['/content-first.css','/content-first.js','/app.js']);
 const COMPACT_PAGES=new Set(['/index.html','/bible.html','/appendices.html','/trivia.html','/teaching-review.html','/topical-studies.html','/teaching-faq.html','/topical-collection.html']);
 const ORIGIN=`https://raw.githubusercontent.com/jeromeleegriffin/illustrated-kjv/${RELEASE}/dist`;
 const TYPES={html:'text/html; charset=utf-8',js:'text/javascript; charset=utf-8',css:'text/css; charset=utf-8',json:'application/json; charset=utf-8',svg:'image/svg+xml',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',webp:'image/webp',ico:'image/x-icon',txt:'text/plain; charset=utf-8',woff2:'font/woff2'};
@@ -33,7 +33,7 @@ export default {
     response=new Response(upstream.body,{status:200,headers});
     ctx.waitUntil(cache.put(key,response.clone()));
    }
-   if(request.method==='GET'&&COMPACT_PAGES.has(path)&&response.ok){const page=path==='/bible.html'?'index':path.slice(1,-5);response=new HTMLRewriter().on('head',{element(e){e.append('<link rel="stylesheet" href="/content-first.css?v='+COMPACT_RELEASE+'"><script defer src="/content-first.js?v='+COMPACT_RELEASE+'"></script>',{html:true});}}).on('body',{element(e){e.setAttribute('data-compact-page',page);}}).transform(response);}
+   if(request.method==='GET'&&COMPACT_PAGES.has(path)&&response.ok){const page=path==='/bible.html'?'index':path.slice(1,-5);response=new HTMLRewriter().on('head',{element(e){e.append('<link rel="stylesheet" href="/content-first.css?v='+COMPACT_RELEASE+'"><script defer src="/content-first.js?v='+COMPACT_RELEASE+'"></script>',{html:true});}}).on('script[src]',{element(e){if((e.getAttribute('src')||'').split('?')[0].replace(/^\.\//,'/')==='/app.js')e.setAttribute('src','/app.js?v='+COMPACT_RELEASE);}}).on('body',{element(e){e.setAttribute('data-compact-page',page);}}).transform(response);}
    return request.method==='HEAD'?new Response(null,{status:response.status,headers:response.headers}):response;
   }catch(error){console.error(JSON.stringify({event:'bible_asset_unavailable',path,reason:error.name,message:error.message}));return new Response('The Bible is temporarily unavailable. Please try again.',{status:503,headers:{'Cache-Control':'no-store'}});}
  }
