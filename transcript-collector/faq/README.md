@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 4,245 question groups and 6,239 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 4,372 question groups and 6,539 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 492 remain partially reviewed, 783 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 527 remain partially reviewed, 748 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -255,4 +255,10 @@ Adds 207 source-linked Dennis Murray answers and 92 question groups from targete
 ## Local batch 042
 
 Adds 205 Dennis Murray source-linked answers and 94 question groups from targeted saved-caption review across 22 recordings in PC results 005. Equivalent prompts join existing groups and repeated underlying recordings remain excluded. All22 stay partial. Unapproved proposals, uncertain citations and exact resume anchors remain private. Preserves the differing source-specific statements about participation in the millennium after death rather than harmonizing them. Independent audio verification remains pending. Source hashes, presenter handoffs, exact anchors, old-record preservation, frequency ordering, four Python tests and both navigation suites passed.
+
+
+
+## Local batch 043
+
+Adds 300 Dennis Murray source-linked answers and 127 question groups across 35 saved recordings. Direct reading recovers 124 answers beyond the selected PC proposals. Equivalent questions join existing groups; source-specific qualifications and speculative statements remain distinct. All 35 recordings remain partial, with exact caption anchors and unresolved ranges preserved privately. Independent audio verification remains pending. Original records, current external reservations, source hashes, presenter handoffs, duplicate screening, frequency ordering, four Python tests and both navigation suites passed.
 
