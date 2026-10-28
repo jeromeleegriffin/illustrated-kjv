@@ -1,0 +1,24 @@
+{
+  "batch": "local038",
+  "new_linked_answers": 109,
+  "new_question_groups": 65,
+  "total_question_groups": 3892,
+  "total_linked_answers": 5506,
+  "recordings": 12,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 411,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 864,
+    "source_changed": 0,
+    "question_occurrences": 5459
+  },
+  "invalid_approvals": [],
+  "audio_verified": false,
+  "status": "reviewed_pending_publication",
+  "new_pc_results_library_file_id": "libfile_8c161eb309408191adab0fec5571f073",
+  "validation": "Four Python tests and both navigation suites passed; prior registry records preserved; caption anchors, source hashes and duplicate screening checked. Remaining Q&A open."
+}
