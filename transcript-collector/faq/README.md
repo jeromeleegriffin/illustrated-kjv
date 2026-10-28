@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 4,973 question groups and 8,020 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,066 question groups and 8,326 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 561 remain partially reviewed, 714 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 581 remain partially reviewed, 694 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -300,3 +300,11 @@ Adds 108 source-linked answers (2 Arnold Murray, 106 Dennis Murray) and 41 quest
 Reconciles the existing returned Grok A batch against saved Arnold captions: 313 new linked answers and 122 new question groups from20 previously pending recordings. Totals:4,973 groups,8,020 links,7,973 distinct question-recording frequency. This is independent semantic reconciliation of returned candidates, separate from fresh extraction; Grok B reservations remain untouched. A now has54 recordings with semantic passage review and245 awaiting it, with893 approved links cumulatively. All20 newly reviewed recordings remain partial and audio-pending.
 
 Preserves different witness-lead estimates, qualified personal opinions and uncertain references. Repeated same-question letters within a recording count once. Held material, raw captions, original returned candidates, exact cue evidence and conservative resume cursors stay private. All1360 corpus exports remain unchanged; original registry arrays remain exact prefixes. Four Python tests and both navigation suites pass. Publication changes only FAQ assets and the FAQ release pin.
+
+
+
+## Local batch 050
+
+Independently checks the next20 returned Grok A Arnold recordings against saved captions:306 additional linked answers and93 question groups. Totals5,066groups8,326links8,279distinct question-recording frequency. A now has74recordings with independent semantic passage review,225awaiting,1199approvedlinks. This is returned-candidate reconciliation, separate from fresh extraction; all other assignment objects remain unchanged.
+
+All20remainpartial and audio-pending. Unanswered numeric requests, unclear pronunciation, unsupported historical and scientific assertions, and repeated same-recording topics are held privately with original cues. Summaries preserve attribution and differing interpretations. All1360sourcefilesunchanged, oldregistryarrayspreservedasexactprefixes. FourPython tests andbothnavigation suitespass. PublishonlyFAQassets andFAQ_RELEASEpin.
