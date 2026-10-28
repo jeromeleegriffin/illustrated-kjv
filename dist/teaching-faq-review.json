@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-27T22:42:18.322318+00:00",
+  "updated": "2026-10-28T05:55:47.171105+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -53296,12 +53296,114 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 62,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "melchizedek",
+        "local036-_jk__5zuqyw-2",
+        "local036-_jk__5zuqyw-3",
+        "local036-_jk__5zuqyw-4",
+        "mark-beast-passage",
+        "prescribed-medication",
+        "christ-sabbath-rest"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "melchizedek",
+          "start_seconds": 2388.318,
+          "end_seconds": 2441.004,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local036-_jk__5zuqyw-2",
+          "start_seconds": 2532.596,
+          "end_seconds": 2633.664,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local036-_jk__5zuqyw-3",
+          "start_seconds": 2910.84,
+          "end_seconds": 3022.385,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local036-_jk__5zuqyw-4",
+          "start_seconds": 3081.811,
+          "end_seconds": 3138.001,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark-beast-passage",
+          "start_seconds": 3138.001,
+          "end_seconds": 3244.106,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "prescribed-medication",
+          "start_seconds": 3244.106,
+          "end_seconds": 3321.117,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-sabbath-rest",
+          "start_seconds": 3321.117,
+          "end_seconds": 3369.232,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "_jk__5zuqyw",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+        "qa_start": 2154.018,
+        "qa_end": 3369.232,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2388.318,
+            "end": 2441.004
+          },
+          {
+            "start": 2532.596,
+            "end": 2633.664
+          },
+          {
+            "start": 2910.84,
+            "end": 3022.385
+          },
+          {
+            "start": 3081.811,
+            "end": 3138.001
+          },
+          {
+            "start": 3138.001,
+            "end": 3244.106
+          },
+          {
+            "start": 3244.106,
+            "end": 3321.117
+          },
+          {
+            "start": 3321.117,
+            "end": 3369.232
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2154.018,
+            "end": 3369.232,
+            "reason": "Other listener questions need reconciliation; avoid the approved passage ranges."
+          }
+        ],
+        "cursor_seconds": 2154.018,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption review, independent audio pending."
+      },
+      "cursor_seconds": 2154.018
     },
     {
       "video_id": "_kW3EFHAKNA",
@@ -74719,13 +74821,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 393,
+    "partially_reviewed": 394,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 882,
+    "pending": 881,
     "source_changed": 0,
-    "question_occurrences": 5304
+    "question_occurrences": 5311
   }
 }

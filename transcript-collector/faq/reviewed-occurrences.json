@@ -22806,6 +22806,24 @@
       "question": "How did Dennis answer a question about trees left in fields?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local036-_jk__5zuqyw-2",
+      "question": "How did Arnold answer a question about preparing unclean food for others?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local036-_jk__5zuqyw-3",
+      "question": "How did Arnold explain dwelling in God’s protective shadow?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local036-_jk__5zuqyw-4",
+      "question": "How did Arnold interpret Daniel’s seventy weeks?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
     }
   ],
   "occurrences": [
@@ -109492,6 +109510,111 @@
       "recording_group": "edDCAGBjJUs",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-27"
+    },
+    {
+      "question_id": "melchizedek",
+      "video_id": "_jk__5zuqyw",
+      "start": 2388.318,
+      "end": 2441.004,
+      "variant": "local036-_jk__5zuqyw-1",
+      "summary": "Arnold identifies Melchizedek with Jesus Christ and describes the priests under him as teachers.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
+    },
+    {
+      "question_id": "local036-_jk__5zuqyw-2",
+      "video_id": "_jk__5zuqyw",
+      "start": 2532.596,
+      "end": 2633.664,
+      "variant": "local036-_jk__5zuqyw-2",
+      "summary": "Arnold declines to judge preparing unclean food for others and tells the listener to make the judgment firsthand in their circumstances.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
+    },
+    {
+      "question_id": "local036-_jk__5zuqyw-3",
+      "video_id": "_jk__5zuqyw",
+      "start": 2910.84,
+      "end": 3022.385,
+      "variant": "local036-_jk__5zuqyw-3",
+      "summary": "Arnold interprets the protective shadow in Psalm 91 as being under God’s wing.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
+    },
+    {
+      "question_id": "local036-_jk__5zuqyw-4",
+      "video_id": "_jk__5zuqyw",
+      "start": 3081.811,
+      "end": 3138.001,
+      "variant": "local036-_jk__5zuqyw-4",
+      "summary": "Arnold distinguishes sixty-nine weeks ending at the crucifixion from a later seventieth week, which he associates with the shortened five-month period.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
+    },
+    {
+      "question_id": "mark-beast-passage",
+      "video_id": "_jk__5zuqyw",
+      "start": 3138.001,
+      "end": 3244.106,
+      "variant": "local036-_jk__5zuqyw-5",
+      "summary": "Arnold says the mark concerns deception in the mind and assisting Satan’s work, rather than a visible mark.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
+    },
+    {
+      "question_id": "prescribed-medication",
+      "video_id": "_jk__5zuqyw",
+      "start": 3244.106,
+      "end": 3321.117,
+      "variant": "local036-_jk__5zuqyw-6",
+      "summary": "Arnold says Christ’s suffering for sins does not forbid prescribed pain medication.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
+    },
+    {
+      "question_id": "christ-sabbath-rest",
+      "video_id": "_jk__5zuqyw",
+      "start": 3321.117,
+      "end": 3369.232,
+      "variant": "local036-_jk__5zuqyw-7",
+      "summary": "Arnold calls Sabbath rest in Christ and points to Hebrews 4 and Colossians 2.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "source_sha256": "a08843d8266da614e1067066faea6faaa471d3ef0e55cc0e682c9a57b16279ee",
+      "recording_group": "_jk__5zuqyw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-28"
     }
   ],
   "duplicate_recording_aliases": {
@@ -121200,6 +121323,56 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-27",
       "basis": "Targeted saved-caption passages reviewed; remaining Q&A and audio pending."
+    },
+    {
+      "video_id": "_jk__5zuqyw",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "0386e3ea33189e2662c16367b051e698ba5321fb3cd3030eae7c03115f62f595",
+      "qa_start": 2154.018,
+      "qa_end": 3369.232,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2388.318,
+          "end": 2441.004
+        },
+        {
+          "start": 2532.596,
+          "end": 2633.664
+        },
+        {
+          "start": 2910.84,
+          "end": 3022.385
+        },
+        {
+          "start": 3081.811,
+          "end": 3138.001
+        },
+        {
+          "start": 3138.001,
+          "end": 3244.106
+        },
+        {
+          "start": 3244.106,
+          "end": 3321.117
+        },
+        {
+          "start": 3321.117,
+          "end": 3369.232
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2154.018,
+          "end": 3369.232,
+          "reason": "Other listener questions need reconciliation; avoid the approved passage ranges."
+        }
+      ],
+      "cursor_seconds": 2154.018,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-28",
+      "basis": "Targeted saved-caption review, independent audio pending."
     }
   ]
 }

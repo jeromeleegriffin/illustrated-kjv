@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 3,801 question groups and 5,351 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,804 question groups and 5,358 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
 All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 393 remain partially reviewed, 882 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
@@ -218,3 +218,8 @@ Reconciles a repeated saved recording under its existing recording group and add
 ## Local batch 035
 
 Adds three Dennis Murray linked answers and two question groups after reviewing held caption passages. Reference and classification ambiguities remain held for further checking; audio verification remains pending.
+
+
+## Local batch 036
+
+Adds seven Arnold Murray source-linked answers and three question groups from targeted saved-caption review of PC results 005. Duplicate proposals were consolidated and truncated spans extended. Remaining questions and independent audio verification are pending.
