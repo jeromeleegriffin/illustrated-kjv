@@ -1,0 +1,29 @@
+{
+  "batch": "local048",
+  "new_linked_answers": 108,
+  "new_question_groups": 41,
+  "total_question_groups": 4851,
+  "total_linked_answers": 7707,
+  "recordings": 25,
+  "new_recordings": 0,
+  "previous_partial_recordings_extended": 25,
+  "teacher_answers": {
+    "Arnold Murray": 2,
+    "Dennis Murray": 106
+  },
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 541,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 734,
+    "source_changed": 0,
+    "question_occurrences": 7660
+  },
+  "invalid_approvals": [],
+  "audio_verified": false,
+  "status": "reviewed_pending_publication",
+  "validation": "Original registry arrays preserved. 108 distinct new question-recording links; source hashes, exact real cue anchors, teacher catalog attributions, current reservation aliases and frequency ordering checked. Four Python tests and both navigation suites pass. All25 remain partial; private captions and evidence excluded."
+}
