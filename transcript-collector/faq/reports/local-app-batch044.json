@@ -1,0 +1,30 @@
+{
+  "batch": "local044",
+  "new_linked_answers": 301,
+  "new_question_groups": 87,
+  "total_question_groups": 4459,
+  "total_linked_answers": 6840,
+  "recordings": 29,
+  "new_recordings": 13,
+  "previous_partial_recordings_extended": 16,
+  "teacher_answers": {
+    "Arnold Murray": 133,
+    "Dennis Murray": 168
+  },
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 540,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 735,
+    "source_changed": 0,
+    "question_occurrences": 6793
+  },
+  "invalid_approvals": [],
+  "audio_verified": false,
+  "status": "reviewed_pending_publication",
+  "validation": "301 distinct new question-recording links; prior registry arrays preserved byte-for-value, original source hashes and caption anchors checked, current605external reservations excluded, full-transcript duplicate screening passed for all13new recordings. Four Python tests and both navigation suites passed. All29sources remain partial; no new full-section or audio verification claimed.",
+  "attribution": "Saved passage catalog attributions retained. Named intros checked where available; JTBJ6X3euYU starts mid-lecture and retains catalog attribution with independent presenter/audio verification pending. sCAaUJgLW-E has an Arnold stock intro without named handoff; its later address to Arnold and third-person recovery response identify Dennis."
+}
