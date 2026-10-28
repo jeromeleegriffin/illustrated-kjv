@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 4,459 question groups and 6,840 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 4,603 question groups and 7,158 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
 All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 540 remain partially reviewed, 735 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
@@ -268,3 +268,9 @@ Adds 300 Dennis Murray source-linked answers and 127 question groups across 35 s
 
 Adds 301 source-linked answers (133 Arnold Murray, 168 Dennis Murray) and 87 question groups across 29 saved recordings: thirteen new records and additional passages in sixteen partial reviews. Prior approvals and ranges remain intact. All 29 remain partial, with exact caption anchors, uncertain references and incomplete answers preserved privately. Whole-transcript duplicate screening excludes repeat exports even when their offsets differ. Saved passage attribution remains explicit; a shortened export without its presenter introduction retains its catalog attribution with independent presenter and audio verification pending. No new complete-section or audio verification is claimed. Source hashes, 301 distinct question-recording links, current external reservations, frequency ordering, four Python tests and both navigation suites passed.
 
+
+
+
+## Local batch 045
+
+Adds 318 Arnold Murray source-linked answers and 144 question groups by directly reviewing additional saved-caption passages in 42 previously partial recordings. Earlier approvals and reviewed ranges remain intact. One duplicate question-recording link and four reviewed answers overlapping a reserved underlying recording are excluded. All 42 recordings remain partial, with exact caption cursors and uncertain or incomplete passages retained privately. Original hashes, caption anchors, semantic grouping, current external reservations including recording aliases, prior-record preservation, descending frequency, four Python tests and both navigation suites passed. Independent audio and presenter verification remain pending.
