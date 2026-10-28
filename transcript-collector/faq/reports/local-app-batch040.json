@@ -1,0 +1,24 @@
+{
+  "batch": "local040",
+  "new_linked_answers": 181,
+  "new_question_groups": 85,
+  "total_question_groups": 4059,
+  "total_linked_answers": 5827,
+  "recordings": 22,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 452,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 823,
+    "source_changed": 0,
+    "question_occurrences": 5780
+  },
+  "invalid_approvals": [],
+  "audio_verified": false,
+  "status": "reviewed_pending_publication",
+  "new_pc_results_library_file_id": "libfile_8c161eb309408191adab0fec5571f073",
+  "validation": "Four Python tests and both navigation suites passed; prior records, source hashes, exact caption anchors, grouping and duplicate screening checked. Remaining passages and reference problems stay open."
+}
