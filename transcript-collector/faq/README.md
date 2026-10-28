@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 4,151 question groups and 6,034 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 4,245 question groups and 6,239 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 470 remain partially reviewed, 805 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 492 remain partially reviewed, 783 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -249,4 +249,10 @@ Adds 181 source-linked answers (84 Arnold and 97 Dennis) and 85 question groups 
 ## Local batch 041
 
 Adds 207 source-linked Dennis Murray answers and 92 question groups from targeted saved-caption passage review of eighteen recordings in PC results 005. Repeated prompts join existing or same-batch groups, and repeated underlying Q&A exports remain excluded. All eighteen sources remain partial, with unapproved questions, incomplete answers and uncertain citations retained privately at exact caption anchors. No complete-section or independent audio verification is claimed. Source hashes, teacher handoffs, timestamp anchors, old-record preservation, frequency order, four Python tests and both navigation suites were checked.
+
+
+
+## Local batch 042
+
+Adds 205 Dennis Murray source-linked answers and 94 question groups from targeted saved-caption review across 22 recordings in PC results 005. Equivalent prompts join existing groups and repeated underlying recordings remain excluded. All22 stay partial. Unapproved proposals, uncertain citations and exact resume anchors remain private. Preserves the differing source-specific statements about participation in the millennium after death rather than harmonizing them. Independent audio verification remains pending. Source hashes, presenter handoffs, exact anchors, old-record preservation, frequency ordering, four Python tests and both navigation suites passed.
 
