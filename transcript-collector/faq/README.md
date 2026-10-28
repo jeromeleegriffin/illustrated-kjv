@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 3,892 question groups and 5,506 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 3,974 question groups and 5,646 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 411 remain partially reviewed, 864 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 430 remain partially reviewed, 845 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -233,3 +233,8 @@ Adds 39 Arnold Murray source-linked answers and 23 question groups from targeted
 ## Local batch 038
 
 Adds 109 Arnold Murray source-linked answers and 65 question groups from targeted saved-caption review of twelve recordings in PC results 005. Equivalent prompts join existing groups and repeated machine proposals are consolidated. All twelve sources remain partial; independent audio verification remains pending. Source hashes, caption anchors, duplicate screening, prior registry preservation, four Python tests and both navigation suites passed.
+
+
+## Local batch 039
+
+Adds 140 Arnold Murray source-linked answers and 82 question groups from targeted saved-caption review of nineteen recordings in PC results 005. Corrects machine summaries that reversed source answers, consolidates equivalent prompts, and excludes testimony-only or rhetorical entries. All nineteen sources remain partial; independent audio verification remains pending. Source hashes, caption anchors, duplicate screening, prior registry preservation, four Python tests and both navigation suites passed.

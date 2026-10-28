@@ -1,0 +1,46 @@
+{
+  "batch": "local039",
+  "new_linked_answers": 140,
+  "new_question_groups": 82,
+  "total_question_groups": 3974,
+  "total_linked_answers": 5646,
+  "recordings": 19,
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 430,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 845,
+    "source_changed": 0,
+    "question_occurrences": 5599
+  },
+  "invalid_approvals": [],
+  "audio_verified": false,
+  "status": "reviewed_pending_publication",
+  "new_pc_results_library_file_id": "libfile_8c161eb309408191adab0fec5571f073",
+  "validation": "Four Python tests and both navigation suites passed; prior records, source hashes, anchors, grouping and duplicate screening checked. Remaining passages and reference problems remain open.",
+  "duplicate_exclusions": [
+    [
+      "awNUDtVTazA",
+      [
+        0.7610441767068273,
+        "Yw9HqEl0Mbg"
+      ]
+    ],
+    [
+      "soSFyASwbLs",
+      [
+        1.0,
+        "iIMTsayr7VU"
+      ]
+    ]
+  ],
+  "extraction_corrections": [
+    "Four-winds response was reversed by machine summary.",
+    "Paradise response was reversed by machine summary.",
+    "Urim question was incorrectly joined to Hebrews question.",
+    "Testimony-only letter and rhetorical Massorah question excluded."
+  ]
+}
