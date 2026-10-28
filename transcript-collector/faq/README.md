@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 4,059 question groups and 5,827 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 4,151 question groups and 6,034 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 452 remain partially reviewed, 823 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 470 remain partially reviewed, 805 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -244,3 +244,9 @@ Adds 140 Arnold Murray source-linked answers and 82 question groups from targete
 ## Local batch 040
 
 Adds 181 source-linked answers (84 Arnold and 97 Dennis) and 85 question groups from targeted saved-caption passage review of 22 recordings in PC results 005. Equivalent prompts join existing or same-batch groups, and repeated Q&A recordings are excluded. All 22 remain partial; remaining passages and uncertain citations stay held with exact caption cursors. Independent audio verification remains pending. Source hashes, teachers, caption anchors, old records, four Python recovery tests and both navigation suites passed.
+
+
+## Local batch 041
+
+Adds 207 source-linked Dennis Murray answers and 92 question groups from targeted saved-caption passage review of eighteen recordings in PC results 005. Repeated prompts join existing or same-batch groups, and repeated underlying Q&A exports remain excluded. All eighteen sources remain partial, with unapproved questions, incomplete answers and uncertain citations retained privately at exact caption anchors. No complete-section or independent audio verification is claimed. Source hashes, teacher handoffs, timestamp anchors, old-record preservation, frequency order, four Python tests and both navigation suites were checked.
+

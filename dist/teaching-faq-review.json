@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-28T13:58:29.998565+00:00",
+  "updated": "2026-10-28T14:16:29.358371+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -72477,12 +72477,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 41,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "holy-trinity",
+        "three-ages-study-material",
+        "local041-ilq5jpV_YYY-3",
+        "heaven-earth-visits",
+        "song-moses-memorize",
+        "local041-ilq5jpV_YYY-6",
+        "local041-ilq5jpV_YYY-7",
+        "elect-recognition",
+        "forgiveness",
+        "local041-ilq5jpV_YYY-10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "holy-trinity",
+          "start_seconds": 2212.642,
+          "end_seconds": 2313.043,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-ages-study-material",
+          "start_seconds": 2399.663,
+          "end_seconds": 2490.954,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-ilq5jpV_YYY-3",
+          "start_seconds": 2471.768,
+          "end_seconds": 2583.147,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "heaven-earth-visits",
+          "start_seconds": 2569.466,
+          "end_seconds": 2620.684,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "song-moses-memorize",
+          "start_seconds": 2967.163,
+          "end_seconds": 3032.529,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-ilq5jpV_YYY-6",
+          "start_seconds": 3014.71,
+          "end_seconds": 3072.468,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-ilq5jpV_YYY-7",
+          "start_seconds": 3057.253,
+          "end_seconds": 3164.093,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition",
+          "start_seconds": 3212.475,
+          "end_seconds": 3261.591,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3307.337,
+          "end_seconds": 3352.048,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-ilq5jpV_YYY-10",
+          "start_seconds": 3336.065,
+          "end_seconds": 3371.8,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "ilq5jpV_YYY",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "fe00256a415384ea19c035592949ab5035e9074b6d2669a30fbd1017413d93bf",
+        "qa_start": 2050.981,
+        "qa_end": 3371.8,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2212.642,
+            "end": 2313.043
+          },
+          {
+            "start": 2399.663,
+            "end": 2490.954
+          },
+          {
+            "start": 2471.768,
+            "end": 2583.147
+          },
+          {
+            "start": 2569.466,
+            "end": 2620.684
+          },
+          {
+            "start": 2967.163,
+            "end": 3032.529
+          },
+          {
+            "start": 3014.71,
+            "end": 3072.468
+          },
+          {
+            "start": 3057.253,
+            "end": 3164.093
+          },
+          {
+            "start": 3212.475,
+            "end": 3261.591
+          },
+          {
+            "start": 3307.337,
+            "end": 3352.048
+          },
+          {
+            "start": 3336.065,
+            "end": 3371.8
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2050.981,
+            "end": 3371.8,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2050.981,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2050.981
     },
     {
       "video_id": "inp3ASY7TDA",
@@ -72621,12 +72756,158 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 34,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "three-heavens-ages",
+        "local023-shortened-tribulation",
+        "local041-j4zSAPFJAm4-3",
+        "local041-j4zSAPFJAm4-4",
+        "dinosaurs-human-fossils",
+        "melchizedek",
+        "local041-j4zSAPFJAm4-7",
+        "local041-j4zSAPFJAm4-8",
+        "spirit-after-death",
+        "local041-j4zSAPFJAm4-10",
+        "throne-vehicles-ezekiel"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "three-heavens-ages",
+          "start_seconds": 2091.389,
+          "end_seconds": 2175.406,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local023-shortened-tribulation",
+          "start_seconds": 2255.386,
+          "end_seconds": 2330.361,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-j4zSAPFJAm4-3",
+          "start_seconds": 2391.856,
+          "end_seconds": 2465.095,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-j4zSAPFJAm4-4",
+          "start_seconds": 2623.921,
+          "end_seconds": 2689.153,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dinosaurs-human-fossils",
+          "start_seconds": 2719.683,
+          "end_seconds": 2780.177,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "melchizedek",
+          "start_seconds": 2768.198,
+          "end_seconds": 2804.902,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-j4zSAPFJAm4-7",
+          "start_seconds": 2831.562,
+          "end_seconds": 2925.088,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-j4zSAPFJAm4-8",
+          "start_seconds": 2991.455,
+          "end_seconds": 3107.537,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 3190.287,
+          "end_seconds": 3277.274,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-j4zSAPFJAm4-10",
+          "start_seconds": 3298.328,
+          "end_seconds": 3333.463,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "throne-vehicles-ezekiel",
+          "start_seconds": 3309.706,
+          "end_seconds": 3366.129,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "j4zSAPFJAm4",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "a2fcc3ac49999dca0d4dd6d51bf4e265795a93b5a402270c19eb59c6d1d5cb60",
+        "qa_start": 2050.148,
+        "qa_end": 3371.768,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2091.389,
+            "end": 2175.406
+          },
+          {
+            "start": 2255.386,
+            "end": 2330.361
+          },
+          {
+            "start": 2391.856,
+            "end": 2465.095
+          },
+          {
+            "start": 2623.921,
+            "end": 2689.153
+          },
+          {
+            "start": 2719.683,
+            "end": 2780.177
+          },
+          {
+            "start": 2768.198,
+            "end": 2804.902
+          },
+          {
+            "start": 2831.562,
+            "end": 2925.088
+          },
+          {
+            "start": 2991.455,
+            "end": 3107.537
+          },
+          {
+            "start": 3190.287,
+            "end": 3277.274
+          },
+          {
+            "start": 3298.328,
+            "end": 3333.463
+          },
+          {
+            "start": 3309.706,
+            "end": 3366.129
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2050.148,
+            "end": 3371.768,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2050.148,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2050.148
     },
     {
       "video_id": "j5QYSXQiK4A",
@@ -72837,12 +73118,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 26,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-jSGRvMTgyXM-1",
+        "local041-jSGRvMTgyXM-2",
+        "local026-work-heaven",
+        "local041-jSGRvMTgyXM-4",
+        "local041-jSGRvMTgyXM-5",
+        "local041-jSGRvMTgyXM-6",
+        "sabbath-rest-dennis",
+        "local026-sleep-millennium",
+        "anointing-sick",
+        "independent-ministry"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-jSGRvMTgyXM-1",
+          "start_seconds": 2296.227,
+          "end_seconds": 2386.784,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-jSGRvMTgyXM-2",
+          "start_seconds": 2420.251,
+          "end_seconds": 2448.546,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-work-heaven",
+          "start_seconds": 2430.494,
+          "end_seconds": 2474.805,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-jSGRvMTgyXM-4",
+          "start_seconds": 2452.883,
+          "end_seconds": 2493.624,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-jSGRvMTgyXM-5",
+          "start_seconds": 2474.805,
+          "end_seconds": 2534.331,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-jSGRvMTgyXM-6",
+          "start_seconds": 2779.076,
+          "end_seconds": 2814.278,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-rest-dennis",
+          "start_seconds": 2798.796,
+          "end_seconds": 2883.013,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-sleep-millennium",
+          "start_seconds": 2814.278,
+          "end_seconds": 2883.013,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-sick",
+          "start_seconds": 3173.97,
+          "end_seconds": 3244.674,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "independent-ministry",
+          "start_seconds": 3237.601,
+          "end_seconds": 3358.955,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "jSGRvMTgyXM",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "34e1e27c15864dc110643926c756ed69519c48a76332b7f0d9e37100eb3cf759",
+        "qa_start": 2052.517,
+        "qa_end": 3373.837,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2296.227,
+            "end": 2386.784
+          },
+          {
+            "start": 2420.251,
+            "end": 2448.546
+          },
+          {
+            "start": 2430.494,
+            "end": 2474.805
+          },
+          {
+            "start": 2452.883,
+            "end": 2493.624
+          },
+          {
+            "start": 2474.805,
+            "end": 2534.331
+          },
+          {
+            "start": 2779.076,
+            "end": 2814.278
+          },
+          {
+            "start": 2798.796,
+            "end": 2883.013
+          },
+          {
+            "start": 2814.278,
+            "end": 2883.013
+          },
+          {
+            "start": 3173.97,
+            "end": 3244.674
+          },
+          {
+            "start": 3237.601,
+            "end": 3358.955
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2052.517,
+            "end": 3373.837,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2052.517,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2052.517
     },
     {
       "video_id": "jY0KoBy9fvA",
@@ -73954,12 +74370,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local030-DvGjUMgQEC4-1",
+        "local041-mSKUpqg4TeY-2",
+        "local026-evil-power",
+        "local041-mSKUpqg4TeY-4",
+        "local025-capital-punishment",
+        "sabbath-day-journey",
+        "local026-forgive-distance",
+        "local041-mSKUpqg4TeY-8",
+        "local041-mSKUpqg4TeY-9",
+        "memory-after-death"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local030-DvGjUMgQEC4-1",
+          "start_seconds": 2178.643,
+          "end_seconds": 2286.917,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mSKUpqg4TeY-2",
+          "start_seconds": 2264.595,
+          "end_seconds": 2331.462,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-evil-power",
+          "start_seconds": 2397.828,
+          "end_seconds": 2473.103,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mSKUpqg4TeY-4",
+          "start_seconds": 2480.144,
+          "end_seconds": 2582.646,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local025-capital-punishment",
+          "start_seconds": 2577.808,
+          "end_seconds": 2653.917,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sabbath-day-journey",
+          "start_seconds": 2638.636,
+          "end_seconds": 2721.418,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-forgive-distance",
+          "start_seconds": 2699.496,
+          "end_seconds": 2758.055,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mSKUpqg4TeY-8",
+          "start_seconds": 2739.703,
+          "end_seconds": 2811.074,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mSKUpqg4TeY-9",
+          "start_seconds": 2794.525,
+          "end_seconds": 2863.861,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "memory-after-death",
+          "start_seconds": 3242.539,
+          "end_seconds": 3342.706,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "mSKUpqg4TeY",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "4b1079d939a3bb83c0e2d3a81b7be1b5bd3f00c345250a50d05d2a3078d0e364",
+        "qa_start": 2052.483,
+        "qa_end": 3371.167,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2178.643,
+            "end": 2286.917
+          },
+          {
+            "start": 2264.595,
+            "end": 2331.462
+          },
+          {
+            "start": 2397.828,
+            "end": 2473.103
+          },
+          {
+            "start": 2480.144,
+            "end": 2582.646
+          },
+          {
+            "start": 2577.808,
+            "end": 2653.917
+          },
+          {
+            "start": 2638.636,
+            "end": 2721.418
+          },
+          {
+            "start": 2699.496,
+            "end": 2758.055
+          },
+          {
+            "start": 2739.703,
+            "end": 2811.074
+          },
+          {
+            "start": 2794.525,
+            "end": 2863.861
+          },
+          {
+            "start": 3242.539,
+            "end": 3342.706
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2052.483,
+            "end": 3371.167,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2052.483,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2052.483
     },
     {
       "video_id": "mY3Sv9F1w9U",
@@ -74044,12 +74595,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 23,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local014-fixed-income",
+        "local041-mccTJRtxicA-2",
+        "local041-mccTJRtxicA-3",
+        "local024-abomination",
+        "flesh-no-longer-needed",
+        "local041-mccTJRtxicA-6",
+        "resurrection-meaning",
+        "local041-nA3bReRPoHs-14",
+        "elect-salvation-others",
+        "local041-mccTJRtxicA-10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local014-fixed-income",
+          "start_seconds": 2179.911,
+          "end_seconds": 2268.499,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mccTJRtxicA-2",
+          "start_seconds": 2263.794,
+          "end_seconds": 2380.678,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mccTJRtxicA-3",
+          "start_seconds": 2617.414,
+          "end_seconds": 2701.031,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-abomination",
+          "start_seconds": 2750.314,
+          "end_seconds": 2808.906,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "flesh-no-longer-needed",
+          "start_seconds": 2791.188,
+          "end_seconds": 2855.586,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mccTJRtxicA-6",
+          "start_seconds": 2840.304,
+          "end_seconds": 2960.057,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 2973.937,
+          "end_seconds": 3053.383,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-14",
+          "start_seconds": 3051.081,
+          "end_seconds": 3110.841,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-salvation-others",
+          "start_seconds": 3096.226,
+          "end_seconds": 3171.635,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-mccTJRtxicA-10",
+          "start_seconds": 3187.217,
+          "end_seconds": 3306.903,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "mccTJRtxicA",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "28a5532f881ae3f64c977e46b9ead483ad431bb4a04585ea21af712b821fe941",
+        "qa_start": 2051.682,
+        "qa_end": 3372.469,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2179.911,
+            "end": 2268.499
+          },
+          {
+            "start": 2263.794,
+            "end": 2380.678
+          },
+          {
+            "start": 2617.414,
+            "end": 2701.031
+          },
+          {
+            "start": 2750.314,
+            "end": 2808.906
+          },
+          {
+            "start": 2791.188,
+            "end": 2855.586
+          },
+          {
+            "start": 2840.304,
+            "end": 2960.057
+          },
+          {
+            "start": 2973.937,
+            "end": 3053.383
+          },
+          {
+            "start": 3051.081,
+            "end": 3110.841
+          },
+          {
+            "start": 3096.226,
+            "end": 3171.635
+          },
+          {
+            "start": 3187.217,
+            "end": 3306.903
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2051.682,
+            "end": 3372.469,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2051.682,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2051.682
     },
     {
       "video_id": "meMJ2NEA3Uw",
@@ -74424,12 +75110,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 24,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-nA3bReRPoHs-1",
+        "local041-nA3bReRPoHs-2",
+        "local014-nicolaitans",
+        "passover-risen",
+        "local041-nA3bReRPoHs-5",
+        "local041-nA3bReRPoHs-6",
+        "local041-nA3bReRPoHs-7",
+        "local041-nA3bReRPoHs-8",
+        "local041-nA3bReRPoHs-9",
+        "millennium-sacrifices-dennis",
+        "holy-trinity",
+        "local041-nA3bReRPoHs-12",
+        "local041-nA3bReRPoHs-13",
+        "local041-nA3bReRPoHs-14"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-nA3bReRPoHs-1",
+          "start_seconds": 2147.04,
+          "end_seconds": 2196.53,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-2",
+          "start_seconds": 2177.42,
+          "end_seconds": 2241.109,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-nicolaitans",
+          "start_seconds": 2279.66,
+          "end_seconds": 2340.05,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "passover-risen",
+          "start_seconds": 2331.98,
+          "end_seconds": 2382.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-5",
+          "start_seconds": 2360.04,
+          "end_seconds": 2452.97,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-6",
+          "start_seconds": 2428.2,
+          "end_seconds": 2473.609,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-7",
+          "start_seconds": 2452.98,
+          "end_seconds": 2520.17,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-8",
+          "start_seconds": 2505.599,
+          "end_seconds": 2566.01,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-9",
+          "start_seconds": 2788.74,
+          "end_seconds": 2850.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-sacrifices-dennis",
+          "start_seconds": 2827.16,
+          "end_seconds": 2896.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "holy-trinity",
+          "start_seconds": 2875.98,
+          "end_seconds": 2943.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-12",
+          "start_seconds": 3129.96,
+          "end_seconds": 3239.329,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-13",
+          "start_seconds": 3247.8,
+          "end_seconds": 3323.39,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nA3bReRPoHs-14",
+          "start_seconds": 3323.4,
+          "end_seconds": 3380.569,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "nA3bReRPoHs",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "597a7e65ab154b15620e97995c4b7506b9df7420424f78f0a18b0bb6d78bd05c",
+        "qa_start": 2050.49,
+        "qa_end": 3370.25,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2147.04,
+            "end": 2196.53
+          },
+          {
+            "start": 2177.42,
+            "end": 2241.109
+          },
+          {
+            "start": 2279.66,
+            "end": 2340.05
+          },
+          {
+            "start": 2331.98,
+            "end": 2382.89
+          },
+          {
+            "start": 2360.04,
+            "end": 2452.97
+          },
+          {
+            "start": 2428.2,
+            "end": 2473.609
+          },
+          {
+            "start": 2452.98,
+            "end": 2520.17
+          },
+          {
+            "start": 2505.599,
+            "end": 2566.01
+          },
+          {
+            "start": 2788.74,
+            "end": 2850.89
+          },
+          {
+            "start": 2827.16,
+            "end": 2896.67
+          },
+          {
+            "start": 2875.98,
+            "end": 2943.349
+          },
+          {
+            "start": 3129.96,
+            "end": 3239.329
+          },
+          {
+            "start": 3247.8,
+            "end": 3323.39
+          },
+          {
+            "start": 3323.4,
+            "end": 3380.569
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2050.49,
+            "end": 3370.25,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2050.49,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2050.49
     },
     {
       "video_id": "nBKJ3mkW_84",
@@ -74685,12 +75550,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 13,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "judgment-believers-rewards",
+        "tribulation-final-wrath",
+        "local041-nzun9tvPddw-3",
+        "local041-nzun9tvPddw-4",
+        "spirit-after-death",
+        "animals-heaven",
+        "local041-vG7UatVrvoo-1",
+        "local041-yMt01eWaa98-5",
+        "local041-nzun9tvPddw-9",
+        "local041-nzun9tvPddw-10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "judgment-believers-rewards",
+          "start_seconds": 2231.24,
+          "end_seconds": 2286.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tribulation-final-wrath",
+          "start_seconds": 2279.599,
+          "end_seconds": 2349.23,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nzun9tvPddw-3",
+          "start_seconds": 2436.319,
+          "end_seconds": 2519.71,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nzun9tvPddw-4",
+          "start_seconds": 2585.2,
+          "end_seconds": 2639.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2645.8,
+          "end_seconds": 2689.549,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-heaven",
+          "start_seconds": 2686.72,
+          "end_seconds": 2752.03,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-1",
+          "start_seconds": 2789.04,
+          "end_seconds": 2853.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-yMt01eWaa98-5",
+          "start_seconds": 2833.839,
+          "end_seconds": 2921.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nzun9tvPddw-9",
+          "start_seconds": 3178.0,
+          "end_seconds": 3228.75,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-nzun9tvPddw-10",
+          "start_seconds": 3208.92,
+          "end_seconds": 3294.87,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "nzun9tvPddw",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "7b14cb8e987bdf0ff5f5de2663ee4454426f95456b0127d6275dfce2769cc286",
+        "qa_start": 2052.389,
+        "qa_end": 3370.47,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2231.24,
+            "end": 2286.99
+          },
+          {
+            "start": 2279.599,
+            "end": 2349.23
+          },
+          {
+            "start": 2436.319,
+            "end": 2519.71
+          },
+          {
+            "start": 2585.2,
+            "end": 2639.589
+          },
+          {
+            "start": 2645.8,
+            "end": 2689.549
+          },
+          {
+            "start": 2686.72,
+            "end": 2752.03
+          },
+          {
+            "start": 2789.04,
+            "end": 2853.27
+          },
+          {
+            "start": 2833.839,
+            "end": 2921.79
+          },
+          {
+            "start": 3178.0,
+            "end": 3228.75
+          },
+          {
+            "start": 3208.92,
+            "end": 3294.87
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2052.389,
+            "end": 3370.47,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2052.389,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2052.389
     },
     {
       "video_id": "o3G9CwSMt3Y",
@@ -76125,12 +77125,158 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 28,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "spirit-after-death",
+        "forgiven-sins-judgment",
+        "local041-rT5dlnhnWXs-3",
+        "local027-eDNFAjBodcM-satan-first",
+        "local041-rT5dlnhnWXs-5",
+        "earth-age-end",
+        "noah-wife-name",
+        "dan-ephraim-omission-dennis",
+        "local041-rT5dlnhnWXs-9",
+        "guardian-angel",
+        "child-accountability-understanding"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2227.625,
+          "end_seconds": 2304.335,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiven-sins-judgment",
+          "start_seconds": 2293.457,
+          "end_seconds": 2340.171,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-rT5dlnhnWXs-3",
+          "start_seconds": 2397.561,
+          "end_seconds": 2436.801,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local027-eDNFAjBodcM-satan-first",
+          "start_seconds": 2422.52,
+          "end_seconds": 2532.963,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-rT5dlnhnWXs-5",
+          "start_seconds": 2578.008,
+          "end_seconds": 2638.636,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "earth-age-end",
+          "start_seconds": 2618.282,
+          "end_seconds": 2696.126,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noah-wife-name",
+          "start_seconds": 2788.418,
+          "end_seconds": 2822.553,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dan-ephraim-omission-dennis",
+          "start_seconds": 2891.488,
+          "end_seconds": 2952.749,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-rT5dlnhnWXs-9",
+          "start_seconds": 2934.431,
+          "end_seconds": 3004.735,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "guardian-angel",
+          "start_seconds": 2996.293,
+          "end_seconds": 3087.284,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "child-accountability-understanding",
+          "start_seconds": 3165.629,
+          "end_seconds": 3285.415,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "rT5dlnhnWXs",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "39d31d0e9062bb80d652f2ab4808d6ee59065b00a12a371e6c6622225dc8c01d",
+        "qa_start": 2051.082,
+        "qa_end": 3371.034,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2227.625,
+            "end": 2304.335
+          },
+          {
+            "start": 2293.457,
+            "end": 2340.171
+          },
+          {
+            "start": 2397.561,
+            "end": 2436.801
+          },
+          {
+            "start": 2422.52,
+            "end": 2532.963
+          },
+          {
+            "start": 2578.008,
+            "end": 2638.636
+          },
+          {
+            "start": 2618.282,
+            "end": 2696.126
+          },
+          {
+            "start": 2788.418,
+            "end": 2822.553
+          },
+          {
+            "start": 2891.488,
+            "end": 2952.749
+          },
+          {
+            "start": 2934.431,
+            "end": 3004.735
+          },
+          {
+            "start": 2996.293,
+            "end": 3087.284
+          },
+          {
+            "start": 3165.629,
+            "end": 3285.415
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2051.082,
+            "end": 3371.034,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2051.082,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2051.082
     },
     {
       "video_id": "rb1XWl1_in0",
@@ -76754,12 +77900,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 33,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-sl-mUl5KzMY-1",
+        "local041-sl-mUl5KzMY-2",
+        "dennis-jesus-birth-date",
+        "local041-sl-mUl5KzMY-4",
+        "local041-sl-mUl5KzMY-5",
+        "song-moses-memorize",
+        "local041-sl-mUl5KzMY-7",
+        "spirit-after-death",
+        "local041-sl-mUl5KzMY-9",
+        "local041-sl-mUl5KzMY-10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-sl-mUl5KzMY-1",
+          "start_seconds": 2421.685,
+          "end_seconds": 2502.867,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-sl-mUl5KzMY-2",
+          "start_seconds": 2626.624,
+          "end_seconds": 2701.432,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-jesus-birth-date",
+          "start_seconds": 2753.283,
+          "end_seconds": 2834.631,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-sl-mUl5KzMY-4",
+          "start_seconds": 2894.825,
+          "end_seconds": 2957.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-sl-mUl5KzMY-5",
+          "start_seconds": 2941.238,
+          "end_seconds": 2987.484,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "song-moses-memorize",
+          "start_seconds": 3002.532,
+          "end_seconds": 3056.686,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-sl-mUl5KzMY-7",
+          "start_seconds": 3153.917,
+          "end_seconds": 3218.882,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 3212.742,
+          "end_seconds": 3256.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-sl-mUl5KzMY-9",
+          "start_seconds": 3238.268,
+          "end_seconds": 3335.465,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-sl-mUl5KzMY-10",
+          "start_seconds": 3360.49,
+          "end_seconds": 3400.997,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "sl-mUl5KzMY",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "b2332dbab608600d09a78596bb7fd980ff1950f6f6b595a634cac9994265a766",
+        "qa_start": 2050.248,
+        "qa_end": 3373.136,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2421.685,
+            "end": 2502.867
+          },
+          {
+            "start": 2626.624,
+            "end": 2701.432
+          },
+          {
+            "start": 2753.283,
+            "end": 2834.631
+          },
+          {
+            "start": 2894.825,
+            "end": 2957.22
+          },
+          {
+            "start": 2941.238,
+            "end": 2987.484
+          },
+          {
+            "start": 3002.532,
+            "end": 3056.686
+          },
+          {
+            "start": 3153.917,
+            "end": 3218.882
+          },
+          {
+            "start": 3212.742,
+            "end": 3256.319
+          },
+          {
+            "start": 3238.268,
+            "end": 3335.465
+          },
+          {
+            "start": 3360.49,
+            "end": 3400.997
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2050.248,
+            "end": 3373.136,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2050.248,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2050.248
     },
     {
       "video_id": "soSFyASwbLs",
@@ -76844,12 +78125,169 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 38,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local023-remnant-elect",
+        "animals-heaven",
+        "recognize-family",
+        "local039-bFU8qBhbEBA-1",
+        "local041-t0Y-nJYm3tE-5",
+        "three-ages-study-material",
+        "satan-final-destruction-arnold",
+        "local041-t0Y-nJYm3tE-8",
+        "local041-t0Y-nJYm3tE-9",
+        "local025-capital-punishment",
+        "local021-strongs-language-study",
+        "communion-home"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local023-remnant-elect",
+          "start_seconds": 2249.58,
+          "end_seconds": 2351.282,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "animals-heaven",
+          "start_seconds": 2361.992,
+          "end_seconds": 2468.933,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 2453.684,
+          "end_seconds": 2547.545,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local039-bFU8qBhbEBA-1",
+          "start_seconds": 2587.251,
+          "end_seconds": 2624.655,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-t0Y-nJYm3tE-5",
+          "start_seconds": 2605.102,
+          "end_seconds": 2664.895,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-ages-study-material",
+          "start_seconds": 2641.338,
+          "end_seconds": 2739.503,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-final-destruction-arnold",
+          "start_seconds": 2809.807,
+          "end_seconds": 2928.258,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-t0Y-nJYm3tE-8",
+          "start_seconds": 2999.73,
+          "end_seconds": 3078.608,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-t0Y-nJYm3tE-9",
+          "start_seconds": 3057.32,
+          "end_seconds": 3133.296,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local025-capital-punishment",
+          "start_seconds": 3198.528,
+          "end_seconds": 3260.724,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local021-strongs-language-study",
+          "start_seconds": 3284.547,
+          "end_seconds": 3364.461,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "communion-home",
+          "start_seconds": 3360.49,
+          "end_seconds": 3407.203,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "t0Y-nJYm3tE",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "3a50febb0532801c7fb5a288b816b3fef9df6b49a0824775f32d9d17749ad07c",
+        "qa_start": 2051.182,
+        "qa_end": 3372.669,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2249.58,
+            "end": 2351.282
+          },
+          {
+            "start": 2361.992,
+            "end": 2468.933
+          },
+          {
+            "start": 2453.684,
+            "end": 2547.545
+          },
+          {
+            "start": 2587.251,
+            "end": 2624.655
+          },
+          {
+            "start": 2605.102,
+            "end": 2664.895
+          },
+          {
+            "start": 2641.338,
+            "end": 2739.503
+          },
+          {
+            "start": 2809.807,
+            "end": 2928.258
+          },
+          {
+            "start": 2999.73,
+            "end": 3078.608
+          },
+          {
+            "start": 3057.32,
+            "end": 3133.296
+          },
+          {
+            "start": 3198.528,
+            "end": 3260.724
+          },
+          {
+            "start": 3284.547,
+            "end": 3364.461
+          },
+          {
+            "start": 3360.49,
+            "end": 3407.203
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2051.182,
+            "end": 3372.669,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2051.182,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2051.182
     },
     {
       "video_id": "t1H_AdFMf-8",
@@ -76898,12 +78336,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 48,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "spirit-age-gender",
+        "forgiveness-limit",
+        "dennis-jesus-birth-date",
+        "spirit-after-death",
+        "divorce-remarriage",
+        "local020-begotten-meaning",
+        "paradise-heaven",
+        "local041-t62C7a44sV8-8",
+        "local041-t62C7a44sV8-9",
+        "home-anointing"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "spirit-age-gender",
+          "start_seconds": 2227.825,
+          "end_seconds": 2314.979,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness-limit",
+          "start_seconds": 2296.861,
+          "end_seconds": 2371.602,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dennis-jesus-birth-date",
+          "start_seconds": 2431.128,
+          "end_seconds": 2482.313,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 2825.923,
+          "end_seconds": 2860.824,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "divorce-remarriage",
+          "start_seconds": 2881.912,
+          "end_seconds": 2973.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local020-begotten-meaning",
+          "start_seconds": 2978.241,
+          "end_seconds": 3031.762,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-heaven",
+          "start_seconds": 3013.477,
+          "end_seconds": 3079.476,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-t62C7a44sV8-8",
+          "start_seconds": 3226.923,
+          "end_seconds": 3280.61,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-t62C7a44sV8-9",
+          "start_seconds": 3260.824,
+          "end_seconds": 3306.636,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 3287.417,
+          "end_seconds": 3352.248,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "t62C7a44sV8",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "9a6ab88a6dcba9e401a45fc9276d55fcd07c98b5755f63047a4f32fedeb4292b",
+        "qa_start": 2051.582,
+        "qa_end": 3374.137,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2227.825,
+            "end": 2314.979
+          },
+          {
+            "start": 2296.861,
+            "end": 2371.602
+          },
+          {
+            "start": 2431.128,
+            "end": 2482.313
+          },
+          {
+            "start": 2825.923,
+            "end": 2860.824
+          },
+          {
+            "start": 2881.912,
+            "end": 2973.67
+          },
+          {
+            "start": 2978.241,
+            "end": 3031.762
+          },
+          {
+            "start": 3013.477,
+            "end": 3079.476
+          },
+          {
+            "start": 3226.923,
+            "end": 3280.61
+          },
+          {
+            "start": 3260.824,
+            "end": 3306.636
+          },
+          {
+            "start": 3287.417,
+            "end": 3352.248
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2051.582,
+            "end": 3374.137,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2051.582,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2051.582
     },
     {
       "video_id": "t7oXf83P9k4",
@@ -77195,12 +78768,180 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 38,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "seventh-trump-change",
+        "local041-tebNsT3S0T4-2",
+        "human-curses-dennis",
+        "local023-shortened-tribulation",
+        "local041-tebNsT3S0T4-5",
+        "local041-tebNsT3S0T4-6",
+        "salvation-not-only-elect",
+        "local041-tebNsT3S0T4-8",
+        "local024-kjv-strongs",
+        "local032-f3X-ykoPcyQ-6",
+        "song-moses",
+        "local041-tebNsT3S0T4-12",
+        "local041-tebNsT3S0T4-13"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "seventh-trump-change",
+          "start_seconds": 2259.49,
+          "end_seconds": 2351.182,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-tebNsT3S0T4-2",
+          "start_seconds": 2381.312,
+          "end_seconds": 2449.013,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "human-curses-dennis",
+          "start_seconds": 2431.762,
+          "end_seconds": 2519.283,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local023-shortened-tribulation",
+          "start_seconds": 2573.137,
+          "end_seconds": 2672.202,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-tebNsT3S0T4-5",
+          "start_seconds": 2659.123,
+          "end_seconds": 2730.894,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-tebNsT3S0T4-6",
+          "start_seconds": 2708.272,
+          "end_seconds": 2784.848,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "salvation-not-only-elect",
+          "start_seconds": 2847.911,
+          "end_seconds": 2893.924,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-tebNsT3S0T4-8",
+          "start_seconds": 2938.568,
+          "end_seconds": 2992.322,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-kjv-strongs",
+          "start_seconds": 2993.757,
+          "end_seconds": 3050.614,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-f3X-ykoPcyQ-6",
+          "start_seconds": 3040.837,
+          "end_seconds": 3095.125,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "song-moses",
+          "start_seconds": 3185.148,
+          "end_seconds": 3253.083,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-tebNsT3S0T4-12",
+          "start_seconds": 3239.135,
+          "end_seconds": 3287.05,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-tebNsT3S0T4-13",
+          "start_seconds": 3270.0,
+          "end_seconds": 3332.462,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "tebNsT3S0T4",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "e2fbd0b209595cdca41339f613a9783aa61c0f4cacfec3a3e18050fa4c7223a2",
+        "qa_start": 2055.853,
+        "qa_end": 3370.433,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2259.49,
+            "end": 2351.182
+          },
+          {
+            "start": 2381.312,
+            "end": 2449.013
+          },
+          {
+            "start": 2431.762,
+            "end": 2519.283
+          },
+          {
+            "start": 2573.137,
+            "end": 2672.202
+          },
+          {
+            "start": 2659.123,
+            "end": 2730.894
+          },
+          {
+            "start": 2708.272,
+            "end": 2784.848
+          },
+          {
+            "start": 2847.911,
+            "end": 2893.924
+          },
+          {
+            "start": 2938.568,
+            "end": 2992.322
+          },
+          {
+            "start": 2993.757,
+            "end": 3050.614
+          },
+          {
+            "start": 3040.837,
+            "end": 3095.125
+          },
+          {
+            "start": 3185.148,
+            "end": 3253.083
+          },
+          {
+            "start": 3239.135,
+            "end": 3287.05
+          },
+          {
+            "start": 3270.0,
+            "end": 3332.462
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2055.853,
+            "end": 3370.433,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2055.853,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2055.853
     },
     {
       "video_id": "tyNUplR7tJQ",
@@ -77467,12 +79208,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-uCDiC-VLB5U-1",
+        "seventh-trump-change",
+        "who-forgives-sin",
+        "local041-uCDiC-VLB5U-4",
+        "local014-urim-thummim",
+        "local017-hate-esau",
+        "local040-amL9QTpSErg-2",
+        "chapter-verse-study-method",
+        "local027-atRTVutxlkQ-locust-army",
+        "local041-uEw2Hb_xsBA-9",
+        "local041-uCDiC-VLB5U-11",
+        "local041-uCDiC-VLB5U-12",
+        "local041-uCDiC-VLB5U-13",
+        "baptism-false-minister"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-uCDiC-VLB5U-1",
+          "start_seconds": 2232.863,
+          "end_seconds": 2354.352,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "seventh-trump-change",
+          "start_seconds": 2426.357,
+          "end_seconds": 2526.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "who-forgives-sin",
+          "start_seconds": 2505.336,
+          "end_seconds": 2551.515,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uCDiC-VLB5U-4",
+          "start_seconds": 2554.952,
+          "end_seconds": 2655.285,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-urim-thummim",
+          "start_seconds": 2634.398,
+          "end_seconds": 2743.107,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local017-hate-esau",
+          "start_seconds": 2778.942,
+          "end_seconds": 2889.686,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-amL9QTpSErg-2",
+          "start_seconds": 2870.5,
+          "end_seconds": 2967.798,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "chapter-verse-study-method",
+          "start_seconds": 2952.683,
+          "end_seconds": 2994.791,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local027-atRTVutxlkQ-locust-army",
+          "start_seconds": 2978.108,
+          "end_seconds": 3044.508,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-9",
+          "start_seconds": 3032.963,
+          "end_seconds": 3088.151,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uCDiC-VLB5U-11",
+          "start_seconds": 3090.087,
+          "end_seconds": 3168.532,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uCDiC-VLB5U-12",
+          "start_seconds": 3164.227,
+          "end_seconds": 3201.665,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uCDiC-VLB5U-13",
+          "start_seconds": 3184.848,
+          "end_seconds": 3259.656,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-false-minister",
+          "start_seconds": 3242.606,
+          "end_seconds": 3341.338,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "uCDiC-VLB5U",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "2958489120d7301264eb92898446a3323b571eab40e421f907d51b257e8acec0",
+        "qa_start": 2050.648,
+        "qa_end": 3371.067,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2232.863,
+            "end": 2354.352
+          },
+          {
+            "start": 2426.357,
+            "end": 2526.69
+          },
+          {
+            "start": 2505.336,
+            "end": 2551.515
+          },
+          {
+            "start": 2554.952,
+            "end": 2655.285
+          },
+          {
+            "start": 2634.398,
+            "end": 2743.107
+          },
+          {
+            "start": 2778.942,
+            "end": 2889.686
+          },
+          {
+            "start": 2870.5,
+            "end": 2967.798
+          },
+          {
+            "start": 2952.683,
+            "end": 2994.791
+          },
+          {
+            "start": 2978.108,
+            "end": 3044.508
+          },
+          {
+            "start": 3032.963,
+            "end": 3088.151
+          },
+          {
+            "start": 3090.087,
+            "end": 3168.532
+          },
+          {
+            "start": 3164.227,
+            "end": 3201.665
+          },
+          {
+            "start": 3184.848,
+            "end": 3259.656
+          },
+          {
+            "start": 3242.606,
+            "end": 3341.338
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2050.648,
+            "end": 3371.067,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2050.648,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2050.648
     },
     {
       "video_id": "uEw2Hb_xsBA",
@@ -77485,12 +79405,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 37,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-uEw2Hb_xsBA-1",
+        "local041-uEw2Hb_xsBA-2",
+        "local041-uEw2Hb_xsBA-3",
+        "local041-uEw2Hb_xsBA-4",
+        "throne-vehicles-ezekiel",
+        "local041-uEw2Hb_xsBA-6",
+        "elect-chosen",
+        "local041-uEw2Hb_xsBA-8",
+        "local041-uEw2Hb_xsBA-9",
+        "local041-uEw2Hb_xsBA-10",
+        "local041-uEw2Hb_xsBA-11",
+        "local014-god-promises",
+        "recognize-family",
+        "local027-eDNFAjBodcM-satan-first"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-uEw2Hb_xsBA-1",
+          "start_seconds": 2169.867,
+          "end_seconds": 2239.837,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-2",
+          "start_seconds": 2229.227,
+          "end_seconds": 2361.826,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-3",
+          "start_seconds": 2468.165,
+          "end_seconds": 2561.258,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-4",
+          "start_seconds": 2544.842,
+          "end_seconds": 2596.694,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "throne-vehicles-ezekiel",
+          "start_seconds": 2573.103,
+          "end_seconds": 2655.819,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-6",
+          "start_seconds": 2693.557,
+          "end_seconds": 2777.808,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-chosen",
+          "start_seconds": 2773.837,
+          "end_seconds": 2829.793,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-8",
+          "start_seconds": 2819.249,
+          "end_seconds": 2911.341,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-9",
+          "start_seconds": 2992.289,
+          "end_seconds": 3039.369,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-10",
+          "start_seconds": 3039.369,
+          "end_seconds": 3113.677,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-uEw2Hb_xsBA-11",
+          "start_seconds": 3146.309,
+          "end_seconds": 3184.981,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-god-promises",
+          "start_seconds": 3171.601,
+          "end_seconds": 3224.321,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 3209.573,
+          "end_seconds": 3259.089,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local027-eDNFAjBodcM-satan-first",
+          "start_seconds": 3241.338,
+          "end_seconds": 3316.446,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "uEw2Hb_xsBA",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "cb9ef6d322e93bf3976c89e18f29a8adfa6890c98bf206a28e1a8864d66ee75f",
+        "qa_start": 2051.082,
+        "qa_end": 3372.202,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2169.867,
+            "end": 2239.837
+          },
+          {
+            "start": 2229.227,
+            "end": 2361.826
+          },
+          {
+            "start": 2468.165,
+            "end": 2561.258
+          },
+          {
+            "start": 2544.842,
+            "end": 2596.694
+          },
+          {
+            "start": 2573.103,
+            "end": 2655.819
+          },
+          {
+            "start": 2693.557,
+            "end": 2777.808
+          },
+          {
+            "start": 2773.837,
+            "end": 2829.793
+          },
+          {
+            "start": 2819.249,
+            "end": 2911.341
+          },
+          {
+            "start": 2992.289,
+            "end": 3039.369
+          },
+          {
+            "start": 3039.369,
+            "end": 3113.677
+          },
+          {
+            "start": 3146.309,
+            "end": 3184.981
+          },
+          {
+            "start": 3171.601,
+            "end": 3224.321
+          },
+          {
+            "start": 3209.573,
+            "end": 3259.089
+          },
+          {
+            "start": 3241.338,
+            "end": 3316.446
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2051.082,
+            "end": 3372.202,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2051.082,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2051.082
     },
     {
       "video_id": "uHqOA6j9NDM",
@@ -77863,12 +79962,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 42,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-uEw2Hb_xsBA-6",
+        "local041-vAVjBivwq_U-2",
+        "heaven-half-hour",
+        "local024-dennis-preach",
+        "local041-vAVjBivwq_U-5",
+        "gulf-before-final-judgment",
+        "local041-vAVjBivwq_U-7",
+        "fallen-angels-restraint",
+        "local041-vAVjBivwq_U-9",
+        "local023-maschil"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-uEw2Hb_xsBA-6",
+          "start_seconds": 2204.335,
+          "end_seconds": 2264.228,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vAVjBivwq_U-2",
+          "start_seconds": 2264.228,
+          "end_seconds": 2341.405,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "heaven-half-hour",
+          "start_seconds": 2416.781,
+          "end_seconds": 2510.774,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-dennis-preach",
+          "start_seconds": 2491.956,
+          "end_seconds": 2567.731,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vAVjBivwq_U-5",
+          "start_seconds": 2638.435,
+          "end_seconds": 2698.262,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-before-final-judgment",
+          "start_seconds": 3001.698,
+          "end_seconds": 3073.737,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vAVjBivwq_U-7",
+          "start_seconds": 3054.284,
+          "end_seconds": 3125.655,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fallen-angels-restraint",
+          "start_seconds": 3204.034,
+          "end_seconds": 3292.289,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vAVjBivwq_U-9",
+          "start_seconds": 3277.707,
+          "end_seconds": 3348.511,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local023-maschil",
+          "start_seconds": 3327.524,
+          "end_seconds": 3396.76,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "vAVjBivwq_U",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "4ed28472734ea7c9027c9b34126c214c73af0b7ed0d436f3bdb62b7bcc84009e",
+        "qa_start": 2050.748,
+        "qa_end": 3373.67,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2204.335,
+            "end": 2264.228
+          },
+          {
+            "start": 2264.228,
+            "end": 2341.405
+          },
+          {
+            "start": 2416.781,
+            "end": 2510.774
+          },
+          {
+            "start": 2491.956,
+            "end": 2567.731
+          },
+          {
+            "start": 2638.435,
+            "end": 2698.262
+          },
+          {
+            "start": 3001.698,
+            "end": 3073.737
+          },
+          {
+            "start": 3054.284,
+            "end": 3125.655
+          },
+          {
+            "start": 3204.034,
+            "end": 3292.289
+          },
+          {
+            "start": 3277.707,
+            "end": 3348.511
+          },
+          {
+            "start": 3327.524,
+            "end": 3396.76
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2050.748,
+            "end": 3373.67,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2050.748,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2050.748
     },
     {
       "video_id": "vG7UatVrvoo",
@@ -77881,12 +80115,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 3,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-vG7UatVrvoo-1",
+        "body-donation",
+        "local019-smoking-health",
+        "local013-fifth-trump",
+        "local041-vG7UatVrvoo-5",
+        "elect-recognition",
+        "local041-vG7UatVrvoo-7",
+        "local026-strong-editions",
+        "local041-vG7UatVrvoo-9",
+        "local041-vG7UatVrvoo-10",
+        "local041-vG7UatVrvoo-11",
+        "easter-word",
+        "local015-mental-illness",
+        "local041-vG7UatVrvoo-14"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-vG7UatVrvoo-1",
+          "start_seconds": 2192.04,
+          "end_seconds": 2271.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "body-donation",
+          "start_seconds": 2280.08,
+          "end_seconds": 2367.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-smoking-health",
+          "start_seconds": 2346.76,
+          "end_seconds": 2385.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local013-fifth-trump",
+          "start_seconds": 2414.2,
+          "end_seconds": 2459.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-5",
+          "start_seconds": 2512.2,
+          "end_seconds": 2560.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "elect-recognition",
+          "start_seconds": 2609.92,
+          "end_seconds": 2703.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-7",
+          "start_seconds": 2684.76,
+          "end_seconds": 2772.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-strong-editions",
+          "start_seconds": 2754.04,
+          "end_seconds": 2878.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-9",
+          "start_seconds": 2853.36,
+          "end_seconds": 2936.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-10",
+          "start_seconds": 2966.36,
+          "end_seconds": 3032.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-11",
+          "start_seconds": 3005.64,
+          "end_seconds": 3058.36,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "easter-word",
+          "start_seconds": 3023.2,
+          "end_seconds": 3094.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local015-mental-illness",
+          "start_seconds": 3212.88,
+          "end_seconds": 3279.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-14",
+          "start_seconds": 3295.28,
+          "end_seconds": 3358.68,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "vG7UatVrvoo",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "54f1d0a578e52409be4266c2e65d53c8d5083dac47a2bfde07c7bf11f851f5a6",
+        "qa_start": 2057.92,
+        "qa_end": 3374.12,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2192.04,
+            "end": 2271.6
+          },
+          {
+            "start": 2280.08,
+            "end": 2367.16
+          },
+          {
+            "start": 2346.76,
+            "end": 2385.68
+          },
+          {
+            "start": 2414.2,
+            "end": 2459.88
+          },
+          {
+            "start": 2512.2,
+            "end": 2560.2
+          },
+          {
+            "start": 2609.92,
+            "end": 2703.72
+          },
+          {
+            "start": 2684.76,
+            "end": 2772.72
+          },
+          {
+            "start": 2754.04,
+            "end": 2878.88
+          },
+          {
+            "start": 2853.36,
+            "end": 2936.16
+          },
+          {
+            "start": 2966.36,
+            "end": 3032.44
+          },
+          {
+            "start": 3005.64,
+            "end": 3058.36
+          },
+          {
+            "start": 3023.2,
+            "end": 3094.56
+          },
+          {
+            "start": 3212.88,
+            "end": 3279.88
+          },
+          {
+            "start": 3295.28,
+            "end": 3358.68
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2057.92,
+            "end": 3374.12,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2057.92,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2057.92
     },
     {
       "video_id": "vNspOM2avts",
@@ -78596,12 +81009,169 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 35,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local041-xPYvR1WzNEo-1",
+        "women-teaching",
+        "local009-kill-war",
+        "local041-xPYvR1WzNEo-4",
+        "assurance-forgiveness",
+        "local040-tyNUplR7tJQ-5",
+        "local041-xPYvR1WzNEo-7",
+        "gulf-before-final-judgment",
+        "local040-xLsS9-mt4Zk-10",
+        "local041-xPYvR1WzNEo-10",
+        "local040-cxeS6qzz_nA-5",
+        "local041-xPYvR1WzNEo-12"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local041-xPYvR1WzNEo-1",
+          "start_seconds": 2184.014,
+          "end_seconds": 2249.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-teaching",
+          "start_seconds": 2239.737,
+          "end_seconds": 2349.146,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local009-kill-war",
+          "start_seconds": 2327.891,
+          "end_seconds": 2393.29,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-xPYvR1WzNEo-4",
+          "start_seconds": 2586.516,
+          "end_seconds": 2624.921,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "assurance-forgiveness",
+          "start_seconds": 2752.482,
+          "end_seconds": 2816.313,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-tyNUplR7tJQ-5",
+          "start_seconds": 2796.926,
+          "end_seconds": 2845.541,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-xPYvR1WzNEo-7",
+          "start_seconds": 2854.151,
+          "end_seconds": 2915.012,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "gulf-before-final-judgment",
+          "start_seconds": 2904.601,
+          "end_seconds": 2978.474,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-xLsS9-mt4Zk-10",
+          "start_seconds": 2972.335,
+          "end_seconds": 3045.107,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-xPYvR1WzNEo-10",
+          "start_seconds": 2989.552,
+          "end_seconds": 3029.792,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-cxeS6qzz_nA-5",
+          "start_seconds": 3039.202,
+          "end_seconds": 3096.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-xPYvR1WzNEo-12",
+          "start_seconds": 3358.187,
+          "end_seconds": 3397.193,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "xPYvR1WzNEo",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "5082b732c3f597793a9c6125956f878bafdf7ecdd1102f2f0da92f59919fec3a",
+        "qa_start": 2052.35,
+        "qa_end": 3370.899,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2184.014,
+            "end": 2249.98
+          },
+          {
+            "start": 2239.737,
+            "end": 2349.146
+          },
+          {
+            "start": 2327.891,
+            "end": 2393.29
+          },
+          {
+            "start": 2586.516,
+            "end": 2624.921
+          },
+          {
+            "start": 2752.482,
+            "end": 2816.313
+          },
+          {
+            "start": 2796.926,
+            "end": 2845.541
+          },
+          {
+            "start": 2854.151,
+            "end": 2915.012
+          },
+          {
+            "start": 2904.601,
+            "end": 2978.474
+          },
+          {
+            "start": 2972.335,
+            "end": 3045.107
+          },
+          {
+            "start": 2989.552,
+            "end": 3029.792
+          },
+          {
+            "start": 3039.202,
+            "end": 3096.359
+          },
+          {
+            "start": 3358.187,
+            "end": 3397.193
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2052.35,
+            "end": 3370.899,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2052.35,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2052.35
     },
     {
       "video_id": "xQzIVdAHjeA",
@@ -78965,12 +81535,169 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 32,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "song-moses",
+        "dinosaurs-human-fossils",
+        "local026-work-heaven",
+        "local040-mCMQpZuIOkI-5",
+        "local041-yMt01eWaa98-5",
+        "local041-yMt01eWaa98-6",
+        "local041-yMt01eWaa98-7",
+        "local026-forgive-distance",
+        "local041-yMt01eWaa98-9",
+        "spirit-after-death",
+        "local041-yMt01eWaa98-11",
+        "local024-kjv-strongs"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "song-moses",
+          "start_seconds": 2187.618,
+          "end_seconds": 2275.239,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dinosaurs-human-fossils",
+          "start_seconds": 2252.25,
+          "end_seconds": 2321.886,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-work-heaven",
+          "start_seconds": 2383.547,
+          "end_seconds": 2432.062,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-mCMQpZuIOkI-5",
+          "start_seconds": 2449.18,
+          "end_seconds": 2573.07,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-yMt01eWaa98-5",
+          "start_seconds": 2587.484,
+          "end_seconds": 2628.492,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-yMt01eWaa98-6",
+          "start_seconds": 2612.309,
+          "end_seconds": 2674.004,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-yMt01eWaa98-7",
+          "start_seconds": 2690.554,
+          "end_seconds": 2761.258,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-forgive-distance",
+          "start_seconds": 3168.665,
+          "end_seconds": 3229.092,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-yMt01eWaa98-9",
+          "start_seconds": 3240.637,
+          "end_seconds": 3294.09,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-after-death",
+          "start_seconds": 3274.537,
+          "end_seconds": 3314.444,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-yMt01eWaa98-11",
+          "start_seconds": 3295.458,
+          "end_seconds": 3357.754,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-kjv-strongs",
+          "start_seconds": 3336.566,
+          "end_seconds": 3366.596,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "yMt01eWaa98",
+        "teacher": "Dennis Murray",
+        "transcript_sha256": "c775b1f9424e6aa6adf9bd94f8118bb14221fe3d24ad4a1649d584f0e2326fbd",
+        "qa_start": 2051.282,
+        "qa_end": 3371.634,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2187.618,
+            "end": 2275.239
+          },
+          {
+            "start": 2252.25,
+            "end": 2321.886
+          },
+          {
+            "start": 2383.547,
+            "end": 2432.062
+          },
+          {
+            "start": 2449.18,
+            "end": 2573.07
+          },
+          {
+            "start": 2587.484,
+            "end": 2628.492
+          },
+          {
+            "start": 2612.309,
+            "end": 2674.004
+          },
+          {
+            "start": 2690.554,
+            "end": 2761.258
+          },
+          {
+            "start": 3168.665,
+            "end": 3229.092
+          },
+          {
+            "start": 3240.637,
+            "end": 3294.09
+          },
+          {
+            "start": 3274.537,
+            "end": 3314.444
+          },
+          {
+            "start": 3295.458,
+            "end": 3357.754
+          },
+          {
+            "start": 3336.566,
+            "end": 3366.596
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2051.282,
+            "end": 3371.634,
+            "reason": "Remaining listener questions, speculative claims and ambiguous references require reconciliation; do not repeat approved passages."
+          }
+        ],
+        "cursor_seconds": 2051.282,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-28",
+        "basis": "Targeted saved-caption passages reviewed, named teacher introductions checked; full section and audio remain pending."
+      },
+      "cursor_seconds": 2051.282
     },
     {
       "video_id": "yPBwaMsS_6k",
@@ -81430,13 +84157,13 @@
   ],
   "review": {
     "available": 1360,
-    "partially_reviewed": 452,
+    "partially_reviewed": 470,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 1360,
     "teacher_pending": 65,
-    "pending": 823,
+    "pending": 805,
     "source_changed": 0,
-    "question_occurrences": 5780
+    "question_occurrences": 5987
   }
 }
