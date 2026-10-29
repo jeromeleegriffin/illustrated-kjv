@@ -1,0 +1,18 @@
+{
+  "batch": "topical-transcripts011",
+  "incoming_recordings": 367,
+  "new_private_transcripts": 331,
+  "overlapping_recordings": 36,
+  "overlaps_segments_identical": 0,
+  "new_catalog_links": 0,
+  "catalog_total": 1532,
+  "catalog_saved_caption_recordings": 396,
+  "private_corpus_total": 1691,
+  "raw_caption_files": 403,
+  "new_faq_answers": 0,
+  "full_section_reviews": 0,
+  "audio_verified": false,
+  "existing_source_files_unchanged": true,
+  "teacher_policy": "Existing catalog attributions preserved; imported metadata-only and automatic observed labels not promoted to independent verification.",
+  "status": "imported_pending_publication"
+}

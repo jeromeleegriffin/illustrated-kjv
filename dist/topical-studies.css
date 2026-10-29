@@ -11,3 +11,6 @@ body.topical-pages{padding-top:calc(72px + env(safe-area-inset-top));padding-bot
 .topical-pages .pagination button:first-child{justify-self:start}.topical-pages .pagination button:last-child{justify-self:end}
 .topical-pages .pagination span{font-size:.78rem;line-height:1.2;white-space:nowrap;text-align:center;font-variant-numeric:tabular-nums}
 @media(max-width:500px){.topical-pages .pagination{grid-template-columns:minmax(0,1fr) 106px minmax(0,1fr)}.topical-pages .pagination button{font-size:.8rem;padding:10px 6px}.topical-pages .pagination span{font-size:.72rem}}
+
+.caption-status{display:block;font-size:.75rem;color:#63746b;margin-top:3px;font-weight:400}
+
