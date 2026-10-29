@@ -1,0 +1,29 @@
+{
+  "batch": "local051",
+  "workflow": "Returned Grok A candidates independently reconciled against saved captions; separate from new extraction",
+  "assignment_id": "griffin-faq-grok-300-20261024-A",
+  "new_linked_answers": 317,
+  "new_question_groups": 117,
+  "total_question_groups": 5183,
+  "total_linked_answers": 8643,
+  "recordings": 20,
+  "new_recordings": 20,
+  "teacher_answers": {
+    "Arnold Murray": 317
+  },
+  "review_counts": {
+    "available": 1360,
+    "partially_reviewed": 601,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 1360,
+    "teacher_pending": 65,
+    "pending": 674,
+    "source_changed": 0,
+    "question_occurrences": 8596
+  },
+  "invalid_approvals": [],
+  "audio_verified": false,
+  "status": "reviewed_pending_publication",
+  "validation": "All 1360 source hashes unchanged. Original registry arrays preserved as exact prefixes. 317 distinct new question-recording pairs, original cue anchors, assigned-return hashes, other reservations including underlying aliases and frequency ordering checked. Four Python tests and both navigation suites pass. All20 remain partial, teacher identification follows saved catalog and caption intros, independent audio/presenter verification pending. Private captions and evidence excluded."
+}
