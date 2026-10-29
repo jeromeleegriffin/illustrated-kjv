@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,183 question groups and 8,643 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,291 question groups and 8,992 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 601 remain partially reviewed, 674 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 621 remain partially reviewed, 654 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -18,7 +18,7 @@ Publish only the six FAQ assets using the separate FAQ release pin on the existi
 
 ## External extraction assignments
 
-Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A has returned 300 result files with 4,641 question candidates in checkpoint 042. All hashes and caption anchors passed independent structural checks. Ninety-four result recordings have received independent semantic passage review with 1,516 approved linked answers; 205 await first semantic review and one incomplete export remains blocked. Earlier candidate-level dispositions are retained privately. These results are reserved for reconciliation, not blanket-approved. External completion claims never replace current reviewed statuses. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
+Before selecting another new recording batch, inspect `external-review-assignments.json`. Set griffin-faq-grok-300-20261024-A has returned 300 result files with 4,641 question candidates in checkpoint 042. All hashes and caption anchors passed independent structural checks. One hundred fourteen result recordings have received independent semantic passage review with 1,865 approved linked answers; 185 await first semantic review and one incomplete export remains blocked. Earlier candidate-level dispositions are retained privately. These results are reserved for reconciliation, not blanket-approved. External completion claims never replace current reviewed statuses. Imported results must retain their source hashes, caption evidence, full-Q&A coverage and precise cursor; structural validation alone does not approve teaching paraphrases or confirm speakers.
 
 ## Attribution hold
 
@@ -316,3 +316,11 @@ All20remainpartial and audio-pending. Unanswered numeric requests, unclear pronu
 Adds 317 caption-reviewed Arnold Murray linked answers and 117 question groups from20 further returned Grok A recordings. Totals:5,183groups,8,643links,8,596distinct question-recording pairs. A now has94recordings with independent semantic passage review,205awaiting and1,516approvedlinks. This is returned-candidate reconciliation, separate from fresh extraction; other assignment objects remain unchanged.
 
 All20remain partial and audio-pending. Original captions, returned candidates and precise passage evidence stay private. One repeated Mark16topic within a recording counts once; a substantially repeated whole recording was excluded during selection. Unread questions, incomplete answers, unclear citations, speculative chronology and unverified factual claims retain holds and qualifications. All1360source hashes and older registry prefixes are unchanged. FourPython tests and both navigation suites pass. Publishonly FAQ assets and FAQ_RELEASE.
+
+
+
+## Local batch 052
+
+Adds349 caption-reviewed Arnold Murray linked answers and108question groups from20additional returned Grok A recordings. Totals5,291groups8,992links8,945distinct question-recording pairs. A now has114recordings with independent semantic passage review,185awaiting and1,865approvedlinks; other assignment objects remain unchanged. Returned-candidate reconciliation is separate from fresh extraction.
+
+All20remain partial and audio-pending. Two repeated same-recording topics are excluded. Unread questions, incomplete replies, incorrect references and uncertain captions retain private original-cue holds. Source-specific qualifications preserve transplant permission versus personal preference, changing false-prophet identifications and lead-time speculation, and the stated ethnos qualification to millennium ministry. Scientific, medical, historical and legal claims are attributed rather than treated as independently verified. All1360source files remain unchanged and prior registry arrays remain exact prefixes. FourPython tests and both navigation suites pass. PublishonlyFAQassets and FAQ_RELEASE.
