@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,331 question groups and 9,078 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,577 question groups and 9,476 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 627 remain partially reviewed, 648 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 790 remain partially reviewed, 485 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -31,7 +31,7 @@ The39-answer Dennis checkpoint libfile_3a9e3631e500819183ae10f3f780a8e2 has been
 
 ## Second external assignment
 
-Set `griffin-faq-grok-300-20261025-B` reserves another 300 previously unreviewed Arnold Murray passage exports, excluding assignment A, reviewed records, known alias groups and attribution holds. Package: `Griffin_Grok_FAQ_300_Recordings_002.zip`. All 300 remain pending; preparation is not a completed review and does not change published FAQ counts. The package supplies untouched transcripts, cue-indexed reading aids, the full prompt and tested structural validators. Actual presenter, source completeness and semantics still require review.
+Set `griffin-faq-grok-300-20261025-B` reserves another 300 previously unreviewed Arnold Murray passage exports, excluding assignment A, reviewed records, known alias groups and attribution holds. Package: `Griffin_Grok_FAQ_300_Recordings_002.zip`. Checkpoint 056 returned 4,908 candidates. After local055, 163 recording files have received independent partial semantic passage review with 398 approved linked answers; 137 await first semantic review. These are not complete-section or audio certifications. Preparation and extraction alone never approve answers. The package supplies untouched transcripts, cue-indexed reading aids, the full prompt and tested structural validators. Actual presenter, source completeness and semantics still require review.
 
 
 ## Cross-recording difference
@@ -340,3 +340,10 @@ All six remain partial and audio-pending. One repeated same-recording topic is e
 Adds 78 caption-reviewed Arnold Murray linked answers and 34 question groups from six returned Grok B recordings. Totals: 5365 groups, 9156 links, 9109 distinct question-recording pairs. All six remain partial and audio-pending. The other 294 Grok B recordings await first independent semantic review. Grok A and other reservations are unchanged.
 
 All 300 returned recording identities and hashes match assignment B and saved sources. The returned 4,908 extracted questions are candidates, not publication approvals; the returned complete-section flags are not adopted. Unread questions, uncertain citations, incomplete replies and contextual holds retain exact original cue cursors privately. All 1,360 saved transcript hashes match the existing ledger. Prior registry arrays remain exact prefixes. Only FAQ assets and FAQ_RELEASE are published.
+
+
+## Local batch055
+
+Adds 320 caption-reviewed Arnold Murray linked answers and 212 question groups by directly checking complete short question-to-reply passages from the saved Grok B return056. These are partial passage reviews, not complete Q&A-section reviews. Totals: 5577 groups, 9476 links and 9429 distinct question-recording pairs.
+
+Repeated recordings and same-recording topics are excluded. Unread, incomplete, uncertain, rhetorical and deferred material retains private original cue cursors. Source-specific opinions and chronology remain qualified. All1360 source hashes, earlier registry prefixes and public answers are preserved; Grok A and unrelated reservations are unchanged. Audio verification remains pending. Only FAQ assets and FAQ_RELEASE are published.
