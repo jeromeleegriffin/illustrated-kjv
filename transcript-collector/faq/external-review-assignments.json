@@ -3346,19 +3346,19 @@
         "received_recordings": 300,
         "received_question_candidates": 4908,
         "source_hash_conflicts": 0,
-        "semantically_reviewed_recordings": 207,
-        "awaiting_first_semantic_review": 93,
-        "approved_linked_answers": 726,
+        "semantically_reviewed_recordings": 228,
+        "awaiting_first_semantic_review": 72,
+        "approved_linked_answers": 1085,
         "complete_sections_certified_in_this_pass": 0,
-        "latest_reconciliation_batch": "local056",
+        "latest_reconciliation_batch": "local057",
         "review_status": "partial_caption_passage_review_audio_pending",
         "held_candidate_count": 27,
-        "latest_reconciliation_linked_answers": 328,
-        "latest_reconciliation_recordings": 157,
-        "latest_pass_held_or_excluded_candidates": 62,
+        "latest_reconciliation_linked_answers": 359,
+        "latest_reconciliation_recordings": 167,
+        "latest_pass_held_or_excluded_candidates": 46,
         "held_count_scope": "Pass-local candidate decisions; not a count of complete sections or all unresolved questions.",
         "legacy_held_candidate_count_scope": "held_candidate_count27 is from local054 only; latest_pass_held_or_excluded_candidates230 belongs to local055.",
-        "latest_reconciliation_new_recordings": 44
+        "latest_reconciliation_new_recordings": 21
       }
     },
     {
