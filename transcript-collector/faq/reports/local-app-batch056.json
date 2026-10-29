@@ -44,5 +44,6 @@
   "preservation": "Prior registry arrays and public answers preserved. All1360 original source hashes unchanged. Only saved-caption passage review; no new collection, full-section or audio certification.",
   "grok_progress_clarification": "Accepted partial passage reconciliation is not complete-section review. The conservative remaining count includes repetition-screen holds; it is not a count of wholly uninspected files.",
   "recordings_with_added_answers": 157,
-  "grouping_correction": "Semper Fidelis answer consolidated with existing Semper Fi group after live UI review; no answer removed or counted twice."
+  "grouping_correction": "Semper Fidelis answer consolidated with existing Semper Fi group after live UI review; no answer removed or counted twice.",
+  "browser_asset_version": "094"
 }
