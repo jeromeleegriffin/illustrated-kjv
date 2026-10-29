@@ -332,3 +332,11 @@ All20remain partial and audio-pending. Two repeated same-recording topics are ex
 Adds 86 caption-reviewed Arnold Murray linked answers and 40 question groups from six additional returned Grok A recordings. Totals: 5,331 groups, 9,078 links, 9,031 distinct question-recording pairs. A now has 120 recordings with independent semantic passage review, 179 awaiting and 1,951 approved links. Other assignment objects remain unchanged.
 
 All six remain partial and audio-pending. One repeated same-recording topic is excluded. Two substantially repeated recordings were screened out. Deferred replies, unread letters and uncertain references retain private original-cue holds. Flood explanations and prayer qualifications remain source-specific. Historical political, Y2K and study-resource remarks are not represented as current information; medical and genealogical speculation is attributed. Arnold answers are kept out of questions explicitly about Dennis. All 1,360 saved sources remain unchanged, and prior registry arrays remain exact prefixes. Four Python tests and both navigation suites pass. Only FAQ assets and the FAQ_RELEASE pin are published.
+
+
+
+## Local batch 054 — Checkpoint 056 reconciliation
+
+Adds 78 caption-reviewed Arnold Murray linked answers and 34 question groups from six returned Grok B recordings. Totals: 5365 groups, 9156 links, 9109 distinct question-recording pairs. All six remain partial and audio-pending. The other 294 Grok B recordings await first independent semantic review. Grok A and other reservations are unchanged.
+
+All 300 returned recording identities and hashes match assignment B and saved sources. The returned 4,908 extracted questions are candidates, not publication approvals; the returned complete-section flags are not adopted. Unread questions, uncertain citations, incomplete replies and contextual holds retain exact original cue cursors privately. All 1,360 saved transcript hashes match the existing ledger. Prior registry arrays remain exact prefixes. Only FAQ assets and FAQ_RELEASE are published.

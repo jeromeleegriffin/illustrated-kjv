@@ -3340,7 +3340,20 @@
           "transcript_sha256": "e79f4f7bc1c277a6bd961d745b19fbc1eec5d0ff03be5d904febd7831f0ca813",
           "recording_group": "Yte1Ibe70Ug"
         }
-      ]
+      ],
+      "return_summary": {
+        "checkpoint": "Griffin_FAQ_300B_Checkpoint_056.zip",
+        "received_recordings": 300,
+        "received_question_candidates": 4908,
+        "source_hash_conflicts": 0,
+        "semantically_reviewed_recordings": 6,
+        "awaiting_first_semantic_review": 294,
+        "approved_linked_answers": 78,
+        "complete_sections_certified_in_this_pass": 0,
+        "latest_reconciliation_batch": "local054",
+        "review_status": "partial_caption_review_audio_pending",
+        "held_candidate_count": 27
+      }
     },
     {
       "assignment_id": "griffin-local-faq-20261026-002",
