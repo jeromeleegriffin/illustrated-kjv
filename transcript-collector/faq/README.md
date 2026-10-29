@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,890 question groups and 10,163 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,955 question groups and 10,299 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 855 remain partially reviewed, 420 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,691 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 858 remain partially reviewed, 419 await passage/supplement review and 394 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -361,3 +361,13 @@ Repeated recordings and same-recording topics are excluded. Unread, incomplete, 
 Adds 359 caption-reviewed Arnold Murray linked answers and 170 question groups by directly checking complete short question-to-reply passages from the saved Grok B return056. These are partial passage reviews, not complete Q&A-section reviews. Totals: 5890 groups, 10163 links and 10116 distinct question-recording pairs.
 
 Repeated recordings and same-recording topics are excluded. Unread, incomplete, uncertain, rhetorical and deferred material retains private original cue cursors. Source-specific opinions and chronology remain qualified. All1360 source hashes, earlier registry prefixes and public answers are preserved; Grok A and unrelated reservations are unchanged. Audio verification remains pending. Only FAQ assets and FAQ_RELEASE are published.
+
+
+## Local batches 058 and 059
+
+Batch058 adds 109 caption-reviewed Arnold answer links and 51 question groups from returned Grok B candidates. Its pending checkpoint is included in this publication, retaining all holds and assignment state.
+
+Batch059 adds 27 caption-reviewed Arnold answer links and 14 question groups from the uploaded topical recordings Ra8dEf10S8I and 3Qo7iBSOBFM (Most Asked Questions, Parts1–2). Original program captions independently identify Arnold. Topical approvals now require explicit hash-bound caption attribution; imported metadata alone cannot promote a source. Neither section is certified complete and audio remains unverified. Twenty-one passage holds include eight proposals from uPcg_ZdlANE whose Q&A repeats reserved BOuoDp97QjY; they are not approved or counted. Three existing question titles are made teacher-neutral for attributed variants, with their previous titles retained. Original transcripts and all external assignments are preserved.
+
+Five Python tests and both existing navigation suites pass. All prior answers and source links remain, frequency and rank checks pass, and the topical release stays unchanged. Totals:5955 groups,10299 linked answers,10252 distinct question-recording pairs.
+
