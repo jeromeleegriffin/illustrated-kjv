@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-29T15:32:23.717655+00:00",
+  "updated": "2026-10-29T15:37:10.310178+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -49842,7 +49842,7 @@
         "local055-Nc1p659Qkjw-516",
         "local056-Nc1p659Qkjw-64",
         "local030-4ssJFUI3avY-8",
-        "local056-Nc1p659Qkjw-351"
+        "local023-semper-fi"
       ],
       "reviewed_ranges": [
         {
@@ -49876,7 +49876,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local056-Nc1p659Qkjw-351",
+          "question_id": "local023-semper-fi",
           "start_seconds": 2976.106,
           "end_seconds": 3026.623,
           "review": "caption_passage_checked_audio_pending"

@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,721 question groups and 9,804 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,720 question groups and 9,804 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
 All 1,360 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 834 remain partially reviewed, 441 await passage/supplement review and 65 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
@@ -273,7 +273,7 @@ Adds 301 source-linked answers (133 Arnold Murray, 168 Dennis Murray) and 87 que
 
 ## Local batch 045
 
-Adds 318 Arnold Murray source-linked answers and 144 question groups by directly reviewing additional saved-caption passages in 42 previously partial recordings. Earlier approvals and reviewed ranges remain intact. One duplicate question-recording link and four reviewed answers overlapping a reserved underlying recording are excluded. All 42 recordings remain partial, with exact caption cursors and uncertain or incomplete passages retained privately. Original hashes, caption anchors, semantic grouping, current external reservations including recording aliases, prior-record preservation, descending frequency, four Python tests and both navigation suites passed. Independent audio and presenter verification remain pending.
+Adds 318 Arnold Murray source-linked answers and 143 question groups by directly reviewing additional saved-caption passages in 42 previously partial recordings. Earlier approvals and reviewed ranges remain intact. One duplicate question-recording link and four reviewed answers overlapping a reserved underlying recording are excluded. All 42 recordings remain partial, with exact caption cursors and uncertain or incomplete passages retained privately. Original hashes, caption anchors, semantic grouping, current external reservations including recording aliases, prior-record preservation, descending frequency, four Python tests and both navigation suites passed. Independent audio and presenter verification remain pending.
 
 
 
@@ -351,6 +351,6 @@ Repeated recordings and same-recording topics are excluded. Unread, incomplete, 
 
 ## Local batch056
 
-Adds 328 caption-reviewed Arnold Murray linked answers and 144 question groups by directly checking complete short question-to-reply passages from the saved Grok B return056. These are partial passage reviews, not complete Q&A-section reviews. Totals: 5721 groups, 9804 links and 9757 distinct question-recording pairs.
+Adds 328 caption-reviewed Arnold Murray linked answers and 143 question groups by directly checking complete short question-to-reply passages from the saved Grok B return056. These are partial passage reviews, not complete Q&A-section reviews. Totals: 5720 groups, 9804 links and 9757 distinct question-recording pairs.
 
 Repeated recordings and same-recording topics are excluded. Unread, incomplete, uncertain, rhetorical and deferred material retains private original cue cursors. Source-specific opinions and chronology remain qualified. All1360 source hashes, earlier registry prefixes and public answers are preserved; Grok A and unrelated reservations are unchanged. Audio verification remains pending. Only FAQ assets and FAQ_RELEASE are published.
