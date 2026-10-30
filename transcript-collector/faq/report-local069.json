@@ -1,0 +1,79 @@
+{
+  "batch": "local069-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 51,
+  "new_question_groups": 21,
+  "total_question_groups": 6111,
+  "total_linked_answers": 10755,
+  "distinct_question_recording_pairs": 10708,
+  "recordings_with_approved_answers": 6,
+  "caption_teacher_confirmations": 6,
+  "held_passages": 19,
+  "excluded_or_repeat_passages": 3,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 896,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 951,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10708
+  },
+  "title_clarifications": [
+    {
+      "question_id": "local024-deathbed-relatives",
+      "previous_question": "Did Dennis consider a dying person’s report of seeing deceased relatives possible?",
+      "question": "Did the Murrays consider a dying person’s report of seeing deceased relatives possible?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "astrology-religion-arnold",
+      "previous_question": "Did Arnold approve making a religion of astrology?",
+      "question": "How did Arnold distinguish astrology or divination from studying the stars?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local011-bible-written-god",
+      "previous_question": "How did Dennis answer how one can know the Bible is from God?",
+      "question": "How did the Murrays answer how one can know the Bible is from God?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local056-Qnd297ZJaYs-218",
+      "previous_question": "Will animals also change into spiritual bodies at the seventh trumpet?",
+      "question": "Did Arnold expect animals to change when people receive new bodies?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "organ-donation",
+      "previous_question": "Did Dennis support donating organs after death?",
+      "question": "Did the Murrays support donating organs after death?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "noah-ancestry-races-dennis",
+      "previous_question": "Did Dennis teach that all people descend from Noah?",
+      "question": "Did the Murrays teach that all people descend from Noah?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local026-eternal-punishment",
+      "previous_question": "How did Dennis reconcile everlasting punishment with consuming fire?",
+      "question": "How did the Murrays reconcile everlasting punishment with consuming fire?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2280,
+  "pending_without_accepted_qa_review": 1370,
+  "recordings_with_review_work_remaining": 2266
+}

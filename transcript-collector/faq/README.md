@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,090 question groups and 10,704 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,111 question groups and 10,755 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 890 remain partially reviewed, 419 await passage/supplement review and 957 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 896 remain partially reviewed, 419 await passage/supplement review and 951 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -419,3 +419,7 @@ Pass067 adds111caption-reviewed Arnold answer links and28new question groups fro
 ## Local batch068
 
 Adds85caption-reviewed Arnold Murray answer links and33question groups from six saved topical sources. Twenty-eight held ranges include uncertain references and a homework-deferred answer excluded from approvals. All six remain partial and audio-pending. Original captions, prior registry prefixes, aliases and reservations are preserved. Two recovery draft notes are reconciled once. Five Python tests, both navigation suites, original-source hashes and cue anchors pass.
+
+## Local069 caption review
+
+Added 51 source-supported answer links and 21 question groups from six Arnold Murray recordings. All six remain partial; 19 uncertain ranges and three excluded/repeated passages retain exact private dispositions. Four additional uploads were excluded for reused Q&A, including overlaps with external reservations. No whole-lecture aliases were inferred. All 2,286 original exports, prior approvals, reservations and navigation assets were preserved. Five Python tests, two navigation suites, exact hash/anchor checks and frequency validation passed; independent audio verification remains pending.

@@ -4443,9 +4443,12 @@
     },
     {
       "id": "organ-donation",
-      "question": "Did Dennis support donating organs after death?",
+      "question": "Did the Murrays support donating organs after death?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis support donating organs after death?"
+      ]
     },
     {
       "id": "zadok-millennium-priests",
@@ -5223,9 +5226,12 @@
     },
     {
       "id": "noah-ancestry-races-dennis",
-      "question": "Did Dennis teach that all people descend from Noah?",
+      "question": "Did the Murrays teach that all people descend from Noah?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis teach that all people descend from Noah?"
+      ]
     },
     {
       "id": "chapel-corinthians-taught",
@@ -6748,9 +6754,12 @@
     },
     {
       "id": "astrology-religion-arnold",
-      "question": "Did Arnold approve making a religion of astrology?",
+      "question": "How did Arnold distinguish astrology or divination from studying the stars?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold approve making a religion of astrology?"
+      ]
     },
     {
       "id": "choosing-church-study",
@@ -10537,9 +10546,12 @@
     },
     {
       "id": "local011-bible-written-god",
-      "question": "How did Dennis answer how one can know the Bible is from God?",
+      "question": "How did the Murrays answer how one can know the Bible is from God?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Dennis answer how one can know the Bible is from God?"
+      ]
     },
     {
       "id": "local011-friend-different-faith",
@@ -18193,9 +18205,12 @@
     },
     {
       "id": "local024-deathbed-relatives",
-      "question": "Did Dennis consider a dying person’s report of seeing deceased relatives possible?",
+      "question": "Did the Murrays consider a dying person’s report of seeing deceased relatives possible?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis consider a dying person’s report of seeing deceased relatives possible?"
+      ]
     },
     {
       "id": "local024-book-every-soul",
@@ -19654,9 +19669,12 @@
     },
     {
       "id": "local026-eternal-punishment",
-      "question": "How did Dennis reconcile everlasting punishment with consuming fire?",
+      "question": "How did the Murrays reconcile everlasting punishment with consuming fire?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Dennis reconcile everlasting punishment with consuming fire?"
+      ]
     },
     {
       "id": "local026-glass-darkly",
@@ -34096,9 +34114,12 @@
     },
     {
       "id": "local056-Qnd297ZJaYs-218",
-      "question": "Will animals also change into spiritual bodies at the seventh trumpet?",
+      "question": "Did Arnold expect animals to change when people receive new bodies?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Will animals also change into spiritual bodies at the seventh trumpet?"
+      ]
     },
     {
       "id": "local056-FZRDynN1SwA-221",
@@ -36680,6 +36701,132 @@
     {
       "id": "local068-E-mdTe9wfP8-84",
       "question": "Who does Murray identify as the man Paul describes visiting the third heaven?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-jFhmfxknnfc-2",
+      "question": "How did Arnold explain the circle of the earth in Isaiah 40:22?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-jFhmfxknnfc-7",
+      "question": "Did Arnold understand the tree of knowledge as God forbidding people to learn?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-jFhmfxknnfc-8",
+      "question": "Did Arnold think God created a young earth with an appearance of great age?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-FoEpcLT4lbY-10",
+      "question": "How did Arnold explain circumcision of the heart?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-FoEpcLT4lbY-11",
+      "question": "What responsibilities did elders have in Arnold’s ministry?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-FoEpcLT4lbY-13",
+      "question": "Did Arnold equate an Asian dragon symbol with the dragon in Revelation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-mVf0SLXjwkM-14",
+      "question": "Why did Arnold think people turned to other gods despite receiving guidance?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-2SPez_EjWcI-32",
+      "question": "Must someone keep a promise made to a person who misrepresented himself?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-2SPez_EjWcI-35",
+      "question": "Did Arnold expect the ten rulers to be known before Antichrist appears?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-2SPez_EjWcI-38",
+      "question": "Did Arnold consider the soul identical to the physical body?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-2SPez_EjWcI-42",
+      "question": "What did Arnold tell a husband about responsibilities after his wife loved another man?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-43",
+      "question": "Should children be taught to hate people who hate God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-44",
+      "question": "Did Arnold treat reported UFO sightings and abductions as necessarily from God?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-48",
+      "question": "Did Arnold believe Satan could create life?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-49",
+      "question": "Did Arnold recommend Bullinger’s Figures of Speech?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-51",
+      "question": "Did Arnold say Jacob wrestled in a flesh or spiritual body?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-53",
+      "question": "Did Arnold claim certainty that angels helped create humanity?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-xQ1xXWodKg0-57",
+      "question": "How did Arnold explain making friends through unrighteous mammon in Luke 16:9?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-s8uTwiOKnsQ-61",
+      "question": "Can forgiveness coexist with seeking legal recourse after harm?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-s8uTwiOKnsQ-64",
+      "question": "Why did Arnold classify suicide as taking a life?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local069-s8uTwiOKnsQ-65",
+      "question": "Did Arnold include a family caring for a disabled parent in his criticism of welfare dependence?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     }
@@ -204177,6 +204324,838 @@
       "recording_group": "E-mdTe9wfP8",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-jFhmfxknnfc-2",
+      "video_id": "jFhmfxknnfc",
+      "start": 3027.359,
+      "end": 3069.599,
+      "variant": "local069-jFhmfxknnfc-2",
+      "summary": "Arnold connected the expression to a circle drawn around the point of a compass and referred the listener to a longer recorded study. This brief reply does not provide a developed argument about the earth’s shape.",
+      "scripture_mentions": [
+        "Isaiah 40:22"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local024-deathbed-relatives",
+      "video_id": "jFhmfxknnfc",
+      "start": 3066.64,
+      "end": 3106.319,
+      "variant": "local069-jFhmfxknnfc-3",
+      "summary": "Arnold said he considered it possible for God to send a trusted loved one to comfort someone approaching death. He related this to experiences he said he had encountered while ministering to families.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "cremation",
+      "video_id": "jFhmfxknnfc",
+      "start": 3106.319,
+      "end": 3124.48,
+      "variant": "local069-jFhmfxknnfc-4",
+      "summary": "Arnold said cremation is not a sin. He taught that the spirit and soul return to the Father at death, so the subsequent treatment of the physical remains does not change that.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "astrology-religion-arnold",
+      "video_id": "jFhmfxknnfc",
+      "start": 3124.48,
+      "end": 3170.319,
+      "variant": "local069-jFhmfxknnfc-5",
+      "summary": "Arnold warned against consulting astrologers and soothsayers, referring to Revelation 21 and to wizards in Daniel. He distinguished that practice from studying what he understood as God’s message in the stars.",
+      "scripture_mentions": [
+        "Revelation 21",
+        "Daniel"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local049-gn03hBILZUo-12",
+      "video_id": "jFhmfxknnfc",
+      "start": 3167.44,
+      "end": 3195.839,
+      "variant": "local069-jFhmfxknnfc-6",
+      "summary": "Arnold identified Britain and America with the ten northern tribes and with end-time Ephraim and Manasseh. He preferred saying ten northern tribes to lost tribes, explaining that God had not lost them. This is his ancestry interpretation, not independently established genealogy.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-jFhmfxknnfc-7",
+      "video_id": "jFhmfxknnfc",
+      "start": 3195.839,
+      "end": 3320.0,
+      "variant": "local069-jFhmfxknnfc-7",
+      "summary": "Arnold rejected the listener’s friend’s interpretation that the Eden command merely restricted learning. He understood the tree as Satan and the offense as seduction, citing 2 Corinthians 11:3 and Genesis 3:16. He also made unverified claims about protection from illness and violence through obedience; those claims are not health or safety advice.",
+      "scripture_mentions": [
+        "2 Corinthians 11:3",
+        "Genesis 3:16"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-jFhmfxknnfc-8",
+      "video_id": "jFhmfxknnfc",
+      "start": 3317.359,
+      "end": 3369.28,
+      "variant": "local069-jFhmfxknnfc-8",
+      "summary": "Arnold rejected the suggestion that God made a six-thousand-year-old earth look ancient. He said the earth was millions of years old and believed Scripture agreed. He did not supply the specific requested verse in this reply; his chronology is presented as his teaching, not a scientific verification.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "recording_group": "jFhmfxknnfc",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "ark-covenant-location-arnold",
+      "video_id": "FoEpcLT4lbY",
+      "start": 3011.359,
+      "end": 3053.24,
+      "variant": "local069-FoEpcLT4lbY-9",
+      "summary": "Arnold said he did not believe God left the Ark on earth, pointing to the last two verses of Revelation 11. He equated the Ark of the Covenant with the Ark of the Testament and said its contents remained preserved.",
+      "scripture_mentions": [
+        "Revelation 11"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "source_sha256": "f88e5fb69dd15d563868c8f3b49bd23d2adbbf7e78393fd642d448c4f1596b8d",
+      "recording_group": "FoEpcLT4lbY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-FoEpcLT4lbY-10",
+      "video_id": "FoEpcLT4lbY",
+      "start": 3049.24,
+      "end": 3128.64,
+      "variant": "local069-FoEpcLT4lbY-10",
+      "summary": "Arnold described circumcision of the heart as an inward change of mind through Christ: putting off the old person and receiving the new. He contrasted it with the earlier physical covenant and noted women’s participation in ministry in Acts 2.",
+      "scripture_mentions": [
+        "Acts 2"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "source_sha256": "f88e5fb69dd15d563868c8f3b49bd23d2adbbf7e78393fd642d448c4f1596b8d",
+      "recording_group": "FoEpcLT4lbY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-FoEpcLT4lbY-11",
+      "video_id": "FoEpcLT4lbY",
+      "start": 3126.4,
+      "end": 3183.4,
+      "variant": "local069-FoEpcLT4lbY-11",
+      "summary": "Arnold said the ministry’s elders managed its business affairs and held him accountable. He described them as having authority to replace him as pastor.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "source_sha256": "f88e5fb69dd15d563868c8f3b49bd23d2adbbf7e78393fd642d448c4f1596b8d",
+      "recording_group": "FoEpcLT4lbY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "repeated-sin",
+      "video_id": "FoEpcLT4lbY",
+      "start": 3179.599,
+      "end": 3267.04,
+      "variant": "local069-FoEpcLT4lbY-12",
+      "summary": "Arnold urged the listener to repent, get up, and keep trying rather than expect perfection or give up. For a recurring habit he recommended praying for strength to overcome it, while acknowledging one’s own faults.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "source_sha256": "f88e5fb69dd15d563868c8f3b49bd23d2adbbf7e78393fd642d448c4f1596b8d",
+      "recording_group": "FoEpcLT4lbY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-FoEpcLT4lbY-13",
+      "video_id": "FoEpcLT4lbY",
+      "start": 3263.4,
+      "end": 3330.839,
+      "variant": "local069-FoEpcLT4lbY-13",
+      "summary": "Arnold said the cultural symbol mentioned by the listener was not the same as the biblical dragon. He identified Revelation’s dragon with Satan and described Satan as the one already sentenced to perish. The caption’s verse-level citation needs audio checking.",
+      "scripture_mentions": [
+        "Revelation 12"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "source_sha256": "f88e5fb69dd15d563868c8f3b49bd23d2adbbf7e78393fd642d448c4f1596b8d",
+      "recording_group": "FoEpcLT4lbY",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-mVf0SLXjwkM-14",
+      "video_id": "mVf0SLXjwkM",
+      "start": 3098.45,
+      "end": 3258.059,
+      "variant": "local069-mVf0SLXjwkM-14",
+      "summary": "Arnold described this earth age as a test of whether people would choose God. He said people could turn to other gods through ignorance even while intending to do right, and emphasized the need for teaching. His comments about peoples and their ancestry are his interpretation, not verified anthropology.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4c70c091fd4cd40e2e07675e0d054f690064f3ea833840daa25f69982c92f41c",
+      "source_sha256": "cd415e2085a960402b1e8fa4c5b48cf9223aa4063625ef79c9438cb1ea72e29a",
+      "recording_group": "mVf0SLXjwkM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local011-bible-written-god",
+      "video_id": "mVf0SLXjwkM",
+      "start": 3258.059,
+      "end": 3415.19,
+      "variant": "local069-mVf0SLXjwkM-15",
+      "summary": "Arnold pointed to what he understood as fulfilled prophecy, especially Psalm 22, as evidence of divine authorship. He advised offering a simple example and allowing the listener to respond rather than forcing belief or beginning with complicated acrostics. The recording cuts off a final trailing phrase, which is held separately.",
+      "scripture_mentions": [
+        "Psalm 22",
+        "Psalm 37",
+        "Esther"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4c70c091fd4cd40e2e07675e0d054f690064f3ea833840daa25f69982c92f41c",
+      "source_sha256": "cd415e2085a960402b1e8fa4c5b48cf9223aa4063625ef79c9438cb1ea72e29a",
+      "recording_group": "mVf0SLXjwkM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-2SPez_EjWcI-32",
+      "video_id": "2SPez_EjWcI",
+      "start": 2666.94,
+      "end": 2754.48,
+      "variant": "local069-2SPez_EjWcI-32",
+      "summary": "Arnold distinguished vows to God from agreements with other people. He said misrepresentation undermines the latter, but explicitly cautioned that he was not giving legal advice and that circumstances and applicable rules differ.",
+      "scripture_mentions": [
+        "Numbers 30"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "belief-salvation-assurance",
+      "video_id": "2SPez_EjWcI",
+      "start": 2752.2,
+      "end": 2774.42,
+      "variant": "local069-2SPez_EjWcI-33",
+      "summary": "Arnold said a person who believes Jesus is the Son of God can have assurance of salvation now.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "paradise-gulf",
+      "video_id": "2SPez_EjWcI",
+      "start": 2774.42,
+      "end": 2826.06,
+      "variant": "local069-2SPez_EjWcI-34",
+      "summary": "Arnold located the gulf within paradise, separating people who can see one another. He said he did not know paradise’s physical location and speculated about its being in another dimension.",
+      "scripture_mentions": [
+        "Luke 16"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-2SPez_EjWcI-35",
+      "video_id": "2SPez_EjWcI",
+      "start": 2822.64,
+      "end": 2887.98,
+      "variant": "local069-2SPez_EjWcI-35",
+      "summary": "Arnold said the ten rulers of the one-world political system would be well known. He interpreted the deadly wound as damage to a political organization, followed by Satan’s arrival and its apparent healing. These are his prophetic interpretations.",
+      "scripture_mentions": [
+        "Revelation 13",
+        "Zechariah 8:23",
+        "Daniel 7:24"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "three-heavens-ages",
+      "video_id": "2SPez_EjWcI",
+      "start": 2887.98,
+      "end": 2978.099,
+      "variant": "local069-2SPez_EjWcI-36",
+      "summary": "Arnold understood the third heaven Paul saw as the eternal third world age. He contrasted that with John’s vision of the Lord’s day and referred to the three ages in 2 Peter 3. The listener also asked about salvation assurance, already counted elsewhere in this recording.",
+      "scripture_mentions": [
+        "2 Corinthians 12:2",
+        "2 Peter 3"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "blood-donation",
+      "video_id": "2SPez_EjWcI",
+      "start": 2978.099,
+      "end": 3050.64,
+      "variant": "local069-2SPez_EjWcI-37",
+      "summary": "Arnold distinguished eating blood from receiving a transfusion to save a life and said the food prohibition did not forbid transfusions. He added a concern about blood safety; this is his historical pastoral answer, not individualized medical advice.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-2SPez_EjWcI-38",
+      "video_id": "2SPez_EjWcI",
+      "start": 3062.099,
+      "end": 3108.66,
+      "variant": "local069-2SPez_EjWcI-38",
+      "summary": "Arnold distinguished the soul from the flesh body and described the spirit as the soul’s intellect. He taught that the soul can inhabit either a flesh or a spiritual body, referring broadly to 1 Corinthians 15.",
+      "scripture_mentions": [
+        "1 Corinthians 15"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local056-Qnd297ZJaYs-218",
+      "video_id": "2SPez_EjWcI",
+      "start": 3108.66,
+      "end": 3149.4,
+      "variant": "local069-2SPez_EjWcI-39",
+      "summary": "Arnold offered what he called an educated observation that animals must change if predators no longer eat other animals. He did not present this as direct certainty; the captions contain uncertain animal wording that needs audio review.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "2SPez_EjWcI",
+      "start": 3146.099,
+      "end": 3177.68,
+      "variant": "local069-2SPez_EjWcI-40",
+      "summary": "Arnold identified it as one of the elect knowingly refusing the Holy Spirit the opportunity to speak when delivered before Antichrist. He said this event had not yet occurred at the time of the recording.",
+      "scripture_mentions": [
+        "Luke 12:10"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "tongues-foreign-cloven",
+      "video_id": "2SPez_EjWcI",
+      "start": 3177.68,
+      "end": 3289.92,
+      "variant": "local069-2SPez_EjWcI-41",
+      "summary": "Arnold said he sometimes prayed in Hebrew and understood ordinary tongues as languages. He distinguished this from the Pentecostal sign, which he said was understood by every hearer in their own dialect, and connected it with future testimony before Antichrist.",
+      "scripture_mentions": [
+        "Acts 2",
+        "Mark 13",
+        "Joel 2"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-2SPez_EjWcI-42",
+      "video_id": "2SPez_EjWcI",
+      "start": 3289.92,
+      "end": 3385.02,
+      "variant": "local069-2SPez_EjWcI-42",
+      "summary": "Arnold declined to judge the marriage without hearing both sides. He recommended 1 Corinthians 7, discussed the possibility of forgiveness, and said the husband’s responsibilities as a father remained, while acknowledging that court restrictions could affect what he could do.",
+      "scripture_mentions": [
+        "1 Corinthians 7"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "recording_group": "2SPez_EjWcI",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-43",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2250.06,
+      "end": 2324.82,
+      "variant": "local069-xQ1xXWodKg0-43",
+      "summary": "Arnold distinguished opposing Satan from hating individuals who do not understand God. He said children’s ages matter and recommended teaching how to deal with an offending brother from 2 Thessalonians 3.",
+      "scripture_mentions": [
+        "2 Thessalonians 3:6"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-44",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2321.76,
+      "end": 2410.98,
+      "variant": "local069-xQ1xXWodKg0-44",
+      "summary": "Arnold said he did not believe most of the reported sightings. Within his interpretation of Ezekiel’s vehicles, he said their character would depend on who operated them and warned against making a religion of the subject. He did not verify any particular sighting or abduction.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "fallen-angels-arrival",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2407.859,
+      "end": 2480.64,
+      "variant": "local069-xQ1xXWodKg0-45",
+      "summary": "Arnold said they would be cast out together at the sixth trumpet. He distinguished that future arrival from evil influences he believed were already active. His political commentary is not independently verified history.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "witnesses-study-passages",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2478.18,
+      "end": 2563.8,
+      "variant": "local069-xQ1xXWodKg0-46",
+      "summary": "Arnold directed the listener to Zechariah 4, describing its witnesses as anointed sons of oil who would provide truth in the final days.",
+      "scripture_mentions": [
+        "Zechariah 4"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "forgiveness",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2560.98,
+      "end": 2594.72,
+      "variant": "local069-xQ1xXWodKg0-47",
+      "summary": "Arnold connected the unforgivable sin with the elect yielding to the false Christ when delivered before him, citing Luke 12:10. He said only the elect could commit it.",
+      "scripture_mentions": [
+        "Luke 12:10"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-48",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2564.82,
+      "end": 2636.4,
+      "variant": "local069-xQ1xXWodKg0-48",
+      "summary": "Arnold said Satan can cause trouble, imitate and deceive, but cannot create or give life. He distinguished causing events from being a creator.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-49",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2636.4,
+      "end": 2681.099,
+      "variant": "local069-xQ1xXWodKg0-49",
+      "summary": "Arnold regarded the work favorably and also recommended studying Aramaic idioms and the Companion Bible’s figures-of-speech appendix. The other author’s name and appendix number are uncertain in the captions and are not silently reconstructed.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "prescribed-medication",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2786.76,
+      "end": 2858.4,
+      "variant": "local069-xQ1xXWodKg0-50",
+      "summary": "Arnold supported taking medication prescribed when needed and explicitly said nothing he taught should lead someone to stop medication. He referred to Luke as a physician and encouraged following the treating doctor’s guidance. This records his pastoral position.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-51",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2855.339,
+      "end": 2914.859,
+      "variant": "local069-xQ1xXWodKg0-51",
+      "summary": "Arnold answered that Jacob was in his flesh body and pointed to the bodily injury in the account and his renamed identity as Israel. His proposed nerve and spinal explanation was speculation, not a medical finding.",
+      "scripture_mentions": [
+        "Genesis 32:24-26"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "organ-donation",
+      "video_id": "xQ1xXWodKg0",
+      "start": 2912.119,
+      "end": 3007.68,
+      "variant": "local069-xQ1xXWodKg0-52",
+      "summary": "Arnold approved donation that could restore sight or sustain life. He separated that approval from his own preference against receiving an extensive set of transplants and said the decision was personal, not a rule for everyone.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-53",
+      "video_id": "xQ1xXWodKg0",
+      "start": 3039.8,
+      "end": 3074.28,
+      "variant": "local069-xQ1xXWodKg0-53",
+      "summary": "Arnold understood the plural language in Genesis 1:26 as referring to shared image. He said God could give angels an ability but explicitly did not know whether God had done so, and said God could handle creation himself.",
+      "scripture_mentions": [
+        "Genesis 1:26"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "noah-ancestry-races-dennis",
+      "video_id": "xQ1xXWodKg0",
+      "start": 3074.28,
+      "end": 3164.339,
+      "variant": "local069-xQ1xXWodKg0-54",
+      "summary": "Arnold answered no, distinguishing eight people in Adam’s lineage from other peoples in his interpretation of all flesh on the ark. He also questioned a worldwide extent of the flood. These are his disputed ancestry and flood interpretations, not verified genealogy or history.",
+      "scripture_mentions": [
+        "Genesis 6"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "diet-moses-law-continuity",
+      "video_id": "xQ1xXWodKg0",
+      "start": 3164.339,
+      "end": 3268.079,
+      "variant": "local069-xQ1xXWodKg0-55",
+      "summary": "Arnold said the bodily reasons he attributed to Leviticus 11 still applied. He interpreted Peter’s vision as acceptance of Gentiles and read 1 Timothy 4 as referring to food created to be received. His health explanations are not independent medical evidence.",
+      "scripture_mentions": [
+        "Leviticus 11",
+        "1 Timothy 4"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "satan-pact-repentance",
+      "video_id": "xQ1xXWodKg0",
+      "start": 3268.079,
+      "end": 3307.98,
+      "variant": "local069-xQ1xXWodKg0-56",
+      "summary": "Arnold reassured the listener that the childhood act did not permanently forfeit the soul. He urged accepting Christ and resisting Satan rather than treating the childhood pact as binding.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-xQ1xXWodKg0-57",
+      "video_id": "xQ1xXWodKg0",
+      "start": 3305.94,
+      "end": 3359.339,
+      "variant": "local069-xQ1xXWodKg0-57",
+      "summary": "Arnold interpreted the saying as a sharp rebuke to wicked people who refused to change, describing them as heading toward the same judgment as their associates. This preserves this source’s interpretation without harmonizing it with other answers.",
+      "scripture_mentions": [
+        "Luke 16:9"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "genesis-our-image",
+      "video_id": "xQ1xXWodKg0",
+      "start": 3355.619,
+      "end": 3370.619,
+      "variant": "local069-xQ1xXWodKg0-58",
+      "summary": "Arnold gave Genesis 1:26-27 as the documentation for his interpretation. The short reply did not further develop the argument.",
+      "scripture_mentions": [
+        "Genesis 1:26-27"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "recording_group": "xQ1xXWodKg0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local026-eternal-punishment",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2268.42,
+      "end": 2479.2,
+      "variant": "local069-s8uTwiOKnsQ-59",
+      "summary": "Arnold interpreted everlasting punishment as irreversible destruction rather than endless conscious suffering. He described torment as awareness of what was lost and referred to Psalm 37 and Ezekiel 28. This is his interpretation of the listener’s Revelation 20 and Matthew question.",
+      "scripture_mentions": [
+        "Revelation 20",
+        "Psalm 37",
+        "Ezekiel 28:18-19"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local025-shouting",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2477.52,
+      "end": 2562.8,
+      "variant": "local069-s8uTwiOKnsQ-60",
+      "summary": "Arnold explained the expression as speaking boldly and audibly so people understand. He said amplification makes shouting unnecessary and regarded unintelligible speech as unhelpful.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-s8uTwiOKnsQ-61",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2562.8,
+      "end": 2621.339,
+      "variant": "local069-s8uTwiOKnsQ-61",
+      "summary": "Arnold said forgiving a person does not remove the option of seeking redress. He recommended first talking to the person and, where appropriate, seeking a mutually respected arbitrator before litigation. These are his pastoral views, not current legal advice.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "rebaptism-backsliding",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2621.339,
+      "end": 2673.0,
+      "variant": "local069-s8uTwiOKnsQ-62",
+      "summary": "Arnold said repentance, rather than another baptism, is needed if the person was satisfied with the original baptism. He emphasized that Christ saves and rejected describing each lapse as requiring a new saving act.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local049-gSu5B0ntTII-14",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2673.0,
+      "end": 2727.92,
+      "variant": "local069-s8uTwiOKnsQ-63",
+      "summary": "Arnold associated forty with probation, illustrating it with the wilderness periods mentioned by the listener and with his account of Moses’s life.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-s8uTwiOKnsQ-64",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2723.52,
+      "end": 2846.569,
+      "variant": "local069-s8uTwiOKnsQ-64",
+      "summary": "Arnold reasoned that a person’s own life belongs to God and that ending it cuts short a purpose he believed God gave that person. He acknowledged that he had never experienced such thoughts himself. This historical religious answer does not assess any individual’s mental health or final judgment.",
+      "scripture_mentions": [
+        "Mark 13"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-s8uTwiOKnsQ-65",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2846.569,
+      "end": 2963.64,
+      "variant": "local069-s8uTwiOKnsQ-65",
+      "summary": "Arnold said his criticism did not apply to disability or to the listener caring for a disabled husband and four children. He praised her work and said she had nothing to apologize for in supporting her family.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local055-fallen-angel-appearance",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 2963.64,
+      "end": 3034.5,
+      "variant": "local069-s8uTwiOKnsQ-66",
+      "summary": "Arnold said humans were made in their image, so similarity of appearance did not require a flesh body. He connected his view of bodily substance with the manna account and recommended his Born Again study.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "capital-punishment",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 3034.5,
+      "end": 3280.319,
+      "variant": "local069-s8uTwiOKnsQ-67",
+      "summary": "Arnold cited Deuteronomy 19, distinguishing accidental killing from premeditated murder. He argued for execution in the latter case with witnesses and documented proof, and interpreted Matthew 5 as retaining that distinction. This records his religious interpretation, not instructions to take private action or a statement of current law.",
+      "scripture_mentions": [
+        "Deuteronomy 19",
+        "Matthew 5"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local050-hsJe2HmEeCA-14",
+      "video_id": "s8uTwiOKnsQ",
+      "start": 3277.38,
+      "end": 3378.059,
+      "variant": "local069-s8uTwiOKnsQ-68",
+      "summary": "Responding to a listener’s objection, Arnold said salvation is free to people because Christ paid its cost. He distinguished that from works accompanying a believer as reward, and denied teaching that salvation itself could be earned.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "recording_group": "s8uTwiOKnsQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
     }
   ],
   "duplicate_recording_aliases": {
@@ -273825,6 +274804,407 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-30",
       "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "jFhmfxknnfc",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "qa_start": 2988.559,
+      "qa_end": 3369.28,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 3027.359,
+          "end": 3069.599
+        },
+        {
+          "start": 3066.64,
+          "end": 3106.319
+        },
+        {
+          "start": 3106.319,
+          "end": 3124.48
+        },
+        {
+          "start": 3124.48,
+          "end": 3170.319
+        },
+        {
+          "start": 3167.44,
+          "end": 3195.839
+        },
+        {
+          "start": 3195.839,
+          "end": 3320.0
+        },
+        {
+          "start": 3317.359,
+          "end": 3369.28
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2988.559,
+          "end": 3030.319,
+          "reason": "Nebuchadnezzar name explanation has prophet/profit ambiguity and hesitations; hold whole candidate rather than reconstruct wording."
+        },
+        {
+          "start": 3195.839,
+          "end": 3320.0,
+          "reason": "Lexical tree explanation and health/safety generalizations require audio clarification; core interpretation separately paraphrased with attribution."
+        },
+        {
+          "start": 3317.359,
+          "end": 3369.28,
+          "reason": "Requested specific documentation for earth waxing old not supplied; do not invent a verse."
+        }
+      ],
+      "cursor_seconds": 2988.559,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "FoEpcLT4lbY",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "qa_start": 3011.359,
+      "qa_end": 3341.559,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 3011.359,
+          "end": 3053.24
+        },
+        {
+          "start": 3049.24,
+          "end": 3128.64
+        },
+        {
+          "start": 3126.4,
+          "end": 3183.4
+        },
+        {
+          "start": 3179.599,
+          "end": 3267.04
+        },
+        {
+          "start": 3263.4,
+          "end": 3330.839
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 3263.4,
+          "end": 3330.839,
+          "reason": "Verse-level Revelation reference uncertain; retain chapter only in public paraphrase."
+        },
+        {
+          "start": 3327.96,
+          "end": 3341.559,
+          "reason": "Judas question and reply cut off mid-sentence by an edit into prayer; no answer approved."
+        }
+      ],
+      "cursor_seconds": 3263.4,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "mVf0SLXjwkM",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4c70c091fd4cd40e2e07675e0d054f690064f3ea833840daa25f69982c92f41c",
+      "qa_start": 3003.24,
+      "qa_end": 3415.19,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 3098.45,
+          "end": 3258.059
+        },
+        {
+          "start": 3258.059,
+          "end": 3415.19
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 3003.24,
+          "end": 3098.45,
+          "reason": "Opening listener question missing; historical political/legal discussion not approved as a complete Q&A."
+        },
+        {
+          "start": 3391.8,
+          "end": 3415.19,
+          "reason": "Final sentence ends in but before outro; do not infer its continuation. Main completed answer retained."
+        }
+      ],
+      "cursor_seconds": 3003.24,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "2SPez_EjWcI",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "qa_start": 2666.94,
+      "qa_end": 3385.02,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2666.94,
+          "end": 2754.48
+        },
+        {
+          "start": 2752.2,
+          "end": 2774.42
+        },
+        {
+          "start": 2774.42,
+          "end": 2826.06
+        },
+        {
+          "start": 2822.64,
+          "end": 2887.98
+        },
+        {
+          "start": 2887.98,
+          "end": 2978.099
+        },
+        {
+          "start": 2978.099,
+          "end": 3050.64
+        },
+        {
+          "start": 3062.099,
+          "end": 3108.66
+        },
+        {
+          "start": 3108.66,
+          "end": 3149.4
+        },
+        {
+          "start": 3146.099,
+          "end": 3177.68
+        },
+        {
+          "start": 3177.68,
+          "end": 3289.92
+        },
+        {
+          "start": 3289.92,
+          "end": 3385.02
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 3108.66,
+          "end": 3149.4,
+          "reason": "Animal examples unclear in captions; retain stated uncertainty, no repaired names."
+        },
+        {
+          "start": 3177.68,
+          "end": 3289.92,
+          "reason": "Acts verse-level citation uncertain; retained chapter references only."
+        }
+      ],
+      "cursor_seconds": 3108.66,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "xQ1xXWodKg0",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "qa_start": 2250.06,
+      "qa_end": 3370.619,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2250.06,
+          "end": 2324.82
+        },
+        {
+          "start": 2321.76,
+          "end": 2410.98
+        },
+        {
+          "start": 2407.859,
+          "end": 2480.64
+        },
+        {
+          "start": 2478.18,
+          "end": 2563.8
+        },
+        {
+          "start": 2560.98,
+          "end": 2594.72
+        },
+        {
+          "start": 2564.82,
+          "end": 2636.4
+        },
+        {
+          "start": 2636.4,
+          "end": 2681.099
+        },
+        {
+          "start": 2786.76,
+          "end": 2858.4
+        },
+        {
+          "start": 2855.339,
+          "end": 2914.859
+        },
+        {
+          "start": 2912.119,
+          "end": 3007.68
+        },
+        {
+          "start": 3039.8,
+          "end": 3074.28
+        },
+        {
+          "start": 3074.28,
+          "end": 3164.339
+        },
+        {
+          "start": 3164.339,
+          "end": 3268.079
+        },
+        {
+          "start": 3268.079,
+          "end": 3307.98
+        },
+        {
+          "start": 3305.94,
+          "end": 3359.339
+        },
+        {
+          "start": 3355.619,
+          "end": 3370.619
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2677.8,
+          "end": 2786.76,
+          "reason": "Creator-name pronunciation is rendered inconsistently in the captions; hold rather than invent spelling or reconcile it."
+        },
+        {
+          "start": 3007.68,
+          "end": 3039.8,
+          "reason": "Repeated name question has the same audio-dependent pronunciation ambiguity; not separately approved."
+        },
+        {
+          "start": 2636.4,
+          "end": 2681.099,
+          "reason": "Other idiom author’s name and Companion Bible appendix number are uncertain; omit exact identification from public paraphrase."
+        },
+        {
+          "start": 2855.339,
+          "end": 2914.859,
+          "reason": "Nerve and spinal diagnosis is speaker speculation; retain only attributed general account and flag medical detail."
+        },
+        {
+          "start": 3074.28,
+          "end": 3164.339,
+          "reason": "Verse-level flood citation and historical/ancestry assertions not independently established; public account remains attributed."
+        },
+        {
+          "start": 3164.339,
+          "end": 3268.079,
+          "reason": "Timothy reference delivered with uncertainty; keep chapter-level identification and original uncertainty."
+        }
+      ],
+      "cursor_seconds": 2636.4,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "s8uTwiOKnsQ",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "qa_start": 2268.42,
+      "qa_end": 3378.059,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2268.42,
+          "end": 2479.2
+        },
+        {
+          "start": 2477.52,
+          "end": 2562.8
+        },
+        {
+          "start": 2562.8,
+          "end": 2621.339
+        },
+        {
+          "start": 2621.339,
+          "end": 2673.0
+        },
+        {
+          "start": 2673.0,
+          "end": 2727.92
+        },
+        {
+          "start": 2723.52,
+          "end": 2846.569
+        },
+        {
+          "start": 2846.569,
+          "end": 2963.64
+        },
+        {
+          "start": 2963.64,
+          "end": 3034.5
+        },
+        {
+          "start": 3034.5,
+          "end": 3280.319
+        },
+        {
+          "start": 3277.38,
+          "end": 3378.059
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2268.42,
+          "end": 2479.2,
+          "reason": "Listener’s Matthew citation and verse-level long-suffering reference unclear; do not repair exact references."
+        },
+        {
+          "start": 2673.0,
+          "end": 2727.92,
+          "reason": "Moses-location example and book title require audio confirmation; only probation interpretation retained."
+        },
+        {
+          "start": 2963.64,
+          "end": 3034.5,
+          "reason": "Listener appears to begin an additional subquestion (also I want to) that is not completed; do not invent it."
+        },
+        {
+          "start": 3034.5,
+          "end": 3280.319,
+          "reason": "Greek term and execution-procedure detail require audio/context verification; no modern legal or private-action advice."
+        }
+      ],
+      "cursor_seconds": 2268.42,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
     }
   ],
   "teacher_confirmations": {
@@ -274195,6 +275575,72 @@
       "teacher": "Arnold Murray",
       "transcript_sha256": "2a3f74db5aa714be8d71b85430f43c7b979242dc8a2a6a7ce6867f6a55e2a5e3",
       "source_sha256": "ba8c93487b301df46587016fa4c694271173b48172432419131dfd5a11944a8e",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "jFhmfxknnfc": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "578b79497deb02f653219146086dda87c2e32216f2767abcc4e9bb479c844237",
+      "source_sha256": "93bb662bb1e13dd0ded42ae084dd6af5ef81b316a21809b821765a1f38cde46b",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "FoEpcLT4lbY": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "94b8a1cd31ce329e5c9202a489e36756aa5b2cd2ac7de0ee424b6a2f0946a1d0",
+      "source_sha256": "f88e5fb69dd15d563868c8f3b49bd23d2adbbf7e78393fd642d448c4f1596b8d",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "mVf0SLXjwkM": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4c70c091fd4cd40e2e07675e0d054f690064f3ea833840daa25f69982c92f41c",
+      "source_sha256": "cd415e2085a960402b1e8fa4c5b48cf9223aa4063625ef79c9438cb1ea72e29a",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "2SPez_EjWcI": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2bc723f84c081607ba781fe448d41963af6876acb489a9abd7164636d3cb42d4",
+      "source_sha256": "0ea3c143a33cfd4b841d98c423357c6082e34453943cd29df290c7a5608482c0",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "xQ1xXWodKg0": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "2393c31b7ce93d0f44864f7725bf66a62101cc285138f754af69b77c88afc08c",
+      "source_sha256": "533b9662d16e7e06a8bb3a00df006a1b82b6d2572d9fef0685322afc300ceb7b",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "s8uTwiOKnsQ": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
+      "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
       "basis": "captioned_program_introduction",
       "caption_passage_read": true,
       "start_index": 0,
