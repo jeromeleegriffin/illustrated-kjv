@@ -1,0 +1,90 @@
+{
+  "batch": "local065-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 62,
+  "new_question_groups": 22,
+  "total_question_groups": 6015,
+  "total_linked_answers": 10469,
+  "distinct_question_recording_pairs": 10422,
+  "recordings_with_approved_answers": 4,
+  "caption_teacher_confirmations": 4,
+  "held_passages": 35,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 873,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 974,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10422
+  },
+  "title_clarifications": [
+    {
+      "question_id": "local032-fATX8iNlhao-9",
+      "previous_question": "Where did Dennis point for Christ preaching to the dead?",
+      "question": "Where do the Murrays point for Christ preaching to the dead?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    },
+    {
+      "question_id": "local046-xplK5lMj5z4-2",
+      "previous_question": "How does Dennis regard souls lost through miscarriage or abortion?",
+      "question": "How do the Murrays regard souls lost through miscarriage or abortion?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    },
+    {
+      "question_id": "local011-first-last",
+      "previous_question": "How did Dennis explain the first being last and the last first?",
+      "question": "How do the Murrays explain the first being last and the last first?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    },
+    {
+      "question_id": "satan-scripture-twist-dennis",
+      "previous_question": "Which passage did Dennis cite for Satan twisting Scripture?",
+      "question": "Which passages do the Murrays cite for Satan twisting Scripture?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    },
+    {
+      "question_id": "local024-timothy-food",
+      "previous_question": "Did Dennis read 1 Timothy 4 as abolishing the food laws?",
+      "question": "Does 1 Timothy 4 abolish the food laws in the Murrays’ teaching?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    },
+    {
+      "question_id": "sue-injurer-claiming-christian",
+      "previous_question": "Did Arnold allow suing someone claiming to be Christian who physically injured a person?",
+      "question": "Does Arnold permit civil action after attempts to resolve harm?",
+      "reason": "Broader harm/reconciliation wording accommodates this source without implying its listener specified the same physical injury as the older source."
+    },
+    {
+      "question_id": "local032-gO4uvNaFURE-10",
+      "previous_question": "Did Dennis expect antichrist to appear male?",
+      "question": "Is Antichrist described as male in the Murrays’ teaching?",
+      "reason": "Teacher-neutral wording groups the equivalent Arnold and Dennis answers while preserving their qualifications."
+    }
+  ],
+  "source_specific_differences": [
+    {
+      "question_id": "local065-rGZ2yLYl8ws-53",
+      "difference": "This source calls Matthew6:9 the Lords Prayer and a format. Another source local052-lzTJeI-41bw-1 reserves the Lords own prayer for John17. Keep the source-specific naming and the format/personal-prayer distinction."
+    },
+    {
+      "question_id": "local065-eX9fquSR_5o-11",
+      "difference": "Elizabeth/Elijah parallels are presented as possible, including a six-month lead suggestion, rather than a fixed doctrine to harmonize with other witness lead-time estimates."
+    },
+    {
+      "question_id": "local055-OJMziDO-zrA-134",
+      "difference": "This source stresses symbolic mother Israel and a chapter spanning ages; the earlier answer additionally narrows the mother to Mary. Retain the emphasis of each recording."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2282
+}

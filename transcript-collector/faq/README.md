@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,993 question groups and 10,407 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,015 question groups and 10,469 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 869 remain partially reviewed, 419 await passage/supplement review and 978 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 873 remain partially reviewed, 419 await passage/supplement review and 974 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -405,3 +405,6 @@ Pass063 adds24caption-reviewed Arnold answer links and10new question groups from
 Pass064 adds27caption-reviewed Arnold answer links and9new question groups from three saved topical recordings. Two source exports reuse the same named listener Q&A; only Eacko6EAhNw contributes those answers, while c1oA2YCpm2g is held from duplicate counting for that section. No wholelecture alias is inferred. Seventeen held ranges retain private cues. Baptism wording and witness lead-time estimates remain source-specific. All2286saved sources and earlier registry arrays are preserved. FivePython tests and both navigation suites pass; independent audio verification remains pending.
 
 Live-search verification consolidated two equivalent questions (Luke14 family language and the historical newsletter policy) into existing groups. All27new answer links remain; the batch adds9question groups.
+
+
+Pass065 adds62caption-reviewed Arnold answer links and22new question groups from four saved topical recordings. Presenter confirmation uses three named introductions and one named program closing. A Q&A section shared by rGZ2yLYl8ws and rtuYAUa_KRo counts only under rGZ2yLYl8ws; their earlier lectures differ and no whole-recording alias is created. Seven broader/teacher-neutral titles preserve previous wording and source-specific answers. Thirty-five held ranges, tentative calendar parallels and differing prayer terminology retain qualifications. All2286saved transcripts are unchanged. FivePython tests and both navigation suites pass; full-section and independent audio certifications are not claimed.
