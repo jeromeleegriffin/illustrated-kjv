@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-30T13:57:46.899808+00:00",
+  "updated": "2026-10-30T15:47:11.654842+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -160711,7 +160711,7 @@
     },
     {
       "video_id": "gpZTEdqemTk",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Your Destiny - Part 2",
       "kind": "topical",
@@ -160720,12 +160720,200 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 22,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "noah-marriage-warning",
+        "local045-_jk__5zuqyw-5",
+        "genesis-our-image",
+        "michael-archangel-identity",
+        "pork-new-testament",
+        "local070-gpZTEdqemTk-6",
+        "antichrist-physical-harm",
+        "local070-gpZTEdqemTk-8",
+        "local070-gpZTEdqemTk-9",
+        "local052-mY3Sv9F1w9U-2",
+        "local070-gpZTEdqemTk-11",
+        "fig-generation-length",
+        "hell-preaching"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "noah-marriage-warning",
+          "start_seconds": 2279.94,
+          "end_seconds": 2452.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-_jk__5zuqyw-5",
+          "start_seconds": 2452.859,
+          "end_seconds": 2482.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "genesis-our-image",
+          "start_seconds": 2482.56,
+          "end_seconds": 2557.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-archangel-identity",
+          "start_seconds": 2557.56,
+          "end_seconds": 2668.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "pork-new-testament",
+          "start_seconds": 2668.26,
+          "end_seconds": 2680.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local070-gpZTEdqemTk-6",
+          "start_seconds": 2689.2,
+          "end_seconds": 2748.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-physical-harm",
+          "start_seconds": 2793.839,
+          "end_seconds": 2836.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local070-gpZTEdqemTk-8",
+          "start_seconds": 2836.74,
+          "end_seconds": 2900.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local070-gpZTEdqemTk-9",
+          "start_seconds": 2900.099,
+          "end_seconds": 2931.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local052-mY3Sv9F1w9U-2",
+          "start_seconds": 2931.54,
+          "end_seconds": 2979.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local070-gpZTEdqemTk-11",
+          "start_seconds": 2979.72,
+          "end_seconds": 3109.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "fig-generation-length",
+          "start_seconds": 3282.78,
+          "end_seconds": 3333.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-preaching",
+          "start_seconds": 3333.66,
+          "end_seconds": 3374.28,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "gpZTEdqemTk",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+        "qa_start": 2279.94,
+        "qa_end": 3374.28,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2279.94,
+            "end": 2452.859
+          },
+          {
+            "start": 2452.859,
+            "end": 2482.56
+          },
+          {
+            "start": 2482.56,
+            "end": 2557.56
+          },
+          {
+            "start": 2557.56,
+            "end": 2668.26
+          },
+          {
+            "start": 2668.26,
+            "end": 2680.8
+          },
+          {
+            "start": 2689.2,
+            "end": 2748.839
+          },
+          {
+            "start": 2793.839,
+            "end": 2836.74
+          },
+          {
+            "start": 2836.74,
+            "end": 2900.099
+          },
+          {
+            "start": 2900.099,
+            "end": 2931.54
+          },
+          {
+            "start": 2931.54,
+            "end": 2979.72
+          },
+          {
+            "start": 2979.72,
+            "end": 3109.859
+          },
+          {
+            "start": 3282.78,
+            "end": 3333.66
+          },
+          {
+            "start": 3333.66,
+            "end": 3374.28
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2279.94,
+            "end": 2452.859,
+            "reason": "Verse range and Greek term uncertain; ancestry claims not independently established."
+          },
+          {
+            "start": 2557.56,
+            "end": 2668.26,
+            "reason": "Michael in the pit expressly undocumented; contemporary Persian Gulf typology unverified."
+          },
+          {
+            "start": 3109.859,
+            "end": 3152.579,
+            "reason": "Incident name rendered start and reply includes unverified rumors; held pending audio/context."
+          },
+          {
+            "start": 3152.579,
+            "end": 3255.119,
+            "reason": "PTL allegations and unclear reported conduct; hold rather than repeat unsupported accusations."
+          },
+          {
+            "start": 3282.78,
+            "end": 3333.66,
+            "reason": "Seventy/seventy-two-year wording uncertain; preserve historical1988forecast and repeated length questions counted once."
+          }
+        ],
+        "cursor_seconds": 2279.94,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+      },
+      "cursor_seconds": 2279.94
     },
     {
       "video_id": "h0Cp4ZGaVdM",
@@ -169173,13 +169361,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 896,
+    "partially_reviewed": 897,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 951,
+    "teacher_pending": 950,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 10708
+    "question_occurrences": 10721
   }
 }

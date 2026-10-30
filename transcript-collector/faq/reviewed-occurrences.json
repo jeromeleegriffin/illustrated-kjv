@@ -4734,9 +4734,12 @@
     },
     {
       "id": "pork-new-testament",
-      "question": "Did Dennis read the New Testament as permitting pork?",
+      "question": "Did the Murrays read the New Testament as permitting pork?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis read the New Testament as permitting pork?"
+      ]
     },
     {
       "id": "jesus-baptism-objection",
@@ -36827,6 +36830,30 @@
     {
       "id": "local069-s8uTwiOKnsQ-65",
       "question": "Did Arnold include a family caring for a disabled parent in his criticism of welfare dependence?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local070-gpZTEdqemTk-6",
+      "question": "How did Arnold respond to connecting the coats of skins with mercy for Adam and Eve?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local070-gpZTEdqemTk-8",
+      "question": "How did Arnold describe true elders and praying without an elder?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local070-gpZTEdqemTk-9",
+      "question": "Did Arnold connect the five unprepared virgins with five churches in Revelation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local070-gpZTEdqemTk-11",
+      "question": "How did Arnold describe the limits of presidential power?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     }
@@ -205156,6 +205183,220 @@
       "recording_group": "s8uTwiOKnsQ",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "noah-marriage-warning",
+      "video_id": "gpZTEdqemTk",
+      "start": 2279.94,
+      "end": 2452.859,
+      "variant": "local070-gpZTEdqemTk-1",
+      "summary": "Arnold interpreted the marriage language as deception involving fallen angels. He qualified his answer by saying faithful followers of Christ need not submit to them and appealed to authority in Christ’s name. His genealogy claims are his interpretation, not independently verified ancestry.",
+      "scripture_mentions": [
+        "Matthew 24",
+        "Luke 10",
+        "2 Corinthians 11"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local045-_jk__5zuqyw-5",
+      "video_id": "gpZTEdqemTk",
+      "start": 2452.859,
+      "end": 2482.56,
+      "variant": "local070-gpZTEdqemTk-2",
+      "summary": "Arnold agreed that the servant is continuing Christ’s teaching. He connected this with standing against deception and allowing the Holy Spirit to speak through the believer.",
+      "scripture_mentions": [
+        "Matthew 24:46"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "genesis-our-image",
+      "video_id": "gpZTEdqemTk",
+      "start": 2482.56,
+      "end": 2557.56,
+      "variant": "local070-gpZTEdqemTk-3",
+      "summary": "Arnold interpreted the plural as God addressing his children and fellow servants before flesh life. He related election to those who resisted Satan in a prior age; this records his theological interpretation.",
+      "scripture_mentions": [
+        "Genesis 1:26"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "michael-archangel-identity",
+      "video_id": "gpZTEdqemTk",
+      "start": 2557.56,
+      "end": 2668.26,
+      "variant": "local070-gpZTEdqemTk-4",
+      "summary": "Arnold called Michael Israel’s archangel and distinguished him from Christ and the prince of Persia. He speculated that Michael would put Satan in the pit, explicitly saying he could not document that identification.",
+      "scripture_mentions": [
+        "Daniel 10",
+        "Daniel 12:1"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "pork-new-testament",
+      "video_id": "gpZTEdqemTk",
+      "start": 2668.26,
+      "end": 2680.8,
+      "variant": "local070-gpZTEdqemTk-5",
+      "summary": "Arnold answered no. He distinguished things he considered food from pork, which he said God had not called food. The brief reply supplied no specific New Testament citation.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local070-gpZTEdqemTk-6",
+      "video_id": "gpZTEdqemTk",
+      "start": 2689.2,
+      "end": 2748.839,
+      "variant": "local070-gpZTEdqemTk-6",
+      "summary": "Arnold cautiously agreed in a sense with the listener’s proposed connection and emphasized God’s continuing love for children who do wrong. He welcomed the observation rather than offering a developed explanation of its details.",
+      "scripture_mentions": [
+        "Genesis 3:21–24"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "antichrist-physical-harm",
+      "video_id": "gpZTEdqemTk",
+      "start": 2793.839,
+      "end": 2836.74,
+      "variant": "local070-gpZTEdqemTk-7",
+      "summary": "Arnold said only the two witnesses would be killed in Jerusalem and interpreted the threatened death as spiritual deception. He reassured the listener that God would care for the elect and said Antichrist sought converts rather than destruction. These are his prophetic interpretations, not a practical guarantee of safety.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local070-gpZTEdqemTk-8",
+      "video_id": "gpZTEdqemTk",
+      "start": 2836.74,
+      "end": 2900.099,
+      "variant": "local070-gpZTEdqemTk-8",
+      "summary": "Arnold described elders as men and women teaching God’s word truthfully and trusting God with prayer. He said they do not necessarily know what God will do, and added that a person can pray and anoint without another person doing it for them. His healing testimony is not independent medical evidence.",
+      "scripture_mentions": [
+        "James 5:13–14"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local070-gpZTEdqemTk-9",
+      "video_id": "gpZTEdqemTk",
+      "start": 2900.099,
+      "end": 2931.54,
+      "variant": "local070-gpZTEdqemTk-9",
+      "summary": "Arnold accepted the comparison in a qualified sense, contrasting the five with the two churches receiving no criticism. He emphasized their knowledge and the key of David rather than establishing a detailed one-to-one correspondence.",
+      "scripture_mentions": [
+        "Revelation"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local052-mY3Sv9F1w9U-2",
+      "video_id": "gpZTEdqemTk",
+      "start": 2931.54,
+      "end": 2979.72,
+      "variant": "local070-gpZTEdqemTk-10",
+      "summary": "Arnold said they would be delivered up, including betrayal by relatives, to let the Holy Spirit speak through them. He urged faith that God would care for them.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local070-gpZTEdqemTk-11",
+      "video_id": "gpZTEdqemTk",
+      "start": 2979.72,
+      "end": 3109.859,
+      "variant": "local070-gpZTEdqemTk-11",
+      "summary": "In this historical political answer, Arnold said a president has considerable power but depends on support from the public and Congress. He urged listeners to hold elected representatives accountable. His partisan judgments reflect the broadcast’s context, not current civic or legal guidance.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "fig-generation-length",
+      "video_id": "gpZTEdqemTk",
+      "start": 3282.78,
+      "end": 3333.66,
+      "variant": "local070-gpZTEdqemTk-12",
+      "summary": "Arnold discussed several generation lengths and particularly emphasized forty years, explicitly looking toward 1988 from a 1948 starting point while saying no one knew the exact time. The captions also render differing seventy/seventy-two-year numbers. This is a historical forecast and unresolved numerical wording, not a present prediction.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "hell-preaching",
+      "video_id": "gpZTEdqemTk",
+      "start": 3333.66,
+      "end": 3374.28,
+      "variant": "local070-gpZTEdqemTk-13",
+      "summary": "Arnold said those who had died before Christ paid the price needed an opportunity to receive him. He said Christ preached to them and freed those who accepted him, referring generally to Peter without a precise verse in this answer.",
+      "scripture_mentions": [
+        "Peter"
+      ],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
+      "recording_group": "gpZTEdqemTk",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
     }
   ],
   "duplicate_recording_aliases": {
@@ -275205,6 +275446,100 @@
       "audio_verified": false,
       "reviewed_at": "2026-10-30",
       "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
+    },
+    {
+      "video_id": "gpZTEdqemTk",
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "qa_start": 2279.94,
+      "qa_end": 3374.28,
+      "qa_boundaries_confirmed": false,
+      "all_listener_questions_reviewed": false,
+      "reviewed_ranges": [
+        {
+          "start": 2279.94,
+          "end": 2452.859
+        },
+        {
+          "start": 2452.859,
+          "end": 2482.56
+        },
+        {
+          "start": 2482.56,
+          "end": 2557.56
+        },
+        {
+          "start": 2557.56,
+          "end": 2668.26
+        },
+        {
+          "start": 2668.26,
+          "end": 2680.8
+        },
+        {
+          "start": 2689.2,
+          "end": 2748.839
+        },
+        {
+          "start": 2793.839,
+          "end": 2836.74
+        },
+        {
+          "start": 2836.74,
+          "end": 2900.099
+        },
+        {
+          "start": 2900.099,
+          "end": 2931.54
+        },
+        {
+          "start": 2931.54,
+          "end": 2979.72
+        },
+        {
+          "start": 2979.72,
+          "end": 3109.859
+        },
+        {
+          "start": 3282.78,
+          "end": 3333.66
+        },
+        {
+          "start": 3333.66,
+          "end": 3374.28
+        }
+      ],
+      "unresolved_ranges": [
+        {
+          "start": 2279.94,
+          "end": 2452.859,
+          "reason": "Verse range and Greek term uncertain; ancestry claims not independently established."
+        },
+        {
+          "start": 2557.56,
+          "end": 2668.26,
+          "reason": "Michael in the pit expressly undocumented; contemporary Persian Gulf typology unverified."
+        },
+        {
+          "start": 3109.859,
+          "end": 3152.579,
+          "reason": "Incident name rendered start and reply includes unverified rumors; held pending audio/context."
+        },
+        {
+          "start": 3152.579,
+          "end": 3255.119,
+          "reason": "PTL allegations and unclear reported conduct; hold rather than repeat unsupported accusations."
+        },
+        {
+          "start": 3282.78,
+          "end": 3333.66,
+          "reason": "Seventy/seventy-two-year wording uncertain; preserve historical1988forecast and repeated length questions counted once."
+        }
+      ],
+      "cursor_seconds": 2279.94,
+      "audio_verified": false,
+      "reviewed_at": "2026-10-30",
+      "basis": "Direct reading of saved listener questions, replies and surrounding context. Named program introduction identifies Arnold Murray. Duplicate screen and per-question grouping retained privately. No independent audio verification."
     }
   ],
   "teacher_confirmations": {
@@ -275641,6 +275976,17 @@
       "teacher": "Arnold Murray",
       "transcript_sha256": "8d3ef2426c771ae65109edb1e2985f6fdeeeb98c1e9a8d20410ae9701099ddf8",
       "source_sha256": "37e951044ffd7ad9072611f5182cc9bb2328133a8d0c6831903836bcd4f05f26",
+      "basis": "captioned_program_introduction",
+      "caption_passage_read": true,
+      "start_index": 0,
+      "end_index": 19,
+      "reviewed_at": "2026-10-30",
+      "audio_verified": false
+    },
+    "gpZTEdqemTk": {
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "4cb3cedf8b14c100703fc505b942d39f350857963df76825d7f780269cde10ef",
+      "source_sha256": "ebcc548bee991ea9074b678fdaa5a8d884423b29042e0b9920f0ac9a78818a52",
       "basis": "captioned_program_introduction",
       "caption_passage_read": true,
       "start_index": 0,

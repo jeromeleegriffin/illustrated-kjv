@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,111 question groups and 10,755 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,115 question groups and 10,768 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 896 remain partially reviewed, 419 await passage/supplement review and 951 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 897 remain partially reviewed, 419 await passage/supplement review and 950 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -423,3 +423,7 @@ Adds85caption-reviewed Arnold Murray answer links and33question groups from six 
 ## Local069 caption review
 
 Added 51 source-supported answer links and 21 question groups from six Arnold Murray recordings. All six remain partial; 19 uncertain ranges and three excluded/repeated passages retain exact private dispositions. Four additional uploads were excluded for reused Q&A, including overlaps with external reservations. No whole-lecture aliases were inferred. All 2,286 original exports, prior approvals, reservations and navigation assets were preserved. Five Python tests, two navigation suites, exact hash/anchor checks and frequency validation passed; independent audio verification remains pending.
+
+## Local070 caption review
+
+Reconciled the saved Your Destiny Part2 review into13 new answer links and4 new question groups. Nine answers join existing groups with source-specific variants. Five uncertain ranges and two excluded passages remain privately recorded; the recording is partial and audio is unverified. Preserved prior approvals, original sources, reservations and navigation; source hashes, anchors, frequency and recovery tests passed.

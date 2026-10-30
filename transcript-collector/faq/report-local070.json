@@ -1,0 +1,43 @@
+{
+  "batch": "local070-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 13,
+  "new_question_groups": 4,
+  "total_question_groups": 6115,
+  "total_linked_answers": 10768,
+  "distinct_question_recording_pairs": 10721,
+  "recordings_with_approved_answers": 1,
+  "caption_teacher_confirmations": 1,
+  "held_passages": 5,
+  "excluded_or_repeat_passages": 2,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 897,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 950,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10721
+  },
+  "title_clarifications": [
+    {
+      "question_id": "pork-new-testament",
+      "previous_question": "Did Dennis read the New Testament as permitting pork?",
+      "question": "Did the Murrays read the New Testament as permitting pork?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2285,
+  "pending_without_accepted_qa_review": 1369,
+  "recordings_with_review_work_remaining": 2266
+}
