@@ -1,0 +1,85 @@
+{
+  "batch": "topical-transcripts012-015",
+  "status": "imported_saved_pending_publication",
+  "incoming_recordings": 395,
+  "new_private_transcripts": 395,
+  "overlapping_recordings": 0,
+  "raw_caption_files": 395,
+  "raw_caption_hashes_and_provided_json_verified": true,
+  "existing_source_files_unchanged": true,
+  "existing_approved_registry_unchanged": true,
+  "external_assignments_unchanged": true,
+  "private_corpus_total": 2086,
+  "topical_catalog_links": 1549,
+  "new_catalog_links": 0,
+  "catalog_saved_caption_recordings": 791,
+  "new_faq_answers": 0,
+  "total_question_groups": 5967,
+  "total_linked_answers": 10331,
+  "full_section_reviews": 0,
+  "audio_verified": false,
+  "teacher_confirmations": 0,
+  "imported_automatic_intro_labels": 32,
+  "imported_metadata_only_labels": 363,
+  "teacher_policy": "All395newexports await independent hash-bound presenter review. Imported automatic intro matches and metadata labels are not approvals.",
+  "remaining_collection_queue": 450,
+  "next_collection_id": "bbD56z63qfs",
+  "review": {
+    "available": 2086,
+    "partially_reviewed": 862,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2086,
+    "teacher_pending": 785,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10284
+  },
+  "publication_scope": "Only topical catalog availability metadata and TOPICAL_RELEASE; public FAQ approvals and FAQ_RELEASE preserved. Private FAQ preview reflects expanded scan ledger; source scans are not answer approvals.",
+  "validation": {
+    "archive_integrity": "passed",
+    "raw_caption_hashes_verified": 395,
+    "raw_and_supplied_json_cue_matches": 395,
+    "all_prior_transcript_hashes_preserved": 1691,
+    "prior_registry_and_external_assignments": "byte-identical",
+    "new_scans": 395,
+    "changed_scans": 0,
+    "invalid_approvals": 0,
+    "topical_navigation": "passed",
+    "saved_caption_labels": 791,
+    "python_tests_passed": 5
+  },
+  "collection_failure_count": 5,
+  "collection_failures": [
+    {
+      "video_id": "ln-XyZK6_fY",
+      "batch": "013",
+      "outcome": "NO_NATIVE_EN_CAPTIONS",
+      "at": "2026-10-29T22:33:10.386474+00:00"
+    },
+    {
+      "video_id": "5qxr1uJrc4w",
+      "batch": "014",
+      "outcome": "ERROR",
+      "at": "2026-10-29T23:27:30.807299+00:00"
+    },
+    {
+      "video_id": "daUIrhudbYo",
+      "batch": "015",
+      "outcome": "ERROR",
+      "at": "2026-10-29T23:44:47.645837+00:00"
+    },
+    {
+      "video_id": "cxTrrXPZIaA",
+      "batch": "015",
+      "outcome": "ERROR",
+      "at": "2026-10-29T23:58:47.252053+00:00"
+    },
+    {
+      "video_id": "T-TKQLXz0uc",
+      "batch": "015",
+      "outcome": "ERROR",
+      "at": "2026-10-30T00:13:39.940193+00:00"
+    }
+  ]
+}
