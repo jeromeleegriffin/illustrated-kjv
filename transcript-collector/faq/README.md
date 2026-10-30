@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,955 question groups and 10,299 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,965 question groups and 10,319 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,691 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 858 remain partially reviewed, 419 await passage/supplement review and 394 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,691 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 860 remain partially reviewed, 419 await passage/supplement review and 392 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -370,4 +370,10 @@ Batch058 adds 109 caption-reviewed Arnold answer links and 51 question groups fr
 Batch059 adds 27 caption-reviewed Arnold answer links and 14 question groups from the uploaded topical recordings Ra8dEf10S8I and 3Qo7iBSOBFM (Most Asked Questions, Parts1–2). Original program captions independently identify Arnold. Topical approvals now require explicit hash-bound caption attribution; imported metadata alone cannot promote a source. Neither section is certified complete and audio remains unverified. Twenty-one passage holds include eight proposals from uPcg_ZdlANE whose Q&A repeats reserved BOuoDp97QjY; they are not approved or counted. Three existing question titles are made teacher-neutral for attributed variants, with their previous titles retained. Original transcripts and all external assignments are preserved.
 
 Five Python tests and both existing navigation suites pass. All prior answers and source links remain, frequency and rank checks pass, and the topical release stays unchanged. Totals:5955 groups,10299 linked answers,10252 distinct question-recording pairs.
+
+
+
+## Local batch 060
+
+Adds 20 caption-reviewed Arnold Murray answer links and 10 question groups from listener questions in Rapture Theory Part 2 (xj6Bzv3XNDo) and Satan’s Downfall Part 1 (YfjjQgiKdX0). Named program introductions bind presenter confirmation to original caption hashes. Fifteen unresolved or historical passages remain held; neither Q&A section is certified complete and audio verification remains pending. Original transcripts, earlier answer variants, external reservations, page behavior and unrelated release pins are preserved. Five titles are neutralized for distinctly attributed Arnold and Dennis variants, retaining prior titles. Duplicate passage screening against 1,689 other saved sources found no matching Q&A section. Five Python tests, both navigation suites, preservation, source anchors and frequency ranking checks pass. Totals: 5,965 question groups, 10,319 linked answers and 10,272 distinct question-recording pairs.
 
