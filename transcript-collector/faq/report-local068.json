@@ -1,0 +1,90 @@
+{
+  "batch": "local068-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 85,
+  "new_question_groups": 33,
+  "total_question_groups": 6090,
+  "total_linked_answers": 10704,
+  "distinct_question_recording_pairs": 10657,
+  "recordings_with_approved_answers": 6,
+  "caption_teacher_confirmations": 6,
+  "held_passages": 28,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 890,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 957,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10657
+  },
+  "title_clarifications": [
+    {
+      "question_id": "local014-angels-gender",
+      "previous_question": "Did Dennis conclude that being like angels means everyone will be male?",
+      "question": "Do the Murrays conclude that being like angels means everyone will be male?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local023-remnant-elect",
+      "previous_question": "How did Dennis distinguish the remnant from elect people alive at antichrist’s arrival?",
+      "question": "How do the Murrays distinguish the remnant from elect people alive at Antichrist’s arrival?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local048-xPYvR1WzNEo-1",
+      "previous_question": "Does Dennis take plucking out an offending eye literally?",
+      "question": "Do the Murrays take plucking out an offending eye literally?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local021-vallowe-rapture",
+      "previous_question": "Why did Dennis offer Biblical Mathematics despite disagreeing with its rapture teaching?",
+      "question": "Why did the Murrays offer Biblical Mathematics despite disagreements with its end-time teaching?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "wife-bride",
+      "previous_question": "How did Arnold distinguish a wife from a future bride in his teaching?",
+      "question": "How did Arnold distinguish Christ’s body, wife and bride?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "plant-root-crops-moon",
+      "previous_question": "Did Arnold favor planting root crops by the moon?",
+      "question": "How did Arnold view using lunar signs or an almanac for planting?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "ages-duration-arnold",
+      "previous_question": "How long did Arnold say the millennium and earth ages last?",
+      "question": "How did Arnold distinguish the Millennium and earth ages and describe their durations?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local057-Ib9OLeU_ac0-298",
+      "previous_question": "Did Arnold believe Michael the archangel would be born as a human?",
+      "question": "Does Arnold believe archangels must be born as humans?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local013-elijah-ministry",
+      "previous_question": "Did Dennis say the Elijah ministry was occurring?",
+      "question": "Do the Murrays believe a ministry today can share the spirit of Elijah?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2280,
+  "pending_without_accepted_qa_review": 1376,
+  "recordings_with_review_work_remaining": 2266
+}
