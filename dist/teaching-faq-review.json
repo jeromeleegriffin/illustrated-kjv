@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-30T16:47:24.879568+00:00",
+  "updated": "2026-10-30T17:49:41.084023+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -143818,7 +143818,7 @@
     },
     {
       "video_id": "1ivJM5L9Cd4",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Thanksgiving - Part 1",
       "kind": "topical",
@@ -143827,12 +143827,168 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 22,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local046-4ssJFUI3avY-5",
+        "canaanite-kenite",
+        "divorce-remarriage",
+        "local032-fShd-LOzaRo-6",
+        "forgiveness",
+        "antichrist-present-now",
+        "satan-body-change",
+        "local072-1ivJM5L9Cd4-60",
+        "local072-1ivJM5L9Cd4-61",
+        "local072-1ivJM5L9Cd4-62",
+        "restrainer-thessalonians"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local046-4ssJFUI3avY-5",
+          "start_seconds": 2376.3,
+          "end_seconds": 2543.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "canaanite-kenite",
+          "start_seconds": 2535.54,
+          "end_seconds": 2693.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "divorce-remarriage",
+          "start_seconds": 2691.119,
+          "end_seconds": 2760.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-fShd-LOzaRo-6",
+          "start_seconds": 2803.319,
+          "end_seconds": 2879.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2876.579,
+          "end_seconds": 2963.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "antichrist-present-now",
+          "start_seconds": 2960.64,
+          "end_seconds": 3054.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-body-change",
+          "start_seconds": 3100.559,
+          "end_seconds": 3140.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-1ivJM5L9Cd4-60",
+          "start_seconds": 3136.98,
+          "end_seconds": 3274.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-1ivJM5L9Cd4-61",
+          "start_seconds": 3270.96,
+          "end_seconds": 3325.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-1ivJM5L9Cd4-62",
+          "start_seconds": 3324.059,
+          "end_seconds": 3356.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "restrainer-thessalonians",
+          "start_seconds": 3355.2,
+          "end_seconds": 3408.059,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "1ivJM5L9Cd4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "75184d9202773c4152aee6eafcb35785eed22c5ef271ed00db32352635df7010",
+        "qa_start": 2376.3,
+        "qa_end": 3408.059,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2376.3,
+            "end": 2543.96
+          },
+          {
+            "start": 2535.54,
+            "end": 2693.7
+          },
+          {
+            "start": 2691.119,
+            "end": 2760.0
+          },
+          {
+            "start": 2803.319,
+            "end": 2879.28
+          },
+          {
+            "start": 2876.579,
+            "end": 2963.04
+          },
+          {
+            "start": 2960.64,
+            "end": 3054.24
+          },
+          {
+            "start": 3100.559,
+            "end": 3140.64
+          },
+          {
+            "start": 3136.98,
+            "end": 3274.26
+          },
+          {
+            "start": 3270.96,
+            "end": 3325.98
+          },
+          {
+            "start": 3324.059,
+            "end": 3356.839
+          },
+          {
+            "start": 3355.2,
+            "end": 3408.059
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2760.0,
+            "end": 2807.46,
+            "reason": "Mamzer term and lineage reply need exact audio/context."
+          },
+          {
+            "start": 3046.26,
+            "end": 3103.2,
+            "reason": "Chinese flood-history assertion and uncertain book direction."
+          },
+          {
+            "start": 3270.96,
+            "end": 3325.98,
+            "reason": "Isaiah30 verse caption uncertain; core cross-reference preserved in draft."
+          }
+        ],
+        "cursor_seconds": 2760.0,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2760.0
     },
     {
       "video_id": "1mEZtLyVsfI",
@@ -147152,7 +147308,7 @@
     },
     {
       "video_id": "9UTtOqOErE4",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Pre Existence - Part 3",
       "kind": "topical",
@@ -147161,12 +147317,196 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 28,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "repeated-sin",
+        "local032-fShd-LOzaRo-7",
+        "local032-gqT35mi2WBQ-8",
+        "local015-mental-illness",
+        "local012-apple-genesis",
+        "local072-9UTtOqOErE4-103",
+        "local012-infant-baptism",
+        "dead-bury-dead",
+        "local072-9UTtOqOErE4-106",
+        "local072-9UTtOqOErE4-107",
+        "black-ancestry-claim",
+        "local051-j6fhNL9fwiY-4",
+        "local056-KTQWdRUOxI4-321",
+        "local022-female-fallen"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "repeated-sin",
+          "start_seconds": 2340.839,
+          "end_seconds": 2407.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-fShd-LOzaRo-7",
+          "start_seconds": 2404.619,
+          "end_seconds": 2533.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-gqT35mi2WBQ-8",
+          "start_seconds": 2529.119,
+          "end_seconds": 2599.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local015-mental-illness",
+          "start_seconds": 2592.78,
+          "end_seconds": 2658.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local012-apple-genesis",
+          "start_seconds": 2654.28,
+          "end_seconds": 2704.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-9UTtOqOErE4-103",
+          "start_seconds": 2697.9,
+          "end_seconds": 2770.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local012-infant-baptism",
+          "start_seconds": 2822.579,
+          "end_seconds": 2895.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dead-bury-dead",
+          "start_seconds": 2891.52,
+          "end_seconds": 2937.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-9UTtOqOErE4-106",
+          "start_seconds": 2965.2,
+          "end_seconds": 2995.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-9UTtOqOErE4-107",
+          "start_seconds": 2987.9,
+          "end_seconds": 3034.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "black-ancestry-claim",
+          "start_seconds": 3030.54,
+          "end_seconds": 3165.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local051-j6fhNL9fwiY-4",
+          "start_seconds": 3159.599,
+          "end_seconds": 3189.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-KTQWdRUOxI4-321",
+          "start_seconds": 3180.66,
+          "end_seconds": 3226.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-female-fallen",
+          "start_seconds": 3285.42,
+          "end_seconds": 3334.68,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "9UTtOqOErE4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "0b4923a158e6817c4ec6b98b319079fef90dd883400042e2e5000872d288690a",
+        "qa_start": 2340.839,
+        "qa_end": 3373.619,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2340.839,
+            "end": 2407.38
+          },
+          {
+            "start": 2404.619,
+            "end": 2533.2
+          },
+          {
+            "start": 2529.119,
+            "end": 2599.26
+          },
+          {
+            "start": 2592.78,
+            "end": 2658.66
+          },
+          {
+            "start": 2654.28,
+            "end": 2704.2
+          },
+          {
+            "start": 2697.9,
+            "end": 2770.319
+          },
+          {
+            "start": 2822.579,
+            "end": 2895.96
+          },
+          {
+            "start": 2891.52,
+            "end": 2937.839
+          },
+          {
+            "start": 2965.2,
+            "end": 2995.56
+          },
+          {
+            "start": 2987.9,
+            "end": 3034.319
+          },
+          {
+            "start": 3030.54,
+            "end": 3165.42
+          },
+          {
+            "start": 3159.599,
+            "end": 3189.0
+          },
+          {
+            "start": 3180.66,
+            "end": 3226.5
+          },
+          {
+            "start": 3285.42,
+            "end": 3334.68
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2764.74,
+            "end": 2825.4,
+            "reason": "Ambiguous pronoun about fallen angels/offspring and souls."
+          },
+          {
+            "start": 3220.5,
+            "end": 3287.359,
+            "reason": "Moses family genealogy/relationships garbled."
+          }
+        ],
+        "cursor_seconds": 2764.74,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2764.74
     },
     {
       "video_id": "9emIw4gCJcw",
@@ -147815,7 +148155,7 @@
     },
     {
       "video_id": "Av0atg3weZ0",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Rapture Theory - Part 5 of 5",
       "kind": "topical",
@@ -147824,12 +148164,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 28,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local027-e3X0cma18k8-satan-return-heaven",
+        "local072-Av0atg3weZ0-2",
+        "all-souls-earth-age",
+        "local013-adultery-forgiveness",
+        "local023-satan-still-heaven",
+        "local023-heaven-space",
+        "local072-Av0atg3weZ0-7",
+        "cain-wife",
+        "local051-kSSjNuJQKD4-10",
+        "local071-BCoMj9TII3I-121",
+        "sixth-day-salvation",
+        "local072-Av0atg3weZ0-12",
+        "local057-FnwwUh7x0Zc-348",
+        "local072-Av0atg3weZ0-14"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local027-e3X0cma18k8-satan-return-heaven",
+          "start_seconds": 2591.46,
+          "end_seconds": 2623.619,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-Av0atg3weZ0-2",
+          "start_seconds": 2620.619,
+          "end_seconds": 2683.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "all-souls-earth-age",
+          "start_seconds": 2682.359,
+          "end_seconds": 2793.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local013-adultery-forgiveness",
+          "start_seconds": 2790.599,
+          "end_seconds": 2889.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local023-satan-still-heaven",
+          "start_seconds": 2886.2,
+          "end_seconds": 2974.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local023-heaven-space",
+          "start_seconds": 2971.339,
+          "end_seconds": 3021.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-Av0atg3weZ0-7",
+          "start_seconds": 3019.079,
+          "end_seconds": 3056.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-wife",
+          "start_seconds": 3128.16,
+          "end_seconds": 3157.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local051-kSSjNuJQKD4-10",
+          "start_seconds": 3156.54,
+          "end_seconds": 3178.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local071-BCoMj9TII3I-121",
+          "start_seconds": 3173.04,
+          "end_seconds": 3211.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sixth-day-salvation",
+          "start_seconds": 3209.819,
+          "end_seconds": 3244.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-Av0atg3weZ0-12",
+          "start_seconds": 3242.64,
+          "end_seconds": 3260.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-FnwwUh7x0Zc-348",
+          "start_seconds": 3256.5,
+          "end_seconds": 3360.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-Av0atg3weZ0-14",
+          "start_seconds": 3256.5,
+          "end_seconds": 3360.48,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Av0atg3weZ0",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "2de00c3636cd5cab283f8bb6b0de25b851c67da718f2c4efd1b086e50a98d274",
+        "qa_start": 2591.46,
+        "qa_end": 3386.22,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2591.46,
+            "end": 2623.619
+          },
+          {
+            "start": 2620.619,
+            "end": 2683.56
+          },
+          {
+            "start": 2682.359,
+            "end": 2793.839
+          },
+          {
+            "start": 2790.599,
+            "end": 2889.72
+          },
+          {
+            "start": 2886.2,
+            "end": 2974.98
+          },
+          {
+            "start": 2971.339,
+            "end": 3021.24
+          },
+          {
+            "start": 3019.079,
+            "end": 3056.28
+          },
+          {
+            "start": 3128.16,
+            "end": 3157.68
+          },
+          {
+            "start": 3156.54,
+            "end": 3178.98
+          },
+          {
+            "start": 3173.04,
+            "end": 3211.079
+          },
+          {
+            "start": 3209.819,
+            "end": 3244.74
+          },
+          {
+            "start": 3242.64,
+            "end": 3260.22
+          },
+          {
+            "start": 3256.5,
+            "end": 3360.48
+          },
+          {
+            "start": 3256.5,
+            "end": 3360.48
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3053.96,
+            "end": 3130.74,
+            "reason": "Hair/veil passage and inferred sexual application need closer context; do not harmonize with later allegorical replies."
+          }
+        ],
+        "cursor_seconds": 3053.96,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 3053.96
     },
     {
       "video_id": "B2aEVRSGU10",
@@ -150772,7 +151291,7 @@
     },
     {
       "video_id": "FwrKYON4Ius",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Two Brothers - Part 2",
       "kind": "topical",
@@ -150781,12 +151300,300 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "god-foreknow-satan",
+        "local072-FwrKYON4Ius-65",
+        "local030-DvGjUMgQEC4-4",
+        "local072-FwrKYON4Ius-67",
+        "local046-4ssJFUI3avY-3",
+        "zechariah-witnesses",
+        "local043-jvAfiomWDlw-3",
+        "local072-FwrKYON4Ius-71",
+        "local072-FwrKYON4Ius-72",
+        "local005-bf5264a5f53c48",
+        "local026-fire-when",
+        "local024-claimed-prophet",
+        "local072-FwrKYON4Ius-76",
+        "local072-FwrKYON4Ius-77",
+        "local072-FwrKYON4Ius-78",
+        "cain-wife",
+        "local072-FwrKYON4Ius-80",
+        "local017-mortal-souls",
+        "local024-unbelieving-son",
+        "local072-FwrKYON4Ius-83",
+        "local056-know-god-purpose",
+        "local008-tongues-understanding",
+        "local072-FwrKYON4Ius-86"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "god-foreknow-satan",
+          "start_seconds": 2227.92,
+          "end_seconds": 2377.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-65",
+          "start_seconds": 2375.22,
+          "end_seconds": 2411.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-DvGjUMgQEC4-4",
+          "start_seconds": 2408.4,
+          "end_seconds": 2483.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-67",
+          "start_seconds": 2480.579,
+          "end_seconds": 2584.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local046-4ssJFUI3avY-3",
+          "start_seconds": 2579.3,
+          "end_seconds": 2635.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "zechariah-witnesses",
+          "start_seconds": 2632.74,
+          "end_seconds": 2655.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local043-jvAfiomWDlw-3",
+          "start_seconds": 2652.06,
+          "end_seconds": 2709.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-71",
+          "start_seconds": 2706.359,
+          "end_seconds": 2760.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-72",
+          "start_seconds": 2758.2,
+          "end_seconds": 2814.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local005-bf5264a5f53c48",
+          "start_seconds": 2812.44,
+          "end_seconds": 2851.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-fire-when",
+          "start_seconds": 2844.42,
+          "end_seconds": 2937.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-claimed-prophet",
+          "start_seconds": 2935.44,
+          "end_seconds": 3025.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-76",
+          "start_seconds": 3022.44,
+          "end_seconds": 3046.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-77",
+          "start_seconds": 3044.04,
+          "end_seconds": 3085.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-78",
+          "start_seconds": 3081.78,
+          "end_seconds": 3161.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cain-wife",
+          "start_seconds": 3159.0,
+          "end_seconds": 3171.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-80",
+          "start_seconds": 3199.319,
+          "end_seconds": 3244.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local017-mortal-souls",
+          "start_seconds": 3238.26,
+          "end_seconds": 3268.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-unbelieving-son",
+          "start_seconds": 3263.7,
+          "end_seconds": 3300.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-83",
+          "start_seconds": 3292.559,
+          "end_seconds": 3311.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-know-god-purpose",
+          "start_seconds": 3307.8,
+          "end_seconds": 3340.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-tongues-understanding",
+          "start_seconds": 3333.0,
+          "end_seconds": 3366.619,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-FwrKYON4Ius-86",
+          "start_seconds": 3365.819,
+          "end_seconds": 3387.3,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "FwrKYON4Ius",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "d46e50e7e09aeceded491ca0baf5d8029cac8eb46ae0bfb60521ecc86b5054a4",
+        "qa_start": 2227.92,
+        "qa_end": 3387.3,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2227.92,
+            "end": 2377.98
+          },
+          {
+            "start": 2375.22,
+            "end": 2411.339
+          },
+          {
+            "start": 2408.4,
+            "end": 2483.359
+          },
+          {
+            "start": 2480.579,
+            "end": 2584.079
+          },
+          {
+            "start": 2579.3,
+            "end": 2635.079
+          },
+          {
+            "start": 2632.74,
+            "end": 2655.0
+          },
+          {
+            "start": 2652.06,
+            "end": 2709.0
+          },
+          {
+            "start": 2706.359,
+            "end": 2760.48
+          },
+          {
+            "start": 2758.2,
+            "end": 2814.54
+          },
+          {
+            "start": 2812.44,
+            "end": 2851.26
+          },
+          {
+            "start": 2844.42,
+            "end": 2937.48
+          },
+          {
+            "start": 2935.44,
+            "end": 3025.98
+          },
+          {
+            "start": 3022.44,
+            "end": 3046.5
+          },
+          {
+            "start": 3044.04,
+            "end": 3085.74
+          },
+          {
+            "start": 3081.78,
+            "end": 3161.22
+          },
+          {
+            "start": 3159.0,
+            "end": 3171.42
+          },
+          {
+            "start": 3199.319,
+            "end": 3244.26
+          },
+          {
+            "start": 3238.26,
+            "end": 3268.8
+          },
+          {
+            "start": 3263.7,
+            "end": 3300.18
+          },
+          {
+            "start": 3292.559,
+            "end": 3311.88
+          },
+          {
+            "start": 3307.8,
+            "end": 3340.26
+          },
+          {
+            "start": 3333.0,
+            "end": 3366.619
+          },
+          {
+            "start": 3365.819,
+            "end": 3387.3
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2812.44,
+            "end": 2851.26,
+            "reason": "2Peter3 verse recalled uncertainly."
+          },
+          {
+            "start": 3044.04,
+            "end": 3085.74,
+            "reason": "Living-creature original-language terms garbled."
+          },
+          {
+            "start": 3081.78,
+            "end": 3161.22,
+            "reason": "Dream/sighting clinical explanation is speculative, not a diagnosis."
+          }
+        ],
+        "cursor_seconds": 2812.44,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2812.44
     },
     {
       "video_id": "G-xR8QAUrtg",
@@ -151168,7 +151975,7 @@
     },
     {
       "video_id": "HQGO5zLnBdI",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Son of Perdition",
       "kind": "topical",
@@ -151177,12 +151984,244 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 29,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local033-h8oP6_DYcXM-5",
+        "local072-HQGO5zLnBdI-27",
+        "reap-sow-discipline",
+        "local072-HQGO5zLnBdI-29",
+        "discern-teachers",
+        "receiving-god",
+        "local030-DvGjUMgQEC4-1",
+        "local072-HQGO5zLnBdI-33",
+        "local072-HQGO5zLnBdI-34",
+        "local072-HQGO5zLnBdI-35",
+        "local072-HQGO5zLnBdI-36",
+        "testimony-silence",
+        "local072-HQGO5zLnBdI-38",
+        "local072-HQGO5zLnBdI-39",
+        "rest-dead-millennium",
+        "local072-HQGO5zLnBdI-41",
+        "marriage-license-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local033-h8oP6_DYcXM-5",
+          "start_seconds": 2419.5,
+          "end_seconds": 2456.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-27",
+          "start_seconds": 2453.339,
+          "end_seconds": 2518.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "reap-sow-discipline",
+          "start_seconds": 2511.359,
+          "end_seconds": 2529.9,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-29",
+          "start_seconds": 2524.74,
+          "end_seconds": 2637.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "discern-teachers",
+          "start_seconds": 2633.52,
+          "end_seconds": 2675.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "receiving-god",
+          "start_seconds": 2670.74,
+          "end_seconds": 2727.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-DvGjUMgQEC4-1",
+          "start_seconds": 2722.619,
+          "end_seconds": 2744.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-33",
+          "start_seconds": 2741.579,
+          "end_seconds": 2778.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-34",
+          "start_seconds": 2775.42,
+          "end_seconds": 2800.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-35",
+          "start_seconds": 2798.22,
+          "end_seconds": 2827.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-36",
+          "start_seconds": 2824.04,
+          "end_seconds": 2881.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "testimony-silence",
+          "start_seconds": 2894.94,
+          "end_seconds": 2921.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-38",
+          "start_seconds": 2983.4,
+          "end_seconds": 3035.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-39",
+          "start_seconds": 3030.0,
+          "end_seconds": 3074.579,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rest-dead-millennium",
+          "start_seconds": 3213.359,
+          "end_seconds": 3271.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-HQGO5zLnBdI-41",
+          "start_seconds": 3267.18,
+          "end_seconds": 3325.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-license-arnold",
+          "start_seconds": 3324.359,
+          "end_seconds": 3382.5,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "HQGO5zLnBdI",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "3e8e6140c57b545ba12cf4701ff1796b6dc81167b7217c78eb5708add022de1a",
+        "qa_start": 2419.5,
+        "qa_end": 3382.5,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2419.5,
+            "end": 2456.04
+          },
+          {
+            "start": 2453.339,
+            "end": 2518.38
+          },
+          {
+            "start": 2511.359,
+            "end": 2529.9
+          },
+          {
+            "start": 2524.74,
+            "end": 2637.48
+          },
+          {
+            "start": 2633.52,
+            "end": 2675.099
+          },
+          {
+            "start": 2670.74,
+            "end": 2727.54
+          },
+          {
+            "start": 2722.619,
+            "end": 2744.52
+          },
+          {
+            "start": 2741.579,
+            "end": 2778.78
+          },
+          {
+            "start": 2775.42,
+            "end": 2800.8
+          },
+          {
+            "start": 2798.22,
+            "end": 2827.859
+          },
+          {
+            "start": 2824.04,
+            "end": 2881.26
+          },
+          {
+            "start": 2894.94,
+            "end": 2921.28
+          },
+          {
+            "start": 2983.4,
+            "end": 3035.04
+          },
+          {
+            "start": 3030.0,
+            "end": 3074.579
+          },
+          {
+            "start": 3213.359,
+            "end": 3271.5
+          },
+          {
+            "start": 3267.18,
+            "end": 3325.98
+          },
+          {
+            "start": 3324.359,
+            "end": 3382.5
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2878.68,
+            "end": 2897.819,
+            "reason": "Historical Iraq/deadly-wound speculation not verified."
+          },
+          {
+            "start": 2919.06,
+            "end": 2971.02,
+            "reason": "Eight-survivor/flood ancestry interpretation needs fuller contextual reconciliation."
+          },
+          {
+            "start": 3072.66,
+            "end": 3094.98,
+            "reason": "Hypothetical Eve-only question expressly answered I do not know."
+          },
+          {
+            "start": 3092.16,
+            "end": 3131.76,
+            "reason": "Dinosaur/men wording garbled; do not silently reconstruct."
+          },
+          {
+            "start": 3128.64,
+            "end": 3216.079,
+            "reason": "School-creation reply mainly political allegations, not verified."
+          }
+        ],
+        "cursor_seconds": 2878.68,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2878.68
     },
     {
       "video_id": "HYoILrmuij8",
@@ -155619,7 +156658,7 @@
     },
     {
       "video_id": "SJO9r1D59yI",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Two Brothers - Part 3",
       "kind": "topical",
@@ -155628,12 +156667,185 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 28,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local055-CyrJCyMboVQ-124",
+        "local019-twinkling-change",
+        "local072-SJO9r1D59yI-162",
+        "tongues-foreign-cloven",
+        "local072-SJO9r1D59yI-164",
+        "local049-fnoxSEkqW6I-19",
+        "local045-Zic684szSb0-5",
+        "forgiveness",
+        "local069-xQ1xXWodKg0-44",
+        "local052-kgORYtXLGvE-7",
+        "local072-SJO9r1D59yI-170",
+        "anointing-proxy-distance",
+        "arnold-president-question"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local055-CyrJCyMboVQ-124",
+          "start_seconds": 2419.2,
+          "end_seconds": 2485.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-twinkling-change",
+          "start_seconds": 2479.26,
+          "end_seconds": 2533.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-SJO9r1D59yI-162",
+          "start_seconds": 2530.74,
+          "end_seconds": 2599.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "tongues-foreign-cloven",
+          "start_seconds": 2597.64,
+          "end_seconds": 2699.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-SJO9r1D59yI-164",
+          "start_seconds": 2693.099,
+          "end_seconds": 2751.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-fnoxSEkqW6I-19",
+          "start_seconds": 2844.54,
+          "end_seconds": 2885.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-Zic684szSb0-5",
+          "start_seconds": 2883.66,
+          "end_seconds": 2940.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2934.839,
+          "end_seconds": 3021.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local069-xQ1xXWodKg0-44",
+          "start_seconds": 3014.88,
+          "end_seconds": 3108.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local052-kgORYtXLGvE-7",
+          "start_seconds": 3104.339,
+          "end_seconds": 3167.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-SJO9r1D59yI-170",
+          "start_seconds": 3161.579,
+          "end_seconds": 3265.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-proxy-distance",
+          "start_seconds": 3264.3,
+          "end_seconds": 3290.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "arnold-president-question",
+          "start_seconds": 3330.18,
+          "end_seconds": 3390.78,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "SJO9r1D59yI",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "1198f4cfaf68e48661ee015ce41bcf0347500b09821edd0c7f909d8b36b323f0",
+        "qa_start": 2419.2,
+        "qa_end": 3390.78,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2419.2,
+            "end": 2485.2
+          },
+          {
+            "start": 2479.26,
+            "end": 2533.079
+          },
+          {
+            "start": 2530.74,
+            "end": 2599.859
+          },
+          {
+            "start": 2597.64,
+            "end": 2699.04
+          },
+          {
+            "start": 2693.099,
+            "end": 2751.78
+          },
+          {
+            "start": 2844.54,
+            "end": 2885.88
+          },
+          {
+            "start": 2883.66,
+            "end": 2940.26
+          },
+          {
+            "start": 2934.839,
+            "end": 3021.66
+          },
+          {
+            "start": 3014.88,
+            "end": 3108.42
+          },
+          {
+            "start": 3104.339,
+            "end": 3167.339
+          },
+          {
+            "start": 3161.579,
+            "end": 3265.98
+          },
+          {
+            "start": 3264.3,
+            "end": 3290.94
+          },
+          {
+            "start": 3330.18,
+            "end": 3390.78
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3104.339,
+            "end": 3167.339,
+            "reason": "Moffatt/Jeremiah verse sequence garbled."
+          },
+          {
+            "start": 3284.579,
+            "end": 3331.619,
+            "reason": "Matthew16 reply and claimed resurrection audience need closer context/audio."
+          }
+        ],
+        "cursor_seconds": 3104.339,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 3104.339
     },
     {
       "video_id": "SLZeFpsjlZ0",
@@ -158111,7 +159323,7 @@
     },
     {
       "video_id": "WyXY4NF3y-4",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Politics part 1",
       "kind": "topical",
@@ -158120,12 +159332,168 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 21,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local072-WyXY4NF3y-4-15",
+        "local072-WyXY4NF3y-4-16",
+        "local072-WyXY4NF3y-4-17",
+        "local072-WyXY4NF3y-4-18",
+        "local056-6FJc5RP4fCw-374",
+        "local057-8bNq4LykXyM-164",
+        "black-ancestry-claim",
+        "local072-WyXY4NF3y-4-22",
+        "local030-4ssJFUI3avY-6",
+        "local072-WyXY4NF3y-4-24",
+        "local072-WyXY4NF3y-4-25"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local072-WyXY4NF3y-4-15",
+          "start_seconds": 2486.28,
+          "end_seconds": 2532.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-WyXY4NF3y-4-16",
+          "start_seconds": 2529.14,
+          "end_seconds": 2680.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-WyXY4NF3y-4-17",
+          "start_seconds": 2725.859,
+          "end_seconds": 2786.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-WyXY4NF3y-4-18",
+          "start_seconds": 2780.52,
+          "end_seconds": 2823.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-6FJc5RP4fCw-374",
+          "start_seconds": 2959.8,
+          "end_seconds": 3058.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-8bNq4LykXyM-164",
+          "start_seconds": 3052.859,
+          "end_seconds": 3109.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "black-ancestry-claim",
+          "start_seconds": 3109.8,
+          "end_seconds": 3231.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-WyXY4NF3y-4-22",
+          "start_seconds": 3226.38,
+          "end_seconds": 3274.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-4ssJFUI3avY-6",
+          "start_seconds": 3271.02,
+          "end_seconds": 3334.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-WyXY4NF3y-4-24",
+          "start_seconds": 3331.859,
+          "end_seconds": 3383.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-WyXY4NF3y-4-25",
+          "start_seconds": 3379.319,
+          "end_seconds": 3415.74,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "WyXY4NF3y-4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "6a55895d857159f64633a981572081f347a9bf3b3225d2a2f80906d967923483",
+        "qa_start": 2303.64,
+        "qa_end": 3422.52,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2486.28,
+            "end": 2532.119
+          },
+          {
+            "start": 2529.14,
+            "end": 2680.68
+          },
+          {
+            "start": 2725.859,
+            "end": 2786.64
+          },
+          {
+            "start": 2780.52,
+            "end": 2823.119
+          },
+          {
+            "start": 2959.8,
+            "end": 3058.26
+          },
+          {
+            "start": 3052.859,
+            "end": 3109.8
+          },
+          {
+            "start": 3109.8,
+            "end": 3231.48
+          },
+          {
+            "start": 3226.38,
+            "end": 3274.319
+          },
+          {
+            "start": 3271.02,
+            "end": 3334.38
+          },
+          {
+            "start": 3331.859,
+            "end": 3383.7
+          },
+          {
+            "start": 3379.319,
+            "end": 3415.74
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2679.3,
+            "end": 2732.04,
+            "reason": "Moses-body reply includes multiple corrected names and needs audio/context."
+          },
+          {
+            "start": 2820.18,
+            "end": 2897.7,
+            "reason": "Mixed family/lineage question needs semantic and attribution review."
+          },
+          {
+            "start": 3411.599,
+            "end": 3422.52,
+            "reason": "Rapid Isaiah66:22 and John born-again closing comments lack clear individual question boundaries."
+          }
+        ],
+        "cursor_seconds": 2679.3,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2679.3
     },
     {
       "video_id": "X0xTBvjntaI",
@@ -160132,7 +161500,7 @@
     },
     {
       "video_id": "aKZoE9XLLbk",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Jacob and Esau",
       "kind": "topical",
@@ -160141,12 +161509,316 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 24,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local072-aKZoE9XLLbk-112",
+        "local031-4BxMP_Xvnlc-6",
+        "local054-6bEEl-CJqy8-4",
+        "local072-aKZoE9XLLbk-115",
+        "local072-aKZoE9XLLbk-116",
+        "local008-tongues-understanding",
+        "try-spirits-word",
+        "hebrews10-willful",
+        "local022-hebrews6-salvation",
+        "four-hidden-dynasties",
+        "local072-aKZoE9XLLbk-122",
+        "local051-iyWWFnliE0A-18",
+        "local072-aKZoE9XLLbk-124",
+        "local072-aKZoE9XLLbk-125",
+        "local055-Oj7tBTKTsLY-517",
+        "local072-aKZoE9XLLbk-127",
+        "local072-aKZoE9XLLbk-128",
+        "local072-aKZoE9XLLbk-129",
+        "local072-aKZoE9XLLbk-130",
+        "local072-aKZoE9XLLbk-131",
+        "local026-dominion",
+        "local072-aKZoE9XLLbk-133",
+        "marriage-license-arnold",
+        "local041-vG7UatVrvoo-5"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local072-aKZoE9XLLbk-112",
+          "start_seconds": 2365.92,
+          "end_seconds": 2387.46,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-6",
+          "start_seconds": 2384.46,
+          "end_seconds": 2417.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local054-6bEEl-CJqy8-4",
+          "start_seconds": 2412.119,
+          "end_seconds": 2440.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-115",
+          "start_seconds": 2501.099,
+          "end_seconds": 2554.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-116",
+          "start_seconds": 2549.94,
+          "end_seconds": 2611.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-tongues-understanding",
+          "start_seconds": 2632.02,
+          "end_seconds": 2660.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "try-spirits-word",
+          "start_seconds": 2657.76,
+          "end_seconds": 2689.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrews10-willful",
+          "start_seconds": 2684.22,
+          "end_seconds": 2727.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-hebrews6-salvation",
+          "start_seconds": 2684.22,
+          "end_seconds": 2856.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "four-hidden-dynasties",
+          "start_seconds": 2848.92,
+          "end_seconds": 2889.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-122",
+          "start_seconds": 2885.88,
+          "end_seconds": 2907.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local051-iyWWFnliE0A-18",
+          "start_seconds": 2902.68,
+          "end_seconds": 2948.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-124",
+          "start_seconds": 2945.88,
+          "end_seconds": 2974.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-125",
+          "start_seconds": 3017.819,
+          "end_seconds": 3063.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-Oj7tBTKTsLY-517",
+          "start_seconds": 3061.14,
+          "end_seconds": 3100.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-127",
+          "start_seconds": 3097.14,
+          "end_seconds": 3114.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-128",
+          "start_seconds": 3107.52,
+          "end_seconds": 3123.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-129",
+          "start_seconds": 3118.92,
+          "end_seconds": 3141.059,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-130",
+          "start_seconds": 3143.4,
+          "end_seconds": 3174.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-131",
+          "start_seconds": 3168.3,
+          "end_seconds": 3201.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-dominion",
+          "start_seconds": 3196.559,
+          "end_seconds": 3240.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-133",
+          "start_seconds": 3235.2,
+          "end_seconds": 3266.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "marriage-license-arnold",
+          "start_seconds": 3263.099,
+          "end_seconds": 3298.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local041-vG7UatVrvoo-5",
+          "start_seconds": 3292.94,
+          "end_seconds": 3369.96,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "aKZoE9XLLbk",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "274099970f7800ca09a137d4bb81cd6b95e5b68ccea4aba7a7ceb022dca8ce9b",
+        "qa_start": 2263.8,
+        "qa_end": 3369.96,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2365.92,
+            "end": 2387.46
+          },
+          {
+            "start": 2384.46,
+            "end": 2417.099
+          },
+          {
+            "start": 2412.119,
+            "end": 2440.02
+          },
+          {
+            "start": 2501.099,
+            "end": 2554.92
+          },
+          {
+            "start": 2549.94,
+            "end": 2611.5
+          },
+          {
+            "start": 2632.02,
+            "end": 2660.7
+          },
+          {
+            "start": 2657.76,
+            "end": 2689.38
+          },
+          {
+            "start": 2684.22,
+            "end": 2727.42
+          },
+          {
+            "start": 2684.22,
+            "end": 2856.48
+          },
+          {
+            "start": 2848.92,
+            "end": 2889.3
+          },
+          {
+            "start": 2885.88,
+            "end": 2907.96
+          },
+          {
+            "start": 2902.68,
+            "end": 2948.28
+          },
+          {
+            "start": 2945.88,
+            "end": 2974.319
+          },
+          {
+            "start": 3017.819,
+            "end": 3063.42
+          },
+          {
+            "start": 3061.14,
+            "end": 3100.079
+          },
+          {
+            "start": 3097.14,
+            "end": 3114.18
+          },
+          {
+            "start": 3107.52,
+            "end": 3123.78
+          },
+          {
+            "start": 3118.92,
+            "end": 3141.059
+          },
+          {
+            "start": 3143.4,
+            "end": 3174.359
+          },
+          {
+            "start": 3168.3,
+            "end": 3201.96
+          },
+          {
+            "start": 3196.559,
+            "end": 3240.66
+          },
+          {
+            "start": 3235.2,
+            "end": 3266.76
+          },
+          {
+            "start": 3263.099,
+            "end": 3298.44
+          },
+          {
+            "start": 3292.94,
+            "end": 3369.96
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2263.8,
+            "end": 2368.56,
+            "reason": "News-programming request with historical political allegations."
+          },
+          {
+            "start": 2434.82,
+            "end": 2503.98,
+            "reason": "Finding-local-church question does not receive a concrete direction."
+          },
+          {
+            "start": 2605.56,
+            "end": 2633.52,
+            "reason": "Broken-wing pin reply expressly speculation."
+          },
+          {
+            "start": 2968.38,
+            "end": 3019.74,
+            "reason": "MountStHelens face/prophecy claim not independently verified."
+          }
+        ],
+        "cursor_seconds": 2263.8,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2263.8
     },
     {
       "video_id": "aKtVQuQTD4c",
@@ -160582,7 +162254,7 @@
     },
     {
       "video_id": "bmjBbm7q9q4",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Repentance - Part 1",
       "kind": "topical",
@@ -160591,12 +162263,152 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 13,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local068-NG8v6xYSOTQ-72",
+        "local024-rich-man-flame",
+        "local072-bmjBbm7q9q4-138",
+        "local071-m7G2B7otVFI-109",
+        "local018-inherited-sins",
+        "circumcision-salvation",
+        "local072-bmjBbm7q9q4-142",
+        "satan-millennium-restraint",
+        "local024-family-arguments",
+        "local063-SsYkKlnRI2w-14"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local068-NG8v6xYSOTQ-72",
+          "start_seconds": 2324.76,
+          "end_seconds": 2427.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-rich-man-flame",
+          "start_seconds": 2418.78,
+          "end_seconds": 2547.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-bmjBbm7q9q4-138",
+          "start_seconds": 2541.24,
+          "end_seconds": 2779.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local071-m7G2B7otVFI-109",
+          "start_seconds": 2777.819,
+          "end_seconds": 2898.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local018-inherited-sins",
+          "start_seconds": 2890.56,
+          "end_seconds": 3011.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "circumcision-salvation",
+          "start_seconds": 3007.2,
+          "end_seconds": 3050.46,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-bmjBbm7q9q4-142",
+          "start_seconds": 3044.22,
+          "end_seconds": 3083.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-millennium-restraint",
+          "start_seconds": 3076.74,
+          "end_seconds": 3122.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-family-arguments",
+          "start_seconds": 3117.72,
+          "end_seconds": 3223.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local063-SsYkKlnRI2w-14",
+          "start_seconds": 3218.119,
+          "end_seconds": 3326.16,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "bmjBbm7q9q4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "0e967a6fc5532bc8f90ca794ba2b4aea4c1527bf458da675371aac512e62ae1b",
+        "qa_start": 2324.76,
+        "qa_end": 3380.819,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2324.76,
+            "end": 2427.599
+          },
+          {
+            "start": 2418.78,
+            "end": 2547.599
+          },
+          {
+            "start": 2541.24,
+            "end": 2779.44
+          },
+          {
+            "start": 2777.819,
+            "end": 2898.599
+          },
+          {
+            "start": 2890.56,
+            "end": 3011.339
+          },
+          {
+            "start": 3007.2,
+            "end": 3050.46
+          },
+          {
+            "start": 3044.22,
+            "end": 3083.339
+          },
+          {
+            "start": 3076.74,
+            "end": 3122.94
+          },
+          {
+            "start": 3117.72,
+            "end": 3223.7
+          },
+          {
+            "start": 3218.119,
+            "end": 3326.16
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2418.78,
+            "end": 2547.599,
+            "reason": "Hell original-language names partly garbled; core parable explanation drafted."
+          },
+          {
+            "start": 3318.3,
+            "end": 3380.819,
+            "reason": "Cubit measures and arithmetic need closer source/context."
+          }
+        ],
+        "cursor_seconds": 2418.78,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2418.78
     },
     {
       "video_id": "bqwrPy86pxI",
@@ -165171,7 +166983,7 @@
     },
     {
       "video_id": "oJrkT7cdS1A",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "King Of Babylon",
       "kind": "topical",
@@ -165180,12 +166992,157 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 27,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local042-yqMrDxNgt5g-1",
+        "local072-oJrkT7cdS1A-44",
+        "baptism-dead",
+        "satan-born",
+        "jesus-mary-genealogy",
+        "local072-oJrkT7cdS1A-48",
+        "local015-understand-bible",
+        "local072-oJrkT7cdS1A-50",
+        "local072-oJrkT7cdS1A-51",
+        "local053-mtw98yZSqMA-4"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local042-yqMrDxNgt5g-1",
+          "start_seconds": 2645.579,
+          "end_seconds": 2758.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-oJrkT7cdS1A-44",
+          "start_seconds": 2813.579,
+          "end_seconds": 2854.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-dead",
+          "start_seconds": 2847.78,
+          "end_seconds": 2961.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "satan-born",
+          "start_seconds": 2956.2,
+          "end_seconds": 2979.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-mary-genealogy",
+          "start_seconds": 2977.079,
+          "end_seconds": 3087.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-oJrkT7cdS1A-48",
+          "start_seconds": 3083.46,
+          "end_seconds": 3092.819,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local015-understand-bible",
+          "start_seconds": 3091.02,
+          "end_seconds": 3199.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-oJrkT7cdS1A-50",
+          "start_seconds": 3196.2,
+          "end_seconds": 3272.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-oJrkT7cdS1A-51",
+          "start_seconds": 3269.16,
+          "end_seconds": 3331.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local053-mtw98yZSqMA-4",
+          "start_seconds": 3328.92,
+          "end_seconds": 3392.64,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "oJrkT7cdS1A",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8d6a82c0ee1201fea630f942df338d6d5eb4171cace58bacfa22fcaec81746ba",
+        "qa_start": 2645.579,
+        "qa_end": 3392.64,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2645.579,
+            "end": 2758.68
+          },
+          {
+            "start": 2813.579,
+            "end": 2854.56
+          },
+          {
+            "start": 2847.78,
+            "end": 2961.359
+          },
+          {
+            "start": 2956.2,
+            "end": 2979.359
+          },
+          {
+            "start": 2977.079,
+            "end": 3087.78
+          },
+          {
+            "start": 3083.46,
+            "end": 3092.819
+          },
+          {
+            "start": 3091.02,
+            "end": 3199.26
+          },
+          {
+            "start": 3196.2,
+            "end": 3272.16
+          },
+          {
+            "start": 3269.16,
+            "end": 3331.02
+          },
+          {
+            "start": 3328.92,
+            "end": 3392.64
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2756.04,
+            "end": 2821.4,
+            "reason": "Tribulation question points back to lecture; no new documentation supplied here."
+          },
+          {
+            "start": 2847.78,
+            "end": 2961.359,
+            "reason": "Proxy-baptism core draft retained; recalled verse28/29 uncertain."
+          },
+          {
+            "start": 3196.2,
+            "end": 3272.16,
+            "reason": "Coveting answered, but requested sixth/seventh-trump definitions are not supplied."
+          }
+        ],
+        "cursor_seconds": 2756.04,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 2756.04
     },
     {
       "video_id": "oMBWbh_aQCA",
@@ -169862,7 +171819,7 @@
     },
     {
       "video_id": "yMx7RwSr0M4",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Stewardship",
       "kind": "topical",
@@ -169871,12 +171828,163 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 23,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "baptism-name",
+        "forgiveness",
+        "local072-yMx7RwSr0M4-89",
+        "local030-4ssJFUI3avY-6",
+        "souls-before-birth",
+        "local030-4ssJFUI3avY-8",
+        "local072-yMx7RwSr0M4-93",
+        "local049-fh9HT1TAw4I-9",
+        "four-hidden-dynasties",
+        "local015-third-deceived",
+        "baptism-dead"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "baptism-name",
+          "start_seconds": 2536.079,
+          "end_seconds": 2571.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 2569.68,
+          "end_seconds": 2689.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-yMx7RwSr0M4-89",
+          "start_seconds": 2702.64,
+          "end_seconds": 2811.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-4ssJFUI3avY-6",
+          "start_seconds": 2806.74,
+          "end_seconds": 2984.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-before-birth",
+          "start_seconds": 2976.119,
+          "end_seconds": 3071.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-4ssJFUI3avY-8",
+          "start_seconds": 3068.76,
+          "end_seconds": 3128.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-yMx7RwSr0M4-93",
+          "start_seconds": 3125.4,
+          "end_seconds": 3187.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-fh9HT1TAw4I-9",
+          "start_seconds": 3245.7,
+          "end_seconds": 3286.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "four-hidden-dynasties",
+          "start_seconds": 3281.28,
+          "end_seconds": 3292.559,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local015-third-deceived",
+          "start_seconds": 3328.8,
+          "end_seconds": 3363.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-dead",
+          "start_seconds": 3356.579,
+          "end_seconds": 3378.96,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "yMx7RwSr0M4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "e3bf1fe5c23def57b0365072c2e56455752f3b8c0d0d3ec505bebc91c9a4167a",
+        "qa_start": 2536.079,
+        "qa_end": 3378.96,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2536.079,
+            "end": 2571.54
+          },
+          {
+            "start": 2569.68,
+            "end": 2689.5
+          },
+          {
+            "start": 2702.64,
+            "end": 2811.3
+          },
+          {
+            "start": 2806.74,
+            "end": 2984.28
+          },
+          {
+            "start": 2976.119,
+            "end": 3071.88
+          },
+          {
+            "start": 3068.76,
+            "end": 3128.16
+          },
+          {
+            "start": 3125.4,
+            "end": 3187.079
+          },
+          {
+            "start": 3245.7,
+            "end": 3286.859
+          },
+          {
+            "start": 3281.28,
+            "end": 3292.559
+          },
+          {
+            "start": 3328.8,
+            "end": 3363.48
+          },
+          {
+            "start": 3356.579,
+            "end": 3378.96
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3068.76,
+            "end": 3128.16,
+            "reason": "Ezra/Esdras book identity uncertain."
+          },
+          {
+            "start": 3186.059,
+            "end": 3247.74,
+            "reason": "Footprint size is a guess; physical cast not available for review."
+          }
+        ],
+        "cursor_seconds": 3068.76,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 3068.76
     },
     {
       "video_id": "yN9kgM5hZgg",
@@ -170294,7 +172402,7 @@
     },
     {
       "video_id": "zgKHZ2d5EIE",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Elijah - Part 3",
       "kind": "topical",
@@ -170303,12 +172411,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 17,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "repeated-sin",
+        "taken-field",
+        "local015-eagles-carcass",
+        "local014-fixed-income",
+        "rebaptism-understanding",
+        "backslider-first-belief",
+        "noah-flood-extent",
+        "local072-zgKHZ2d5EIE-153",
+        "recognize-family",
+        "local017-before-christ-salvation",
+        "local055-MYmpqyZWUgA-436",
+        "ezekiel-battle-time",
+        "local072-zgKHZ2d5EIE-158",
+        "local022-illness-faith"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "repeated-sin",
+          "start_seconds": 2246.3,
+          "end_seconds": 2340.9,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "taken-field",
+          "start_seconds": 2376.48,
+          "end_seconds": 2441.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local015-eagles-carcass",
+          "start_seconds": 2437.56,
+          "end_seconds": 2488.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-fixed-income",
+          "start_seconds": 2485.32,
+          "end_seconds": 2575.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebaptism-understanding",
+          "start_seconds": 2569.32,
+          "end_seconds": 2670.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "backslider-first-belief",
+          "start_seconds": 2594.7,
+          "end_seconds": 2627.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "noah-flood-extent",
+          "start_seconds": 2666.04,
+          "end_seconds": 2729.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-zgKHZ2d5EIE-153",
+          "start_seconds": 2727.359,
+          "end_seconds": 2819.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 2814.54,
+          "end_seconds": 2834.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local017-before-christ-salvation",
+          "start_seconds": 2828.88,
+          "end_seconds": 2932.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-MYmpqyZWUgA-436",
+          "start_seconds": 2931.119,
+          "end_seconds": 3087.78,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel-battle-time",
+          "start_seconds": 3080.7,
+          "end_seconds": 3169.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-zgKHZ2d5EIE-158",
+          "start_seconds": 3164.46,
+          "end_seconds": 3200.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-illness-faith",
+          "start_seconds": 3191.76,
+          "end_seconds": 3280.559,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "zgKHZ2d5EIE",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "a4261ef3aeb4a743beece53c2413723b33b9f62a151dbf230a3e4fb256f3067b",
+        "qa_start": 2219.94,
+        "qa_end": 3381.599,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2246.3,
+            "end": 2340.9
+          },
+          {
+            "start": 2376.48,
+            "end": 2441.7
+          },
+          {
+            "start": 2437.56,
+            "end": 2488.14
+          },
+          {
+            "start": 2485.32,
+            "end": 2575.92
+          },
+          {
+            "start": 2569.32,
+            "end": 2670.72
+          },
+          {
+            "start": 2594.7,
+            "end": 2627.099
+          },
+          {
+            "start": 2666.04,
+            "end": 2729.339
+          },
+          {
+            "start": 2727.359,
+            "end": 2819.94
+          },
+          {
+            "start": 2814.54,
+            "end": 2834.28
+          },
+          {
+            "start": 2828.88,
+            "end": 2932.92
+          },
+          {
+            "start": 2931.119,
+            "end": 3087.78
+          },
+          {
+            "start": 3080.7,
+            "end": 3169.16
+          },
+          {
+            "start": 3164.46,
+            "end": 3200.339
+          },
+          {
+            "start": 3191.76,
+            "end": 3280.559
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3080.7,
+            "end": 3200.339,
+            "reason": "Ezekiel battle/burial duration wording differs from ordinary reading; no silent repairs."
+          }
+        ],
+        "cursor_seconds": 3080.7,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "All saved172draft questions/replies and surrounding captions re-read and semantically reconciled in run072. Clear core replies approved; earlier unresolved holds and terminal boundaries remain partial. Named program introduction confirms Arnold. No audio verification."
+      },
+      "cursor_seconds": 3080.7
     },
     {
       "video_id": "zgoY3p5RTW8",
@@ -171182,13 +173469,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 907,
+    "partially_reviewed": 919,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 940,
+    "teacher_pending": 928,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 10857
+    "question_occurrences": 11029
   }
 }
