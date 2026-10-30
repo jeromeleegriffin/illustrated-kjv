@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-30T17:57:17.376143+00:00",
+  "updated": "2026-10-30T19:46:15.498186+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -161194,7 +161194,7 @@
     },
     {
       "video_id": "_SK7W4hZToM",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Capital Punishment - Part 1",
       "kind": "topical",
@@ -161203,12 +161203,185 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 30,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "voodoo-fear-arnold",
+        "local026-number-four",
+        "ham-nakedness",
+        "local073-_SK7W4hZToM-35",
+        "local014-enoch-elijah",
+        "local024-witnesses-early",
+        "local073-_SK7W4hZToM-38",
+        "local017-invite-study",
+        "spirit-when-believe",
+        "local038-_diU1kXUFPI-7",
+        "local073-_SK7W4hZToM-42",
+        "local045-a1beb21qTU0-6",
+        "local008-tongues-understanding"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "voodoo-fear-arnold",
+          "start_seconds": 2495.87,
+          "end_seconds": 2557.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-number-four",
+          "start_seconds": 2551.73,
+          "end_seconds": 2575.569,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ham-nakedness",
+          "start_seconds": 2569.609,
+          "end_seconds": 2630.329,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local073-_SK7W4hZToM-35",
+          "start_seconds": 2698.43,
+          "end_seconds": 2732.349,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-enoch-elijah",
+          "start_seconds": 2731.55,
+          "end_seconds": 2794.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-witnesses-early",
+          "start_seconds": 2788.37,
+          "end_seconds": 2839.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local073-_SK7W4hZToM-38",
+          "start_seconds": 2872.49,
+          "end_seconds": 2987.809,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local017-invite-study",
+          "start_seconds": 2979.349,
+          "end_seconds": 3054.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-when-believe",
+          "start_seconds": 3049.25,
+          "end_seconds": 3154.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local038-_diU1kXUFPI-7",
+          "start_seconds": 3146.93,
+          "end_seconds": 3203.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local073-_SK7W4hZToM-42",
+          "start_seconds": 3196.73,
+          "end_seconds": 3237.049,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-a1beb21qTU0-6",
+          "start_seconds": 3233.829,
+          "end_seconds": 3289.49,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-tongues-understanding",
+          "start_seconds": 3284.21,
+          "end_seconds": 3404.87,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "_SK7W4hZToM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "9973cdc10f2c075a77406075287ed6404f6d313850fcb765076cf28b5b16d113",
+        "qa_start": 2495.87,
+        "qa_end": 3404.87,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2495.87,
+            "end": 2557.73
+          },
+          {
+            "start": 2551.73,
+            "end": 2575.569
+          },
+          {
+            "start": 2569.609,
+            "end": 2630.329
+          },
+          {
+            "start": 2698.43,
+            "end": 2732.349
+          },
+          {
+            "start": 2731.55,
+            "end": 2794.43
+          },
+          {
+            "start": 2788.37,
+            "end": 2839.67
+          },
+          {
+            "start": 2872.49,
+            "end": 2987.809
+          },
+          {
+            "start": 2979.349,
+            "end": 3054.89
+          },
+          {
+            "start": 3049.25,
+            "end": 3154.19
+          },
+          {
+            "start": 3146.93,
+            "end": 3203.15
+          },
+          {
+            "start": 3196.73,
+            "end": 3237.049
+          },
+          {
+            "start": 3233.829,
+            "end": 3289.49
+          },
+          {
+            "start": 3284.21,
+            "end": 3404.87
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2624.69,
+            "end": 2705.15,
+            "reason": "Mamzer/ancestry wording held"
+          },
+          {
+            "start": 2832.89,
+            "end": 2877.77,
+            "reason": "Tape referral; no substantive documentation"
+          }
+        ],
+        "cursor_seconds": 2624.69,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Thirteen completed listener replies re-read with context and existing variants; other ranges remain partial."
+      },
+      "cursor_seconds": 2624.69
     },
     {
       "video_id": "_aCv_amhbmk",
@@ -173469,13 +173642,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 919,
+    "partially_reviewed": 920,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 928,
+    "teacher_pending": 927,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11029
+    "question_occurrences": 11042
   }
 }

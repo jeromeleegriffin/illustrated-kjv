@@ -1,0 +1,29 @@
+{
+  "status": "validated_for_publication",
+  "approved_links": 13,
+  "new_groups": 3,
+  "private_total_groups": 6223,
+  "private_total_links": 11089,
+  "published_groups": 6220,
+  "published_links": 11076,
+  "remaining_unapproved_drafts": 31,
+  "repeat_reconciliation": 22,
+  "reserved_quarantine": 9,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 920,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 927,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 11042
+  },
+  "invalid_approvals": 0,
+  "batch": "local073-approved13",
+  "distinct_pairs": 11042,
+  "source_recordings": 1,
+  "python_tests": 5,
+  "navigation_suites": 2
+}
