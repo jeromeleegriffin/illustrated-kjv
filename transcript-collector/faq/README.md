@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,967 question groups and 10,331 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,974 question groups and 10,356 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,691 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 862 remain partially reviewed, 419 await passage/supplement review and 390 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,086 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 864 remain partially reviewed, 419 await passage/supplement review and 783 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -386,4 +386,14 @@ Adds 12 caption-reviewed Arnold Murray answer links and two question groups from
 Repeated Q&A sections were directly compared across alternate uploads. Six additional answers use canonical Yw9HqEl0Mbg; its existing cremation answer is not reimported from Current Events 2009. The same section in awNUDtVTazA is not a new occurrence. Search the Scriptures and Confirmed Before share four listener replies, counted only through PcRagKXAERM. Called to the Cloth reuses the already reviewed adgs1USshO0 God-forms and Peter/Satan replies, so neither is added again. Different preceding lectures are not declared identical.
 
 The saved consolidated and expansion topical lists were reconciled against the 1,549-link catalog. All eligible entries were already present; three uncertain or chapter-style candidates remain held. No new topical links, downloads or source recollection are claimed. Original captions, prior records and Grok assignments are preserved. Five Python tests, both navigation suites and source, preservation and ranking checks pass. Totals: 5,967 question groups, 10,331 linked answers and 10,284 distinct question-recording pairs.
+
+
+
+## Local batch 062
+
+Adds 25 caption-reviewed Arnold Murray answer links and seven question groups from actual listener questions in Most Asked Questions on Revelation Parts 1–2 (wX5Lhw5qwhY and 93w8IWiRYZs). Prepared recap prompts are not counted as listener questions. Named program introductions bind presenter confirmation to the original source hashes. Fourteen uncertain, deferred or contextual ranges remain held; neither section is certified complete and audio verification remains pending.
+
+The Revelation 20 books interpretations and qualifications about angels across earth ages remain distinct, attributed answer variants. Three question titles are made teacher-neutral, retaining the original titles. A partial inspection of Lecture126 is held for presenter confirmation; metadata attribution alone cannot approve it. Duplicate Q&A screening against 2,084 other saved sources found no matching section for the selected passages.
+
+Preserves all 2,086 source transcripts, including the 395 cumulative012–015 imports, the 791 saved topical-caption recordings, earlier approvals and external assignments. The public FAQ source ledger now reflects the expanded 2,086-source corpus without converting scans into approvals. Five Python tests and both navigation suites pass, with source anchors, prior record preservation and frequency ranking checked. Totals: 5,974 questions, 10,356 linked answers and 10,309 distinct question-recording pairs. Only FAQ assets and FAQ_RELEASE change; topical availability release remains53da7824553c845dfe21b636769ae9a1d9160742.
 
