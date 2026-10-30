@@ -921,9 +921,12 @@
     },
     {
       "id": "animals-heaven",
-      "question": "Did Arnold teach that animals are present in heaven?",
+      "question": "Did Murray teach that animals are present in heaven?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold teach that animals are present in heaven?"
+      ]
     },
     {
       "id": "three-heavens-ages",
@@ -939,9 +942,12 @@
     },
     {
       "id": "home-anointing",
-      "question": "How did Arnold answer a listener who believed there were evil spirits in his home?",
+      "question": "How did Murray answer a listener who believed there were evil spirits in his home?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Arnold answer a listener who believed there were evil spirits in his home?"
+      ]
     },
     {
       "id": "genesis-long-lives",
@@ -1188,9 +1194,12 @@
     },
     {
       "id": "political-system-antichrist",
-      "question": "How did Arnold distinguish the political beast system from the antichrist?",
+      "question": "How did Murray distinguish the political beast system from the antichrist?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Arnold distinguish the political beast system from the antichrist?"
+      ]
     },
     {
       "id": "inri-meaning",
@@ -2970,9 +2979,12 @@
     },
     {
       "id": "soul-spirit-distinction",
-      "question": "How did Arnold distinguish the soul from the spirit?",
+      "question": "How did Murray distinguish the soul from the spirit?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Arnold distinguish the soul from the spirit?"
+      ]
     },
     {
       "id": "ethnos-elect-access",
@@ -3306,9 +3318,12 @@
     },
     {
       "id": "hebrew-study-translation",
-      "question": "Which Bible and tools did Arnold recommend for checking Hebrew meanings?",
+      "question": "Which Bible and tools did Murray recommend for checking Hebrew meanings?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Which Bible and tools did Arnold recommend for checking Hebrew meanings?"
+      ]
     },
     {
       "id": "wishing-stars-pennies",
@@ -3780,9 +3795,12 @@
     },
     {
       "id": "addiction-prayer-help",
-      "question": "How did Arnold advise praying for help with addiction?",
+      "question": "How did Murray advise praying for help with addiction?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Arnold advise praying for help with addiction?"
+      ]
     },
     {
       "id": "ruddy-meaning",
@@ -5250,9 +5268,12 @@
     },
     {
       "id": "holy-spirit-acknowledgment",
-      "question": "Did Dennis require a separate tongues experience to receive the Holy Spirit?",
+      "question": "Did Murray require a separate tongues experience to receive the Holy Spirit?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis require a separate tongues experience to receive the Holy Spirit?"
+      ]
     },
     {
       "id": "backslide-death-dennis",
@@ -5772,9 +5793,12 @@
     },
     {
       "id": "daniel12-resurrection-dennis",
-      "question": "How did Dennis interpret awakening to life or contempt in Daniel 12?",
+      "question": "How did Murray interpret awakening to life or contempt in Daniel 12?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Dennis interpret awakening to life or contempt in Daniel 12?"
+      ]
     },
     {
       "id": "hunting-dennis",
@@ -6354,9 +6378,12 @@
     },
     {
       "id": "angel-former-servant-arnold",
-      "question": "Did Arnold interpret some biblical angels as people who had previously lived on earth?",
+      "question": "Did Murray interpret some biblical angels as people who had previously lived on earth?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold interpret some biblical angels as people who had previously lived on earth?"
+      ]
     },
     {
       "id": "viewer-address-privacy",
@@ -7228,9 +7255,12 @@
     },
     {
       "id": "denomination-criticism-denial",
-      "question": "Did Arnold accept a listener’s claim that he had condemned the Baptist Church?",
+      "question": "Did Murray accept listeners’ claims that he condemned other religious groups?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold accept a listener’s claim that he had condemned the Baptist Church?"
+      ]
     },
     {
       "id": "sabbath-midnight-boundary",
@@ -7384,9 +7414,12 @@
     },
     {
       "id": "disability-televised-church",
-      "question": "Did Arnold fault a disabled listener for attending church through television?",
+      "question": "Did Murray fault a listener unable to attend a local church?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold fault a disabled listener for attending church through television?"
+      ]
     },
     {
       "id": "horsemen-bound-angels",
@@ -8017,9 +8050,12 @@
     },
     {
       "id": "bible-oath-truth",
-      "question": "Did Arnold object to placing a hand on a Bible when promising to tell the truth?",
+      "question": "Did Murray object to placing a hand on a Bible when promising to tell the truth?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold object to placing a hand on a Bible when promising to tell the truth?"
+      ]
     },
     {
       "id": "ezekiel39-army-against-god",
@@ -8383,9 +8419,12 @@
     },
     {
       "id": "cain-satan-passages-dennis",
-      "question": "Which verses did Dennis use when linking Cain with Satan?",
+      "question": "Which verses did Murray use when linking Cain with Satan?",
       "topic": "Genesis and creation",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Which verses did Dennis use when linking Cain with Satan?"
+      ]
     },
     {
       "id": "patriarchs-twelve-sons-dennis",
@@ -9487,9 +9526,12 @@
     },
     {
       "id": "noah-eight-souls-dennis",
-      "question": "How did Dennis reconcile eight souls in 1 Peter 3:20 with Noah taking two of every flesh?",
+      "question": "How did Murray reconcile eight souls in 1 Peter 3:20 with Noah taking two of every flesh?",
       "topic": "Genesis and creation",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Dennis reconcile eight souls in 1 Peter 3:20 with Noah taking two of every flesh?"
+      ]
     },
     {
       "id": "god-origin-dennis",
@@ -11179,9 +11221,12 @@
     },
     {
       "id": "local013-lust-sin",
-      "question": "How did Dennis explain thoughts of sin and lust?",
+      "question": "How did Murray explain thoughts of sin and lust?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Dennis explain thoughts of sin and lust?"
+      ]
     },
     {
       "id": "local013-adultery-forgiveness",
@@ -17414,9 +17459,12 @@
     },
     {
       "id": "local023-snakes-poison",
-      "question": "Did Dennis encourage literal snake handling or drinking poison?",
+      "question": "Did Murray encourage literal snake handling or drinking poison?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis encourage literal snake handling or drinking poison?"
+      ]
     },
     {
       "id": "local023-millennial-repentance",
@@ -18188,9 +18236,12 @@
     },
     {
       "id": "local024-divorce-remarry",
-      "question": "Did Dennis allow remarriage after divorce?",
+      "question": "Did Murray allow remarriage after divorce?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Dennis allow remarriage after divorce?"
+      ]
     },
     {
       "id": "local024-heaven-dimension",
@@ -22532,9 +22583,12 @@
     },
     {
       "id": "local031-7AJ1wwf-abY-2",
-      "question": "How did Arnold describe the fifth and sixth trumpets?",
+      "question": "How did Murray describe the fifth and sixth trumpets?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How did Arnold describe the fifth and sixth trumpets?"
+      ]
     },
     {
       "id": "local031-7AJ1wwf-abY-3",
@@ -23642,9 +23696,12 @@
     },
     {
       "id": "local038-_diU1kXUFPI-7",
-      "question": "Did Arnold regard minor prophets as less important than major prophets?",
+      "question": "Did Murray regard minor prophets as less important than major prophets?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Did Arnold regard minor prophets as less important than major prophets?"
+      ]
     },
     {
       "id": "local038-_diU1kXUFPI-8",
@@ -27215,9 +27272,12 @@
     },
     {
       "id": "local045-_7YGSJdDOuc-4",
-      "question": "How does Arnold distinguish Satan’s appearance from Christ’s return?",
+      "question": "How does Murray distinguish Satan’s appearance from Christ’s return?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "How does Arnold distinguish Satan’s appearance from Christ’s return?"
+      ]
     },
     {
       "id": "local045-_7YGSJdDOuc-6",
@@ -33752,9 +33812,12 @@
     },
     {
       "id": "local055-MMg6mvm2d_E-509",
-      "question": "What history did Arnold suggest for the period between the Testaments?",
+      "question": "What history did Murray suggest for the period between the Testaments?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "What history did Arnold suggest for the period between the Testaments?"
+      ]
     },
     {
       "id": "local055-9ndwk45tppA-510",
@@ -34085,9 +34148,12 @@
     },
     {
       "id": "local056-RMrrAZHSZuI-74",
-      "question": "What did Arnold mean by spiritual and civil commandments?",
+      "question": "What did Murray mean by spiritual and civil commandments?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "What did Arnold mean by spiritual and civil commandments?"
+      ]
     },
     {
       "id": "local056-GS-GwSHRGvQ-75",
@@ -35244,9 +35310,12 @@
     },
     {
       "id": "local057-XJBpKcdMwzc-170",
-      "question": "Why did Eve thank God for Cain in Arnold's interpretation?",
+      "question": "Why did Eve thank God for Cain in Murray's interpretation?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Why did Eve thank God for Cain in Arnold's interpretation?"
+      ]
     },
     {
       "id": "local057-PBDzryK_pT4-172",
@@ -35532,11 +35601,12 @@
     },
     {
       "id": "local057-Ib9OLeU_ac0-298",
-      "question": "Does Arnold believe archangels must be born as humans?",
+      "question": "Does Murray believe archangels must be born as humans?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings",
       "previous_question_titles": [
-        "Did Arnold believe Michael the archangel would be born as a human?"
+        "Did Arnold believe Michael the archangel would be born as a human?",
+        "Does Arnold believe archangels must be born as humans?"
       ]
     },
     {
@@ -37146,9 +37216,12 @@
     },
     {
       "id": "local069-s8uTwiOKnsQ-64",
-      "question": "Why did Arnold classify suicide as taking a life?",
+      "question": "Why did Murray classify suicide as taking a life?",
       "topic": "Listener questions",
-      "conflict_status": "not_assessed_across_all_recordings"
+      "conflict_status": "not_assessed_across_all_recordings",
+      "previous_question_titles": [
+        "Why did Arnold classify suicide as taking a life?"
+      ]
     },
     {
       "id": "local069-s8uTwiOKnsQ-65",
@@ -38095,6 +38168,66 @@
     {
       "id": "local077-dbPfCHLbgV0-76",
       "question": "Did Murray think a pastor could order a member’s vote?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-lVwOGLGLQG8-4",
+      "question": "How could evil remain while Satan was confined during the Millennium?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-lVwOGLGLQG8-7",
+      "question": "Did Murray place tares among his proposed sixth-day creation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-lVwOGLGLQG8-9",
+      "question": "What did Murray mean by the beast rising from the sea?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-g_H5yPfwMZw-13",
+      "question": "Which Sundays did Murray say the Chapel held services in that recording?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-g_H5yPfwMZw-19",
+      "question": "Who did Murray identify as the speaker in Abraham’s Genesis15 vision?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-g_H5yPfwMZw-25",
+      "question": "Did Murray think Satan was visible during Job’s testing?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-ykcj7K6_LdM-30",
+      "question": "How did Murray advise believers criticized by a church for repented past sins?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-ykcj7K6_LdM-35",
+      "question": "Did Murray think animals died in his proposed first earth age?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-ykcj7K6_LdM-36",
+      "question": "How did Murray answer a wife describing financial neglect and humiliation?",
+      "topic": "Listener questions",
+      "conflict_status": "not_assessed_across_all_recordings"
+    },
+    {
+      "id": "local078-2IY3pUHO5kQ-50",
+      "question": "How did Murray apply not letting the sun go down on wrath?",
       "topic": "Listener questions",
       "conflict_status": "not_assessed_across_all_recordings"
     }
@@ -214419,6 +214552,786 @@
       "transcript_sha256": "33f2b8be90bf4a9dff0ec2daf932edf62e20811f33bd72d71004d6ee17464ba8",
       "source_sha256": "c09ab860ec069edecbcc073b0699259359e400df39a2bd28548fac83fe18d05e",
       "recording_group": "dbPfCHLbgV0",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local039-_tepOGwd5HY-7",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2285.28,
+      "end": 2357.16,
+      "variant": "local078-lVwOGLGLQG8-1",
+      "summary": "Arnold Murray said the spirit is the soul’s intellect and cannot travel separately from the soul. He referred to Ecclesiastes12:7 for his account of returning to the Father.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "millennium-relative-compassion",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2357.16,
+      "end": 2410.2,
+      "variant": "local078-lVwOGLGLQG8-2",
+      "summary": "Arnold Murray said yes: the relatives were God’s family as well as the listener’s, and he would be pleased by help. This is his interpretation of the listener’s Ezekiel44 setting.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local056-RMrrAZHSZuI-74",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2410.2,
+      "end": 2537.22,
+      "variant": "local078-lVwOGLGLQG8-3",
+      "summary": "Arnold Murray said no. He divided them into a first spiritual half and a last civil half, using stealing to argue that a spiritual interpretation does not permit physical theft. This is his religious classification, not a legal classification.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-lVwOGLGLQG8-4",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2537.22,
+      "end": 2600.579,
+      "variant": "local078-lVwOGLGLQG8-4",
+      "summary": "Arnold Murray said human beings could choose evil without Satan’s assistance. He connected Satan’s short final release with testing people before entry into the final kingdom; this is his prophetic interpretation.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local057-XJBpKcdMwzc-170",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2600.579,
+      "end": 2661.3,
+      "variant": "local078-lVwOGLGLQG8-5",
+      "summary": "Arnold Murray said Eve innocently credited God as the maker of her womb. He connected this with his reading of Cain and Abel as twins with different fathers; these are disputed religious ancestry and language claims, not established human ancestry.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local024-divorce-remarry",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2661.3,
+      "end": 2734.079,
+      "variant": "local078-lVwOGLGLQG8-6",
+      "summary": "Arnold Murray said repentance and forgiveness allowed a Christian to remarry and referred uncertainly to1Corinthians7, estimating verse15 or13. He denied that adultery was unforgivable. This is his pastoral interpretation, not an individualized ruling.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-lVwOGLGLQG8-7",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2734.079,
+      "end": 2766.66,
+      "variant": "local078-lVwOGLGLQG8-7",
+      "summary": "Arnold Murray said that group preceded the sowing of tares in his account, but Satan was already present among them. This records his disputed creation and ancestry interpretation without treating it as established history.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local040-xLsS9-mt4Zk-10",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2766.66,
+      "end": 2914.8,
+      "variant": "local078-lVwOGLGLQG8-8",
+      "summary": "Arnold Murray urged learning God’s plan through Scripture. For someone without a trade or work, he added practical advice to begin honestly as a learner, work diligently and be loyal, illustrating rather than promising a particular career outcome.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-lVwOGLGLQG8-9",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2914.8,
+      "end": 2948.579,
+      "variant": "local078-lVwOGLGLQG8-9",
+      "summary": "Arnold Murray identified the sea with peoples and the beast with a political structure arising among them, referring to Revelation13:1 and the closing verses of17. This is his interpretation of the imagery.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "bible-notes",
+      "video_id": "lVwOGLGLQG8",
+      "start": 2948.579,
+      "end": 3069.3,
+      "variant": "local078-lVwOGLGLQG8-10",
+      "summary": "Arnold Murray said notes were useful and described his own annotated, rebound Bible. He encouraged care of the book, would not deliberately tear pages out, and did not say an accidental tear condemned a person.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local025-food-laws",
+      "video_id": "lVwOGLGLQG8",
+      "start": 3069.3,
+      "end": 3127.26,
+      "variant": "local078-lVwOGLGLQG8-11",
+      "summary": "Arnold Murray pointed to Leviticus11 and argued that1Timothy4:3 referred to foods created to be received rather than every possible food. This is his religious reading of the passages.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local031-7AJ1wwf-abY-2",
+      "video_id": "lVwOGLGLQG8",
+      "start": 3127.26,
+      "end": 3294.8,
+      "variant": "local078-lVwOGLGLQG8-12",
+      "summary": "Arnold Murray distinguished the fifth trumpet’s description from the actual arrival he located at the sixth. He also linked the sixth seal and vial with that appearance, while saying seals were not chronological and trumpets were; these are his prophetic distinctions.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "93595a6f8be5fc903c845fce9397f981bb71f38bf85ade7e78094669801626bd",
+      "source_sha256": "8910bf84ce9a85849d2fcf0c11d8b58644dde642db9d653b334c1bf8e6c061ad",
+      "recording_group": "lVwOGLGLQG8",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-g_H5yPfwMZw-13",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2468.82,
+      "end": 2514.54,
+      "variant": "local078-g_H5yPfwMZw-13",
+      "summary": "Arnold Murray said the first, third and fifth Sundays, warning the listener not to travel on the last December Sunday then being discussed. This is a historical recording’s schedule, not current service information.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "daniel12-resurrection-dennis",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2514.54,
+      "end": 2558.28,
+      "variant": "local078-g_H5yPfwMZw-14",
+      "summary": "Arnold Murray said they concerned that same day. He connected Michael standing for the people with his belief that Michael would bind Satan in Revelation20; the identity of that angel was presented as his belief.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "bible-oath-truth",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2558.28,
+      "end": 2664.119,
+      "variant": "local078-g_H5yPfwMZw-15",
+      "summary": "Arnold Murray said no, distinguishing a promise of truthful testimony and an official’s loyalty oath from presumptuously swearing certainty about God’s plan. This is his religious interpretation, not advice about current court procedure.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "soul-spirit-distinction",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2664.119,
+      "end": 2744.64,
+      "variant": "local078-g_H5yPfwMZw-16",
+      "summary": "Arnold Murray called the human spirit the intellect or thinking process and the soul the person’s being, self and personality. He also described prior existence with God as part of his theology.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "holy-spirit-acknowledgment",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2744.64,
+      "end": 2835.0,
+      "variant": "local078-g_H5yPfwMZw-17",
+      "summary": "Arnold Murray rejected that requirement and contrasted the universally understood Pentecost speech with languages needing interpretation in Paul’s teaching. He guessed that the listener’s minister meant tongues; he did not independently know that minister’s experience.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "angel-former-servant-arnold",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2835.0,
+      "end": 2870.4,
+      "variant": "local078-g_H5yPfwMZw-18",
+      "summary": "Arnold Murray said that happened in many cases and defined angel as messenger or watcher. His illustrative reference names Daniel in these captions and is retained as his reference rather than silently corrected; this is his theological view.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-g_H5yPfwMZw-19",
+      "video_id": "g_H5yPfwMZw",
+      "start": 2943.18,
+      "end": 2983.02,
+      "variant": "local078-g_H5yPfwMZw-19",
+      "summary": "Arnold Murray identified the speaker as almighty God and described Jesus Christ as God’s office as Savior. He connected the name Yeshua with Yah’s salvation; this is his theological and language explanation.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "hell-preaching",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3001.859,
+      "end": 3082.8,
+      "variant": "local078-g_H5yPfwMZw-20",
+      "summary": "Arnold Murray said it included everyone back to Noah, appealing to Peter and saying God showed no preference between Gentile and Israel in salvation through Christ. He related leading captivity captive to Christ’s love.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "cain-satan-passages-dennis",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3082.8,
+      "end": 3115.339,
+      "variant": "local078-g_H5yPfwMZw-21",
+      "summary": "Arnold Murray cited1John3:12, Matthew23 and the separate genealogies he saw in Genesis4 and5. This records his disputed religious ancestry interpretation, not established human ancestry.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local026-anyone-saved",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3115.339,
+      "end": 3146.579,
+      "variant": "local078-g_H5yPfwMZw-22",
+      "summary": "Arnold Murray appealed to John3:16 and said those believing in Christ would not perish. He also described his ministry as students of Scripture without a denomination; this is his historical self-description.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local013-cain-abel-twins",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3146.579,
+      "end": 3222.42,
+      "variant": "local078-g_H5yPfwMZw-23",
+      "summary": "Arnold Murray read Genesis4:2 as continued labor and added that they reached the age of offering sacrifices together. He called this Hebrew-manuscript proof; that is his language and ancestry claim, not an independently established finding.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local005-78fa2b6a36929f",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3242.66,
+      "end": 3275.819,
+      "variant": "local078-g_H5yPfwMZw-24",
+      "summary": "Arnold Murray said a person could believe in Christ but should forgive rather than expect blessing while holding a grudge. He distinguished forgiveness from continuing association with someone who had seriously harmed them.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-g_H5yPfwMZw-25",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3301.559,
+      "end": 3344.339,
+      "variant": "local078-g_H5yPfwMZw-25",
+      "summary": "Arnold Murray said he believed Satan was visible then, while describing evil spirits as active in the recording’s own day. His answer to the separate duration question was a tentative memory estimate that he explicitly deferred documenting; that estimate is not approved as a chronology.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local055-MMg6mvm2d_E-509",
+      "video_id": "g_H5yPfwMZw",
+      "start": 3344.339,
+      "end": 3373.5,
+      "variant": "local078-g_H5yPfwMZw-26",
+      "summary": "Arnold Murray said writings existed and suggested the Apocrypha, Maccabees and Josephus for historical material covering parts of the period. He did not provide a dated bibliography in the reply.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "1b5cbcf403d3d55d1ef93d62831be5d3716aef298508f9dde7c1e26873c413f2",
+      "source_sha256": "3ed82990a53fc4b12a60f0057837d59e370e2b6ed63f3a525e8e6418e38cc6e6",
+      "recording_group": "g_H5yPfwMZw",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "noah-eight-souls-dennis",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2182.8,
+      "end": 2257.04,
+      "variant": "local078-ykcj7K6_LdM-27",
+      "summary": "Arnold Murray identified the eight souls with the family through which Christ came, while relating Genesis6’s two of every flesh to other peoples and calling Christ Savior of all. This is his disputed ancestry interpretation, not established population history; an unclear captioned ancestry term is not reconstructed.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local013-lust-sin",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2257.04,
+      "end": 2397.5,
+      "variant": "local078-ykcj7K6_LdM-28",
+      "summary": "Arnold Murray said admiring someone’s appearance was not itself sin and urged the listener not to feel guilty for that. He contrasted it with indiscriminate sexual pursuit and an evil act; this reply should not be broadened into approval of every sexual thought or action.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local046-DIwjvUai43M-11",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2397.5,
+      "end": 2464.56,
+      "variant": "local078-ykcj7K6_LdM-29",
+      "summary": "Arnold Murray said Moses represented God’s law, which Satan opposed. He assumed or believed Moses had been transfigured because of his later appearance with Elijah, rather than presenting the manner of his death as certain.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-ykcj7K6_LdM-30",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2464.56,
+      "end": 2589.66,
+      "variant": "local078-ykcj7K6_LdM-30",
+      "summary": "Arnold Murray emphasized Christ’s forgiveness and rejected repeatedly using forgiven conduct to make someone inferior. He said leaving might be appropriate, while allowing that the listener could feel called to stay and challenge the practice; he did not know all the past circumstances.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local071-BCoMj9TII3I-121",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2589.66,
+      "end": 2701.68,
+      "variant": "local078-ykcj7K6_LdM-31",
+      "summary": "Arnold Murray said imperfection should not become a guilt trip after repentance. He called studying with the broadcast an extension of church when no teaching church was available, and expressed confidence about the departed brother and the listener as pastoral reassurance, not a verified judgment.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "hebrew-study-translation",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2701.68,
+      "end": 2833.44,
+      "variant": "local078-ykcj7K6_LdM-32",
+      "summary": "Arnold Murray recommended a standard King James Bible with Strong’s Concordance to investigate Hebrew, Greek and Aramaic. His illustrative book-and-chapter citation for marking troublemakers is unclear in the captions and is not repaired.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local045-_7YGSJdDOuc-4",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2833.44,
+      "end": 2875.2,
+      "variant": "local078-ykcj7K6_LdM-33",
+      "summary": "Arnold Murray said the false Christ came first and the true Christ afterward, referring to Mark13’s order. He described the false appearance as lasting five months; this is his prophetic interpretation.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "disability-televised-church",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2875.2,
+      "end": 2910.98,
+      "variant": "local078-ykcj7K6_LdM-34",
+      "summary": "Arnold Murray said God knew the circumstances and would not blame the listener for lacking transportation. He encouraged prayer and treated participation in the teaching broadcast as church fellowship.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-ykcj7K6_LdM-35",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2910.98,
+      "end": 2946.18,
+      "variant": "local078-ykcj7K6_LdM-35",
+      "summary": "Arnold Murray said yes because he regarded those animals as flesh, connecting dinosaurs and oil with his account. These are his historical scientific and theological assertions, not independently verified explanations of fossils or petroleum.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-ykcj7K6_LdM-36",
+      "video_id": "ykcj7K6_LdM",
+      "start": 2946.18,
+      "end": 3031.26,
+      "variant": "local078-ykcj7K6_LdM-36",
+      "summary": "Arnold Murray declined to decide her marriage without all the facts. He cited the duty to provide for one’s household, urged honest communication about the hurt and left the decision with her. This is his historical pastoral response, not individualized safety or marriage advice.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local038-_diU1kXUFPI-7",
+      "video_id": "ykcj7K6_LdM",
+      "start": 3031.26,
+      "end": 3068.88,
+      "variant": "local078-ykcj7K6_LdM-37",
+      "summary": "Arnold Murray said the designation concerned the shorter length of their writings, not lesser force or meaning, and said their prophetic message could still be powerful.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "animals-heaven",
+      "video_id": "ykcj7K6_LdM",
+      "start": 3068.88,
+      "end": 3105.78,
+      "variant": "local078-ykcj7K6_LdM-38",
+      "summary": "Arnold Murray pointed to Isaiah11’s peaceful animals and a child near the serpent’s den. He interpreted that condition as spiritual bodies without predation, rather than independently verifying the future of a particular pet.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local069-s8uTwiOKnsQ-64",
+      "video_id": "ykcj7K6_LdM",
+      "start": 3105.78,
+      "end": 3187.619,
+      "variant": "local078-ykcj7K6_LdM-39",
+      "summary": "Arnold Murray called it killing one of God’s children and spoke of facing God afterward. He also acknowledged mental impairment or imbalances without resolving how those affected judgment. This is a historical religious reply, not a clinical account or a determination of any individual’s final standing.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "home-anointing",
+      "video_id": "ykcj7K6_LdM",
+      "start": 3187.619,
+      "end": 3256.74,
+      "variant": "local078-ykcj7K6_LdM-40",
+      "summary": "Arnold Murray recommended pure olive oil, asking God’s blessing and applying a little to the doorpost in Jesus Christ’s name. He noted uncertainty about anointing the son’s home without a request; this is his religious practice, not a guarantee of physical protection.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "addiction-prayer-help",
+      "video_id": "ykcj7K6_LdM",
+      "start": 3256.74,
+      "end": 3363.599,
+      "variant": "local078-ykcj7K6_LdM-41",
+      "summary": "Arnold Murray said yes and advised asking for help rather than making promises the listener could not keep. He emphasized wanting to change and resisting vulnerability, using future deception as his religious illustration. He did not directly settle the listener’s separate question about automatic damnation; his exhortation is not medical treatment guidance.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "47214b506e6a7b88840079c2cf83290944a28d37c26507a6af9e61110d854d58",
+      "source_sha256": "dc511b113c720872665e1d995178e4bc46f96b7819862549db4a7c56897c1cbb",
+      "recording_group": "ykcj7K6_LdM",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local023-snakes-poison",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 2673.18,
+      "end": 2768.4,
+      "variant": "local078-2IY3pUHO5kQ-42",
+      "summary": "Arnold Murray said it was figurative language about resisting Satan and maintaining character, not permission to handle rattlesnakes or consume poison. He located it near the end of Mark without giving an exact verse number.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local057-Ib9OLeU_ac0-298",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 2768.4,
+      "end": 2789.119,
+      "variant": "local078-2IY3pUHO5kQ-43",
+      "summary": "Arnold Murray said no archangel had been born of a woman, distinguishing them from the other angels in his theology. This is his religious interpretation, not an independently established history.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "smyrna-philadelphia-teaching",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 2789.119,
+      "end": 2856.78,
+      "variant": "local078-2IY3pUHO5kQ-44",
+      "summary": "Arnold Murray said both would be delivered up if God’s elect were in them, referring to Revelation2:9,3:9 and Mark13. He associated the key of David with knowledge of the word; this is his prophetic interpretation.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "denomination-criticism-denial",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 2856.78,
+      "end": 2913.8,
+      "variant": "local078-2IY3pUHO5kQ-45",
+      "summary": "Arnold Murray rejected that description and said he taught Scripture while leaving judgment to God. This records his self-description in the reply rather than an independent appraisal of all his broadcasts.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local056-millennium-family-extra",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 2913.8,
+      "end": 3036.0,
+      "variant": "local078-2IY3pUHO5kQ-46",
+      "summary": "Arnold Murray distinguished the Ezekiel44 list of blood relatives and spouses from the elect’s broader work of teaching everyone who had lacked a fair opportunity to hear. He qualified the nearness of the Millennium as his feeling, not a dated certainty.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "political-system-antichrist",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 3036.0,
+      "end": 3083.52,
+      "variant": "local078-2IY3pUHO5kQ-47",
+      "summary": "Arnold Murray called it a wound to a political system rather than an animal, pointing to Revelation13 and estimating verse4. He connected the one-world system’s completion with the false Messiah’s arrival; this is his prophetic interpretation and the cited verse is retained as given.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "cremation",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 3083.52,
+      "end": 3142.559,
+      "variant": "local078-2IY3pUHO5kQ-48",
+      "summary": "Arnold Murray said no, referring to1Corinthians15:44, Ecclesiastes12:7 and2Corinthians5. He taught that the discarded flesh returned to dust and the person was with God; this is his theological account.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "recognize-family",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 3142.559,
+      "end": 3189.9,
+      "variant": "local078-2IY3pUHO5kQ-49",
+      "summary": "Arnold Murray said yes and connected recognition with being made in an image like the heavenly form. His explanation also drew on Christ’s likeness to the Father; this is his theological view.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local078-2IY3pUHO5kQ-50",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 3189.9,
+      "end": 3269.46,
+      "variant": "local078-2IY3pUHO5kQ-50",
+      "summary": "Arnold Murray could not recall the reference in that reply, but urged spouses to communicate and settle arguments rather than stay silently angry. He opposed arguments becoming physical; his estimates about how often couples argue are personal observations, not established relationship findings.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local041-vAVjBivwq_U-7",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 3269.46,
+      "end": 3307.74,
+      "variant": "local078-2IY3pUHO5kQ-51",
+      "summary": "Arnold Murray said forgiveness required sincerity, referred to Christ’s repeated-forgiveness teaching and encouraged asking for strength rather than making promises. He urged continued repentance even after another failure.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
+      "review_status": "caption_passage_checked_audio_pending",
+      "reviewed_at": "2026-10-30"
+    },
+    {
+      "question_id": "local050-hbWOGr3dpkY-4",
+      "video_id": "2IY3pUHO5kQ",
+      "start": 3307.74,
+      "end": 3378.42,
+      "variant": "local078-2IY3pUHO5kQ-52",
+      "summary": "Arnold Murray suggested sincerely courting her again, showing affection and consideration as he had at the beginning. He urged honesty and care rather than leaving to court someone else; he did not guarantee reconciliation.",
+      "scripture_mentions": [],
+      "teacher": "Arnold Murray",
+      "transcript_sha256": "6dcb21a7b062e63a083b043e7367d36fcbd37c1016fd7b864ca29ef26c8bd8f5",
+      "source_sha256": "982706d5abd4488698ba66bfa6a51ec9c52dcd84b514124775f826af514879f0",
+      "recording_group": "2IY3pUHO5kQ",
       "review_status": "caption_passage_checked_audio_pending",
       "reviewed_at": "2026-10-30"
     }

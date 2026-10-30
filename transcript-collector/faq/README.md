@@ -448,3 +448,6 @@ Batch076 resolves22savedcaptionanswers5newgroupsfrom2Arnoldrecordings.6249groups
 
 
 Batch077 adds75caption-reviewed answer links and19new semantic question groups from5Arnold recordings.6268groups11262links11215distinctpairs;935partial20completecaptionQA1331withoutacceptedreview. One incomplete draft remains held; Q&A-only alternate Easter upload counted once. No independent audio verification.
+
+
+Batch078 adds52caption-reviewed links and10newsemanticquestiongroups from4Arnoldrecordings.6278groups11314links11267pairs;939partial20completecaptionQA1327withoutacceptedreview. Corpus passage-repeat screen clear; six unresolved ranges retained. Audio pending.
