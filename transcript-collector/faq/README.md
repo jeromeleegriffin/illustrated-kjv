@@ -440,3 +440,6 @@ Pass073 adds13caption-reviewed answers and3groups from Capital Punishment-Part1.
 
 
 Batch074 adds40caption-reviewed Arnold Murray answer links and13new question groups from five saved recordings. Totals:6,236groups11,129links11,082distinctquestion-recordingpairs.925recordingspartial20completecaption-QAreviews;1,341withoutacceptedQAreview. Older pending drafts were deferred at the owner’s request. Full captions and exact evidence remain private; audio remains unverified. Only completed listener replies were accepted; edited or unclear ranges remain partial.
+
+
+Batch075 adds36caption-reviewed answer links and8newquestiongroups from3saved Arnold programs.6244groups11165links11118distinctpairs;928partial20completecaptionQA1338withoutacceptedreview. Original sources, prior occurrence/review prefixes, aliases and reservations preserved. Two explicit questions in one reply join separate existing groups. No independent audio verification.
