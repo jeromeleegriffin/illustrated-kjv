@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,223 question groups and 11,089 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,290 question groups and 11,352 linked answer occurrences. Frequencies count once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 920 remain partially reviewed, 419 await passage/supplement review and 927 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 saved exports are retained. Caption Q&A reviews: 942 partial,20 complete;419 pending passage review and905 teacher-pending. Candidate scans are not approval. Audio verification remains pending.
 
 ## Rebuild
 
@@ -451,3 +451,5 @@ Batch077 adds75caption-reviewed answer links and19new semantic question groups f
 
 
 Batch078 adds52caption-reviewed links and10newsemanticquestiongroups from4Arnoldrecordings.6278groups11314links11267pairs;939partial20completecaptionQA1327withoutacceptedreview. Corpus passage-repeat screen clear; six unresolved ranges retained. Audio pending.
+
+Batch079 adds38 linked answers and12 question groups from3 Arnold recordings. Two multi-question passages link separately to their actual answered questions. Deferred ancestry and inconsistent Moses/circumcision wording remain held. Corpus-wide passage repeat screen clear; all sections partial and audio pending.

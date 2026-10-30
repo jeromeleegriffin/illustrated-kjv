@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-30T22:11:59.886671+00:00",
+  "updated": "2026-10-30T22:48:08.387971+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -167812,7 +167812,7 @@
     },
     {
       "video_id": "kStRS070_LM",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "The Three Woes",
       "kind": "topical",
@@ -167821,12 +167821,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 19,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local046-4ssJFUI3avY-3",
+        "local049-gSu5B0ntTII-1",
+        "like-minded-fellowship",
+        "local079-kStRS070_LM-13",
+        "isaiah64-righteous-rags",
+        "addiction-prayer-help",
+        "local026-support-doctrine",
+        "local056-forgive-cursing",
+        "jesus-childhood-memory",
+        "local055-OTmt1PKmOHI-361",
+        "local079-kStRS070_LM-19-possession",
+        "local079-kStRS070_LM-20",
+        "morning-star",
+        "paul-benjamin-judean"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local046-4ssJFUI3avY-3",
+          "start_seconds": 2226.44,
+          "end_seconds": 2313.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-gSu5B0ntTII-1",
+          "start_seconds": 2313.66,
+          "end_seconds": 2487.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "like-minded-fellowship",
+          "start_seconds": 2313.66,
+          "end_seconds": 2487.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-kStRS070_LM-13",
+          "start_seconds": 2487.359,
+          "end_seconds": 2556.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "isaiah64-righteous-rags",
+          "start_seconds": 2556.599,
+          "end_seconds": 2680.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "addiction-prayer-help",
+          "start_seconds": 2680.92,
+          "end_seconds": 2827.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-support-doctrine",
+          "start_seconds": 2827.92,
+          "end_seconds": 2917.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-forgive-cursing",
+          "start_seconds": 2917.2,
+          "end_seconds": 2982.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "jesus-childhood-memory",
+          "start_seconds": 2982.319,
+          "end_seconds": 3042.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-OTmt1PKmOHI-361",
+          "start_seconds": 3042.079,
+          "end_seconds": 3142.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-kStRS070_LM-19-possession",
+          "start_seconds": 3042.079,
+          "end_seconds": 3142.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-kStRS070_LM-20",
+          "start_seconds": 3142.38,
+          "end_seconds": 3268.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "morning-star",
+          "start_seconds": 3268.02,
+          "end_seconds": 3346.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paul-benjamin-judean",
+          "start_seconds": 3346.68,
+          "end_seconds": 3367.319,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "kStRS070_LM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8c571becbc955f69af5a7246501bcd7cc788e0f3b91303797889a1ce76be82b8",
+        "qa_start": 2226.44,
+        "qa_end": 3367.319,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2226.44,
+            "end": 2313.66
+          },
+          {
+            "start": 2313.66,
+            "end": 2487.359
+          },
+          {
+            "start": 2313.66,
+            "end": 2487.359
+          },
+          {
+            "start": 2487.359,
+            "end": 2556.599
+          },
+          {
+            "start": 2556.599,
+            "end": 2680.92
+          },
+          {
+            "start": 2680.92,
+            "end": 2827.92
+          },
+          {
+            "start": 2827.92,
+            "end": 2917.2
+          },
+          {
+            "start": 2917.2,
+            "end": 2982.319
+          },
+          {
+            "start": 2982.319,
+            "end": 3042.079
+          },
+          {
+            "start": 3042.079,
+            "end": 3142.38
+          },
+          {
+            "start": 3042.079,
+            "end": 3142.38
+          },
+          {
+            "start": 3142.38,
+            "end": 3268.02
+          },
+          {
+            "start": 3268.02,
+            "end": 3346.68
+          },
+          {
+            "start": 3346.68,
+            "end": 3367.319
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2226.44,
+            "end": 3367.319,
+            "reason": "Only listed passages certified; entire section completeness not asserted."
+          }
+        ],
+        "cursor_seconds": 2226.44,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Saved source captions and speaker introduction read; corpus-wide passage repeat screen and manual semantic reconciliation."
+      },
+      "cursor_seconds": 2226.44
     },
     {
       "video_id": "kVkNl24GhVQ",
@@ -169845,7 +170024,7 @@
     },
     {
       "video_id": "p5bTTHR2AoM",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Election - Part 2",
       "kind": "topical",
@@ -169854,12 +170033,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 23,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local079-p5bTTHR2AoM-1",
+        "local053-mnvbjevTOSY-13",
+        "local044-mbC4U70iYBs-3",
+        "local030-8-BQPrHUBGw-2",
+        "local031-DsY7O9EFlu8-4",
+        "local079-p5bTTHR2AoM-6",
+        "local079-p5bTTHR2AoM-7",
+        "local079-p5bTTHR2AoM-8",
+        "local039-ccvD9IQzljs-5",
+        "local045-Nw0wcl8CnFI-3"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local079-p5bTTHR2AoM-1",
+          "start_seconds": 2774.16,
+          "end_seconds": 2833.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local053-mnvbjevTOSY-13",
+          "start_seconds": 2833.079,
+          "end_seconds": 2860.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local044-mbC4U70iYBs-3",
+          "start_seconds": 2899.5,
+          "end_seconds": 2975.819,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-8-BQPrHUBGw-2",
+          "start_seconds": 2975.819,
+          "end_seconds": 3010.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-DsY7O9EFlu8-4",
+          "start_seconds": 3010.8,
+          "end_seconds": 3104.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-p5bTTHR2AoM-6",
+          "start_seconds": 3104.099,
+          "end_seconds": 3193.559,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-p5bTTHR2AoM-7",
+          "start_seconds": 3193.559,
+          "end_seconds": 3245.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-p5bTTHR2AoM-8",
+          "start_seconds": 3245.7,
+          "end_seconds": 3290.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local039-ccvD9IQzljs-5",
+          "start_seconds": 3290.339,
+          "end_seconds": 3333.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-Nw0wcl8CnFI-3",
+          "start_seconds": 3333.0,
+          "end_seconds": 3380.46,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "p5bTTHR2AoM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "e56e7dc85f275b00a804aec40e0e9a2e90a000b91916a5c5c89b879814462253",
+        "qa_start": 2774.16,
+        "qa_end": 3380.46,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2774.16,
+            "end": 2833.079
+          },
+          {
+            "start": 2833.079,
+            "end": 2860.859
+          },
+          {
+            "start": 2899.5,
+            "end": 2975.819
+          },
+          {
+            "start": 2975.819,
+            "end": 3010.8
+          },
+          {
+            "start": 3010.8,
+            "end": 3104.099
+          },
+          {
+            "start": 3104.099,
+            "end": 3193.559
+          },
+          {
+            "start": 3193.559,
+            "end": 3245.7
+          },
+          {
+            "start": 3245.7,
+            "end": 3290.339
+          },
+          {
+            "start": 3290.339,
+            "end": 3333.0
+          },
+          {
+            "start": 3333.0,
+            "end": 3380.46
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2860.859,
+            "end": 2899.5,
+            "reason": "Native American ancestry answer explicitly deferred to a later documentary; not approved."
+          }
+        ],
+        "cursor_seconds": 2860.859,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Saved source captions and speaker introduction read; corpus-wide passage repeat screen and manual semantic reconciliation."
+      },
+      "cursor_seconds": 2860.859
     },
     {
       "video_id": "pHLAWmseAXY",
@@ -171825,7 +172139,7 @@
     },
     {
       "video_id": "sIh5W3pcP6A",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "The Appointed Time",
       "kind": "topical",
@@ -171834,12 +172148,191 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 16,
       "scanned_at": "2026-10-30T05:45:19.625406+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local079-sIh5W3pcP6A-23",
+        "local049-gLCEYCxpHnw-1",
+        "local079-sIh5W3pcP6A-25",
+        "local079-sIh5W3pcP6A-26",
+        "local024-divorce-remarry",
+        "local056-Wr5THEy7nZw-63",
+        "local079-sIh5W3pcP6A-29",
+        "local052-mY3Sv9F1w9U-2",
+        "local079-sIh5W3pcP6A-31",
+        "apocrypha",
+        "forgiveness",
+        "ezekiel-battle-time",
+        "family-birth-first-age-arnold",
+        "local044-ZJWdzYVVo5Y-13"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local079-sIh5W3pcP6A-23",
+          "start_seconds": 2331.4,
+          "end_seconds": 2383.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-gLCEYCxpHnw-1",
+          "start_seconds": 2383.359,
+          "end_seconds": 2436.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-sIh5W3pcP6A-25",
+          "start_seconds": 2436.04,
+          "end_seconds": 2548.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-sIh5W3pcP6A-26",
+          "start_seconds": 2548.52,
+          "end_seconds": 2572.079,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-divorce-remarry",
+          "start_seconds": 2572.079,
+          "end_seconds": 2775.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-Wr5THEy7nZw-63",
+          "start_seconds": 2775.16,
+          "end_seconds": 2829.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-sIh5W3pcP6A-29",
+          "start_seconds": 2829.359,
+          "end_seconds": 2932.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local052-mY3Sv9F1w9U-2",
+          "start_seconds": 2932.44,
+          "end_seconds": 2995.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local079-sIh5W3pcP6A-31",
+          "start_seconds": 2995.92,
+          "end_seconds": 3097.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "apocrypha",
+          "start_seconds": 3097.96,
+          "end_seconds": 3131.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3131.4,
+          "end_seconds": 3194.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ezekiel-battle-time",
+          "start_seconds": 3194.92,
+          "end_seconds": 3225.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-birth-first-age-arnold",
+          "start_seconds": 3225.44,
+          "end_seconds": 3292.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local044-ZJWdzYVVo5Y-13",
+          "start_seconds": 3292.96,
+          "end_seconds": 3308.64,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "sIh5W3pcP6A",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "6543fe17d0c904cb772d39e6f6070d7831c6a40141b97cd8a9957579807ccc74",
+        "qa_start": 2331.4,
+        "qa_end": 3308.64,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2331.4,
+            "end": 2383.359
+          },
+          {
+            "start": 2383.359,
+            "end": 2436.04
+          },
+          {
+            "start": 2436.04,
+            "end": 2548.52
+          },
+          {
+            "start": 2548.52,
+            "end": 2572.079
+          },
+          {
+            "start": 2572.079,
+            "end": 2775.16
+          },
+          {
+            "start": 2775.16,
+            "end": 2829.359
+          },
+          {
+            "start": 2829.359,
+            "end": 2932.44
+          },
+          {
+            "start": 2932.44,
+            "end": 2995.92
+          },
+          {
+            "start": 2995.92,
+            "end": 3097.96
+          },
+          {
+            "start": 3097.96,
+            "end": 3131.4
+          },
+          {
+            "start": 3131.4,
+            "end": 3194.92
+          },
+          {
+            "start": 3194.92,
+            "end": 3225.44
+          },
+          {
+            "start": 3225.44,
+            "end": 3292.96
+          },
+          {
+            "start": 3292.96,
+            "end": 3308.64
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3308.64,
+            "end": 3390.0,
+            "reason": "Moses circumcision reply switches actor between wife and Moses; hold rather than silently repair."
+          }
+        ],
+        "cursor_seconds": 3308.64,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Saved source captions and speaker introduction read; corpus-wide passage repeat screen and manual semantic reconciliation."
+      },
+      "cursor_seconds": 3308.64
     },
     {
       "video_id": "sP0Z0UfA6hM",
@@ -176434,13 +176927,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 939,
+    "partially_reviewed": 942,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 908,
+    "teacher_pending": 905,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11267
+    "question_occurrences": 11305
   }
 }
