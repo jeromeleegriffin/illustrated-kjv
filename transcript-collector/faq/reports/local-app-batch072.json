@@ -1,10 +1,10 @@
 {
   "batch": "local072-topical-listener-QA",
-  "status": "reviewed_saved_pending_publication",
+  "status": "validated_semantic_revision_pending_publication",
   "saved_drafts_reconciled": 172,
   "approved_linked_answers": 172,
-  "new_question_groups": 61,
-  "total_question_groups": 6226,
+  "new_question_groups": 55,
+  "total_question_groups": 6220,
   "total_linked_answers": 11076,
   "distinct_question_recording_pairs": 11029,
   "recordings_with_approved_answers": 12,
@@ -34,5 +34,8 @@
   "pending_without_accepted_qa_review": 1347,
   "recordings_with_review_work_remaining": 2266,
   "unapproved_drafts_remaining": 0,
-  "truncated_export": "Ch72YdUkWv8 ends before listener QA; no answer or completion credited"
+  "truncated_export": "Ch72YdUkWv8 ends before listener QA; no answer or completion credited",
+  "published_commit": "5fe3e7f3e36a40ff4ff95e7a216e7e2055504daa",
+  "live_url": "https://bible.jeromegriffin.com/teaching-faq.html?v=111",
+  "final_semantic_merges": 6
 }

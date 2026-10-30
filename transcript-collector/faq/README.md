@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,226 question groups and 11,076 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,220 question groups and 11,076 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
 All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 919 remain partially reviewed, 419 await passage/supplement review and 928 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
@@ -432,4 +432,6 @@ Reconciled the saved Your Destiny Part2 review into13 new answer links and4 new 
 Pass071 adds 136 caption-reviewed answer links and 50 question groups from ten saved Arnold recordings. All ten remain partial due to 25 unresolved ranges; 5 other ranges are requests, incomplete questions, compliments or repeated questions counted once. Exact source evidence stays private. Independent audio review remains pending. All prior 10,768 occurrences and 1,304 review entries remain intact. Originals, assignments, aliases and FAQ navigation are preserved.
 
 
-Pass072 reconciles all172saved draft core answers from12Arnold recordings, adding172caption-reviewed answer links and61question groups. Public cumulative totals: 6226groups/11076links/11029distinct question-recording pairs. All12remain partial; 31ranges retain audio/context uncertainty and 16other ranges remain requests, non-answers or repeats counted once. Some holds overlap clear qualified core answers. No independent audio review. Prior10904occurrences/1314review entries,2286source exports, reservations,aliases,title histories and navigation retained. A truncated export ending before listener Q&A contributes no answers.
+Pass072 reconciles all172saved draft core answers from12Arnold recordings, adding172caption-reviewed answer links and55question groups. Public cumulative totals: 6220groups/11076links/11029distinct question-recording pairs. All12remain partial; 31ranges retain audio/context uncertainty and 16other ranges remain requests, non-answers or repeats counted once. Some holds overlap clear qualified core answers. No independent audio review. Prior10904occurrences/1314review entries,2286source exports, reservations,aliases,title histories and navigation retained. A truncated export ending before listener Q&A contributes no answers.
+
+Final semantic cross-check merges six proposed groups into existing ones, retaining all172links. Individual versus group testimony answers remain separately attributed without forced reconciliation. Current6220groups11076links11029distinctpairs.

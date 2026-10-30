@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-30T17:49:41.084023+00:00",
+  "updated": "2026-10-30T17:57:17.376143+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -151309,7 +151309,7 @@
         "local046-4ssJFUI3avY-3",
         "zechariah-witnesses",
         "local043-jvAfiomWDlw-3",
-        "local072-FwrKYON4Ius-71",
+        "flesh-purpose-choice",
         "local072-FwrKYON4Ius-72",
         "local005-bf5264a5f53c48",
         "local026-fire-when",
@@ -151370,7 +151370,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local072-FwrKYON4Ius-71",
+          "question_id": "flesh-purpose-choice",
           "start_seconds": 2706.359,
           "end_seconds": 2760.48,
           "review": "caption_passage_checked_audio_pending"
@@ -151989,7 +151989,7 @@
         "local033-h8oP6_DYcXM-5",
         "local072-HQGO5zLnBdI-27",
         "reap-sow-discipline",
-        "local072-HQGO5zLnBdI-29",
+        "local050-hbWOGr3dpkY-4",
         "discern-teachers",
         "receiving-god",
         "local030-DvGjUMgQEC4-1",
@@ -152024,7 +152024,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local072-HQGO5zLnBdI-29",
+          "question_id": "local050-hbWOGr3dpkY-4",
           "start_seconds": 2524.74,
           "end_seconds": 2637.48,
           "review": "caption_passage_checked_audio_pending"
@@ -156679,7 +156679,7 @@
         "forgiveness",
         "local069-xQ1xXWodKg0-44",
         "local052-kgORYtXLGvE-7",
-        "local072-SJO9r1D59yI-170",
+        "testimony-groups",
         "anointing-proxy-distance",
         "arnold-president-question"
       ],
@@ -156745,7 +156745,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local072-SJO9r1D59yI-170",
+          "question_id": "testimony-groups",
           "start_seconds": 3161.579,
           "end_seconds": 3265.98,
           "review": "caption_passage_checked_audio_pending"
@@ -159344,7 +159344,7 @@
         "local072-WyXY4NF3y-4-22",
         "local030-4ssJFUI3avY-6",
         "local072-WyXY4NF3y-4-24",
-        "local072-WyXY4NF3y-4-25"
+        "local023-once-die"
       ],
       "reviewed_ranges": [
         {
@@ -159408,7 +159408,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local072-WyXY4NF3y-4-25",
+          "question_id": "local023-once-die",
           "start_seconds": 3379.319,
           "end_seconds": 3415.74,
           "review": "caption_passage_checked_audio_pending"
@@ -161514,7 +161514,7 @@
         "local072-aKZoE9XLLbk-112",
         "local031-4BxMP_Xvnlc-6",
         "local054-6bEEl-CJqy8-4",
-        "local072-aKZoE9XLLbk-115",
+        "first-age-reproduction",
         "local072-aKZoE9XLLbk-116",
         "local008-tongues-understanding",
         "try-spirits-word",
@@ -161524,7 +161524,7 @@
         "local072-aKZoE9XLLbk-122",
         "local051-iyWWFnliE0A-18",
         "local072-aKZoE9XLLbk-124",
-        "local072-aKZoE9XLLbk-125",
+        "local023-atheist-friend",
         "local055-Oj7tBTKTsLY-517",
         "local072-aKZoE9XLLbk-127",
         "local072-aKZoE9XLLbk-128",
@@ -161556,7 +161556,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local072-aKZoE9XLLbk-115",
+          "question_id": "first-age-reproduction",
           "start_seconds": 2501.099,
           "end_seconds": 2554.92,
           "review": "caption_passage_checked_audio_pending"
@@ -161616,7 +161616,7 @@
           "review": "caption_passage_checked_audio_pending"
         },
         {
-          "question_id": "local072-aKZoE9XLLbk-125",
+          "question_id": "local023-atheist-friend",
           "start_seconds": 3017.819,
           "end_seconds": 3063.42,
           "review": "caption_passage_checked_audio_pending"
