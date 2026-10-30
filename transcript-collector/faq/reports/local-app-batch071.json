@@ -1,0 +1,108 @@
+{
+  "batch": "local071-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 136,
+  "new_question_groups": 50,
+  "total_question_groups": 6165,
+  "total_linked_answers": 10904,
+  "distinct_question_recording_pairs": 10857,
+  "recordings_with_approved_answers": 10,
+  "caption_teacher_confirmations": 10,
+  "held_passages": 25,
+  "excluded_or_repeat_passages": 5,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 907,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 940,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10857
+  },
+  "title_clarifications": [
+    {
+      "question_id": "local027-eD3duFtw5DA-halloween",
+      "previous_question": "What did Dennis advise about children participating in Halloween?",
+      "question": "What did the Murrays advise about children participating in Halloween?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "tv-church-dennis",
+      "previous_question": "Did Dennis regard studying with Shepherd’s Chapel on television as attending church?",
+      "question": "Did the Murrays regard studying with Shepherd’s Chapel on television as attending church?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local022-spurious-messiah",
+      "previous_question": "What did Dennis mean by spurious messiah?",
+      "question": "What did the Murrays mean by spurious messiah?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local034-eUKTiANZhlY",
+      "previous_question": "What did Dennis say about people who never had a chance to hear the truth?",
+      "question": "What did the Murrays say about people who never had a chance to hear the truth?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "human-curses-dennis",
+      "previous_question": "Did Dennis believe another person’s curse could control a Christian?",
+      "question": "Did the Murrays believe another person’s curse could control a Christian?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local022-soul-conception",
+      "previous_question": "When did Dennis believe God places a soul in an embryo?",
+      "question": "When did the Murrays believe God places a soul in an embryo?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local012-flee-judea",
+      "previous_question": "What did Dennis say about fleeing Judea?",
+      "question": "Who did the Murrays say should flee Judea?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local025-graves",
+      "previous_question": "Will souls come out of graves at the last trumpet?",
+      "question": "Did the Murrays expect souls to come out of graves at the last trumpet?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local026-changed-bodies",
+      "previous_question": "What happens to flesh bodies at the seventh trumpet?",
+      "question": "What did the Murrays say happens to flesh bodies at the seventh trumpet?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "new-sin-repentance",
+      "previous_question": "Did Arnold distinguish asking to be saved again from repenting of a new sin?",
+      "question": "Did Murray distinguish salvation from the continuing need to repent?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local051-iaUnnYGYrnQ-5",
+      "previous_question": "Do Smyrna and Philadelphia have different end-time destinies?",
+      "question": "How did Murray distinguish the trials of Smyrna and Philadelphia?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    },
+    {
+      "question_id": "local032-fShd-LOzaRo-3",
+      "previous_question": "How did Dennis explain the instruction not to go to Gentiles in Matthew 10:5?",
+      "question": "How did the Murrays explain the instruction not to go to Gentiles in Matthew 10:5?",
+      "reason": "Groups equivalent questions across separately attributed variants; earlier title and answers preserved."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "duplicate_screen_other_sources": 2276,
+  "pending_without_accepted_qa_review": 1359,
+  "recordings_with_review_work_remaining": 2266
+}

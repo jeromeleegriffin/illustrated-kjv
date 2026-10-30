@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,115 question groups and 10,768 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,165 question groups and 10,904 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 897 remain partially reviewed, 419 await passage/supplement review and 950 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 907 remain partially reviewed, 419 await passage/supplement review and 940 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -427,3 +427,6 @@ Added 51 source-supported answer links and 21 question groups from six Arnold Mu
 ## Local070 caption review
 
 Reconciled the saved Your Destiny Part2 review into13 new answer links and4 new question groups. Nine answers join existing groups with source-specific variants. Five uncertain ranges and two excluded passages remain privately recorded; the recording is partial and audio is unverified. Preserved prior approvals, original sources, reservations and navigation; source hashes, anchors, frequency and recovery tests passed.
+
+
+Pass071 adds 136 caption-reviewed answer links and 50 question groups from ten saved Arnold recordings. All ten remain partial due to 25 unresolved ranges; 5 other ranges are requests, incomplete questions, compliments or repeated questions counted once. Exact source evidence stays private. Independent audio review remains pending. All prior 10,768 occurrences and 1,304 review entries remain intact. Originals, assignments, aliases and FAQ navigation are preserved.
