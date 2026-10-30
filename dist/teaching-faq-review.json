@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-30T20:18:38.744926+00:00",
+  "updated": "2026-10-30T20:48:45.190840+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -173007,7 +173007,7 @@
     },
     {
       "video_id": "yQNS2IKoMeI",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Kingdom And Millennium Part 2",
       "kind": "topical",
@@ -173016,12 +173016,180 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 18,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "recognize-family",
+        "local014-family-loans",
+        "black-ancestry-claim",
+        "local055-6WnmAqmHbOE-81",
+        "holy-trinity",
+        "local052-kgORYtXLGvE-16",
+        "local026-soul-spirit",
+        "women-pants",
+        "military-love-enemies",
+        "home-anointing",
+        "god-divorce-israel",
+        "local038-cJpWNWR94qE-7",
+        "local076-yQNS2IKoMeI-22"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 2618.99,
+          "end_seconds": 2659.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-family-loans",
+          "start_seconds": 2659.28,
+          "end_seconds": 2704.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "black-ancestry-claim",
+          "start_seconds": 2704.38,
+          "end_seconds": 2750.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-6WnmAqmHbOE-81",
+          "start_seconds": 2750.67,
+          "end_seconds": 2785.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "holy-trinity",
+          "start_seconds": 2785.32,
+          "end_seconds": 2823.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local052-kgORYtXLGvE-16",
+          "start_seconds": 2823.18,
+          "end_seconds": 2955.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-soul-spirit",
+          "start_seconds": 3004.16,
+          "end_seconds": 3085.99,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-pants",
+          "start_seconds": 3085.99,
+          "end_seconds": 3160.84,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "military-love-enemies",
+          "start_seconds": 3160.84,
+          "end_seconds": 3236.93,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 3236.93,
+          "end_seconds": 3257.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "god-divorce-israel",
+          "start_seconds": 3257.72,
+          "end_seconds": 3283.61,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local038-cJpWNWR94qE-7",
+          "start_seconds": 3283.61,
+          "end_seconds": 3332.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local076-yQNS2IKoMeI-22",
+          "start_seconds": 3332.51,
+          "end_seconds": 3383.4,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "yQNS2IKoMeI",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "253a6ed9a29d4a6f7c51c640dc7cff9a699c952ec39907fbe40fe6acdaebabb8",
+        "qa_start": 2618.99,
+        "qa_end": 3383.4,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2618.99,
+            "end": 2659.28
+          },
+          {
+            "start": 2659.28,
+            "end": 2704.38
+          },
+          {
+            "start": 2704.38,
+            "end": 2750.67
+          },
+          {
+            "start": 2750.67,
+            "end": 2785.32
+          },
+          {
+            "start": 2785.32,
+            "end": 2823.18
+          },
+          {
+            "start": 2823.18,
+            "end": 2955.89
+          },
+          {
+            "start": 3004.16,
+            "end": 3085.99
+          },
+          {
+            "start": 3085.99,
+            "end": 3160.84
+          },
+          {
+            "start": 3160.84,
+            "end": 3236.93
+          },
+          {
+            "start": 3236.93,
+            "end": 3257.72
+          },
+          {
+            "start": 3257.72,
+            "end": 3283.61
+          },
+          {
+            "start": 3283.61,
+            "end": 3332.51
+          },
+          {
+            "start": 3332.51,
+            "end": 3383.4
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2954.079,
+            "end": 3006.579,
+            "reason": "Previously held unclear eighth-day/flood reply or excluded legal recruitment; section remains partial."
+          }
+        ],
+        "cursor_seconds": 2954.079,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Saved pending replies re-read with precise cues; Q&A-only duplicate pairs reconciled, no whole-lecture aliases."
+      },
+      "cursor_seconds": 2954.079
     },
     {
       "video_id": "yQzPc6dOtaQ",
@@ -173187,7 +173355,7 @@
     },
     {
       "video_id": "yxm4cZZK_94",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Kingdom & Millennium - Part 1",
       "kind": "topical",
@@ -173196,12 +173364,136 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 19,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local076-yxm4cZZK_94-1",
+        "local052-lxBqkL2L0ao-3",
+        "local076-yxm4cZZK_94-3",
+        "adult-children-support",
+        "testimony-ten-days",
+        "local076-yxm4cZZK_94-6",
+        "local058-Oj7tBTKTsLY-36",
+        "local023-dead-know-nothing",
+        "local076-yxm4cZZK_94-9"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local076-yxm4cZZK_94-1",
+          "start_seconds": 2448.96,
+          "end_seconds": 2556.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local052-lxBqkL2L0ao-3",
+          "start_seconds": 2556.66,
+          "end_seconds": 2709.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local076-yxm4cZZK_94-3",
+          "start_seconds": 2709.359,
+          "end_seconds": 2784.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "adult-children-support",
+          "start_seconds": 2784.72,
+          "end_seconds": 2846.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "testimony-ten-days",
+          "start_seconds": 2846.94,
+          "end_seconds": 2928.599,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local076-yxm4cZZK_94-6",
+          "start_seconds": 3033.359,
+          "end_seconds": 3135.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local058-Oj7tBTKTsLY-36",
+          "start_seconds": 3135.72,
+          "end_seconds": 3237.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local023-dead-know-nothing",
+          "start_seconds": 3237.98,
+          "end_seconds": 3352.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local076-yxm4cZZK_94-9",
+          "start_seconds": 3352.26,
+          "end_seconds": 3389.579,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "yxm4cZZK_94",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "f6ef9d562629e457f64f0937a4e0a0d1ef52088a08ef972b270c4d814292a677",
+        "qa_start": 2448.96,
+        "qa_end": 3389.579,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2448.96,
+            "end": 2556.66
+          },
+          {
+            "start": 2556.66,
+            "end": 2709.359
+          },
+          {
+            "start": 2709.359,
+            "end": 2784.72
+          },
+          {
+            "start": 2784.72,
+            "end": 2846.94
+          },
+          {
+            "start": 2846.94,
+            "end": 2928.599
+          },
+          {
+            "start": 3033.359,
+            "end": 3135.72
+          },
+          {
+            "start": 3135.72,
+            "end": 3237.98
+          },
+          {
+            "start": 3237.98,
+            "end": 3352.26
+          },
+          {
+            "start": 3352.26,
+            "end": 3389.579
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2923.19,
+            "end": 3036.29,
+            "reason": "Previously held unclear eighth-day/flood reply or excluded legal recruitment; section remains partial."
+          }
+        ],
+        "cursor_seconds": 2923.19,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Saved pending replies re-read with precise cues; Q&A-only duplicate pairs reconciled, no whole-lecture aliases."
+      },
+      "cursor_seconds": 2923.19
     },
     {
       "video_id": "yzFGxM4tV84",
@@ -174470,13 +174762,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 928,
+    "partially_reviewed": 930,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 919,
+    "teacher_pending": 917,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11118
+    "question_occurrences": 11140
   }
 }

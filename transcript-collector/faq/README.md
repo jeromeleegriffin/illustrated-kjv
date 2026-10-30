@@ -443,3 +443,5 @@ Batch074 adds40caption-reviewed Arnold Murray answer links and13new question gro
 
 
 Batch075 adds36caption-reviewed answer links and8newquestiongroups from3saved Arnold programs.6244groups11165links11118distinctpairs;928partial20completecaptionQA1338withoutacceptedreview. Original sources, prior occurrence/review prefixes, aliases and reservations preserved. Two explicit questions in one reply join separate existing groups. No independent audio verification.
+
+Batch076 resolves22savedcaptionanswers5newgroupsfrom2Arnoldrecordings.6249groups11187links11140distinctpairs;930partial20completecaptionQA1336withoutacceptedreview. Q&A-only repeated uploads counted once; no whole-lecture aliases. Audio pending.
