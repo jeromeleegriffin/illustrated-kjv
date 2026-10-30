@@ -1,0 +1,70 @@
+{
+  "batch": "local063-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 24,
+  "new_question_groups": 10,
+  "total_question_groups": 5984,
+  "total_linked_answers": 10380,
+  "distinct_question_recording_pairs": 10333,
+  "recordings_with_approved_answers": 2,
+  "caption_teacher_confirmations": 2,
+  "held_passages": 15,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 866,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 981,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10333
+  },
+  "title_clarifications": [
+    {
+      "question_id": "figtree-1948-arnold",
+      "previous_question": "How did Arnold connect the fig tree with Israel in 1948?",
+      "question": "How did Arnold connect the fig-tree generation with Israel becoming a nation again?",
+      "reason": "Broader title does not assign an unspoken year to the new source; earlier answers retain their explicit1948 wording."
+    },
+    {
+      "question_id": "local024-concubine-wife",
+      "previous_question": "How did Dennis distinguish a concubine from a wife?",
+      "question": "How do the Murrays describe a concubine in relation to a wife?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    },
+    {
+      "question_id": "local014-nicolaitans",
+      "previous_question": "Who did Dennis think the Nicolaitans were?",
+      "question": "Who do the Murrays understand the Nicolaitans to be?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    }
+  ],
+  "source_specific_differences": [
+    {
+      "question_id": "inri-meaning",
+      "difference": "Earlier saved replies say King of Israel, while this answer clearly says King of the Jews. Preserve the wording of each source; do not silently harmonize."
+    },
+    {
+      "question_id": "local014-nicolaitans",
+      "difference": "Dennis calls the Baal-worship identification uncertain in one source. Arnold gives an association with Balaam worship and leading children into idolatry in this source. Preserve teacher and source qualifications."
+    },
+    {
+      "question_id": "local024-concubine-wife",
+      "difference": "The earlier Dennis reply discusses divorce rights and children; Arnold calls the concubine a secondary wife. Neither answer replaces the other."
+    },
+    {
+      "question_id": "figtree-1948-arnold",
+      "difference": "The present source refers to Israel becoming a nation again but does not state1948. The title is broadened; earlier answers retain their explicit year."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2283
+}

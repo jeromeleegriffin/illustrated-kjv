@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,974 question groups and 10,356 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,984 question groups and 10,380 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,086 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 864 remain partially reviewed, 419 await passage/supplement review and 783 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 866 remain partially reviewed, 419 await passage/supplement review and 981 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -397,3 +397,6 @@ The Revelation 20 books interpretations and qualifications about angels across e
 
 Preserves all 2,086 source transcripts, including the 395 cumulative012–015 imports, the 791 saved topical-caption recordings, earlier approvals and external assignments. The public FAQ source ledger now reflects the expanded 2,086-source corpus without converting scans into approvals. Five Python tests and both navigation suites pass, with source anchors, prior record preservation and frequency ranking checked. Totals: 5,974 questions, 10,356 linked answers and 10,309 distinct question-recording pairs. Only FAQ assets and FAQ_RELEASE change; topical availability release remains53da7824553c845dfe21b636769ae9a1d9160742.
 
+
+
+Pass063 adds24caption-reviewed Arnold answer links and10new question groups from two saved topical recordings. Source-specific differences retain the INRI expansion and Nicolaitan interpretations; personal visitation comments are distinguished from direct biblical documentation. Fifteen held passages retain private original cues. A third topical Q&A is held for substantial repetition; Power lecture prompts are not counted. All2286saved sources remain unchanged. FivePython tests and both navigation suites pass. Independent audio review remains pending.
