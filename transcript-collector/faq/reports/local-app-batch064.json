@@ -1,0 +1,43 @@
+{
+  "batch": "local064-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 27,
+  "new_question_groups": 11,
+  "total_question_groups": 5995,
+  "total_linked_answers": 10407,
+  "distinct_question_recording_pairs": 10360,
+  "recordings_with_approved_answers": 3,
+  "caption_teacher_confirmations": 3,
+  "held_passages": 17,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 869,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 978,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10360
+  },
+  "title_clarifications": [],
+  "source_specific_differences": [
+    {
+      "question_id": "local045-bVXutLuSG5A-3",
+      "difference": "This source explicitly says baptism washes away sins; earlier source summary distinguishes cleansing through repentance. Retain each source wording without silently harmonizing."
+    },
+    {
+      "question_id": "witnesses-before-antichrist",
+      "difference": "This live-audience reply uses a ten-day lead based on a lunar/solar comparison. Other sources retain their own qualified lead estimates. No exact forecast or verified calendar calculation is asserted."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2283
+}
