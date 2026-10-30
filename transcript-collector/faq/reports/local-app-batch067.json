@@ -1,0 +1,126 @@
+{
+  "batch": "local067-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 111,
+  "new_question_groups": 28,
+  "total_question_groups": 6057,
+  "total_linked_answers": 10619,
+  "distinct_question_recording_pairs": 10572,
+  "recordings_with_approved_answers": 8,
+  "caption_teacher_confirmations": 8,
+  "held_passages": 43,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 884,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 963,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10572
+  },
+  "title_clarifications": [
+    {
+      "question_id": "judas-death-dennis",
+      "previous_question": "How did Dennis interpret Judas’s repentance and death?",
+      "question": "How do the Murrays interpret Judas’s repentance and death?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local014-david-ascend",
+      "previous_question": "How did Dennis reconcile David not ascending with the spirit returning to God?",
+      "question": "How do the Murrays reconcile David not ascending with the spirit returning to God?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "tongues-foreign-cloven",
+      "previous_question": "How did Dennis distinguish foreign languages from the cloven tongue?",
+      "question": "How do the Murrays distinguish human languages from the Pentecost-type tongue?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local023-spiritual-death",
+      "previous_question": "Did Dennis say a spiritual body can die?",
+      "question": "Do the Murrays believe a spiritual body can die?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local014-1948-1967",
+      "previous_question": "Why did Dennis mention both 1948 and 1967 in discussing the fig tree?",
+      "question": "How do the Murrays distinguish 1948 and 1967 in discussing the fig tree?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local062-93w8IWiRYZs-12",
+      "previous_question": "What does Murray understand the fruit of the tree of life in Revelation 22:2 to mean?",
+      "question": "How does Murray interpret the Tree of Life’s fruit and seasons in Ezekiel 47 and Revelation 22?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local027-d6hI5-sOP9A-capt-acquainted",
+      "previous_question": "Did Arnold Murray know E. Raymond Capt?",
+      "question": "What did Arnold Murray say about E. Raymond Capt and his teaching?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "bipolar-study-reassurance",
+      "previous_question": "How did Arnold reassure someone whose bipolar symptoms made Bible study difficult?",
+      "question": "How did Arnold encourage Bible study when a health condition makes it difficult?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local065-9emIw4gCJcw-17",
+      "previous_question": "What does Murray advise after planting a seed with a coworker?",
+      "question": "How does Murray advise planting a seed and allowing time for it to grow?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "local049-fIiQPWbmnUs-19",
+      "previous_question": "Did Arnold teach that a burning final hell already held people in this recording?",
+      "question": "Does Murray believe final hell judgment has already begun?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "unbelieving-spouse",
+      "previous_question": "Did Arnold tell new believers to leave an unbelieving spouse?",
+      "question": "How did Arnold advise a believer with an unbelieving spouse?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "divorce-remarriage",
+      "previous_question": "How did Arnold answer whether a divorced person may remarry?",
+      "question": "How did Arnold answer whether a repentant divorced person may date or remarry?",
+      "reason": "Generalized wording groups separately attributed answers without replacing previous titles or answers."
+    },
+    {
+      "question_id": "figtree-1948-arnold",
+      "previous_question": "How did Arnold connect the fig-tree generation with Israel becoming a nation again?",
+      "question": "How did Arnold identify the fig-tree generation?",
+      "reason": "Final semantic grouping check: preserve existing answer group and prior title rather than create a duplicate."
+    },
+    {
+      "question_id": "local055-DzJqJIopIi8-251",
+      "previous_question": "Does Arnold expect productive activity in the millennium?",
+      "question": "What does Arnold expect about work and occupations in the millennium?",
+      "reason": "Final semantic grouping check: preserve existing answer group and prior title rather than create a duplicate."
+    },
+    {
+      "question_id": "local013-satan-spiritual-body",
+      "previous_question": "Did Dennis say the antichrist would be in a flesh body?",
+      "question": "Do the Murrays expect Antichrist to appear in a flesh body or a supernatural body?",
+      "reason": "Final semantic grouping check: preserve existing answer group and prior title rather than create a duplicate."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2278,
+  "pending_without_accepted_qa_review": 1382,
+  "recordings_with_review_work_remaining": 2266
+}

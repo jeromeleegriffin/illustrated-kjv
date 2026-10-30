@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,029 question groups and 10,508 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,057 question groups and 10,619 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 876 remain partially reviewed, 419 await passage/supplement review and 971 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 884 remain partially reviewed, 419 await passage/supplement review and 963 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -411,3 +411,6 @@ Pass065 adds62caption-reviewed Arnold answer links and22new question groups from
 
 
 Pass066 adds39caption-reviewed Arnold answer links and14new question groups from three saved topical sources. Presenter evidence uses two named introductions and one program closing. Two other candidate recordings repeat reserved canonical Q&A and add no answers; reservations and earlier registry arrays are preserved. Twenty-two held ranges include uncertain tribe identification, medical claims and the truncated end of Elect. The uploaded016-017(1)archive exactly matches the previously imported016-017archive and adds no transcripts or topical links. All2286saved sources remain unchanged. FivePython tests and both navigation suites pass; no new full-section or independent audio certification.
+
+
+Pass067 adds111caption-reviewed Arnold answer links and28new question groups from eight saved topical recordings. Existing question groups receive83additional source-linked answers; final semantic checks merge three initially proposed questions into older groups. Eight named program introductions support presenter attribution. Forty-three held ranges preserve uncertainty, omitted answers and unsupported asides privately. Existing transcript bytes, answers, review prefixes, aliases and external reservations remain unchanged. Complete caption review remains20recordings;884are partial,1382have no accepted Q&A review. No independent audio or new whole-section certificate is claimed.
