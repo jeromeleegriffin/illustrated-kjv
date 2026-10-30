@@ -1,0 +1,53 @@
+{
+  "batch": "local066-topical-listener-QA",
+  "status": "reviewed_saved_pending_publication",
+  "approved_linked_answers": 39,
+  "new_question_groups": 14,
+  "total_question_groups": 6029,
+  "total_linked_answers": 10508,
+  "distinct_question_recording_pairs": 10461,
+  "recordings_with_approved_answers": 3,
+  "caption_teacher_confirmations": 3,
+  "held_passages": 22,
+  "full_sections_certified": 0,
+  "audio_verified": false,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 876,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 971,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 10461
+  },
+  "title_clarifications": [
+    {
+      "question_id": "local032-eipH8GKGQrM-5",
+      "previous_question": "How did Dennis define Gentiles in response to a listener’s question?",
+      "question": "How do the Murrays define Gentiles?",
+      "reason": "Teacher-neutral wording permits separately attributed Arnold and Dennis variants without changing the older answers."
+    }
+  ],
+  "source_specific_differences": [
+    {
+      "question_id": "local066-pZ7_EBma3qU-0",
+      "difference": "This source affirms continuing feelings and possible help for relatives across the gulf. Older regret-heaven answer expresses an opinion about happiness rather than regret. Preserve both qualified source statements."
+    },
+    {
+      "question_id": "local058-KoQCg-WB2Ps-81",
+      "difference": "Dan/idolatry/restoration explanation is grouped with earlier Dan answers. This recording uncertainly names Benjamin as another omitted tribe; that erroneous or uncertain aside remains held rather than silently substituted."
+    }
+  ],
+  "source_transcripts_unchanged": true,
+  "external_assignments_unchanged": true,
+  "topical_catalog_links": 1549,
+  "topical_saved_caption_recordings": 991,
+  "private_corpus_total": 2286,
+  "prepared_recap_questions_counted": 0,
+  "duplicate_screen_other_sources": 2282,
+  "duplicate_attachment_new_transcripts": 0,
+  "pending_without_accepted_qa_review": 1390,
+  "recordings_with_review_work_remaining": 2266
+}

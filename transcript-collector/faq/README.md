@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,015 question groups and 10,469 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 6,029 question groups and 10,508 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 873 remain partially reviewed, 419 await passage/supplement review and 974 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 876 remain partially reviewed, 419 await passage/supplement review and 971 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -408,3 +408,6 @@ Live-search verification consolidated two equivalent questions (Luke14 family la
 
 
 Pass065 adds62caption-reviewed Arnold answer links and22new question groups from four saved topical recordings. Presenter confirmation uses three named introductions and one named program closing. A Q&A section shared by rGZ2yLYl8ws and rtuYAUa_KRo counts only under rGZ2yLYl8ws; their earlier lectures differ and no whole-recording alias is created. Seven broader/teacher-neutral titles preserve previous wording and source-specific answers. Thirty-five held ranges, tentative calendar parallels and differing prayer terminology retain qualifications. All2286saved transcripts are unchanged. FivePython tests and both navigation suites pass; full-section and independent audio certifications are not claimed.
+
+
+Pass066 adds39caption-reviewed Arnold answer links and14new question groups from three saved topical sources. Presenter evidence uses two named introductions and one program closing. Two other candidate recordings repeat reserved canonical Q&A and add no answers; reservations and earlier registry arrays are preserved. Twenty-two held ranges include uncertain tribe identification, medical claims and the truncated end of Elect. The uploaded016-017(1)archive exactly matches the previously imported016-017archive and adds no transcripts or topical links. All2286saved sources remain unchanged. FivePython tests and both navigation suites pass; no new full-section or independent audio certification.
