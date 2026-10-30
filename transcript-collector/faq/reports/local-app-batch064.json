@@ -2,8 +2,8 @@
   "batch": "local064-topical-listener-QA",
   "status": "reviewed_saved_pending_publication",
   "approved_linked_answers": 27,
-  "new_question_groups": 11,
-  "total_question_groups": 5995,
+  "new_question_groups": 9,
+  "total_question_groups": 5993,
   "total_linked_answers": 10407,
   "distinct_question_recording_pairs": 10360,
   "recordings_with_approved_answers": 3,
@@ -22,7 +22,14 @@
     "source_changed": 0,
     "question_occurrences": 10360
   },
-  "title_clarifications": [],
+  "title_clarifications": [
+    {
+      "question_id": "local047-mSKUpqg4TeY-3",
+      "previous_question": "Why did Dennis say a free newsletter might stop arriving?",
+      "question": "Why might a free Shepherd’s Chapel newsletter stop arriving?",
+      "reason": "Teacher-neutral title groups equivalent Arnold and Dennis explanations of the recorded six-month inactive-address policy."
+    }
+  ],
   "source_specific_differences": [
     {
       "question_id": "local045-bVXutLuSG5A-3",

@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,995 question groups and 10,407 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,993 question groups and 10,407 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
 All 2,286 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 869 remain partially reviewed, 419 await passage/supplement review and 978 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
@@ -402,4 +402,6 @@ Preserves all 2,086 source transcripts, including the 395 cumulative012–015 im
 Pass063 adds24caption-reviewed Arnold answer links and10new question groups from two saved topical recordings. Source-specific differences retain the INRI expansion and Nicolaitan interpretations; personal visitation comments are distinguished from direct biblical documentation. Fifteen held passages retain private original cues. A third topical Q&A is held for substantial repetition; Power lecture prompts are not counted. All2286saved sources remain unchanged. FivePython tests and both navigation suites pass. Independent audio review remains pending.
 
 
-Pass064 adds27caption-reviewed Arnold answer links and11new question groups from three saved topical recordings. Two source exports reuse the same named listener Q&A; only Eacko6EAhNw contributes those answers, while c1oA2YCpm2g is held from duplicate counting for that section. No wholelecture alias is inferred. Seventeen held ranges retain private cues. Baptism wording and witness lead-time estimates remain source-specific. All2286saved sources and earlier registry arrays are preserved. FivePython tests and both navigation suites pass; independent audio verification remains pending.
+Pass064 adds27caption-reviewed Arnold answer links and9new question groups from three saved topical recordings. Two source exports reuse the same named listener Q&A; only Eacko6EAhNw contributes those answers, while c1oA2YCpm2g is held from duplicate counting for that section. No wholelecture alias is inferred. Seventeen held ranges retain private cues. Baptism wording and witness lead-time estimates remain source-specific. All2286saved sources and earlier registry arrays are preserved. FivePython tests and both navigation suites pass; independent audio verification remains pending.
+
+Live-search verification consolidated two equivalent questions (Luke14 family language and the historical newsletter policy) into existing groups. All27new answer links remain; the batch adds9question groups.
