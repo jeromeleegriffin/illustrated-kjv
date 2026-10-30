@@ -437,3 +437,6 @@ Pass072 reconciles all172saved draft core answers from12Arnold recordings, addin
 Final semantic cross-check merges six proposed groups into existing ones, retaining all172links. Individual versus group testimony answers remain separately attributed without forced reconciliation. Current6220groups11076links11029distinctpairs.
 
 Pass073 adds13caption-reviewed answers and3groups from Capital Punishment-Part1. Source remains partial/audio pending.31drafts remain unapproved:22QArepeat reconciliation,9reserved-overlapquarantine. No new whole-lecture aliases.
+
+
+Batch074 adds40caption-reviewed Arnold Murray answer links and13new question groups from five saved recordings. Totals:6,236groups11,129links11,082distinctquestion-recordingpairs.925recordingspartial20completecaption-QAreviews;1,341withoutacceptedQAreview. Older pending drafts were deferred at the owner’s request. Full captions and exact evidence remain private; audio remains unverified. Only completed listener replies were accepted; edited or unclear ranges remain partial.
