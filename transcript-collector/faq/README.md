@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 5,965 question groups and 10,319 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
+Current approved registry: 5,967 question groups and 10,331 linked answer occurrences. Frequencies are lower bounds from reviewed passages, counted once per question per underlying recording group.
 
-All 1,691 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 860 remain partially reviewed, 419 await passage/supplement review and 392 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
+All 1,691 private exports have been scanned for candidates. Twenty recordings have complete caption Q&A reviews, 862 remain partially reviewed, 419 await passage/supplement review and 390 topical exports await teacher confirmation. Scanning never approves answers. Caption review is not independent audio verification.
 
 ## Rebuild
 
@@ -376,4 +376,14 @@ Five Python tests and both existing navigation suites pass. All prior answers an
 ## Local batch 060
 
 Adds 20 caption-reviewed Arnold Murray answer links and 10 question groups from listener questions in Rapture Theory Part 2 (xj6Bzv3XNDo) and Satan’s Downfall Part 1 (YfjjQgiKdX0). Named program introductions bind presenter confirmation to original caption hashes. Fifteen unresolved or historical passages remain held; neither Q&A section is certified complete and audio verification remains pending. Original transcripts, earlier answer variants, external reservations, page behavior and unrelated release pins are preserved. Five titles are neutralized for distinctly attributed Arnold and Dennis variants, retaining prior titles. Duplicate passage screening against 1,689 other saved sources found no matching Q&A section. Five Python tests, both navigation suites, preservation, source anchors and frequency ranking checks pass. Totals: 5,965 question groups, 10,319 linked answers and 10,272 distinct question-recording pairs.
+
+
+
+## Local batch 061 and saved topical list audit
+
+Adds 12 caption-reviewed Arnold Murray answer links and two question groups from Yw9HqEl0Mbg, PcRagKXAERM and cUsw4xZbS40. The latter two have hash-bound captioned program-outro presenter evidence. Fourteen passage holds retain missing questions, incomplete subquestions and uncertain details. Full Q&A completion and audio verification remain unclaimed.
+
+Repeated Q&A sections were directly compared across alternate uploads. Six additional answers use canonical Yw9HqEl0Mbg; its existing cremation answer is not reimported from Current Events 2009. The same section in awNUDtVTazA is not a new occurrence. Search the Scriptures and Confirmed Before share four listener replies, counted only through PcRagKXAERM. Called to the Cloth reuses the already reviewed adgs1USshO0 God-forms and Peter/Satan replies, so neither is added again. Different preceding lectures are not declared identical.
+
+The saved consolidated and expansion topical lists were reconciled against the 1,549-link catalog. All eligible entries were already present; three uncertain or chapter-style candidates remain held. No new topical links, downloads or source recollection are claimed. Original captions, prior records and Grok assignments are preserved. Five Python tests, both navigation suites and source, preservation and ranking checks pass. Totals: 5,967 question groups, 10,331 linked answers and 10,284 distinct question-recording pairs.
 
