@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T04:59:01.903653+00:00",
+  "updated": "2026-10-31T06:50:04.075740+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -147285,7 +147285,7 @@
     },
     {
       "video_id": "5smBuumFaVs",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Enticed or Persuaded",
       "kind": "topical",
@@ -147294,12 +147294,130 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 9,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local086-5smBuumFaVs-1",
+        "local086-5smBuumFaVs-2",
+        "local086-5smBuumFaVs-3",
+        "local086-5smBuumFaVs-4",
+        "family-boundary-scripture",
+        "lazarus-second-death",
+        "local086-5smBuumFaVs-7",
+        "angels-gender-age"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local086-5smBuumFaVs-1",
+          "start_seconds": 2682.14,
+          "end_seconds": 2729.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-5smBuumFaVs-2",
+          "start_seconds": 2729.089,
+          "end_seconds": 2857.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-5smBuumFaVs-3",
+          "start_seconds": 2853.78,
+          "end_seconds": 2932.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-5smBuumFaVs-4",
+          "start_seconds": 3016.25,
+          "end_seconds": 3205.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "family-boundary-scripture",
+          "start_seconds": 3202.44,
+          "end_seconds": 3270.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lazarus-second-death",
+          "start_seconds": 3267.599,
+          "end_seconds": 3326.329,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-5smBuumFaVs-7",
+          "start_seconds": 3320.66,
+          "end_seconds": 3353.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angels-gender-age",
+          "start_seconds": 3350.94,
+          "end_seconds": 3385.44,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "5smBuumFaVs",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "ae6c17ec4bb5a08d739647fa8d65d806c28a429351e4a3b295e849b4d134a35f",
+        "qa_start": 2611.74,
+        "qa_end": 3385.44,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2682.14,
+            "end": 2729.099
+          },
+          {
+            "start": 2729.089,
+            "end": 2857.38
+          },
+          {
+            "start": 2853.78,
+            "end": 2932.92
+          },
+          {
+            "start": 3016.25,
+            "end": 3205.26
+          },
+          {
+            "start": 3202.44,
+            "end": 3270.0
+          },
+          {
+            "start": 3267.599,
+            "end": 3326.329
+          },
+          {
+            "start": 3320.66,
+            "end": 3353.339
+          },
+          {
+            "start": 3350.94,
+            "end": 3385.44
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2611.74,
+            "end": 2685.599,
+            "reason": "Return begins mid-reply advocating capital punishment; missing listener question, exclude rather than reconstruct."
+          },
+          {
+            "start": 2929.38,
+            "end": 3019.319,
+            "reason": "Divorce letter is cut before an explicit question and reply shifts pronouns around repentance/remarriage. Hold precise intended scope and wording."
+          }
+        ],
+        "cursor_seconds": 2611.74,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved completed listener question/reply/context and named program outro read. Whole-corpus passage screen and manual semantic grouping; incomplete opening/ambiguous questions held."
+      },
+      "cursor_seconds": 2611.74
     },
     {
       "video_id": "5wFO8C4xbNY",
@@ -147931,7 +148049,7 @@
     },
     {
       "video_id": "7YDV1dBvz6U",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Able",
       "kind": "topical",
@@ -147940,12 +148058,136 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 22,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "millennium-relative-compassion",
+        "local055-8bYq9cZFM-A-197",
+        "local086-7YDV1dBvz6U-13",
+        "local086-7YDV1dBvz6U-14",
+        "dead-in-christ",
+        "local086-7YDV1dBvz6U-16",
+        "witnesses-shortened-time",
+        "spiritual-armor",
+        "voodoo-fear-arnold"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "millennium-relative-compassion",
+          "start_seconds": 2788.92,
+          "end_seconds": 2879.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-8bYq9cZFM-A-197",
+          "start_seconds": 2875.98,
+          "end_seconds": 2895.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-7YDV1dBvz6U-13",
+          "start_seconds": 2891.819,
+          "end_seconds": 2975.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-7YDV1dBvz6U-14",
+          "start_seconds": 2972.04,
+          "end_seconds": 3032.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dead-in-christ",
+          "start_seconds": 3032.339,
+          "end_seconds": 3083.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-7YDV1dBvz6U-16",
+          "start_seconds": 3080.819,
+          "end_seconds": 3192.059,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "witnesses-shortened-time",
+          "start_seconds": 3189.319,
+          "end_seconds": 3280.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spiritual-armor",
+          "start_seconds": 3276.78,
+          "end_seconds": 3325.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "voodoo-fear-arnold",
+          "start_seconds": 3321.66,
+          "end_seconds": 3373.859,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "7YDV1dBvz6U",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "c7d6ac2c36ae4b5179f70d89e2359d5bae86c1defa7e1b5f9c952fded50810c7",
+        "qa_start": 2718.9,
+        "qa_end": 3373.859,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2788.92,
+            "end": 2879.04
+          },
+          {
+            "start": 2875.98,
+            "end": 2895.3
+          },
+          {
+            "start": 2891.819,
+            "end": 2975.16
+          },
+          {
+            "start": 2972.04,
+            "end": 3032.339
+          },
+          {
+            "start": 3032.339,
+            "end": 3083.64
+          },
+          {
+            "start": 3080.819,
+            "end": 3192.059
+          },
+          {
+            "start": 3189.319,
+            "end": 3280.5
+          },
+          {
+            "start": 3276.78,
+            "end": 3325.44
+          },
+          {
+            "start": 3321.66,
+            "end": 3373.859
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2718.9,
+            "end": 2791.02,
+            "reason": "Opening tithe/love-offering reply lacks its listener question; hold rather than reconstruct."
+          }
+        ],
+        "cursor_seconds": 2718.9,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved completed listener question/reply/context and named program outro read. Whole-corpus passage screen and manual semantic grouping; incomplete opening/ambiguous questions held."
+      },
+      "cursor_seconds": 2718.9
     },
     {
       "video_id": "7bnLEhOs1fw",
@@ -148201,7 +148443,7 @@
     },
     {
       "video_id": "8b-jgrmcf94",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Philosophy of Men",
       "kind": "topical",
@@ -148210,12 +148452,103 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 12,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "souls-before-birth",
+        "local086-8b-jgrmcf94-21",
+        "baptism-dead",
+        "local086-8b-jgrmcf94-23",
+        "kenite-salvation",
+        "local032-gqT35mi2WBQ-8"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "souls-before-birth",
+          "start_seconds": 2913.0,
+          "end_seconds": 3009.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-8b-jgrmcf94-21",
+          "start_seconds": 3005.24,
+          "end_seconds": 3076.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "baptism-dead",
+          "start_seconds": 3074.099,
+          "end_seconds": 3193.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local086-8b-jgrmcf94-23",
+          "start_seconds": 3191.76,
+          "end_seconds": 3238.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "kenite-salvation",
+          "start_seconds": 3235.04,
+          "end_seconds": 3293.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-gqT35mi2WBQ-8",
+          "start_seconds": 3291.359,
+          "end_seconds": 3379.5,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "8b-jgrmcf94",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "6b81ea666ef12df60d5b93923433347beb67e18df160541ab5a905ba37bfe26b",
+        "qa_start": 2807.3,
+        "qa_end": 3379.5,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2913.0,
+            "end": 3009.18
+          },
+          {
+            "start": 3005.24,
+            "end": 3076.44
+          },
+          {
+            "start": 3074.099,
+            "end": 3193.74
+          },
+          {
+            "start": 3191.76,
+            "end": 3238.859
+          },
+          {
+            "start": 3235.04,
+            "end": 3293.88
+          },
+          {
+            "start": 3291.359,
+            "end": 3379.5
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2807.3,
+            "end": 2914.98,
+            "reason": "Opening reply about firmament, cavemen and Neanderthals lacks its listener question; unverified scientific claims not reconstructed into an approved answer."
+          }
+        ],
+        "cursor_seconds": 2807.3,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved completed listener question/reply/context and named program outro read. Whole-corpus passage screen and manual semantic grouping; incomplete opening/ambiguous questions held."
+      },
+      "cursor_seconds": 2807.3
     },
     {
       "video_id": "8i25IZogBwo",
@@ -178585,13 +178918,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 955,
+    "partially_reviewed": 958,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 892,
+    "teacher_pending": 889,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11423
+    "question_occurrences": 11446
   }
 }
