@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T16:55:24.902682+00:00",
+  "updated": "2026-10-31T17:06:55.688795+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -160583,7 +160583,7 @@
     },
     {
       "video_id": "O0HmjlfBekM",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Current Events 2005",
       "kind": "topical",
@@ -160592,12 +160592,103 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "forgiveness",
+        "anointing-sick",
+        "local096-O0HmjlfBekM-3",
+        "local096-O0HmjlfBekM-4",
+        "call-no-man-father",
+        "hosea-israel-house-nation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3096.839,
+          "end_seconds": 3145.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "anointing-sick",
+          "start_seconds": 3140.78,
+          "end_seconds": 3160.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local096-O0HmjlfBekM-3",
+          "start_seconds": 3160.2,
+          "end_seconds": 3229.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local096-O0HmjlfBekM-4",
+          "start_seconds": 3229.16,
+          "end_seconds": 3258.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "call-no-man-father",
+          "start_seconds": 3289.339,
+          "end_seconds": 3317.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hosea-israel-house-nation",
+          "start_seconds": 3312.98,
+          "end_seconds": 3371.599,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "O0HmjlfBekM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "9aa61e687d744233b9e59b1e6350ce0f5d5a2716043b39d3b6a8f34b1e682a69",
+        "qa_start": 3088.319,
+        "qa_end": 3371.599,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3096.839,
+            "end": 3145.79
+          },
+          {
+            "start": 3140.78,
+            "end": 3160.2
+          },
+          {
+            "start": 3160.2,
+            "end": 3229.16
+          },
+          {
+            "start": 3229.16,
+            "end": 3258.96
+          },
+          {
+            "start": 3289.339,
+            "end": 3317.41
+          },
+          {
+            "start": 3312.98,
+            "end": 3371.599
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3088.319,
+            "end": 3096.839,
+            "reason": "Post-ad fallen-angels reply lacks actual listener question."
+          }
+        ],
+        "cursor_seconds": 3088.319,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. All three sections remain partial because exact post-ad question openings are missing; no audio verification."
+      },
+      "cursor_seconds": 3088.319
     },
     {
       "video_id": "O24EIanuBes",
@@ -160673,7 +160764,7 @@
     },
     {
       "video_id": "O9UW_nVmRko",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Lack of Knowledge",
       "kind": "topical",
@@ -160682,12 +160773,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 28,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "tongues-foreign-cloven",
+        "spirit-age-gender",
+        "circumcision-salvation",
+        "local068-NG8v6xYSOTQ-66",
+        "key-david-arnold",
+        "hebrews10-willful",
+        "rebaptism-understanding",
+        "local049-fIiQPWbmnUs-18",
+        "hell-blotted-existence",
+        "local024-family-arguments"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "tongues-foreign-cloven",
+          "start_seconds": 2502.119,
+          "end_seconds": 2626.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "spirit-age-gender",
+          "start_seconds": 2623.5,
+          "end_seconds": 2680.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "circumcision-salvation",
+          "start_seconds": 2697.8,
+          "end_seconds": 2743.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local068-NG8v6xYSOTQ-66",
+          "start_seconds": 2747.03,
+          "end_seconds": 2913.589,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "key-david-arnold",
+          "start_seconds": 2910.72,
+          "end_seconds": 2971.609,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hebrews10-willful",
+          "start_seconds": 2968.859,
+          "end_seconds": 3064.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebaptism-understanding",
+          "start_seconds": 3064.7,
+          "end_seconds": 3127.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-fIiQPWbmnUs-18",
+          "start_seconds": 3127.319,
+          "end_seconds": 3154.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-blotted-existence",
+          "start_seconds": 3152.22,
+          "end_seconds": 3235.73,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-family-arguments",
+          "start_seconds": 3232.98,
+          "end_seconds": 3374.099,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "O9UW_nVmRko",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "458ec548256fa181e78475d145ef124a46bba5f3980129f23f2da1155f970df0",
+        "qa_start": 2465.599,
+        "qa_end": 3374.099,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2502.119,
+            "end": 2626.2
+          },
+          {
+            "start": 2623.5,
+            "end": 2680.52
+          },
+          {
+            "start": 2697.8,
+            "end": 2743.21
+          },
+          {
+            "start": 2747.03,
+            "end": 2913.589
+          },
+          {
+            "start": 2910.72,
+            "end": 2971.609
+          },
+          {
+            "start": 2968.859,
+            "end": 3064.7
+          },
+          {
+            "start": 3064.7,
+            "end": 3127.319
+          },
+          {
+            "start": 3127.319,
+            "end": 3154.38
+          },
+          {
+            "start": 3152.22,
+            "end": 3235.73
+          },
+          {
+            "start": 3232.98,
+            "end": 3374.099
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2465.599,
+            "end": 2502.119,
+            "reason": "Post-ad weather/hailstone reply lacks listener question; no inferred scientific or prophecy question approved."
+          }
+        ],
+        "cursor_seconds": 2465.599,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. All three sections remain partial because exact post-ad question openings are missing; no audio verification."
+      },
+      "cursor_seconds": 2465.599
     },
     {
       "video_id": "OB0TpexoFmA",
@@ -162245,7 +162471,7 @@
     },
     {
       "video_id": "S_ePfBzSocQ",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Voice of God",
       "kind": "topical",
@@ -162254,12 +162480,64 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 10,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "cain-wife",
+        "home-anointing"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "cain-wife",
+          "start_seconds": 3289.49,
+          "end_seconds": 3306.72,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "home-anointing",
+          "start_seconds": 3325.26,
+          "end_seconds": 3379.38,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "S_ePfBzSocQ",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "7d77e0a15513c89e04dc77a5ed0b41dabc909905a2dfee71e50120629528f691",
+        "qa_start": 3196.13,
+        "qa_end": 3379.38,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3289.49,
+            "end": 3306.72
+          },
+          {
+            "start": 3325.26,
+            "end": 3379.38
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3196.13,
+            "end": 3289.49,
+            "reason": "Post-ad turn-other-cheek/forgiveness reply lacks actual listener question, even though the reply mentions a part of the question."
+          },
+          {
+            "start": 3306.72,
+            "end": 3325.26,
+            "reason": "Carol is named but the actual question is omitted; sin-of-ignorance reply is not an approved inferred question."
+          }
+        ],
+        "cursor_seconds": 3196.13,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. All three sections remain partial because exact post-ad question openings are missing; no audio verification."
+      },
+      "cursor_seconds": 3196.13
     },
     {
       "video_id": "Sfp89kBI7-w",
@@ -181921,13 +182199,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 983,
+    "partially_reviewed": 986,
     "fully_reviewed": 22,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 862,
+    "teacher_pending": 859,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11648
+    "question_occurrences": 11666
   }
 }
