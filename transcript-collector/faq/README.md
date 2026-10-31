@@ -508,3 +508,6 @@ Batch096: 18 caption-reviewed Arnold Murray answer links from three more saved p
 
 
 Batch097: 74 caption-reviewed Arnold Murray answer links from ten saved programs, 20 new question groups and 54 existing matches. Totals6402groups11787links11740distinctpairs. All ten contributing sections remain partial. Twelve saved sections were inspected; one additional section has conflicting speaker evidence and one inspected tail contains no listener Q&A. Twenty-nine held ranges or subsidiary scopes retain exact private anchors. 996partial22completecaptionQA1268withoutacceptedreview. Original source bytes preserved; audio verification pending.
+
+
+Batch098: 81 caption-reviewed Arnold Murray answer links from nine saved programs, 15 new question groups and 66 existing matches. Totals6417groups11868links11821distinctpairs. Fourteen saved sections were read, including two unconfirmed-speaker Q&A sections (13 held drafts), two lecture/prayer tails and one prior held section reread without new approval. All nine contributing sections remain partial, with23held ranges or subsidiary scopes. 1005partial22completecaptionQA1259withoutacceptedreview. Original source bytes and earlier holds preserved; audio verification pending.
