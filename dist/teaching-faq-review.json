@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T03:27:53.468566+00:00",
+  "updated": "2026-10-31T04:47:20.046959+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -145797,7 +145797,7 @@
     },
     {
       "video_id": "35uFqyfIIyk",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Servant of God",
       "kind": "topical",
@@ -145806,12 +145806,152 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 21,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local055-Volu2vOn9uU-154",
+        "local084-35uFqyfIIyk-2",
+        "local056-KoQCg-WB2Ps-138",
+        "local057-BSIyjETwPsg-199",
+        "local084-35uFqyfIIyk-5",
+        "local055-B5srgZRtVhw-439",
+        "discern-preacher-judge",
+        "local038-_J06NKGPFFs-10",
+        "local084-35uFqyfIIyk-9",
+        "forgiveness"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local055-Volu2vOn9uU-154",
+          "start_seconds": 2657.839,
+          "end_seconds": 2707.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local084-35uFqyfIIyk-2",
+          "start_seconds": 2707.859,
+          "end_seconds": 2764.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-KoQCg-WB2Ps-138",
+          "start_seconds": 2764.98,
+          "end_seconds": 2805.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-BSIyjETwPsg-199",
+          "start_seconds": 2805.2,
+          "end_seconds": 2885.16,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local084-35uFqyfIIyk-5",
+          "start_seconds": 2885.16,
+          "end_seconds": 2970.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-B5srgZRtVhw-439",
+          "start_seconds": 2970.24,
+          "end_seconds": 3051.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "discern-preacher-judge",
+          "start_seconds": 3051.24,
+          "end_seconds": 3127.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local038-_J06NKGPFFs-10",
+          "start_seconds": 3127.26,
+          "end_seconds": 3204.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local084-35uFqyfIIyk-9",
+          "start_seconds": 3204.18,
+          "end_seconds": 3292.859,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3292.859,
+          "end_seconds": 3344.339,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "35uFqyfIIyk",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "949976b022aaa6503ca617bf36f67e47e2553473ebd4ec451a604fa0cc3a512b",
+        "qa_start": 2612.579,
+        "qa_end": 3372.059,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2657.839,
+            "end": 2707.859
+          },
+          {
+            "start": 2707.859,
+            "end": 2764.98
+          },
+          {
+            "start": 2764.98,
+            "end": 2805.2
+          },
+          {
+            "start": 2805.2,
+            "end": 2885.16
+          },
+          {
+            "start": 2885.16,
+            "end": 2970.24
+          },
+          {
+            "start": 2970.24,
+            "end": 3051.24
+          },
+          {
+            "start": 3051.24,
+            "end": 3127.26
+          },
+          {
+            "start": 3127.26,
+            "end": 3204.18
+          },
+          {
+            "start": 3204.18,
+            "end": 3292.859
+          },
+          {
+            "start": 3292.859,
+            "end": 3344.339
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2612.579,
+            "end": 2657.839,
+            "reason": "Return after advertisement begins mid-reply about translations; missing question/opening, not reconstructed."
+          },
+          {
+            "start": 3344.339,
+            "end": 3372.059,
+            "reason": "One-wife-at-time-or-life question receives compressed annulment/repentance response then time expires; hold scope and exact wording rather than imply unrestricted remarriage."
+          }
+        ],
+        "cursor_seconds": 2612.579,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener question/reply/context and named program outro read; corpus passage-repeat screen and manual semantic grouping; opening and final replies held."
+      },
+      "cursor_seconds": 2612.579
     },
     {
       "video_id": "3Qo7iBSOBFM",
@@ -178143,13 +178283,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 952,
+    "partially_reviewed": 953,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 895,
+    "teacher_pending": 894,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11391
+    "question_occurrences": 11401
   }
 }

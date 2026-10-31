@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,310 question groups and 11,433 linked answers. Frequencies count each question once per underlying recording group.
+Current approved registry: 6,313 question groups and 11,448 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained:951 partial and20 complete caption-Q&A reviews;419 pending passage review and896 teacher-pending. Candidate scans do not approve answers. Audio verification remains pending.
+All 2,286 saved sources retained:953 partial and20 complete caption-Q&A reviews;419 pending passage review and894 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -462,3 +462,5 @@ Batch082 adds8caption-reviewed links and1question group from1Arnoldrecording. Re
 
 
 Batch083 resolves5caption-reviewedanswers fromoneArnoldrecording,allmatchedtoexistingquestions.6310groups11438links11391pairs;952partial20completecaptionQA1314withoutacceptedreview. Elevenreserved-overlapdraftsremainheld. Audio pending.
+
+Batch084 adds10caption-reviewedlinks and3newquestiongroups fromoneArnoldrecording. Two opening/final ranges remainheld,allsourcebytespreserved,audio pending. Skin-color and genetic assertions are attributed historical doctrines,notverifiedfacts.
