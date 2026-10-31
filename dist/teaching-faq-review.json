@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T08:42:00.508886+00:00",
+  "updated": "2026-10-31T10:43:54.023402+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -151383,7 +151383,7 @@
     },
     {
       "video_id": "Bg0ceAXJYJE",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Sharing",
       "kind": "topical",
@@ -151392,12 +151392,136 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 13,
       "scanned_at": "2026-10-30T05:45:19.625406+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local088-Bg0ceAXJYJE-5",
+        "smoking-forgiveness",
+        "local030-DvGjUMgQEC4-1",
+        "repeated-sin",
+        "local025-rapture-subject",
+        "matthew-joseph-genealogy",
+        "local056-UdKymHmhGlY-222",
+        "cremation",
+        "mark-hand"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local088-Bg0ceAXJYJE-5",
+          "start_seconds": 2391.839,
+          "end_seconds": 2507.64,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "smoking-forgiveness",
+          "start_seconds": 2511.96,
+          "end_seconds": 2591.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local030-DvGjUMgQEC4-1",
+          "start_seconds": 2588.28,
+          "end_seconds": 2653.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "repeated-sin",
+          "start_seconds": 2653.2,
+          "end_seconds": 2756.41,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local025-rapture-subject",
+          "start_seconds": 2753.46,
+          "end_seconds": 2852.42,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "matthew-joseph-genealogy",
+          "start_seconds": 2852.42,
+          "end_seconds": 2991.89,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-UdKymHmhGlY-222",
+          "start_seconds": 2995.609,
+          "end_seconds": 3058.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 3054.599,
+          "end_seconds": 3268.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "mark-hand",
+          "start_seconds": 3268.02,
+          "end_seconds": 3385.619,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Bg0ceAXJYJE",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "72492904cca47dd5645a177a2b7fbfc9e5cc0488ba75c10029ff56f743cf033b",
+        "qa_start": 2314.56,
+        "qa_end": 3385.619,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2391.839,
+            "end": 2507.64
+          },
+          {
+            "start": 2511.96,
+            "end": 2591.63
+          },
+          {
+            "start": 2588.28,
+            "end": 2653.2
+          },
+          {
+            "start": 2653.2,
+            "end": 2756.41
+          },
+          {
+            "start": 2753.46,
+            "end": 2852.42
+          },
+          {
+            "start": 2852.42,
+            "end": 2991.89
+          },
+          {
+            "start": 2995.609,
+            "end": 3058.68
+          },
+          {
+            "start": 3054.599,
+            "end": 3268.02
+          },
+          {
+            "start": 3268.02,
+            "end": 3385.619
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2314.56,
+            "end": 2391.839,
+            "reason": "Post-advertisement migration/ancestry reply lacks original listener question."
+          }
+        ],
+        "cursor_seconds": 2314.56,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Reread9actual listener questions/replies and surrounding context; named program outro, original VTT hash, corpus duplicate screen and manual grouping; opening reply lacks listener question, so partial."
+      },
+      "cursor_seconds": 2314.56
     },
     {
       "video_id": "BrCdKVNHkeo",
@@ -179646,13 +179770,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 963,
+    "partially_reviewed": 964,
     "fully_reviewed": 21,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 883,
+    "teacher_pending": 882,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11497
+    "question_occurrences": 11506
   }
 }
