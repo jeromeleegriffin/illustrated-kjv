@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T17:06:55.688795+00:00",
+  "updated": "2026-10-31T17:31:25.426342+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -162577,7 +162577,7 @@
     },
     {
       "video_id": "SnyYaUjCl9Q",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Useful to God",
       "kind": "topical",
@@ -162586,12 +162586,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 4,
       "scanned_at": "2026-10-30T05:45:19.625406+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local040-yleRqfgHlMQ-7",
+        "local097-SnyYaUjCl9Q-2",
+        "local014-rapture-believer-death",
+        "local012-grave-body-return"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local040-yleRqfgHlMQ-7",
+          "start_seconds": 3180.829,
+          "end_seconds": 3207.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-SnyYaUjCl9Q-2",
+          "start_seconds": 3204.96,
+          "end_seconds": 3250.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-rapture-believer-death",
+          "start_seconds": 3250.8,
+          "end_seconds": 3305.69,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local012-grave-body-return",
+          "start_seconds": 3303.18,
+          "end_seconds": 3341.69,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "SnyYaUjCl9Q",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "3f874c307edbc5ba54658858be934f9eae7fc38251633046c2017fd5972f60b8",
+        "qa_start": 3180.829,
+        "qa_end": 3367.67,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3180.829,
+            "end": 3207.119
+          },
+          {
+            "start": 3204.96,
+            "end": 3250.8
+          },
+          {
+            "start": 3250.8,
+            "end": 3305.69
+          },
+          {
+            "start": 3303.18,
+            "end": 3341.69
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3339.599,
+            "end": 3367.67,
+            "reason": "Requested Scripture location for helping across gulf not supplied; fairness/Millennium reply does not document requested passage."
+          }
+        ],
+        "cursor_seconds": 3339.599,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 3339.599
     },
     {
       "video_id": "SsYkKlnRI2w",
@@ -162886,7 +162955,7 @@
     },
     {
       "video_id": "T1WLck2Jnig",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Slumber",
       "kind": "topical",
@@ -162895,12 +162964,86 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 14,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "demon-evil-spirit-equivalence",
+        "lake-fire-purpose",
+        "local097-T1WLck2Jnig-7",
+        "local051-inp3ASY7TDA-2"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "demon-evil-spirit-equivalence",
+          "start_seconds": 2941.74,
+          "end_seconds": 3060.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lake-fire-purpose",
+          "start_seconds": 3057.54,
+          "end_seconds": 3214.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-T1WLck2Jnig-7",
+          "start_seconds": 3208.92,
+          "end_seconds": 3297.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local051-inp3ASY7TDA-2",
+          "start_seconds": 3294.72,
+          "end_seconds": 3350.28,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "T1WLck2Jnig",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "9887fb613ca7fbf968d620d3d3a4d7170c2ed152a4d64a49c5ad631e1ff37c79",
+        "qa_start": 2868.619,
+        "qa_end": 3395.099,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2941.74,
+            "end": 3060.829
+          },
+          {
+            "start": 3057.54,
+            "end": 3214.19
+          },
+          {
+            "start": 3208.92,
+            "end": 3297.829
+          },
+          {
+            "start": 3294.72,
+            "end": 3350.28
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2868.619,
+            "end": 2941.74,
+            "reason": "Post-ad evil-spirit reply lacks actual question."
+          },
+          {
+            "start": 3346.8,
+            "end": 3395.099,
+            "reason": "All Israel saved question has garbled qualifications and natural/spiritual scope; not approved as a salvation guarantee."
+          }
+        ],
+        "cursor_seconds": 2868.619,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 2868.619
     },
     {
       "video_id": "T50heLHPouE",
@@ -164051,7 +164194,7 @@
     },
     {
       "video_id": "VrHtTua03XU",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Light Brings Sight",
       "kind": "topical",
@@ -164060,12 +164203,119 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 14,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local026-bereavement",
+        "drug-relapse-spiritual-strength",
+        "local026-elect-transport",
+        "millennium-bodies-immortality",
+        "local049-gmSy2GGRiTY-3",
+        "guardian-angel",
+        "local050-iML2LppMqyY-8"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local026-bereavement",
+          "start_seconds": 2630.099,
+          "end_seconds": 2731.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "drug-relapse-spiritual-strength",
+          "start_seconds": 2731.68,
+          "end_seconds": 2820.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-elect-transport",
+          "start_seconds": 2818.68,
+          "end_seconds": 2954.93,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-bodies-immortality",
+          "start_seconds": 2951.3,
+          "end_seconds": 3083.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-gmSy2GGRiTY-3",
+          "start_seconds": 3083.3,
+          "end_seconds": 3214.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "guardian-angel",
+          "start_seconds": 3214.38,
+          "end_seconds": 3297.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local050-iML2LppMqyY-8",
+          "start_seconds": 3308.059,
+          "end_seconds": 3387.66,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "VrHtTua03XU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "4b52e4933e0626ef22ef0a7e0623b788e8f652c13c8e5732b748d79813720ee4",
+        "qa_start": 2630.099,
+        "qa_end": 3387.66,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2630.099,
+            "end": 2731.68
+          },
+          {
+            "start": 2731.68,
+            "end": 2820.66
+          },
+          {
+            "start": 2818.68,
+            "end": 2954.93
+          },
+          {
+            "start": 2951.3,
+            "end": 3083.3
+          },
+          {
+            "start": 3083.3,
+            "end": 3214.38
+          },
+          {
+            "start": 3214.38,
+            "end": 3297.839
+          },
+          {
+            "start": 3308.059,
+            "end": 3387.66
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3214.38,
+            "end": 3297.839,
+            "reason": "Subsidiary whether departed parents observe everything is not answered; approved guardian/grief scope only."
+          },
+          {
+            "start": 3295.319,
+            "end": 3308.059,
+            "reason": "Husband/wife difficulty lacks a complete bounded question; no inferred separate Q&A."
+          }
+        ],
+        "cursor_seconds": 3214.38,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 3214.38
     },
     {
       "video_id": "Vt3nJCb3hWA",
@@ -164323,7 +164573,7 @@
     },
     {
       "video_id": "Vzbk_7QnouU",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Succoth",
       "kind": "topical",
@@ -164332,12 +164582,108 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 9,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "elect-first-age",
+        "local055-kin-remembered",
+        "sea-dead-revelation20",
+        "local080-cEwsDnPQXzs-1",
+        "local097-Vzbk_7QnouU-20",
+        "benefits-antichrist-worship"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "elect-first-age",
+          "start_seconds": 2855.64,
+          "end_seconds": 2968.37,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local055-kin-remembered",
+          "start_seconds": 2963.359,
+          "end_seconds": 3046.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "sea-dead-revelation20",
+          "start_seconds": 3046.8,
+          "end_seconds": 3148.37,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local080-cEwsDnPQXzs-1",
+          "start_seconds": 3145.079,
+          "end_seconds": 3227.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-Vzbk_7QnouU-20",
+          "start_seconds": 3227.04,
+          "end_seconds": 3304.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "benefits-antichrist-worship",
+          "start_seconds": 3349.2,
+          "end_seconds": 3391.079,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Vzbk_7QnouU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "f5619465b2cf08fb1fb881f42509a408943811d0ba134414a01bb1cffd22cd8a",
+        "qa_start": 2822.76,
+        "qa_end": 3391.079,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2855.64,
+            "end": 2968.37
+          },
+          {
+            "start": 2963.359,
+            "end": 3046.8
+          },
+          {
+            "start": 3046.8,
+            "end": 3148.37
+          },
+          {
+            "start": 3145.079,
+            "end": 3227.04
+          },
+          {
+            "start": 3227.04,
+            "end": 3304.44
+          },
+          {
+            "start": 3349.2,
+            "end": 3391.079
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2822.76,
+            "end": 2855.64,
+            "reason": "Post-ad Enoch reply lacks question."
+          },
+          {
+            "start": 3349.2,
+            "end": 3391.079,
+            "reason": "No explicit ruling on accepting future Social Security benefits; approved reassurance only."
+          }
+        ],
+        "cursor_seconds": 2822.76,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 2822.76
     },
     {
       "video_id": "W-WuYixRnrM",
@@ -164853,7 +165199,7 @@
     },
     {
       "video_id": "WpRY9Pz2blg",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Christ Our Foundation",
       "kind": "topical",
@@ -164862,12 +165208,174 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 14,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local097-WpRY9Pz2blg-22",
+        "angel-messenger-body",
+        "hell-blotted-existence",
+        "paradise-gulf",
+        "local044-yUh5w215PQc-1",
+        "local025-rapture-subject",
+        "local026-tongues-required",
+        "local057-IFeJETlg5uU-401",
+        "local056-GU07AhzNUbw-150",
+        "local097-WpRY9Pz2blg-31",
+        "local097-WpRY9Pz2blg-32",
+        "local020-millennium-help-family"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local097-WpRY9Pz2blg-22",
+          "start_seconds": 2586.18,
+          "end_seconds": 2662.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "angel-messenger-body",
+          "start_seconds": 2699.579,
+          "end_seconds": 2736.9,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-blotted-existence",
+          "start_seconds": 2734.859,
+          "end_seconds": 2825.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "paradise-gulf",
+          "start_seconds": 2822.88,
+          "end_seconds": 2850.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local044-yUh5w215PQc-1",
+          "start_seconds": 2850.0,
+          "end_seconds": 2891.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local025-rapture-subject",
+          "start_seconds": 2889.599,
+          "end_seconds": 2953.56,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local026-tongues-required",
+          "start_seconds": 2950.68,
+          "end_seconds": 3054.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-IFeJETlg5uU-401",
+          "start_seconds": 3052.319,
+          "end_seconds": 3073.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-GU07AhzNUbw-150",
+          "start_seconds": 3073.68,
+          "end_seconds": 3160.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-WpRY9Pz2blg-31",
+          "start_seconds": 3160.38,
+          "end_seconds": 3225.54,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-WpRY9Pz2blg-32",
+          "start_seconds": 3225.54,
+          "end_seconds": 3312.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local020-millennium-help-family",
+          "start_seconds": 3312.359,
+          "end_seconds": 3364.02,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "WpRY9Pz2blg",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "16c4463096822841f6c1a14210781b170b2bcfc705338eda95c55fd47faf4884",
+        "qa_start": 2554.94,
+        "qa_end": 3364.02,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2586.18,
+            "end": 2662.26
+          },
+          {
+            "start": 2699.579,
+            "end": 2736.9
+          },
+          {
+            "start": 2734.859,
+            "end": 2825.7
+          },
+          {
+            "start": 2822.88,
+            "end": 2850.0
+          },
+          {
+            "start": 2850.0,
+            "end": 2891.76
+          },
+          {
+            "start": 2889.599,
+            "end": 2953.56
+          },
+          {
+            "start": 2950.68,
+            "end": 3054.48
+          },
+          {
+            "start": 3052.319,
+            "end": 3073.68
+          },
+          {
+            "start": 3073.68,
+            "end": 3160.38
+          },
+          {
+            "start": 3160.38,
+            "end": 3225.54
+          },
+          {
+            "start": 3225.54,
+            "end": 3312.359
+          },
+          {
+            "start": 3312.359,
+            "end": 3364.02
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2554.94,
+            "end": 2586.18,
+            "reason": "Post-ad church/elect reply lacks question."
+          },
+          {
+            "start": 2662.26,
+            "end": 2699.579,
+            "reason": "Born again/election connection not answered; reply instead corrects born from above wording; only subsequent angel subquestion approved."
+          }
+        ],
+        "cursor_seconds": 2554.94,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 2554.94
     },
     {
       "video_id": "Ww0fFiMg6EM",
@@ -165261,7 +165769,7 @@
     },
     {
       "video_id": "XU99D4tJ0v4",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Brotherly Love",
       "kind": "topical",
@@ -165270,12 +165778,152 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 14,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local097-XU99D4tJ0v4-34",
+        "millennium-seven-days",
+        "local045-cmCE3VN7b8s-7",
+        "local097-XU99D4tJ0v4-37",
+        "strongs-greens-comparison",
+        "local022-deathbed-robes",
+        "forgiveness",
+        "local097-XU99D4tJ0v4-41",
+        "local097-XU99D4tJ0v4-42",
+        "local028-eUKTiANZhlY-10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local097-XU99D4tJ0v4-34",
+          "start_seconds": 2703.18,
+          "end_seconds": 2725.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "millennium-seven-days",
+          "start_seconds": 2722.98,
+          "end_seconds": 2793.619,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-cmCE3VN7b8s-7",
+          "start_seconds": 2793.619,
+          "end_seconds": 2864.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-XU99D4tJ0v4-37",
+          "start_seconds": 2864.94,
+          "end_seconds": 2892.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "strongs-greens-comparison",
+          "start_seconds": 2892.68,
+          "end_seconds": 2978.22,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-deathbed-robes",
+          "start_seconds": 2978.22,
+          "end_seconds": 3123.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3123.119,
+          "end_seconds": 3196.619,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-XU99D4tJ0v4-41",
+          "start_seconds": 3193.92,
+          "end_seconds": 3327.18,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-XU99D4tJ0v4-42",
+          "start_seconds": 3325.98,
+          "end_seconds": 3363.0,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local028-eUKTiANZhlY-10",
+          "start_seconds": 3363.0,
+          "end_seconds": 3373.079,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "XU99D4tJ0v4",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "61b05b75fba502376db2d733631f0ebd87c1974d1206c80f721bb6a45bc7f50f",
+        "qa_start": 2691.48,
+        "qa_end": 3373.079,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2703.18,
+            "end": 2725.98
+          },
+          {
+            "start": 2722.98,
+            "end": 2793.619
+          },
+          {
+            "start": 2793.619,
+            "end": 2864.94
+          },
+          {
+            "start": 2864.94,
+            "end": 2892.68
+          },
+          {
+            "start": 2892.68,
+            "end": 2978.22
+          },
+          {
+            "start": 2978.22,
+            "end": 3123.119
+          },
+          {
+            "start": 3123.119,
+            "end": 3196.619
+          },
+          {
+            "start": 3193.92,
+            "end": 3327.18
+          },
+          {
+            "start": 3325.98,
+            "end": 3363.0
+          },
+          {
+            "start": 3363.0,
+            "end": 3373.079
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2691.48,
+            "end": 2703.18,
+            "reason": "Post-ad slaughter/health-law reply lacks question."
+          },
+          {
+            "start": 3325.98,
+            "end": 3363.0,
+            "reason": "Full creation distinction not explained; approved scope only the named study resource."
+          }
+        ],
+        "cursor_seconds": 2691.48,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 2691.48
     },
     {
       "video_id": "XUErqk1JPgc",
@@ -165297,7 +165945,7 @@
     },
     {
       "video_id": "XZt8tE5APh8",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Sound Mind",
       "kind": "topical",
@@ -165306,12 +165954,64 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 239,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "assurance-forgiveness",
+        "ark-peoples"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "assurance-forgiveness",
+          "start_seconds": 3228.68,
+          "end_seconds": 3320.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ark-peoples",
+          "start_seconds": 3327.92,
+          "end_seconds": 3359.04,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "XZt8tE5APh8",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "fe7a36f89011c41d01fac847b8c83e2a6b38aa030976ca8111ce0bf93c48d559",
+        "qa_start": 3146.56,
+        "qa_end": 3397.36,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3228.68,
+            "end": 3320.28
+          },
+          {
+            "start": 3327.92,
+            "end": 3359.04
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3146.56,
+            "end": 3228.68,
+            "reason": "Post-ad Mary genealogy reply lacks actual question."
+          },
+          {
+            "start": 3359.04,
+            "end": 3397.36,
+            "reason": "Millennium relatives reply stops midqualification at time limit; incomplete."
+          }
+        ],
+        "cursor_seconds": 3146.56,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 3146.56
     },
     {
       "video_id": "X_hlDHkPxtc",
@@ -165405,7 +166105,7 @@
     },
     {
       "video_id": "Y4u7MJDVHPM",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Faith and Works",
       "kind": "topical",
@@ -165414,12 +166114,86 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 17,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local023-us-world-system",
+        "local097-Y4u7MJDVHPM-47",
+        "recognize-family",
+        "souls-before-birth"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local023-us-world-system",
+          "start_seconds": 3061.38,
+          "end_seconds": 3149.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-Y4u7MJDVHPM-47",
+          "start_seconds": 3145.559,
+          "end_seconds": 3212.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "recognize-family",
+          "start_seconds": 3212.7,
+          "end_seconds": 3262.319,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "souls-before-birth",
+          "start_seconds": 3262.319,
+          "end_seconds": 3375.839,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Y4u7MJDVHPM",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "88ac43a074b0c210297b549d9513d74d750c1e36dd6d1c2c796ecefa3763eadf",
+        "qa_start": 2977.49,
+        "qa_end": 3375.839,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3061.38,
+            "end": 3149.099
+          },
+          {
+            "start": 3145.559,
+            "end": 3212.7
+          },
+          {
+            "start": 3212.7,
+            "end": 3262.319
+          },
+          {
+            "start": 3262.319,
+            "end": 3375.839
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2977.49,
+            "end": 3061.38,
+            "reason": "Post-ad healing/hype/anointing reply lacks actual question."
+          },
+          {
+            "start": 3212.7,
+            "end": 3262.319,
+            "reason": "Whether late husband observes current activities is not established; approved recognition only."
+          }
+        ],
+        "cursor_seconds": 2977.49,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 2977.49
     },
     {
       "video_id": "YFOVgLt0EHE",
@@ -166454,7 +167228,7 @@
     },
     {
       "video_id": "ZOlPJVm2tdc",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Desire for the Word",
       "kind": "topical",
@@ -166463,12 +167237,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 15,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local055-VbN8LLQSLX8-500",
+        "local071-m7G2B7otVFI-110",
+        "local097-ZOlPJVm2tdc-52",
+        "local014-old-oil"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local055-VbN8LLQSLX8-500",
+          "start_seconds": 3159.0,
+          "end_seconds": 3230.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local071-m7G2B7otVFI-110",
+          "start_seconds": 3227.46,
+          "end_seconds": 3260.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-ZOlPJVm2tdc-52",
+          "start_seconds": 3260.339,
+          "end_seconds": 3338.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-old-oil",
+          "start_seconds": 3336.119,
+          "end_seconds": 3364.859,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "ZOlPJVm2tdc",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "46ddde4dd60e0f4311d96826d20e80451a17f10ab6a2678dd617fbc8559c11c9",
+        "qa_start": 3121.43,
+        "qa_end": 3364.859,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3159.0,
+            "end": 3230.099
+          },
+          {
+            "start": 3227.46,
+            "end": 3260.339
+          },
+          {
+            "start": 3260.339,
+            "end": 3338.88
+          },
+          {
+            "start": 3336.119,
+            "end": 3364.859
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3121.43,
+            "end": 3159.0,
+            "reason": "Post-ad duplex/crowding/crime comment lacks actual question."
+          }
+        ],
+        "cursor_seconds": 3121.43,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 3121.43
     },
     {
       "video_id": "Z_snlQLvET4",
@@ -167457,7 +168300,7 @@
     },
     {
       "video_id": "_t_kCjzlKSs",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Passover 2009",
       "kind": "topical",
@@ -167466,12 +168309,298 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 18,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local014-self-defense",
+        "local097-_t_kCjzlKSs-55",
+        "assurance-forgiveness",
+        "valley-dry-bones",
+        "local045-cwm36goJduU-5",
+        "local027-bvJVpRG_2F4-satan-millennium",
+        "local097-_t_kCjzlKSs-60",
+        "local097-_t_kCjzlKSs-61",
+        "local097-_t_kCjzlKSs-62",
+        "local008-sabbath",
+        "local097-_t_kCjzlKSs-64",
+        "persecution-response",
+        "local097-_t_kCjzlKSs-66",
+        "local097-_t_kCjzlKSs-67",
+        "two-bodies-scripture",
+        "local045-amL9QTpSErg-4",
+        "local058-GS-GwSHRGvQ-91",
+        "five-months",
+        "local097-_t_kCjzlKSs-72",
+        "local072-aKZoE9XLLbk-131",
+        "john14-mansions"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local014-self-defense",
+          "start_seconds": 1681.799,
+          "end_seconds": 1830.84,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-55",
+          "start_seconds": 1830.84,
+          "end_seconds": 1885.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "assurance-forgiveness",
+          "start_seconds": 1881.38,
+          "end_seconds": 1985.159,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "valley-dry-bones",
+          "start_seconds": 1983.059,
+          "end_seconds": 2078.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-cwm36goJduU-5",
+          "start_seconds": 2078.099,
+          "end_seconds": 2122.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local027-bvJVpRG_2F4-satan-millennium",
+          "start_seconds": 2122.4,
+          "end_seconds": 2210.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-60",
+          "start_seconds": 2210.4,
+          "end_seconds": 2252.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-61",
+          "start_seconds": 2248.8,
+          "end_seconds": 2288.46,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-62",
+          "start_seconds": 2288.46,
+          "end_seconds": 2313.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local008-sabbath",
+          "start_seconds": 2309.339,
+          "end_seconds": 2425.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-64",
+          "start_seconds": 2425.74,
+          "end_seconds": 2499.06,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "persecution-response",
+          "start_seconds": 2499.06,
+          "end_seconds": 2583.3,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-66",
+          "start_seconds": 2611.319,
+          "end_seconds": 2637.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-67",
+          "start_seconds": 2637.24,
+          "end_seconds": 2693.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "two-bodies-scripture",
+          "start_seconds": 2693.339,
+          "end_seconds": 2793.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-amL9QTpSErg-4",
+          "start_seconds": 2790.359,
+          "end_seconds": 2857.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local058-GS-GwSHRGvQ-91",
+          "start_seconds": 2857.38,
+          "end_seconds": 2922.92,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "five-months",
+          "start_seconds": 3027.56,
+          "end_seconds": 3069.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local097-_t_kCjzlKSs-72",
+          "start_seconds": 3081.68,
+          "end_seconds": 3159.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local072-aKZoE9XLLbk-131",
+          "start_seconds": 3156.9,
+          "end_seconds": 3238.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john14-mansions",
+          "start_seconds": 3236.0,
+          "end_seconds": 3359.72,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "_t_kCjzlKSs",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "9937c9a1374973ecc1646322181e55602b8deb5a56ac75f73854c04ca521068b",
+        "qa_start": 1681.799,
+        "qa_end": 3374.88,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 1681.799,
+            "end": 1830.84
+          },
+          {
+            "start": 1830.84,
+            "end": 1885.74
+          },
+          {
+            "start": 1881.38,
+            "end": 1985.159
+          },
+          {
+            "start": 1983.059,
+            "end": 2078.099
+          },
+          {
+            "start": 2078.099,
+            "end": 2122.4
+          },
+          {
+            "start": 2122.4,
+            "end": 2210.4
+          },
+          {
+            "start": 2210.4,
+            "end": 2252.04
+          },
+          {
+            "start": 2248.8,
+            "end": 2288.46
+          },
+          {
+            "start": 2288.46,
+            "end": 2313.3
+          },
+          {
+            "start": 2309.339,
+            "end": 2425.74
+          },
+          {
+            "start": 2425.74,
+            "end": 2499.06
+          },
+          {
+            "start": 2499.06,
+            "end": 2583.3
+          },
+          {
+            "start": 2611.319,
+            "end": 2637.24
+          },
+          {
+            "start": 2637.24,
+            "end": 2693.339
+          },
+          {
+            "start": 2693.339,
+            "end": 2793.359
+          },
+          {
+            "start": 2790.359,
+            "end": 2857.38
+          },
+          {
+            "start": 2857.38,
+            "end": 2922.92
+          },
+          {
+            "start": 3027.56,
+            "end": 3069.24
+          },
+          {
+            "start": 3081.68,
+            "end": 3159.74
+          },
+          {
+            "start": 3156.9,
+            "end": 3238.8
+          },
+          {
+            "start": 3236.0,
+            "end": 3359.72
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2122.4,
+            "end": 2210.4,
+            "reason": "Subsidiary whether people now in heaven come down for Millennium is not directly answered; approved Satan-binding scope only."
+          },
+          {
+            "start": 2583.3,
+            "end": 2611.319,
+            "reason": "One versus three visible divine entities not answered beyond brief Holy-Spirit/Father-spirit and Emmanuel statement."
+          },
+          {
+            "start": 2790.359,
+            "end": 2857.38,
+            "reason": "Exact phrase hallelujah the highest praise not documented; approved word meaning and stated references only."
+          },
+          {
+            "start": 2922.92,
+            "end": 3027.56,
+            "reason": "Baptism letter interrupted after and; actual question not completed, do not infer from reply."
+          },
+          {
+            "start": 3069.24,
+            "end": 3085.52,
+            "reason": "Book request gets unnamed book-list pointer without substantive identification."
+          },
+          {
+            "start": 3156.9,
+            "end": 3238.8,
+            "reason": "All numbered groups not distinguished; approved seven thousand killed in Revelation11 only."
+          },
+          {
+            "start": 3359.72,
+            "end": 3374.88,
+            "reason": "Next listener named but question not read before closing."
+          }
+        ],
+        "cursor_seconds": 2122.4,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and surrounding context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified against checkpoint195. Partial because omitted openings, unresolved ranges or unanswered subsidiary scopes remain; no audio verification."
+      },
+      "cursor_seconds": 2122.4
     },
     {
       "video_id": "_v3vACEp0H4",
@@ -182199,13 +183328,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 986,
+    "partially_reviewed": 996,
     "fully_reviewed": 22,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 859,
+    "teacher_pending": 849,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11666
+    "question_occurrences": 11740
   }
 }
