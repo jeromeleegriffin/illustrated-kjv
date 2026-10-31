@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T14:05:44.926980+00:00",
+  "updated": "2026-10-31T14:51:06.998659+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -154217,7 +154217,7 @@
     },
     {
       "video_id": "F9pzZMwifKY",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Kindle The Fire",
       "kind": "topical",
@@ -154226,12 +154226,167 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 39,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "millennium-teachers-students-dennis",
+        "local031-4BxMP_Xvnlc-3",
+        "local017-fallen-vs-third",
+        "john-identities",
+        "local022-dead-face-antichrist",
+        "local093-F9pzZMwifKY-44",
+        "forgive-boundaries",
+        "local049-fOAMowWWCpU-5",
+        "three-ages-scripture",
+        "local093-F9pzZMwifKY-49"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "millennium-teachers-students-dennis",
+          "start_seconds": 2205.219,
+          "end_seconds": 2258.919,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local031-4BxMP_Xvnlc-3",
+          "start_seconds": 2255.589,
+          "end_seconds": 2290.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local017-fallen-vs-third",
+          "start_seconds": 2375.43,
+          "end_seconds": 2556.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "john-identities",
+          "start_seconds": 2551.77,
+          "end_seconds": 2620.82,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-dead-face-antichrist",
+          "start_seconds": 2613.14,
+          "end_seconds": 2725.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local093-F9pzZMwifKY-44",
+          "start_seconds": 2733.359,
+          "end_seconds": 2823.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgive-boundaries",
+          "start_seconds": 2820.77,
+          "end_seconds": 2902.4,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-fOAMowWWCpU-5",
+          "start_seconds": 2896.91,
+          "end_seconds": 2964.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-ages-scripture",
+          "start_seconds": 3169.77,
+          "end_seconds": 3286.14,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local093-F9pzZMwifKY-49",
+          "start_seconds": 3283.56,
+          "end_seconds": 3350.549,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "F9pzZMwifKY",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "3d1fc60a466f885f0e843e83a5bdbb96c684cc45cc4dbb77129335dc7f159c5d",
+        "qa_start": 2171.89,
+        "qa_end": 3380.7,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2205.219,
+            "end": 2258.919
+          },
+          {
+            "start": 2255.589,
+            "end": 2290.98
+          },
+          {
+            "start": 2375.43,
+            "end": 2556.27
+          },
+          {
+            "start": 2551.77,
+            "end": 2620.82
+          },
+          {
+            "start": 2613.14,
+            "end": 2725.8
+          },
+          {
+            "start": 2733.359,
+            "end": 2823.91
+          },
+          {
+            "start": 2820.77,
+            "end": 2902.4
+          },
+          {
+            "start": 2896.91,
+            "end": 2964.48
+          },
+          {
+            "start": 3169.77,
+            "end": 3286.14
+          },
+          {
+            "start": 3283.56,
+            "end": 3350.549
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2171.89,
+            "end": 2210.109,
+            "reason": "Post-ad cancer/family prayer reply lacks listener question; no healing guarantee approved."
+          },
+          {
+            "start": 2290.98,
+            "end": 2381.43,
+            "reason": "Mental-illness/bereavement reply interrupts the listener question before its actual request is complete; no inferred question or diagnosis approved."
+          },
+          {
+            "start": 2722.5,
+            "end": 2735.85,
+            "reason": "Saved draft: very short repentance answer points to the lecture; confirm sufficient substantive answer before approval."
+          },
+          {
+            "start": 2959.359,
+            "end": 3173.01,
+            "reason": "Saved draft: first-age/birth-circumstances question and strongly worded economic/ancestry reply require careful scope and qualification matching, not a verified general rule."
+          },
+          {
+            "start": 3345.619,
+            "end": 3380.7,
+            "reason": "Saved draft: final at-home/seventh-trumpet question wording is compressed; review scope before approval."
+          }
+        ],
+        "cursor_seconds": 2171.89,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener question/reply/context reread, program outro and speaker consistency checked; exact original VTT/normalized hashes and unique raw cue anchors validated; manual semantic and corpus passage-repeat checks. Missing openings and unanswered geography held; partial, not audio verification."
+      },
+      "cursor_seconds": 2171.89
     },
     {
       "video_id": "FEKT75aWY70",
@@ -154721,7 +154876,7 @@
     },
     {
       "video_id": "FVSPXF43lMo",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Time of the Gentiles",
       "kind": "topical",
@@ -154730,12 +154885,147 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 18,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "forgive-boundaries",
+        "returning-army",
+        "hell-blotted-existence",
+        "local093-FVSPXF43lMo-31",
+        "three-heavens-ages",
+        "local093-FVSPXF43lMo-33",
+        "rebaptism-understanding",
+        "local043-y0CBqwhQAoE-3",
+        "revelation22-outside-timing",
+        "forgiveness"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "forgive-boundaries",
+          "start_seconds": 2432.04,
+          "end_seconds": 2533.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "returning-army",
+          "start_seconds": 2540.78,
+          "end_seconds": 2558.28,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "hell-blotted-existence",
+          "start_seconds": 2555.28,
+          "end_seconds": 2716.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local093-FVSPXF43lMo-31",
+          "start_seconds": 2712.9,
+          "end_seconds": 2778.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "three-heavens-ages",
+          "start_seconds": 2775.66,
+          "end_seconds": 2902.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local093-FVSPXF43lMo-33",
+          "start_seconds": 2897.28,
+          "end_seconds": 3006.5,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "rebaptism-understanding",
+          "start_seconds": 3002.28,
+          "end_seconds": 3139.58,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local043-y0CBqwhQAoE-3",
+          "start_seconds": 3137.059,
+          "end_seconds": 3267.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "revelation22-outside-timing",
+          "start_seconds": 3264.68,
+          "end_seconds": 3354.48,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "forgiveness",
+          "start_seconds": 3351.359,
+          "end_seconds": 3387.359,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "FVSPXF43lMo",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "fce827bb156e2c65445fca25b6b8cdf1de22f45cb9be414092018180d9f79886",
+        "qa_start": 2404.619,
+        "qa_end": 3387.359,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2432.04,
+            "end": 2533.68
+          },
+          {
+            "start": 2540.78,
+            "end": 2558.28
+          },
+          {
+            "start": 2555.28,
+            "end": 2716.5
+          },
+          {
+            "start": 2712.9,
+            "end": 2778.96
+          },
+          {
+            "start": 2775.66,
+            "end": 2902.04
+          },
+          {
+            "start": 2897.28,
+            "end": 3006.5
+          },
+          {
+            "start": 3002.28,
+            "end": 3139.58
+          },
+          {
+            "start": 3137.059,
+            "end": 3267.96
+          },
+          {
+            "start": 3264.68,
+            "end": 3354.48
+          },
+          {
+            "start": 3351.359,
+            "end": 3387.359
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2404.619,
+            "end": 2432.04,
+            "reason": "Post-ad baptism/cloth-dye illustration lacks listener question."
+          }
+        ],
+        "cursor_seconds": 2404.619,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener question/reply/context reread, program outro and speaker consistency checked; exact original VTT/normalized hashes and unique raw cue anchors validated; manual semantic and corpus passage-repeat checks. Missing openings and unanswered geography held; partial, not audio verification."
+      },
+      "cursor_seconds": 2404.619
     },
     {
       "video_id": "FWMu7Qn_KAQ",
@@ -180321,13 +180611,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 969,
+    "partially_reviewed": 971,
     "fully_reviewed": 21,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 877,
+    "teacher_pending": 875,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11542
+    "question_occurrences": 11562
   }
 }
