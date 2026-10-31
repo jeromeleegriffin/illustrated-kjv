@@ -499,3 +499,6 @@ Batch093:20 caption-reviewed Arnold Murray links from two saved recordings,4newg
 
 
 Batch094:36 caption-reviewed Arnold Murray links from5 saved programs,9newgroups27existingmatches. Totals6364groups11645links11598distinctpairs.976partial21completecaptionQA1289withoutacceptedreview. Six090drafts remain held including interrupted final reply87. Original sources preserved;audio pending.
+
+
+Batch095: 50 caption-reviewed Arnold Murray answer links from eight saved programs, 16 new question groups and 34 existing matches. Totals: 6380 groups, 11695 links, 11648 distinct question-recording pairs. 983 partial and 22 complete caption-Q&A reviews; 1281 without accepted review. JtJt-aZGqJU has complete coverage of its four listener exchanges. Eleven held ranges keep the other seven sections partial. One additional inspected program has conflicting speaker evidence and no approved answers. Six earlier090 drafts remain held. Original sources preserved; audio verification pending.

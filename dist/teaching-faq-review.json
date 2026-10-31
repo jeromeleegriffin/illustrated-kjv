@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T15:50:20.289680+00:00",
+  "updated": "2026-10-31T16:55:24.902682+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -157688,7 +157688,7 @@
     },
     {
       "video_id": "InSXPQXgf2M",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "New Song",
       "kind": "topical",
@@ -157697,12 +157697,108 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 19,
       "scanned_at": "2026-10-30T05:45:19.625406+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "valley-dry-bones",
+        "local095-InSXPQXgf2M-2",
+        "local095-InSXPQXgf2M-3",
+        "bible-oath-truth",
+        "before-christ-paradise",
+        "dead-in-christ"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "valley-dry-bones",
+          "start_seconds": 2684.44,
+          "end_seconds": 2784.23,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-InSXPQXgf2M-2",
+          "start_seconds": 2781.96,
+          "end_seconds": 3076.43,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-InSXPQXgf2M-3",
+          "start_seconds": 3073.16,
+          "end_seconds": 3153.91,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "bible-oath-truth",
+          "start_seconds": 3151.16,
+          "end_seconds": 3217.19,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "before-christ-paradise",
+          "start_seconds": 3215.079,
+          "end_seconds": 3276.75,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "dead-in-christ",
+          "start_seconds": 3273.119,
+          "end_seconds": 3363.67,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "InSXPQXgf2M",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8f95c79aa9be54f821e9f50900be3e006896611a62d1570f6d4a010fb10c8a49",
+        "qa_start": 2667.92,
+        "qa_end": 3372.309,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2684.44,
+            "end": 2784.23
+          },
+          {
+            "start": 2781.96,
+            "end": 3076.43
+          },
+          {
+            "start": 3073.16,
+            "end": 3153.91
+          },
+          {
+            "start": 3151.16,
+            "end": 3217.19
+          },
+          {
+            "start": 3215.079,
+            "end": 3276.75
+          },
+          {
+            "start": 3273.119,
+            "end": 3363.67
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2667.92,
+            "end": 2684.44,
+            "reason": "Opening post-ad Lucifer/Morning Star reply lacks the actual listener question."
+          },
+          {
+            "start": 3363.67,
+            "end": 3372.309,
+            "reason": "Named next listener is deferred to tomorrow; no question or answer approved."
+          }
+        ],
+        "cursor_seconds": 2667.92,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 2667.92
     },
     {
       "video_id": "Is13sQYDCJY",
@@ -158084,7 +158180,7 @@
     },
     {
       "video_id": "JtJt-aZGqJU",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Jerusalem and Lebanon",
       "kind": "topical",
@@ -158093,12 +158189,75 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 11,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "fully_reviewed",
+      "question_ids": [
+        "rapture-history-claim",
+        "local095-JtJt-aZGqJU-8",
+        "local032-fATX8iNlhao-9",
+        "local095-JtJt-aZGqJU-10"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "rapture-history-claim",
+          "start_seconds": 2986.119,
+          "end_seconds": 3105.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-JtJt-aZGqJU-8",
+          "start_seconds": 3100.2,
+          "end_seconds": 3174.03,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-fATX8iNlhao-9",
+          "start_seconds": 3170.76,
+          "end_seconds": 3265.069,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-JtJt-aZGqJU-10",
+          "start_seconds": 3263.079,
+          "end_seconds": 3380.789,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "JtJt-aZGqJU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "2acd4c9c679b3ab5e108e2b478f2b780033261adcd67798aaa60625f1d6d58da",
+        "qa_start": 2986.119,
+        "qa_end": 3380.789,
+        "qa_boundaries_confirmed": true,
+        "all_listener_questions_reviewed": true,
+        "reviewed_ranges": [
+          {
+            "start": 2986.119,
+            "end": 3105.069
+          },
+          {
+            "start": 3100.2,
+            "end": 3174.03
+          },
+          {
+            "start": 3170.76,
+            "end": 3265.069
+          },
+          {
+            "start": 3263.079,
+            "end": 3380.789
+          }
+        ],
+        "unresolved_ranges": [],
+        "cursor_seconds": 3380.789,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 3380.789
     },
     {
       "video_id": "Jumf_BevmaA",
@@ -158120,7 +158279,7 @@
     },
     {
       "video_id": "Jv7Hg34guw0",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Be Thankful",
       "kind": "topical",
@@ -158129,12 +158288,91 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 15,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local010-jesus-birth-date",
+        "local095-Jv7Hg34guw0-12",
+        "local014-angels-mythology",
+        "local057-C4X5C5hR3uQ-242"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local010-jesus-birth-date",
+          "start_seconds": 2971.38,
+          "end_seconds": 3044.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-Jv7Hg34guw0-12",
+          "start_seconds": 3055.68,
+          "end_seconds": 3255.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-angels-mythology",
+          "start_seconds": 3255.8,
+          "end_seconds": 3313.849,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-C4X5C5hR3uQ-242",
+          "start_seconds": 3310.559,
+          "end_seconds": 3348.89,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Jv7Hg34guw0",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "58c9d58a3a293dc38980563ae354ccac1852e5b2d2836ac3efad2dac0d30453c",
+        "qa_start": 2908.74,
+        "qa_end": 3389.75,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2971.38,
+            "end": 3044.15
+          },
+          {
+            "start": 3055.68,
+            "end": 3255.79
+          },
+          {
+            "start": 3255.8,
+            "end": 3313.849
+          },
+          {
+            "start": 3310.559,
+            "end": 3348.89
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2908.74,
+            "end": 2971.38,
+            "reason": "Post-ad America/population/migration reply lacks the actual listener question; no inferred question approved."
+          },
+          {
+            "start": 3055.68,
+            "end": 3255.79,
+            "reason": "Herbal-remedies subsidiary topic is not substantively answered; only the explicitly answered dowsing/almanac scope is approved."
+          },
+          {
+            "start": 3344.78,
+            "end": 3389.75,
+            "reason": "Final prison/voices question is interrupted for time; no diagnosis or answer about demonic possession is established."
+          }
+        ],
+        "cursor_seconds": 2908.74,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 2908.74
     },
     {
       "video_id": "JxyPLVH435U",
@@ -158156,7 +158394,7 @@
     },
     {
       "video_id": "KCIXP8RiaSY",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "The Sower",
       "kind": "topical",
@@ -158165,12 +158403,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 16,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local019-twinkling-change",
+        "local050-gwjM-Nli7SE-7",
+        "local057-kingdom-earth",
+        "local095-KCIXP8RiaSY-18"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local019-twinkling-change",
+          "start_seconds": 3069.69,
+          "end_seconds": 3168.63,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local050-gwjM-Nli7SE-7",
+          "start_seconds": 3165.55,
+          "end_seconds": 3279.27,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-kingdom-earth",
+          "start_seconds": 3274.92,
+          "end_seconds": 3354.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-KCIXP8RiaSY-18",
+          "start_seconds": 3352.57,
+          "end_seconds": 3394.59,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "KCIXP8RiaSY",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "176b5c258389e0bcbfc142851fac832cfe466b3745b65fc1837b9ec00fcb7b1d",
+        "qa_start": 3046.53,
+        "qa_end": 3394.59,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3069.69,
+            "end": 3168.63
+          },
+          {
+            "start": 3165.55,
+            "end": 3279.27
+          },
+          {
+            "start": 3274.92,
+            "end": 3354.21
+          },
+          {
+            "start": 3352.57,
+            "end": 3394.59
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3046.53,
+            "end": 3069.69,
+            "reason": "Post-ad salvation-for-strangers reply lacks the actual listener question."
+          }
+        ],
+        "cursor_seconds": 3046.53,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 3046.53
     },
     {
       "video_id": "KD8yyMi0Flw",
@@ -158627,7 +158934,7 @@
     },
     {
       "video_id": "LHFzoNuI198",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Overseers of Truth",
       "kind": "topical",
@@ -158636,12 +158943,92 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 199,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local023-satan-still-heaven",
+        "lose-salvation-repentance",
+        "local095-LHFzoNuI198-21",
+        "local020-reverence-knowledge",
+        "local040-Nw0wcl8CnFI-5"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local023-satan-still-heaven",
+          "start_seconds": 3010.67,
+          "end_seconds": 3032.47,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "lose-salvation-repentance",
+          "start_seconds": 3030.2,
+          "end_seconds": 3143.52,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-LHFzoNuI198-21",
+          "start_seconds": 3143.52,
+          "end_seconds": 3269.15,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local020-reverence-knowledge",
+          "start_seconds": 3266.44,
+          "end_seconds": 3342.04,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-Nw0wcl8CnFI-5",
+          "start_seconds": 3342.04,
+          "end_seconds": 3382.08,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "LHFzoNuI198",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "8413efc351e5255c266000053de2553474427bf2ff3a5ebc5795bc56a3da949b",
+        "qa_start": 2968.44,
+        "qa_end": 3382.08,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3010.67,
+            "end": 3032.47
+          },
+          {
+            "start": 3030.2,
+            "end": 3143.52
+          },
+          {
+            "start": 3143.52,
+            "end": 3269.15
+          },
+          {
+            "start": 3266.44,
+            "end": 3342.04
+          },
+          {
+            "start": 3342.04,
+            "end": 3382.08
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2968.44,
+            "end": 3008.71,
+            "reason": "Post-ad sin/hatred reply lacks actual listener question."
+          }
+        ],
+        "cursor_seconds": 2968.44,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 2968.44
     },
     {
       "video_id": "LMA8X43KGWw",
@@ -159296,7 +159683,7 @@
     },
     {
       "video_id": "MTfM6XR6uL8",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Brought in Unawares",
       "kind": "topical",
@@ -159305,12 +159692,196 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 16,
       "scanned_at": "2026-10-30T05:45:19.625406+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "dinosaurs-human-fossils",
+        "local095-MTfM6XR6uL8-25",
+        "resurrection-meaning",
+        "local095-MTfM6XR6uL8-27",
+        "michael-not-jesus",
+        "guardian-angel",
+        "local095-MTfM6XR6uL8-30",
+        "local022-hebrews6-salvation",
+        "local011-evening-morning",
+        "local095-MTfM6XR6uL8-33",
+        "local032-fShd-LOzaRo-12",
+        "local018-barter-worship",
+        "local045-ZXLGFRa8yRg-7",
+        "cremation"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "dinosaurs-human-fossils",
+          "start_seconds": 2301.0,
+          "end_seconds": 2372.21,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-MTfM6XR6uL8-25",
+          "start_seconds": 2372.21,
+          "end_seconds": 2441.6,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "resurrection-meaning",
+          "start_seconds": 2438.39,
+          "end_seconds": 2562.83,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-MTfM6XR6uL8-27",
+          "start_seconds": 2559.78,
+          "end_seconds": 2616.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "michael-not-jesus",
+          "start_seconds": 2616.24,
+          "end_seconds": 2690.68,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "guardian-angel",
+          "start_seconds": 2686.87,
+          "end_seconds": 2740.51,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-MTfM6XR6uL8-30",
+          "start_seconds": 2737.97,
+          "end_seconds": 2781.94,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-hebrews6-salvation",
+          "start_seconds": 2778.89,
+          "end_seconds": 2859.339,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local011-evening-morning",
+          "start_seconds": 2859.339,
+          "end_seconds": 2908.789,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-MTfM6XR6uL8-33",
+          "start_seconds": 2902.69,
+          "end_seconds": 3011.089,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local032-fShd-LOzaRo-12",
+          "start_seconds": 3006.839,
+          "end_seconds": 3080.359,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local018-barter-worship",
+          "start_seconds": 3076.77,
+          "end_seconds": 3177.8,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-ZXLGFRa8yRg-7",
+          "start_seconds": 3175.05,
+          "end_seconds": 3324.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "cremation",
+          "start_seconds": 3321.559,
+          "end_seconds": 3372.5,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "MTfM6XR6uL8",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "906ef07911478e1a3bf5419179b8b183d533b5a022af1ef80bb9d19fbf4f64c4",
+        "qa_start": 2292.84,
+        "qa_end": 3372.5,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2301.0,
+            "end": 2372.21
+          },
+          {
+            "start": 2372.21,
+            "end": 2441.6
+          },
+          {
+            "start": 2438.39,
+            "end": 2562.83
+          },
+          {
+            "start": 2559.78,
+            "end": 2616.24
+          },
+          {
+            "start": 2616.24,
+            "end": 2690.68
+          },
+          {
+            "start": 2686.87,
+            "end": 2740.51
+          },
+          {
+            "start": 2737.97,
+            "end": 2781.94
+          },
+          {
+            "start": 2778.89,
+            "end": 2859.339
+          },
+          {
+            "start": 2859.339,
+            "end": 2908.789
+          },
+          {
+            "start": 2902.69,
+            "end": 3011.089
+          },
+          {
+            "start": 3006.839,
+            "end": 3080.359
+          },
+          {
+            "start": 3076.77,
+            "end": 3177.8
+          },
+          {
+            "start": 3175.05,
+            "end": 3324.829
+          },
+          {
+            "start": 3321.559,
+            "end": 3372.5
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2292.84,
+            "end": 2301.0,
+            "reason": "Post-ad gulf reply lacks actual listener question."
+          },
+          {
+            "start": 2438.39,
+            "end": 2562.83,
+            "reason": "Listener also asks about recognition and family relationships; these subquestions are not addressed. Only the completed death/body/resurrection explanation is approved."
+          }
+        ],
+        "cursor_seconds": 2292.84,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 2292.84
     },
     {
       "video_id": "Mb8F0UiS-C8",
@@ -159404,7 +159975,7 @@
     },
     {
       "video_id": "MwNdXvScxzs",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Witness & Testimony",
       "kind": "topical",
@@ -159413,12 +159984,103 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 12,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local025-babies",
+        "christ-earth-return",
+        "local049-fRW1eTzd4a4-14",
+        "local095-MwNdXvScxzs-41",
+        "local056-GK_hi57BhYs-125",
+        "murder-final-judgment"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local025-babies",
+          "start_seconds": 2996.579,
+          "end_seconds": 3044.329,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "christ-earth-return",
+          "start_seconds": 3040.92,
+          "end_seconds": 3124.26,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-fRW1eTzd4a4-14",
+          "start_seconds": 3124.26,
+          "end_seconds": 3222.96,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-MwNdXvScxzs-41",
+          "start_seconds": 3222.95,
+          "end_seconds": 3286.74,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local056-GK_hi57BhYs-125",
+          "start_seconds": 3286.74,
+          "end_seconds": 3355.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "murder-final-judgment",
+          "start_seconds": 3353.16,
+          "end_seconds": 3393.77,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "MwNdXvScxzs",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "df01b9f4c12809aeb0c4413bbb0282651d82c775d35f1f33e7ea23884bb0a705",
+        "qa_start": 2994.24,
+        "qa_end": 3393.77,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2996.579,
+            "end": 3044.329
+          },
+          {
+            "start": 3040.92,
+            "end": 3124.26
+          },
+          {
+            "start": 3124.26,
+            "end": 3222.96
+          },
+          {
+            "start": 3222.95,
+            "end": 3286.74
+          },
+          {
+            "start": 3286.74,
+            "end": 3355.309
+          },
+          {
+            "start": 3353.16,
+            "end": 3393.77
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2994.24,
+            "end": 2996.579,
+            "reason": "Post-ad Revelation 20 reply lacks the listener question."
+          }
+        ],
+        "cursor_seconds": 2994.24,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 2994.24
     },
     {
       "video_id": "N2koj93TwfI",
@@ -159747,7 +160409,7 @@
     },
     {
       "video_id": "Nd5Bumdi1do",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Signs of 2005",
       "kind": "topical",
@@ -159756,12 +160418,114 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 13,
       "scanned_at": "2026-10-30T05:28:59.212990+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "satan-born",
+        "local095-Nd5Bumdi1do-45",
+        "work-eat-disability",
+        "local095-Nd5Bumdi1do-47",
+        "local095-Nd5Bumdi1do-48",
+        "local095-Nd5Bumdi1do-49",
+        "local010-satan-expelled"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "satan-born",
+          "start_seconds": 3082.319,
+          "end_seconds": 3119.809,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-Nd5Bumdi1do-45",
+          "start_seconds": 3116.099,
+          "end_seconds": 3183.829,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "work-eat-disability",
+          "start_seconds": 3180.119,
+          "end_seconds": 3198.119,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-Nd5Bumdi1do-47",
+          "start_seconds": 3198.119,
+          "end_seconds": 3237.65,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-Nd5Bumdi1do-48",
+          "start_seconds": 3234.96,
+          "end_seconds": 3311.7,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local095-Nd5Bumdi1do-49",
+          "start_seconds": 3305.339,
+          "end_seconds": 3370.37,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local010-satan-expelled",
+          "start_seconds": 3366.96,
+          "end_seconds": 3393.119,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Nd5Bumdi1do",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "5866705791fe683499886d81c1e694e0c7a53a910e05ac24c318965eac26eb86",
+        "qa_start": 3068.46,
+        "qa_end": 3393.119,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3082.319,
+            "end": 3119.809
+          },
+          {
+            "start": 3116.099,
+            "end": 3183.829
+          },
+          {
+            "start": 3180.119,
+            "end": 3198.119
+          },
+          {
+            "start": 3198.119,
+            "end": 3237.65
+          },
+          {
+            "start": 3234.96,
+            "end": 3311.7
+          },
+          {
+            "start": 3305.339,
+            "end": 3370.37
+          },
+          {
+            "start": 3366.96,
+            "end": 3393.119
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3068.46,
+            "end": 3082.319,
+            "reason": "Post-ad world-following-Antichrist reply lacks actual listener question."
+          }
+        ],
+        "cursor_seconds": 3068.46,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved listener questions, replies and context read; named program outro and speaker consistency checked; unique original VTT cue anchors and hashes verified. Complete caption Q&A only for JtJt-aZGqJU: lecture/prayer/ad followed by four completed listener exchanges and sign-off, no unresolved questions. All other sources partial for exact held ranges; no audio verification."
+      },
+      "cursor_seconds": 3068.46
     },
     {
       "video_id": "NdBdtp82o3g",
@@ -181157,13 +181921,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 976,
-    "fully_reviewed": 21,
+    "partially_reviewed": 983,
+    "fully_reviewed": 22,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 870,
+    "teacher_pending": 862,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11598
+    "question_occurrences": 11648
   }
 }
