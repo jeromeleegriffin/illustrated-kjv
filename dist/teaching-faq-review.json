@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T13:42:56.189141+00:00",
+  "updated": "2026-10-31T14:05:44.926980+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -154537,7 +154537,7 @@
     },
     {
       "video_id": "FUPi3XGBwfE",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "God's War Is Our War",
       "kind": "topical",
@@ -154546,12 +154546,178 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 15,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "local056-angel-sentence",
+        "local092-FUPi3XGBwfE-18",
+        "local092-FUPi3XGBwfE-19",
+        "local024-backsliding",
+        "local040-mCMQpZuIOkI-8",
+        "apocrypha",
+        "local045-apxXBs_eRPo-4",
+        "local092-FUPi3XGBwfE-24",
+        "local057-vehicles-ezekiel",
+        "local092-FUPi3XGBwfE-26",
+        "addiction-prayer-help"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "local056-angel-sentence",
+          "start_seconds": 2825.16,
+          "end_seconds": 2883.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local092-FUPi3XGBwfE-18",
+          "start_seconds": 2945.339,
+          "end_seconds": 2990.099,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local092-FUPi3XGBwfE-19",
+          "start_seconds": 2988.3,
+          "end_seconds": 3045.839,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local024-backsliding",
+          "start_seconds": 3042.42,
+          "end_seconds": 3105.9,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local040-mCMQpZuIOkI-8",
+          "start_seconds": 3102.599,
+          "end_seconds": 3156.66,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "apocrypha",
+          "start_seconds": 3155.04,
+          "end_seconds": 3199.2,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local045-apxXBs_eRPo-4",
+          "start_seconds": 3194.42,
+          "end_seconds": 3247.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local092-FUPi3XGBwfE-24",
+          "start_seconds": 3244.02,
+          "end_seconds": 3297.059,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local057-vehicles-ezekiel",
+          "start_seconds": 3293.339,
+          "end_seconds": 3338.76,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local092-FUPi3XGBwfE-26",
+          "start_seconds": 3335.7,
+          "end_seconds": 3363.24,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "addiction-prayer-help",
+          "start_seconds": 3360.359,
+          "end_seconds": 3407.64,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "FUPi3XGBwfE",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "1ea8c8e852b42802a25aec0b2117faa045d6ae3866c8681041da2b56b242ec74",
+        "qa_start": 2825.15,
+        "qa_end": 3407.64,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2825.16,
+            "end": 2883.839
+          },
+          {
+            "start": 2945.339,
+            "end": 2990.099
+          },
+          {
+            "start": 2988.3,
+            "end": 3045.839
+          },
+          {
+            "start": 3042.42,
+            "end": 3105.9
+          },
+          {
+            "start": 3102.599,
+            "end": 3156.66
+          },
+          {
+            "start": 3155.04,
+            "end": 3199.2
+          },
+          {
+            "start": 3194.42,
+            "end": 3247.02
+          },
+          {
+            "start": 3244.02,
+            "end": 3297.059
+          },
+          {
+            "start": 3293.339,
+            "end": 3338.76
+          },
+          {
+            "start": 3335.7,
+            "end": 3363.24
+          },
+          {
+            "start": 3360.359,
+            "end": 3407.64
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2825.15,
+            "end": 2825.16,
+            "reason": "Truncated opening reply, no listener question."
+          },
+          {
+            "start": 2945.339,
+            "end": 2990.099,
+            "reason": "Saved draft: Stone of Scone future-location question is not fully resolved; estimation and scope need final review."
+          },
+          {
+            "start": 3155.04,
+            "end": 3199.2,
+            "reason": "Saved draft: Apocrypha reply recommends studies without fully explaining exclusion; garbled names and unanswered scope."
+          },
+          {
+            "start": 3360.359,
+            "end": 3407.64,
+            "reason": "Saved draft: addiction reply gives encouragement and discusses NA, but opening history is garbled and forgiveness scope is not expressly developed."
+          },
+          {
+            "start": 2883.839,
+            "end": 2948.48,
+            "reason": "Ambiguous initial no against letter request wording; pastoral reassurance clear but exact Book of Life request ruling unresolved."
+          }
+        ],
+        "cursor_seconds": 2825.15,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved question/reply/context reread; captioned program outro, exact raw/normalized hashes and segment anchors checked; corpus repeat and manual semantic grouping checks. Partial: unanswered and ambiguous portions retained."
+      },
+      "cursor_seconds": 2825.15
     },
     {
       "video_id": "FVSPXF43lMo",
@@ -180155,13 +180321,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 968,
+    "partially_reviewed": 969,
     "fully_reviewed": 21,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 878,
+    "teacher_pending": 877,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11531
+    "question_occurrences": 11542
   }
 }
