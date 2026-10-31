@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T10:43:54.023402+00:00",
+  "updated": "2026-10-31T11:44:46.761480+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -151365,7 +151365,7 @@
     },
     {
       "video_id": "BeaY9OmmHaA",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": "Arnold Murray",
       "lesson": "Vision",
       "kind": "topical",
@@ -151374,12 +151374,81 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 7,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "heaven-half-hour",
+        "women-pants",
+        "local089-BeaY9OmmHaA-3",
+        "genesis-our-image"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "heaven-half-hour",
+          "start_seconds": 3036.48,
+          "end_seconds": 3072.75,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "women-pants",
+          "start_seconds": 3070.84,
+          "end_seconds": 3286.32,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local089-BeaY9OmmHaA-3",
+          "start_seconds": 3286.33,
+          "end_seconds": 3355.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "genesis-our-image",
+          "start_seconds": 3353.53,
+          "end_seconds": 3387.06,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "BeaY9OmmHaA",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "9ae8009ed58233ead32ed5b891b928342d768d2948f1cdcf3728a44ac1615cab",
+        "qa_start": 3025.21,
+        "qa_end": 3387.06,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 3036.48,
+            "end": 3072.75
+          },
+          {
+            "start": 3070.84,
+            "end": 3286.32
+          },
+          {
+            "start": 3286.33,
+            "end": 3355.79
+          },
+          {
+            "start": 3353.53,
+            "end": 3387.06
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3025.21,
+            "end": 3036.48,
+            "reason": "Post-advertisement medical/anointing reply lacks listener question."
+          }
+        ],
+        "cursor_seconds": 3025.21,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved complete question/reply/context reread; missing raw VTT recovered from original saved Library upload and all normalized cues verified against exact-time/raw-text suffix anchors. Named program outro speaker; manual semantic/repeat checks. Unresolved range retained, not audio verification."
+      },
+      "cursor_seconds": 3025.21
     },
     {
       "video_id": "Bg0ceAXJYJE",
@@ -152126,7 +152195,7 @@
     },
     {
       "video_id": "Cm_5n7ngwQs",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": "Arnold Murray",
       "lesson": "God Feeds",
       "kind": "topical",
@@ -152135,12 +152204,114 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 6,
       "scanned_at": "2026-10-26T07:32:53.161740+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "meet-air",
+        "local089-Cm_5n7ngwQs-15",
+        "talk-god-heaven",
+        "local020-prophets-until-john",
+        "local014-eth-adam",
+        "ten-kings-country-rulers",
+        "predestination-freewill"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "meet-air",
+          "start_seconds": 2823.859,
+          "end_seconds": 2927.79,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local089-Cm_5n7ngwQs-15",
+          "start_seconds": 2927.8,
+          "end_seconds": 2958.67,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "talk-god-heaven",
+          "start_seconds": 2958.68,
+          "end_seconds": 2979.55,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local020-prophets-until-john",
+          "start_seconds": 2979.56,
+          "end_seconds": 3075.58,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local014-eth-adam",
+          "start_seconds": 3072.11,
+          "end_seconds": 3174.309,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "ten-kings-country-rulers",
+          "start_seconds": 3171.099,
+          "end_seconds": 3240.38,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "predestination-freewill",
+          "start_seconds": 3240.39,
+          "end_seconds": 3366.35,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "Cm_5n7ngwQs",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "30ff0ea039d1f827607ae3e0a1b578f492e74110963ea98b728efeae09b15ec3",
+        "qa_start": 2823.859,
+        "qa_end": 3366.35,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2823.859,
+            "end": 2927.79
+          },
+          {
+            "start": 2927.8,
+            "end": 2958.67
+          },
+          {
+            "start": 2958.68,
+            "end": 2979.55
+          },
+          {
+            "start": 2979.56,
+            "end": 3075.58
+          },
+          {
+            "start": 3072.11,
+            "end": 3174.309
+          },
+          {
+            "start": 3171.099,
+            "end": 3240.38
+          },
+          {
+            "start": 3240.39,
+            "end": 3366.35
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 3072.11,
+            "end": 3174.319,
+            "reason": "Captioned Hebrew transliteration remains uncertain. Study-advice reply approved with explicit uncertainty; exact linguistic wording remains unresolved, so section stays partial."
+          }
+        ],
+        "cursor_seconds": 3072.11,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-31",
+        "basis": "Saved complete question/reply/context reread; missing raw VTT recovered from original saved Library upload and all normalized cues verified against exact-time/raw-text suffix anchors. Named program outro speaker; manual semantic/repeat checks. Unresolved range retained, not audio verification."
+      },
+      "cursor_seconds": 3072.11
     },
     {
       "video_id": "CqTtJrHUHAE",
@@ -179770,13 +179941,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 964,
+    "partially_reviewed": 966,
     "fully_reviewed": 21,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 882,
+    "teacher_pending": 880,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11506
+    "question_occurrences": 11517
   }
 }

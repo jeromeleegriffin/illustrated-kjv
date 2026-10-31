@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,344 question groups and 11,553 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,346 question groups and 11,564 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained:964 partial and21 complete caption-Q&A reviews;419 pending passage review and882 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained:966 partial and21 complete caption-Q&A reviews;419 pending passage review and880 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -480,3 +480,7 @@ Six saved Arnold Murray programs contributed51 caption-reviewed answer links and
 ## Batch088
 
 Nine caption-reviewed Arnold Murray answer links from one saved Q&A section, including one new question group. Opening reply remains held and the recording stays partial. Audio verification remains pending. Twenty other saved drafts remain unapproved for raw-source or speaker evidence. Totals6344groups11553links11506distinctpairs.
+
+## Batch089
+
+Eleven saved Arnold Murray answer links from two programs approved after restoring the missing original captions from the saved batch001 upload and validating exact raw cue anchors. Two new question groups, nine matched groups. Both sources partial; independent audio verification pending. Nine speaker-conflicted088drafts remain held. Totals6346groups11564links11517distinctpairs.
