@@ -1,6 +1,6 @@
 {
   "schema": "griffin-faq-review-v2",
-  "updated": "2026-10-31T02:44:03.153042+00:00",
+  "updated": "2026-10-31T03:27:53.468566+00:00",
   "policy": "Scanned is not reviewed. Only listed time ranges were reviewed. Changed hashes invalidate linked approvals; new files enter candidate review. Full transcript text stays private.",
   "recordings": [
     {
@@ -143922,7 +143922,7 @@
     },
     {
       "video_id": "16pwNrQ2fyU",
-      "teacher": "Unconfirmed",
+      "teacher": "Arnold Murray",
       "catalog_teacher": null,
       "lesson": "Paraclete",
       "kind": "topical",
@@ -143931,12 +143931,92 @@
       "scan_status": "scanned_candidates_only",
       "candidate_count": 14,
       "scanned_at": "2026-10-29T22:14:51.126978+00:00",
-      "review_status": "teacher_confirmation_pending",
-      "question_ids": [],
-      "reviewed_ranges": [],
+      "review_status": "partially_reviewed",
+      "question_ids": [
+        "usa-isaiah18",
+        "local019-corinthians-languages",
+        "local067-I-CGlM2YN9o-35",
+        "local022-family-support",
+        "local049-fIiQPWbmnUs-17"
+      ],
+      "reviewed_ranges": [
+        {
+          "question_id": "usa-isaiah18",
+          "start_seconds": 2953.8,
+          "end_seconds": 3042.98,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local019-corinthians-languages",
+          "start_seconds": 3042.98,
+          "end_seconds": 3254.88,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local067-I-CGlM2YN9o-35",
+          "start_seconds": 3254.88,
+          "end_seconds": 3295.02,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local022-family-support",
+          "start_seconds": 3295.02,
+          "end_seconds": 3361.44,
+          "review": "caption_passage_checked_audio_pending"
+        },
+        {
+          "question_id": "local049-fIiQPWbmnUs-17",
+          "start_seconds": 3361.44,
+          "end_seconds": 3376.79,
+          "review": "caption_passage_checked_audio_pending"
+        }
+      ],
       "stale_question_ids": [],
       "present": true,
-      "history": []
+      "history": [],
+      "recording_review": {
+        "video_id": "16pwNrQ2fyU",
+        "teacher": "Arnold Murray",
+        "transcript_sha256": "bf83b88b916f14a291dcaa1b98385bdbc8ba450c695d701211374fb4c2c12ca3",
+        "qa_start": 2953.8,
+        "qa_end": 3376.79,
+        "qa_boundaries_confirmed": false,
+        "all_listener_questions_reviewed": false,
+        "reviewed_ranges": [
+          {
+            "start": 2953.8,
+            "end": 3042.98
+          },
+          {
+            "start": 3042.98,
+            "end": 3254.88
+          },
+          {
+            "start": 3254.88,
+            "end": 3295.02
+          },
+          {
+            "start": 3295.02,
+            "end": 3361.44
+          },
+          {
+            "start": 3361.44,
+            "end": 3376.79
+          }
+        ],
+        "unresolved_ranges": [
+          {
+            "start": 2953.8,
+            "end": 3376.79,
+            "reason": "Only five saved passages checked; earlier Q&A begins before abrupt advertisement return and is not certified complete."
+          }
+        ],
+        "cursor_seconds": 2953.8,
+        "audio_verified": false,
+        "reviewed_at": "2026-10-30",
+        "basis": "Saved question/reply/context and named program outro reread; final Antichrist cue extended through Christ, first answer begins at question cue; reserved alternate untouched."
+      },
+      "cursor_seconds": 2953.8
     },
     {
       "video_id": "16sKHXtsWkM",
@@ -178063,13 +178143,13 @@
   ],
   "review": {
     "available": 2286,
-    "partially_reviewed": 951,
+    "partially_reviewed": 952,
     "fully_reviewed": 20,
     "completion_basis": "complete_caption_QA_review_not_audio_verification",
     "scanned": 2286,
-    "teacher_pending": 896,
+    "teacher_pending": 895,
     "pending": 419,
     "source_changed": 0,
-    "question_occurrences": 11386
+    "question_occurrences": 11391
   }
 }

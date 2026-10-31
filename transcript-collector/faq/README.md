@@ -459,3 +459,6 @@ Batch080 adds52 links and12 question groups from5 Arnold recordings. Seven incom
 Batch081 adds21 caption-reviewed links and7 question groups from3 Arnold recordings. Deferred Christmas documentation, a truncated question and unclear self-defense wording remain unapproved. Broadcast administration and closing notices are excluded. All sections remain partial, audio pending.
 
 Batch082 adds8caption-reviewed links and1question group from1Arnoldrecording. Repeated Q&A in a second upload is privately mapped and counted once; no whole-lecture alias inferred.36drafts from another source remain held for given-name speaker confirmation. No audio verification.
+
+
+Batch083 resolves5caption-reviewedanswers fromoneArnoldrecording,allmatchedtoexistingquestions.6310groups11438links11391pairs;952partial20completecaptionQA1314withoutacceptedreview. Elevenreserved-overlapdraftsremainheld. Audio pending.
