@@ -1,0 +1,26 @@
+{
+  "batch": "085",
+  "status": "approved_private_publication_pending",
+  "reviewed_recordings": 2,
+  "new_groups": 7,
+  "new_links": 22,
+  "total_groups": 6320,
+  "total_links": 11470,
+  "distinct_pairs": 11423,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 955,
+    "fully_reviewed": 20,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 892,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 11423
+  },
+  "invalid_approvals": 0,
+  "held_ranges": 4,
+  "goal_new_groups": 97,
+  "goal_remaining": 203,
+  "audio_verified": false
+}
