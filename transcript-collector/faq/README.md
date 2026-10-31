@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,309 question groups and 11,425 linked answers. Frequencies count each question once per underlying recording group.
+Current approved registry: 6,310 question groups and 11,433 linked answers. Frequencies count each question once per underlying recording group.
 
-All 2,286 saved sources retained:950 partial and20 complete caption-Q&A reviews;419 pending passage review and897 teacher-pending. Candidate scans do not approve answers. Audio verification remains pending.
+All 2,286 saved sources retained:951 partial and20 complete caption-Q&A reviews;419 pending passage review and896 teacher-pending. Candidate scans do not approve answers. Audio verification remains pending.
 
 ## Rebuild
 
@@ -457,3 +457,5 @@ Batch079 adds38 linked answers and12 question groups from3 Arnold recordings. Tw
 Batch080 adds52 links and12 question groups from5 Arnold recordings. Seven incomplete, ambiguous or administrative ranges remain held. The garden-tree group retains differing answers about tree-of-life availability and is flagged for review. Historical health, ancestry and physical assertions remain attributed, not independently verified. All five sections remain partial.
 
 Batch081 adds21 caption-reviewed links and7 question groups from3 Arnold recordings. Deferred Christmas documentation, a truncated question and unclear self-defense wording remain unapproved. Broadcast administration and closing notices are excluded. All sections remain partial, audio pending.
+
+Batch082 adds8caption-reviewed links and1question group from1Arnoldrecording. Repeated Q&A in a second upload is privately mapped and counted once; no whole-lecture alias inferred.36drafts from another source remain held for given-name speaker confirmation. No audio verification.
