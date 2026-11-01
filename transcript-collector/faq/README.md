@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,445 question groups and 11,988 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,447 question groups and 11,992 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,020 partial and 22 complete caption-Q&A reviews; 419 pending passage review and 825 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,021 partial and 22 complete caption-Q&A reviews; 419 pending passage review and 824 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
