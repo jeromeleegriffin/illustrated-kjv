@@ -1,0 +1,33 @@
+{
+  "batch": "118",
+  "new_groups": 2,
+  "new_links": 5,
+  "total_groups": 6458,
+  "total_links": 12022,
+  "distinct_pairs": 11975,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 1025,
+    "fully_reviewed": 29,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 813,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 11975
+  },
+  "remaining105_speaker_held": 19,
+  "audio_verified": false,
+  "source_passages_read": 7,
+  "approved_passages": 5,
+  "held_incomplete_passages": 0,
+  "excluded_lecture_or_closing_passages": 2,
+  "reviewed_recordings": 1,
+  "status": "caption_review_completed",
+  "speaker_conflict_preserved": true,
+  "invalid_approvals": 0,
+  "public_material": "Attributed paraphrases and sanitized review metadata only",
+  "batch109_speaker_held": 12,
+  "batch109_reservation_held": 16,
+  "batch111_historical_repeat_held": 6
+}
