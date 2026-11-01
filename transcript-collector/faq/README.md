@@ -2,7 +2,7 @@
 
 Current approved registry: 6,449 question groups and 11,995 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,022 partial and 22 complete caption-Q&A reviews; 419 pending passage review and 823 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,023 partial and 25 complete caption-Q&A reviews; 419 pending passage review and 819 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
