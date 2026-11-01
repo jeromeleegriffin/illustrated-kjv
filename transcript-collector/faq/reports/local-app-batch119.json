@@ -1,0 +1,28 @@
+{
+  "batch": "119",
+  "new_groups": 1,
+  "new_links": 3,
+  "total_groups": 6459,
+  "total_links": 12025,
+  "distinct_pairs": 11978,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 1024,
+    "fully_reviewed": 30,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 813,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 11978
+  },
+  "audio_verified": false,
+  "source_passages_read": 15,
+  "approved_passages": 3,
+  "held_incomplete_passages": 0,
+  "reviewed_recordings": 1,
+  "status": "caption_review_completed",
+  "existing_alias_used": true,
+  "invalid_approvals": 0,
+  "public_material": "Attributed paraphrases and sanitized review metadata only"
+}
