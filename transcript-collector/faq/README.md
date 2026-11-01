@@ -2,7 +2,7 @@
 
 Current approved registry: 6,470 question groups and 12,063 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,025 partial and 30 complete caption-Q&A reviews; 419 pending passage review and 812 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,025 partial and 31 complete caption-Q&A reviews; 419 pending passage review and 811 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -521,3 +521,8 @@ One saved Dennis Murray Q&A section contributed 16 caption-reviewed links and fo
 ## Batch122
 
 One saved Arnold Murray Q&A section contributed 12 caption-reviewed links and four new question groups. A damaged false-prophet identity reply remains held, and one praise-only comment was excluded. Saved alternate cbDtBhvIgJQ repeats the section and was not separately counted. Totals: 6,470 groups, 12,063 linked answers and 12,016 distinct question-recording pairs. Caption review only; audio verification remains pending.
+
+
+## Batch123
+
+One saved Arnold Murray Q&A section was fully caption-reviewed. All twelve listener questions and replies repeat the already reviewed cShRRtDrTPA Q&A block, so no duplicate question groups or answer links were added and no whole-lecture alias was inferred. Totals remain 6,470 groups, 12,063 linked answers and 12,016 distinct question-recording pairs. Caption review only; audio verification remains pending.
