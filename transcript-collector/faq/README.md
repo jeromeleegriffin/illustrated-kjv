@@ -588,3 +588,8 @@ One saved Arnold Murray program was fully reviewed across nineteen complete list
 ## Batch135
 
 One saved Arnold Murray program was fully reviewed across twenty-three complete listener question-and-answer groups. Each was already represented once for this underlying recording, so no new question group or answer link was added. One unanswered alternative embedded in a listener letter was excluded. Every listener section and both Q&A boundaries are accounted for. Totals remain 6,479 groups, 12,086 linked answers and 12,039 distinct question-recording pairs. Caption review only; audio verification remains pending.
+
+
+## Batch136
+
+One saved Arnold Murray program was reviewed across twenty-five complete listener question-and-answer groups. Each was already represented once for this underlying recording, so no new question group or answer link was added. One damaged listener question remains held with an exact continuation cursor; one statement without a substantive reply and one prayer request without a substantive answer were excluded. Both Q&A boundaries are confirmed, but the recording remains partially reviewed. Totals remain 6,479 groups, 12,086 linked answers and 12,039 distinct question-recording pairs. Caption review only; audio verification remains pending.
