@@ -1,0 +1,29 @@
+{
+  "batch": "139",
+  "new_groups": 0,
+  "new_links": 1,
+  "total_groups": 6479,
+  "total_links": 12087,
+  "distinct_pairs": 12040,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 1029,
+    "fully_reviewed": 38,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 800,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 12040
+  },
+  "audio_verified": false,
+  "source_sections_read": 24,
+  "already_approved_occurrences_reread": 23,
+  "excluded_nonquestion_ranges": 2,
+  "held_or_unresolved_sections": 0,
+  "reviewed_recordings": 1,
+  "status": "complete_caption_review_integrated",
+  "reviewed_video_id": "CmFVLDguYzg",
+  "invalid_approvals": 0,
+  "public_material": "Sanitized review metadata only; no private excerpts"
+}
