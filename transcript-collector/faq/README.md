@@ -2,7 +2,7 @@
 
 Current approved registry: 6,479 question groups and 12,086 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,032 partial and 33 complete caption-Q&A reviews; 419 pending passage review and 802 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,033 partial and 33 complete caption-Q&A reviews; 419 pending passage review and 801 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -573,3 +573,8 @@ Three saved Arnold Murray programs were reviewed across 39 listener sections. On
 ## Batch132
 
 One saved Arnold Murray program was completely reviewed across all six post-offer listener exchanges. All six passages had zero threshold duplicate hits across 2,286 saved transcripts. Four passages reuse equivalent existing groups and two add distinct new groups; no passage is held and no lecture alias was created. Totals: 6,479 groups, 12,086 linked answers and 12,039 distinct question-recording pairs. Caption review only; audio verification remains pending.
+
+
+## Batch133
+
+One saved Arnold Murray program was reviewed across seventeen listener sections. Sixteen complete passages repeat the already reviewed, Grok-reserved gqrCj0-wkIM Q&A block and were held without duplicate links or a whole-lecture alias. One reply-only opening range remains held because its listener question is absent. Totals remain 6,479 groups, 12,086 linked answers and 12,039 distinct question-recording pairs. Caption review only; audio verification remains pending.
