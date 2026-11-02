@@ -1,0 +1,29 @@
+{
+  "batch": "132",
+  "new_groups": 2,
+  "new_links": 6,
+  "total_groups": 6479,
+  "total_links": 12086,
+  "distinct_pairs": 12039,
+  "review": {
+    "available": 2286,
+    "partially_reviewed": 1032,
+    "fully_reviewed": 33,
+    "completion_basis": "complete_caption_QA_review_not_audio_verification",
+    "scanned": 2286,
+    "teacher_pending": 802,
+    "pending": 419,
+    "source_changed": 0,
+    "question_occurrences": 12039
+  },
+  "audio_verified": false,
+  "source_sections_read": 6,
+  "approved_passages": 6,
+  "held_passages": 0,
+  "reused_existing_groups": 4,
+  "reviewed_recordings": 1,
+  "status": "caption_review_completed",
+  "approved_video_id": "A5-agxows1w",
+  "invalid_approvals": 0,
+  "public_material": "Sanitized review metadata only; no private excerpts"
+}
