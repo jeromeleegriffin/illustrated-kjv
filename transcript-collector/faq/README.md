@@ -2,7 +2,7 @@
 
 Current approved registry: 6,479 question groups and 12,086 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,032 partial and 35 complete caption-Q&A reviews; 419 pending passage review and 800 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,031 partial and 36 complete caption-Q&A reviews; 419 pending passage review and 800 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -593,3 +593,8 @@ One saved Arnold Murray program was fully reviewed across twenty-three complete 
 ## Batch136
 
 One saved Arnold Murray program was reviewed across twenty-five complete listener question-and-answer groups. Each was already represented once for this underlying recording, so no new question group or answer link was added. One damaged listener question remains held with an exact continuation cursor; one statement without a substantive reply and one prayer request without a substantive answer were excluded. Both Q&A boundaries are confirmed, but the recording remains partially reviewed. Totals remain 6,479 groups, 12,086 linked answers and 12,039 distinct question-recording pairs. Caption review only; audio verification remains pending.
+
+
+## Batch137
+
+One saved Arnold Murray program was fully reviewed across thirty complete listener question-and-answer occurrences. Each was already represented, so no new question group or answer link was added. An opening listener testimony without a question was excluded. The two millennium-opportunity occurrences remain preserved but count once for this underlying recording group. Every listener section and both Q&A boundaries are accounted for. Totals remain 6,479 groups, 12,086 linked answers and 12,039 distinct question-recording pairs. Caption review only; audio verification remains pending.
