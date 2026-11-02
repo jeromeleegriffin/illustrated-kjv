@@ -2,7 +2,7 @@
 
 Current approved registry: 6,479 question groups and 12,087 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,026 partial and 41 complete caption-Q&A reviews; 419 pending passage review and 800 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,028 partial and 41 complete caption-Q&A reviews; 418 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -624,3 +624,8 @@ One saved Arnold Murray program was fully reread across twenty-two completed lis
 ## Batch142
 
 One saved Arnold Murray program was fully reread across twenty-two completed listener Q&A passages. All twenty-two existing occurrences were retained unchanged; they represent twenty-one distinct question-recording pairs because two separate Cain-parentage questions correctly share one canonical group and count once for the recording. A Korean War remembrance interval was fully accounted for as non-Q&A. Whole-corpus screening found no repeated Q&A block requiring a duplicate link or whole-lecture alias. Both outer Q&A boundaries are confirmed and no unresolved range remains. Totals remain 6,479 groups, 12,087 linked answers and 12,040 distinct question-recording pairs. Caption review only; audio verification remains pending.
+
+
+## Batch143
+
+Two saved Dennis Murray Q&A sections were read across 28 completed Bible answers. They repeat previously reviewed canonical blocks and add no duplicate links. Exact incomplete ranges and canonical context holds remain partial. A third source supplied 10 completed candidate passages, held privately because the lecture and appended Q&A have conflicting speaker evidence. Totals remain 6,479 groups, 12,087 links and 12,040 distinct question-recording pairs. Caption review only; audio remains unverified.
