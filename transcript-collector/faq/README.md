@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,470 question groups and 12,063 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,472 question groups and 12,066 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,029 partial and 32 complete caption-Q&A reviews; 419 pending passage review and 806 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,030 partial and 32 complete caption-Q&A reviews; 419 pending passage review and 805 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -552,3 +552,9 @@ One saved Arnold Murray Q&A export was reviewed through its available tail. Sixt
 ## Batch128
 
 One saved Arnold Murray Q&A export was reviewed across its listener section. Twenty-four complete substantive questions and replies repeat the already reviewed Dnac2NTR-_w block and were held from duplicate linking. Six prayer, administrative, unclear multi-part, referral-heavy or explicitly deferred sections remain held or excluded at exact private cue ranges, so the recording remains partial. No whole-lecture alias was inferred. Totals remain 6,470 groups, 12,063 linked answers and 12,016 distinct question-recording pairs. Caption review only; audio verification remains pending.
+
+
+
+## Batch129
+
+One saved Arnold Murray Q&A section was reviewed across twenty listener items. Sixteen complete answers repeat already represented Q&A blocks and were held from duplicate linking. Three complete later answers add three source links and two new question groups; one damaged transition without its listener question remains held at an exact private range. Saved alternates Ukw438dc-no and G_YXsrkx8XE were screened but not newly extracted or counted, and no whole-lecture alias was inferred. Totals: 6,472 groups, 12,066 linked answers and 12,019 distinct question-recording pairs. Caption review only; audio verification remains pending.
