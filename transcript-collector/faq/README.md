@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,498 question groups and 12,155 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,500 question groups and 12,167 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,037 partial and 41 complete caption-Q&A reviews; 409 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,038 partial and 41 complete caption-Q&A reviews; 408 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -681,3 +681,8 @@ All twelve saved draft replies from batch160 received final matching decisions a
 ## Batch162
 
 Two saved Arnold Murray Q&A sections were read through their endings and reconciled against actual returned candidates and original captions. Eighteen substantive listener passages received final decisions: fourteen supported links, five new groups and nine existing matches. Returned merged windows were separated, a premature next-listener announcement was corrected using the continuing reply, and three titles were broadened with history retained. Four deferred or unclear passages remain held, both recordings stay partial, and no unapproved drafts remain. Historical political and ancestry claims, brain-use assertions and theological differences remain attributed and qualified. Totals:6,498 groups/12,155 links/12,108 distinct pairs;1,037 partial/41 complete;409 passage-pending/799 teacher-pending. Caption review only; audio unverified.
+
+
+## Batch165
+
+Finished all twelve saved batch164 drafts against original Arnold captions and prior groups. Twelve supported links were added across ten existing and two new groups. Three titles were broadened with history retained. Four missing-question or incomplete-scope ranges remain held, so the recording stays partial. Arnold’s day-by-day millennium time explanation remains alongside Dennis’s earlier description of time having little significance; neither is harmonized. Unclear names and references, tentative rich-man possibilities and historical economic claims remain attributed and qualified. Totals:6,500 groups/12,167 links/12,120 distinct pairs;1,038 partial/41 complete;408 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
