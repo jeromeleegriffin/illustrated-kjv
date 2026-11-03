@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,488 question groups and 12,131 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,493 question groups and 12,141 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,034 partial and 41 complete caption-Q&A reviews; 412 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,035 partial and 41 complete caption-Q&A reviews; 411 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -670,3 +670,9 @@ Nine previously saved Arnold question drafts were reconciled against original ca
 ## Batch159
 
 Five saved Arnold listener questions were reconciled against original captions and existing groups: eternity on earth, prosperity teaching, forgiven sins at judgment, first/last election and family self-defense. The returned last window was split and its second reply extended to its actual ending. A name-only line with no question remains held; the recording stays partial. Eternity and prosperity titles were broadened with title history retained. No new groups or unapproved drafts. Totals:6,488 groups/12,131 links/12,084 distinct pairs;1,034 partial/41 complete;412 passage-pending/799 teacher-pending. Historical pastoral and political claims are attributed teaching; caption review only, audio unverified.
+
+
+
+## Batch161
+
+All twelve saved draft replies from batch160 received final matching decisions against original captions and prior groups. Ten supported links were added across five existing and five new groups. Four titles were broadened with history retained, and overlapping final cues were restored. The deferred creation question, unclear apocryphal reference and incomplete sacrifice/slaughter reply remain held; the recording stays partial. Tentative numerical, geopolitical, ancestry, historical and pastoral claims remain attributed with their qualifications. Totals:6,493 groups/12,141 links/12,094 distinct pairs;1,035 partial/41 complete;411 passage-pending/799 teacher-pending. No new unapproved drafts. Caption review only; audio unverified.
