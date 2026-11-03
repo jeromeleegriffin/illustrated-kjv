@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,517 question groups and 12,237 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,518 question groups and 12,248 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,045 partial and 41 complete caption-Q&A reviews; 401 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,046 partial and 41 complete caption-Q&A reviews; 400 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -724,3 +724,9 @@ One actual returned Arnold program was read across sixteen listener questions. T
 ## Batch176
 
 Sixteen actual returned Arnold listener questions and intervening context were read against original captions. Thirteen supported links were added across six existing and seven new groups, with five titles broadened and history preserved. The unclear Abraham ancestry word, deferred serpent-seed request and damaged question about Paul remain held; coverage stays partial. Original rolling captions remain untouched. Qualified medical, ancestry, linguistic, historical and prophetic claims remain attributed, and speculative volunteering in a former age is explicitly only Arnold’s opinion. No repeated Q&A block was found across 2,286 sources. Totals:6,517 groups/12,237 links/12,190 distinct pairs;1,045 partial/41 complete;401 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch177
+
+Fourteen actual returned Arnold listener exchanges were read across fifteen scopes. Eleven completed teaching replies add eleven links across ten existing and one new group, with four titles broadened and history retained. Earthly awareness after death, memory/cooperation with repentant people in the next age, and the requested Luke16/enlarged-hell interpretation remain held; a personal military-service exchange is excluded from Bible-teaching links. Partial coverage and exact cursors are retained. Source-specific references, uncertain terminology and ancestry, linguistic, medical and prophetic assertions remain attributed. No repeated Q&A block was found across 2,286 saved sources. Totals:6,518 groups/12,248 links/12,201 distinct pairs;1,046 partial/41 complete;400 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
