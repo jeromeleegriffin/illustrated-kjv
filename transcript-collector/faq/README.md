@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,507 question groups and 12,210 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,510 question groups and 12,223 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,042 partial and 41 complete caption-Q&A reviews; 404 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,043 partial and 41 complete caption-Q&A reviews; 403 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -706,3 +706,9 @@ Thirteen Arnold Murray listener questions were source-checked and grouped, addin
 ## Batch171
 
 Twelve returned listener scopes from one Arnold Murray recording were checked against original captions. Ten answer links were added to existing groups: the paired smoking questions count once in one group, while the forerunner and locust-season question parts retain distinct existing groups. Two titles were broadened with history retained. An unclear red-hand identity and a deferred animal question remain held, keeping coverage partial. Historical health, ancestry, linguistic and prophetic assertions remain attributed; uncertain references and qualifications are preserved. Totals:6,507 groups/12,210 links/12,163 distinct pairs;1,042 partial/41 complete;404 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only, audio unverified.
+
+
+
+## Batch173
+
+Finished all fourteen saved batch172 drafts against the original Arnold Murray captions and existing groups. Thirteen supported links were added across ten existing and three new groups. Two equivalent Acts2/Joel questions count once in the recording; the explicit upper-room question remains separate. Three titles were broadened with history retained. The requested feeding-tube biblical basis and the unanswered Haggai ancestry portion remain held, so coverage is partial. Unclear references, inconsistent wording, speculative possibilities and historical ancestry, chronology and scientific assertions remain attributed and qualified. Totals:6,510 groups/12,223 links/12,176 distinct pairs;1,043 partial/41 complete;403 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
