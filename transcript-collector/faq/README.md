@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,486 question groups and 12,111 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,488 question groups and 12,118 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,031 partial and 41 complete caption-Q&A reviews; 415 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,032 partial and 41 complete caption-Q&A reviews; 414 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -652,3 +652,9 @@ Nine actual returned Arnold Murray candidates were reconciled against original s
 ## Batch155
 
 Nine saved actual returned Arnold Murray passages were reconciled against canonical captions and a previously reviewed upload. Four new links were added, with one new crown question and three existing groups reused. Three answers already counted under the canonical recording group add no duplicate links. The truncated Sabbath question and dementia-versus-brain-death scope remain held; the third age is not separately answered in the existing limited ages reply. Opposing mushroom dietary answers and qualified Cherokee-visit responses retain their separate attributions and title history. Totals:6,486 groups/12,111 links/12,064 distinct pairs;1,031 partial/41 complete;415 passage-pending/799 teacher-pending. Caption review only; audio unverified.
+
+
+
+## Batch156
+
+Eight saved actual returned Arnold Murray passages were read against canonical captions and surrounding context. Seven new links were approved, with two new groups about historically insured savings and an annulment concern over church attendance; five existing groups were reused with title history preserved where broadened. The tithing question remains held because its captioned scope is unclear. The two-commandment enumeration and physical-pregnancy soul question are not separately answered and remain held; the recording stays partial. Clothing, images at home, spiritual bodies, spiritual pregnancy and the two tribulations retain qualifications and attributed historical opinions. Totals:6,488 groups/12,118 links/12,071 distinct pairs;1,032 partial/41 complete;414 passage-pending/799 teacher-pending. Caption review only; audio unverified.
