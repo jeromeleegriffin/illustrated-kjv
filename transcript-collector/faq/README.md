@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,507 question groups and 12,200 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,507 question groups and 12,210 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,041 partial and 41 complete caption-Q&A reviews; 405 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,042 partial and 41 complete caption-Q&A reviews; 404 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -701,3 +701,8 @@ Nine saved168 drafts received final decisions: eight Arnold Murray links added t
 ## Batch170
 
 Thirteen Arnold Murray listener questions were source-checked and grouped, adding thirteen links across nine existing and four new groups. The saved caption Q&A section has verified boundaries and all thirteen substantive listener replies accounted, but two unclear caption terms remain held and keep coverage partial; audio remains unverified. New scopes cover staff-first communion order, living versus dead delivered before Antichrist, ark-entry-to-exit flood duration, and whether studying the Word makes right conduct easier. Existing answers and title history remain preserved. Ten passages match an upload with no accepted review; this is the first count for those passages and future matching answers must share their recording group. No whole-lecture alias was created. Historical, linguistic, legal and ancestry assertions remain attributed and uncertain labels are not silently repaired. Totals:6,507 groups/12,200 links/12,153 distinct pairs;1,041 partial/41 complete;405 passage-pending/799 teacher-pending. No unapproved drafts; two caption-term clarification ranges remain held.
+
+
+## Batch171
+
+Twelve returned listener scopes from one Arnold Murray recording were checked against original captions. Ten answer links were added to existing groups: the paired smoking questions count once in one group, while the forerunner and locust-season question parts retain distinct existing groups. Two titles were broadened with history retained. An unclear red-hand identity and a deferred animal question remain held, keeping coverage partial. Historical health, ancestry, linguistic and prophetic assertions remain attributed; uncertain references and qualifications are preserved. Totals:6,507 groups/12,210 links/12,163 distinct pairs;1,042 partial/41 complete;404 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only, audio unverified.
