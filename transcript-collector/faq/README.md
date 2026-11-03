@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,510 question groups and 12,224 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,517 question groups and 12,237 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,044 partial and 41 complete caption-Q&A reviews; 402 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,045 partial and 41 complete caption-Q&A reviews; 401 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -718,3 +718,9 @@ Finished all fourteen saved batch172 drafts against the original Arnold Murray c
 ## Batch175
 
 One actual returned Arnold program was read across sixteen listener questions. Thirteen answers repeat an established canonical Q&A block and add no duplicate links. The explicit hour-of-temptation subquestion adds one link to an existing timing group, preserving both teachers’ variants and title history. It shares the canonical underlying recording group without creating a lecture alias. A missing baptism scriptural location and Sinai/Nebo event mismatch remain held; the recording is partial. Totals:6,510 groups/12,224 links/12,177 distinct pairs;1,044 partial/41 complete;402 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch176
+
+Sixteen actual returned Arnold listener questions and intervening context were read against original captions. Thirteen supported links were added across six existing and seven new groups, with five titles broadened and history preserved. The unclear Abraham ancestry word, deferred serpent-seed request and damaged question about Paul remain held; coverage stays partial. Original rolling captions remain untouched. Qualified medical, ancestry, linguistic, historical and prophetic claims remain attributed, and speculative volunteering in a former age is explicitly only Arnold’s opinion. No repeated Q&A block was found across 2,286 sources. Totals:6,517 groups/12,237 links/12,190 distinct pairs;1,045 partial/41 complete;401 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
