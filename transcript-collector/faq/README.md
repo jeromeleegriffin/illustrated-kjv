@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,500 question groups and 12,167 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,503 question groups and 12,179 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,038 partial and 41 complete caption-Q&A reviews; 408 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,039 partial and 41 complete caption-Q&A reviews; 407 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -686,3 +686,8 @@ Two saved Arnold Murray Q&A sections were read through their endings and reconci
 ## Batch165
 
 Finished all twelve saved batch164 drafts against original Arnold captions and prior groups. Twelve supported links were added across ten existing and two new groups. Three titles were broadened with history retained. Four missing-question or incomplete-scope ranges remain held, so the recording stays partial. Arnold’s day-by-day millennium time explanation remains alongside Dennis’s earlier description of time having little significance; neither is harmonized. Unclear names and references, tentative rich-man possibilities and historical economic claims remain attributed and qualified. Totals:6,500 groups/12,167 links/12,120 distinct pairs;1,038 partial/41 complete;408 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+## Batch167
+
+All twelve saved batch166 drafts received final source and question-group decisions. Twelve Arnold Murray links were added across nine existing and three new groups. Three titles were broadened with history preserved. The two explicit questions sharing one reply retain distinct pre-existing groups for flesh testimony and prophets’ continuing message, with one count per question per recording. A missing bereavement question and unanswered third-age memory scope remain held, keeping the recording partial. Medical graft assertions, translation history, financial and ancestry interpretations are attributed historical teaching, with uncertainties retained. Book-of-Life entry timing and the qualified Esau possibility are preserved without harmonizing different claims. Totals:6,503 groups/12,179 links/12,132 distinct pairs;1,039 partial/41 complete;407 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
