@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,485 question groups and 12,107 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,486 question groups and 12,111 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,030 partial and 41 complete caption-Q&A reviews; 416 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,031 partial and 41 complete caption-Q&A reviews; 415 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -646,3 +646,9 @@ Six earlier actual GrokB returned questions from the same Arnold Murray recordin
 ## Batch154
 
 Nine actual returned Arnold Murray candidates were reconciled against original saved captions and context. Seven supported links were added across four new groups and three existing groups. The ministry-wording and contradictory crucifixion-chronology captions remain held, along with a pastoral reply whose listener question was not read. Qualifications and unclear references remain explicit. Totals:6,485 groups/12,107 links/12,060 distinct pairs;1,030 partial/41 complete;416 passage-pending/799 teacher-pending. Caption review only; audio unverified.
+
+
+
+## Batch155
+
+Nine saved actual returned Arnold Murray passages were reconciled against canonical captions and a previously reviewed upload. Four new links were added, with one new crown question and three existing groups reused. Three answers already counted under the canonical recording group add no duplicate links. The truncated Sabbath question and dementia-versus-brain-death scope remain held; the third age is not separately answered in the existing limited ages reply. Opposing mushroom dietary answers and qualified Cherokee-visit responses retain their separate attributions and title history. Totals:6,486 groups/12,111 links/12,064 distinct pairs;1,031 partial/41 complete;415 passage-pending/799 teacher-pending. Caption review only; audio unverified.
