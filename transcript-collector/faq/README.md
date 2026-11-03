@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,510 question groups and 12,223 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,510 question groups and 12,224 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,043 partial and 41 complete caption-Q&A reviews; 403 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,044 partial and 41 complete caption-Q&A reviews; 402 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -712,3 +712,9 @@ Twelve returned listener scopes from one Arnold Murray recording were checked ag
 ## Batch173
 
 Finished all fourteen saved batch172 drafts against the original Arnold Murray captions and existing groups. Thirteen supported links were added across ten existing and three new groups. Two equivalent Acts2/Joel questions count once in the recording; the explicit upper-room question remains separate. Three titles were broadened with history retained. The requested feeding-tube biblical basis and the unanswered Haggai ancestry portion remain held, so coverage is partial. Unclear references, inconsistent wording, speculative possibilities and historical ancestry, chronology and scientific assertions remain attributed and qualified. Totals:6,510 groups/12,223 links/12,176 distinct pairs;1,043 partial/41 complete;403 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch175
+
+One actual returned Arnold program was read across sixteen listener questions. Thirteen answers repeat an established canonical Q&A block and add no duplicate links. The explicit hour-of-temptation subquestion adds one link to an existing timing group, preserving both teachers’ variants and title history. It shares the canonical underlying recording group without creating a lecture alias. A missing baptism scriptural location and Sinai/Nebo event mismatch remain held; the recording is partial. Totals:6,510 groups/12,224 links/12,177 distinct pairs;1,044 partial/41 complete;402 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
