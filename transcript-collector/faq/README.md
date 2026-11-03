@@ -1,6 +1,6 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,480 question groups and 12,094 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,481 question groups and 12,100 linked answers. Frequencies count once per underlying recording group.
 
 All 2,286 saved sources retained: 1,029 partial and 41 complete caption-Q&A reviews; 417 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
@@ -635,3 +635,8 @@ Two saved Dennis Murray Q&A sections were read across 28 completed Bible answers
 ## Batch150
 
 Canonical GrokB returned candidates from one Arnold Murray recording were reconciled against saved caption passages. Seven supported links were added, including one new question group. The repeated broadcast-as-church question counts once; self-forgiveness retains its separate answer. The resurrection-body reply remains held, six earlier candidates remain unreviewed in this pass, and the final timing question remains partly answered. Totals: 6,480 groups, 12,094 links, 12,047 distinct question-recording pairs. Inventory: 1,029 partial, 41 complete, 417 passage-pending, 799 teacher-pending. Caption review only; audio unverified.
+
+
+## Batch152
+
+Six earlier actual GrokB returned questions from the same Arnold Murray recording were reconciled against original saved captions. Six links and one archangel-status question group were added; five questions reuse existing groups, and two titles were broadened with history retained. Caption uncertainties about the Hebrew term, angel terminology and book reference remain explicit. All listener items are accounted for, but the resurrection-body and final witness-timing holds keep the section partial. Totals:6,481 groups/12,100 links/12,053 distinct pairs;1,029 partial/41 complete,417 passage-pending/799 teacher-pending. Caption review only; audio unverified.
