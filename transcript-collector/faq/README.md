@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,503 question groups and 12,179 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,503 question groups and 12,187 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,039 partial and 41 complete caption-Q&A reviews; 407 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,040 partial and 41 complete caption-Q&A reviews; 406 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -691,3 +691,8 @@ Finished all twelve saved batch164 drafts against original Arnold captions and p
 ## Batch167
 
 All twelve saved batch166 drafts received final source and question-group decisions. Twelve Arnold Murray links were added across nine existing and three new groups. Three titles were broadened with history preserved. The two explicit questions sharing one reply retain distinct pre-existing groups for flesh testimony and prophets’ continuing message, with one count per question per recording. A missing bereavement question and unanswered third-age memory scope remain held, keeping the recording partial. Medical graft assertions, translation history, financial and ancestry interpretations are attributed historical teaching, with uncertainties retained. Book-of-Life entry timing and the qualified Esau possibility are preserved without harmonizing different claims. Totals:6,503 groups/12,179 links/12,132 distinct pairs;1,039 partial/41 complete;407 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+## Batch169
+
+Nine saved168 drafts received final decisions: eight Arnold Murray links added to existing groups, one unclear question held. Five previously excluded duplicate links remain excluded. All eight new links share the underlying recording group established by matching repeated Q&A passages, without creating a whole-lecture alias. Earlier answers and title history remain preserved, including differing government-benefit and resuscitation replies. Three ranges remain held: an unanswered visitation schedule, a pet-loss statement without an explicit question, and a garbled hell question. No unapproved drafts remain. Totals:6,503 groups/12,187 links/12,140 distinct pairs;1,040 partial/41 complete;406 passage-pending/799 teacher-pending. Caption review only, audio unverified.
