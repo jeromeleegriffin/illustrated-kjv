@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,493 question groups and 12,141 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,498 question groups and 12,155 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,035 partial and 41 complete caption-Q&A reviews; 411 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,037 partial and 41 complete caption-Q&A reviews; 409 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -676,3 +676,8 @@ Five saved Arnold listener questions were reconciled against original captions a
 ## Batch161
 
 All twelve saved draft replies from batch160 received final matching decisions against original captions and prior groups. Ten supported links were added across five existing and five new groups. Four titles were broadened with history retained, and overlapping final cues were restored. The deferred creation question, unclear apocryphal reference and incomplete sacrifice/slaughter reply remain held; the recording stays partial. Tentative numerical, geopolitical, ancestry, historical and pastoral claims remain attributed with their qualifications. Totals:6,493 groups/12,141 links/12,094 distinct pairs;1,035 partial/41 complete;411 passage-pending/799 teacher-pending. No new unapproved drafts. Caption review only; audio unverified.
+
+
+## Batch162
+
+Two saved Arnold Murray Q&A sections were read through their endings and reconciled against actual returned candidates and original captions. Eighteen substantive listener passages received final decisions: fourteen supported links, five new groups and nine existing matches. Returned merged windows were separated, a premature next-listener announcement was corrected using the continuing reply, and three titles were broadened with history retained. Four deferred or unclear passages remain held, both recordings stay partial, and no unapproved drafts remain. Historical political and ancestry claims, brain-use assertions and theological differences remain attributed and qualified. Totals:6,498 groups/12,155 links/12,108 distinct pairs;1,037 partial/41 complete;409 passage-pending/799 teacher-pending. Caption review only; audio unverified.
