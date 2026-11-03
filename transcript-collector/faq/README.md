@@ -2,7 +2,7 @@
 
 Current approved registry: 6,507 question groups and 12,200 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,040 partial and 42 complete caption-Q&A reviews; 405 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,041 partial and 41 complete caption-Q&A reviews; 405 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -700,4 +700,4 @@ Nine saved168 drafts received final decisions: eight Arnold Murray links added t
 
 ## Batch170
 
-Thirteen Arnold Murray listener questions were source-checked and grouped, adding thirteen links across nine existing and four new groups. The complete saved caption Q&A section has verified boundaries, all thirteen listener questions accounted and no unresolved ranges; audio remains unverified. New scopes cover staff-first communion order, living versus dead delivered before Antichrist, ark-entry-to-exit flood duration, and whether studying the Word makes right conduct easier. Existing answers and title history remain preserved. Ten passages match an upload with no accepted review; this is the first count for those passages and future matching answers must share their recording group. No whole-lecture alias was created. Historical, linguistic, legal and ancestry assertions remain attributed and uncertain labels are not silently repaired. Totals:6,507 groups/12,200 links/12,153 distinct pairs;1,040 partial/42 complete;405 passage-pending/799 teacher-pending. No unapproved drafts or holds in this new section.
+Thirteen Arnold Murray listener questions were source-checked and grouped, adding thirteen links across nine existing and four new groups. The saved caption Q&A section has verified boundaries and all thirteen substantive listener replies accounted, but two unclear caption terms remain held and keep coverage partial; audio remains unverified. New scopes cover staff-first communion order, living versus dead delivered before Antichrist, ark-entry-to-exit flood duration, and whether studying the Word makes right conduct easier. Existing answers and title history remain preserved. Ten passages match an upload with no accepted review; this is the first count for those passages and future matching answers must share their recording group. No whole-lecture alias was created. Historical, linguistic, legal and ancestry assertions remain attributed and uncertain labels are not silently repaired. Totals:6,507 groups/12,200 links/12,153 distinct pairs;1,041 partial/41 complete;405 passage-pending/799 teacher-pending. No unapproved drafts; two caption-term clarification ranges remain held.
