@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,488 question groups and 12,118 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,488 question groups and 12,126 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,032 partial and 41 complete caption-Q&A reviews; 414 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,033 partial and 41 complete caption-Q&A reviews; 413 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -658,3 +658,9 @@ Nine saved actual returned Arnold Murray passages were reconciled against canoni
 ## Batch156
 
 Eight saved actual returned Arnold Murray passages were read against canonical captions and surrounding context. Seven new links were approved, with two new groups about historically insured savings and an annulment concern over church attendance; five existing groups were reused with title history preserved where broadened. The tithing question remains held because its captioned scope is unclear. The two-commandment enumeration and physical-pregnancy soul question are not separately answered and remain held; the recording stays partial. Clothing, images at home, spiritual bodies, spiritual pregnancy and the two tribulations retain qualifications and attributed historical opinions. Totals:6,488 groups/12,118 links/12,071 distinct pairs;1,032 partial/41 complete;414 passage-pending/799 teacher-pending. Caption review only; audio unverified.
+
+
+
+## Batch158
+
+Nine previously saved Arnold question drafts were reconciled against original captions and existing question groups. Eight supported links were added to existing groups, including separate birthday and Christmas answers. Divorce and Enoch answer ranges were repaired to retain their final words. Apocryphal future chronology and the multipart creation question remain held; the AA comment and prayer/promotion are excluded. All nine prior drafts have final decisions; no new unapproved drafts. Totals:6,488 groups/12,126 links/12,079 distinct pairs;1,033 partial/41 complete;413 passage-pending/799 teacher-pending. Caption review only; audio unverified.
