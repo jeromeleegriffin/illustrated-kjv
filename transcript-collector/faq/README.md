@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,531 question groups and 12,338 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,533 question groups and 12,351 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,054 partial and 41 complete caption-Q&A reviews; 392 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,055 partial and 41 complete caption-Q&A reviews; 391 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -778,3 +778,9 @@ Fifteen saved Arnold listener passages were read and compared with the same Q&A 
 ## Batch188
 
 Reread fourteen saved Arnold listener scopes and resolved all thirteen saved drafts. Thirteen supported links join twelve existing and one new group for the paired1John world/hostility questions. No repeated Q&A block found across2,286saved sources. Full requested enumeration of all three earth ages and a separate baptism-at-accountability requirement remain held; mentor biography excluded. Seven titles broadened with prior titles retained. Source uncertainty and self-corrections, historical calendar arithmetic, ancestry/appearance, geological and financial assertions remain attributed rather than independently verified or silently repaired. Totals:6,531groups/12,338links/12,291distinctpairs;1,054partial/41complete;392passage-pending/799teacher-pending. No unapproved drafts. Caption review only; audio unverified.
+
+
+
+## Batch190
+
+Reread thirteen saved Arnold listener scopes and resolved all thirteen saved drafts. Thirteen supported links join eleven existing and two new question groups for fulfillment discernment and Ezekiel28 perfect/complete wording. One unanswered church-as-storehouse premise remains held. No repeated Q&A block found across2,286saved sources. Two titles broadened with history retained. Source self-corrections, uncertain eyesight, captioned references, racial ancestry and historical legal claims remain attributed. Totals:6,533groups/12,351links/12,304distinctpairs;1,055partial/41complete;391passage-pending/799teacher-pending. No unapproved drafts. Caption review only; audio unverified.
