@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,530 question groups and 12,325 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,531 question groups and 12,338 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,053 partial and 41 complete caption-Q&A reviews; 393 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,054 partial and 41 complete caption-Q&A reviews; 392 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -772,3 +772,9 @@ Reread all eighteen listener scopes and surrounding saved-caption context, resol
 ## Batch186
 
 Fifteen saved Arnold listener passages were read and compared with the same Q&A section in another saved upload. Thirteen answers were already represented and excluded from recounting. Two completed replies fill missing Melchizedek and Hebrews6 links in that underlying Q&A recording group. No whole-lecture alias was created. Two unresolved subquestions about categorical trumpet audibility and a particular child already being in heaven remain held. Source-specific theological qualifications and uncertainty are retained. Totals:6,530 groups/12,325 links/12,278 distinct pairs;1,053 partial/41 complete;393 passage-pending/799 teacher-pending. No unapproved drafts. Caption review only; audio unverified.
+
+
+
+## Batch188
+
+Reread fourteen saved Arnold listener scopes and resolved all thirteen saved drafts. Thirteen supported links join twelve existing and one new group for the paired1John world/hostility questions. No repeated Q&A block found across2,286saved sources. Full requested enumeration of all three earth ages and a separate baptism-at-accountability requirement remain held; mentor biography excluded. Seven titles broadened with prior titles retained. Source uncertainty and self-corrections, historical calendar arithmetic, ancestry/appearance, geological and financial assertions remain attributed rather than independently verified or silently repaired. Totals:6,531groups/12,338links/12,291distinctpairs;1,054partial/41complete;392passage-pending/799teacher-pending. No unapproved drafts. Caption review only; audio unverified.
