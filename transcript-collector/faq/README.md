@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,533 question groups and 12,351 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,535 question groups and 12,361 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,055 partial and 41 complete caption-Q&A reviews; 391 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,056 partial and 41 complete caption-Q&A reviews; 390 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -784,3 +784,9 @@ Reread fourteen saved Arnold listener scopes and resolved all thirteen saved dra
 ## Batch190
 
 Reread thirteen saved Arnold listener scopes and resolved all thirteen saved drafts. Thirteen supported links join eleven existing and two new question groups for fulfillment discernment and Ezekiel28 perfect/complete wording. One unanswered church-as-storehouse premise remains held. No repeated Q&A block found across2,286saved sources. Two titles broadened with history retained. Source self-corrections, uncertain eyesight, captioned references, racial ancestry and historical legal claims remain attributed. Totals:6,533groups/12,351links/12,304distinctpairs;1,055partial/41complete;391passage-pending/799teacher-pending. No unapproved drafts. Caption review only; audio unverified.
+
+
+
+## Batch192
+
+Reread twelve Arnold listener scopes and resolved all ten saved drafts into ten supported links: eight existing and two new question groups, for wicked-doing and paired judgment-by-fire passages. Nimrod caption wording and a Euphrates numerical detail remain held; unread third-party book response and personal biography excluded. Three titles broadened with history retained. No repeated Q&A block across2,286saved sources. Unclear words, tentative citations and historical linguistic claims remain attributed. Totals:6,535groups/12,361links/12,314distinctpairs;1,056partial/41complete;390passage-pending/799teacher-pending. No unapproved drafts. Caption review only; audio unverified.
