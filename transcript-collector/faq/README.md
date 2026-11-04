@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,518 question groups and 12,248 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,522 question groups and 12,262 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,046 partial and 41 complete caption-Q&A reviews; 400 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,047 partial and 41 complete caption-Q&A reviews; 399 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -730,3 +730,9 @@ Sixteen actual returned Arnold listener questions and intervening context were r
 ## Batch177
 
 Fourteen actual returned Arnold listener exchanges were read across fifteen scopes. Eleven completed teaching replies add eleven links across ten existing and one new group, with four titles broadened and history retained. Earthly awareness after death, memory/cooperation with repentant people in the next age, and the requested Luke16/enlarged-hell interpretation remain held; a personal military-service exchange is excluded from Bible-teaching links. Partial coverage and exact cursors are retained. Source-specific references, uncertain terminology and ancestry, linguistic, medical and prophetic assertions remain attributed. No repeated Q&A block was found across 2,286 saved sources. Totals:6,518 groups/12,248 links/12,201 distinct pairs;1,046 partial/41 complete;400 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch178
+
+Fifteen actual returned Arnold listener letters were read across seventeen scopes. Fourteen completed replies add fourteen links across ten existing and four new groups. Two previously counted replies were reconciled against a repeated Q&A section under the same underlying recording group, without a whole-lecture alias. One unanswered comprehension subquestion remains held; partial coverage and its exact cursor are retained. Five titles were broadened with history preserved. All uncertain caption references and source-specific claims remain attributed; no caption discrepancies were silently repaired from the alternate export. Totals:6,522 groups/12,262 links/12,215 distinct pairs;1,047 partial/41 complete;399 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
