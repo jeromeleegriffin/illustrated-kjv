@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,530 question groups and 12,323 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,530 question groups and 12,325 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,052 partial and 41 complete caption-Q&A reviews; 394 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,053 partial and 41 complete caption-Q&A reviews; 393 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -766,3 +766,9 @@ Thirteen returned Arnold listener scopes and full context were read against the 
 ## Batch185
 
 Reread all eighteen listener scopes and surrounding saved-caption context, resolved all thirteen saved drafts and added thirteen supported links across ten existing and three new groups. Five unclear, redirected, compound or deferred scopes remain held. No repeated Q&A block found across 2,286 saved sources. Question grouping retains variants and qualifications, including Mary’s expressly guessed age, historical ancestry/prophetic/financial claims, uncertain references, self-forgiveness conditions and source-specific differences. Four question titles broadened with previous titles retained. Totals:6,530 groups/12,323 links/12,276 distinct pairs;1,052 partial/41 complete;394 passage-pending/799 teacher-pending. No unapproved drafts. Caption review only; audio unverified.
+
+
+
+## Batch186
+
+Fifteen saved Arnold listener passages were read and compared with the same Q&A section in another saved upload. Thirteen answers were already represented and excluded from recounting. Two completed replies fill missing Melchizedek and Hebrews6 links in that underlying Q&A recording group. No whole-lecture alias was created. Two unresolved subquestions about categorical trumpet audibility and a particular child already being in heaven remain held. Source-specific theological qualifications and uncertainty are retained. Totals:6,530 groups/12,325 links/12,278 distinct pairs;1,053 partial/41 complete;393 passage-pending/799 teacher-pending. No unapproved drafts. Caption review only; audio unverified.
