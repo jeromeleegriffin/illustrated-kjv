@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,526 question groups and 12,302 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,527 question groups and 12,310 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,050 partial and 41 complete caption-Q&A reviews; 396 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,051 partial and 41 complete caption-Q&A reviews; 395 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -754,3 +754,9 @@ Fifteen returned Arnold listener scopes and full context were read, with a repea
 ## Batch182
 
 Sixteen returned Arnold listener scopes and full context were read. Twelve completed replies add twelve links across eleven existing and one new group. No repeated Q&A block was found across 2,286 saved sources. The heavenly-weapons question answered with earthly-battle material and an unclear word lookup remain held; personal study/teaching biography and a contemporary FDA-label exchange are excluded from Bible-teaching links. Five titles were broadened with history retained. Religious dietary teaching, uncertain references, crime-of-passion commentary, ancestry claims, reported deathbed experiences and physiological explanations remain attributed. Totals:6,526 groups/12,302 links/12,255 distinct pairs;1,050 partial/41 complete;396 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch183
+
+Thirteen returned Arnold listener scopes and full context were read against the saved original. Eight supported replies add eight links across seven existing and one new Jeremiah-identity group. No repeated Q&A block was found across 2,286 saved sources. Three compound or deferred requests and one ambiguous counterpart subquestion remain held; two current-event or scheduling exchanges are excluded. Three titles were broadened with history retained, including reconciliation of the proposed opposite-spirit marriage question into the existing divine partner-selection group. Uncertain references, explicitly limited answers, historical financial opinions and ancestry/prophetic interpretations remain attributed. Totals:6,527 groups/12,310 links/12,263 distinct pairs;1,051 partial/41 complete;395 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
