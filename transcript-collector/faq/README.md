@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,522 question groups and 12,262 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,522 question groups and 12,276 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,047 partial and 41 complete caption-Q&A reviews; 399 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,048 partial and 41 complete caption-Q&A reviews; 398 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -736,3 +736,9 @@ Fourteen actual returned Arnold listener exchanges were read across fifteen scop
 ## Batch178
 
 Fifteen actual returned Arnold listener letters were read across seventeen scopes. Fourteen completed replies add fourteen links across ten existing and four new groups. Two previously counted replies were reconciled against a repeated Q&A section under the same underlying recording group, without a whole-lecture alias. One unanswered comprehension subquestion remains held; partial coverage and its exact cursor are retained. Five titles were broadened with history preserved. All uncertain caption references and source-specific claims remain attributed; no caption discrepancies were silently repaired from the alternate export. Totals:6,522 groups/12,262 links/12,215 distinct pairs;1,047 partial/41 complete;399 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch180
+
+Resolved all fourteen saved batch179 drafts from one Arnold recording after rereading its fifteen returned question scopes and context. Fourteen links join existing groups; no new groups. The repeated Q&A counts under the earlier underlying recording group, with one previously counted reply excluded and no whole-lecture alias created. Three unanswered subquestions remain held: whether the millennium has already passed, whether God required Adam’s sin, and ordinary angel injury. Four titles were broadened with history retained. Uncertain references, disputed translations and source-specific claims remain attributed. Totals:6,522 groups/12,276 links/12,229 distinct pairs;1,048 partial/41 complete;398 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
