@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,527 question groups and 12,310 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,530 question groups and 12,323 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,051 partial and 41 complete caption-Q&A reviews; 395 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,052 partial and 41 complete caption-Q&A reviews; 394 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -760,3 +760,9 @@ Sixteen returned Arnold listener scopes and full context were read. Twelve compl
 ## Batch183
 
 Thirteen returned Arnold listener scopes and full context were read against the saved original. Eight supported replies add eight links across seven existing and one new Jeremiah-identity group. No repeated Q&A block was found across 2,286 saved sources. Three compound or deferred requests and one ambiguous counterpart subquestion remain held; two current-event or scheduling exchanges are excluded. Three titles were broadened with history retained, including reconciliation of the proposed opposite-spirit marriage question into the existing divine partner-selection group. Uncertain references, explicitly limited answers, historical financial opinions and ancestry/prophetic interpretations remain attributed. Totals:6,527 groups/12,310 links/12,263 distinct pairs;1,051 partial/41 complete;395 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch185
+
+Reread all eighteen listener scopes and surrounding saved-caption context, resolved all thirteen saved drafts and added thirteen supported links across ten existing and three new groups. Five unclear, redirected, compound or deferred scopes remain held. No repeated Q&A block found across 2,286 saved sources. Question grouping retains variants and qualifications, including Mary’s expressly guessed age, historical ancestry/prophetic/financial claims, uncertain references, self-forgiveness conditions and source-specific differences. Four question titles broadened with previous titles retained. Totals:6,530 groups/12,323 links/12,276 distinct pairs;1,052 partial/41 complete;394 passage-pending/799 teacher-pending. No unapproved drafts. Caption review only; audio unverified.
