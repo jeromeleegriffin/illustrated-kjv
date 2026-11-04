@@ -1,8 +1,8 @@
 # Shepherd’s Chapel FAQ review
 
-Current approved registry: 6,525 question groups and 12,290 linked answers. Frequencies count once per underlying recording group.
+Current approved registry: 6,526 question groups and 12,302 linked answers. Frequencies count once per underlying recording group.
 
-All 2,286 saved sources retained: 1,049 partial and 41 complete caption-Q&A reviews; 397 pending passage review and 799 teacher-pending. Audio verification remains pending.
+All 2,286 saved sources retained: 1,050 partial and 41 complete caption-Q&A reviews; 396 pending passage review and 799 teacher-pending. Audio verification remains pending.
 
 ## Rebuild
 
@@ -748,3 +748,9 @@ Resolved all fourteen saved batch179 drafts from one Arnold recording after rere
 ## Batch181
 
 Fifteen returned Arnold listener scopes and full context were read, with a repeated saved Q&A sequence compared directly. Fourteen completed replies add fourteen links across eleven existing and three new groups. Counts use one underlying recording identity without declaring a whole-lecture alias. Government-ancestry identification, free will in heaven and an unclear negative housing recommendation remain held; the contemporary sky observation is excluded from Bible-teaching links. Four titles were broadened with history retained. Source-specific dates, damaged references and linguistic, medical, family and military claims remain attributed. Totals:6,525 groups/12,290 links/12,243 distinct pairs;1,049 partial/41 complete;397 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
+
+
+
+## Batch182
+
+Sixteen returned Arnold listener scopes and full context were read. Twelve completed replies add twelve links across eleven existing and one new group. No repeated Q&A block was found across 2,286 saved sources. The heavenly-weapons question answered with earthly-battle material and an unclear word lookup remain held; personal study/teaching biography and a contemporary FDA-label exchange are excluded from Bible-teaching links. Five titles were broadened with history retained. Religious dietary teaching, uncertain references, crime-of-passion commentary, ancestry claims, reported deathbed experiences and physiological explanations remain attributed. Totals:6,526 groups/12,302 links/12,255 distinct pairs;1,050 partial/41 complete;396 passage-pending/799 teacher-pending. No unapproved drafts remain. Caption review only; audio unverified.
